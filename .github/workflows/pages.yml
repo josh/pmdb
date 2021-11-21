@@ -33,13 +33,14 @@ jobs:
 
       - name: Load SQLite database
         run: sqlite3 data/data.sqlite3 <data/data.sql
-        
-      - name: Get indexes
-        run: sqlite3 data.sqlite3 '.indexes'
-        
-      - name: Clean gh-pages artifacts
-        run: rm -r *
-        working-directory: gh-pages/
+
+      - name: Clean gh-pages index directories
+        run: |
+          indexes=$(sqlite3 data/data.sqlite3 '.indexes')
+          for index in $indexes; do
+              rm -rf "gh-pages/$index"
+              mkdir -p "gh-pages/$index"
+          done
 
       - name: Export data to flat JSON files
         run: python3 export_db.py data/data.sqlite3 gh-pages/
