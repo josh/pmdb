@@ -1,6 +1,5 @@
 import json
 import os
-import shutil
 import sqlite3
 import sys
 
@@ -27,11 +26,6 @@ for name in index_names:
 print("=== Dumping JSON rows", file=sys.stderr)
 
 root = sys.argv[2]
-
-for name in index_names:
-    dirname = os.path.join(root, name)
-    shutil.rmtree(dirname, ignore_errors=True)
-    os.makedirs(dirname)
 
 for result in con.execute("SELECT * FROM movies"):
     row = dict(result)
