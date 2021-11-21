@@ -31,9 +31,10 @@ jobs:
         run: |
           set -x
           for index in $INDEXES; do
-              rm -rf "gh-pages/$index"
-              mkdir -p "gh-pages/$index"
+              rm -rf "$index"
+              mkdir -p "$index"
           done
+        working-directory: gh-pages/
 
       - name: Export data to flat JSON files
         run: |
