@@ -6,12 +6,8 @@ import sys
 
 assert len(sys.argv) == 3
 
-
-con = sqlite3.connect(":memory:")
+con = sqlite3.connect("file:" + sys.argv[1] + "?mode=ro", uri=True)
 con.row_factory = sqlite3.Row
-
-with open(sys.argv[1], "r") as f:
-    con.executescript(f.read())
 
 index_names = set()
 

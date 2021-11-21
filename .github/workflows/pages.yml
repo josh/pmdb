@@ -30,6 +30,9 @@ jobs:
 
       - name: Set up Python
         uses: actions/setup-python@v2
+        
+      - name: Load SQLite database
+        run: sqlite3 data/data.sqlite3 <data/data.sql
 
       - name: Export data to flat JSON files
-        run: python3 export_db.py data/data.sql gh-pages/
+        run: python3 export_db.py data/data.sqlite3 gh-pages/
