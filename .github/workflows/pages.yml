@@ -1,9 +1,6 @@
 name: Pages
 
-on:
-  push:
-    branches:
-      - data
+on: [push]
 
 jobs:
   build:
@@ -12,9 +9,6 @@ jobs:
     steps:
       - name: Checkout data branch
         uses: actions/checkout@v2
-        with:
-          ref: "data"
-          path: "data"
 
       - name: Checkout gh-pages branch
         uses: actions/checkout@v2
@@ -26,11 +20,11 @@ jobs:
         uses: actions/setup-python@v2
 
       - name: Load SQLite database
-        run: sqlite3 data/data.sqlite3 <data/data.sql
+        run: sqlite3 data.sqlite3 <data.sql
 
       - name: Get database indexes
         run: |
-          INDEXES=$(sqlite3 data/data.sqlite3 '.indexes')
+          INDEXES=$(sqlite3 data.sqlite3 '.indexes')
           echo "INDEXES=$INDEXES" | tee -a $GITHUB_ENV
 
       - name: Clean gh-pages index directories
@@ -42,7 +36,7 @@ jobs:
           done
 
       - name: Export data to flat JSON files
-        run: python3 data/export_db.py data/data.sqlite3 gh-pages/
+        run: python3 export_db.py data.sqlite3 gh-pages/
 
       - name: Commit changes
         run: |
