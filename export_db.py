@@ -3,7 +3,7 @@ import os
 import sqlite3
 import sys
 
-con = sqlite3.connect("file:" + sys.argv[1] + "?mode=ro", uri=True)
+con = sqlite3.connect(sys.argv[1])
 con.row_factory = sqlite3.Row
 
 root = sys.argv[2]
