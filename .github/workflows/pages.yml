@@ -37,7 +37,7 @@ jobs:
       - name: Get database indexes
         run: |
           INDEXES=$(sqlite3 data/data.sqlite3 '.indexes')
-          echo "INDEXES=$INDEXES" >> $GITHUB_ENV
+          echo "INDEXES=$INDEXES" | tee -a $GITHUB_ENV
 
       - name: Clean gh-pages index directories
         run: |
