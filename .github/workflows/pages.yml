@@ -1,8 +1,9 @@
 name: Pages
 
-push:
-  branches:
-    - data
+on:
+  push:
+    branches:
+      - data
 
 jobs:
   build:
