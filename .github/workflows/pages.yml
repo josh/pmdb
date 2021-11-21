@@ -3,6 +3,7 @@ name: Pages
 on:
   push:
     branches:
+      - main
       - data
 
 jobs:
@@ -10,9 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+        with:
+          ref: "main"
+
       - name: Checkout data branch
         uses: actions/checkout@v2
         with:
+          ref: "data"
           path: "data"
 
       - name: Checkout gh-pages branch
