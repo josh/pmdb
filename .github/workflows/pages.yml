@@ -38,7 +38,7 @@ jobs:
         run: python3 export_db.py data/data.sqlite3 gh-pages/
 
       - name: Commit changes
-      - run: |
+        run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
