@@ -1,0 +1,27 @@
+name: Pages
+
+push:
+  branches:
+    - data
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout data branch
+        uses: actions/checkout@v2
+        with:
+          path: "data"
+
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v2
+        with:
+          ref: "gh-pages"
+          path: "gh-pages"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+
+      - name: Export data to flat JSON files
+        run: python3 data/export_db.py data/data.sql gh-pages/
