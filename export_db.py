@@ -1,22 +1,14 @@
 import json
 import os
 import sqlite3
-import sys
 
-con = sqlite3.connect(sys.argv[1])
+con = sqlite3.connect("data.sqlite3")
 con.row_factory = sqlite3.Row
+indexes = os.environ["INDEXES"].split()
 
-root = sys.argv[2]
-
-index_names = os.environ["INDEXES"].split()
-
-for result in con.execute("SELECT * FROM movies"):
-    row = dict(result)
-
-    for index_name in index_names:
-        filename = "{}.json".format(result[index_name])
-        filename = os.path.join(root, index_name, filename)
-
+for row in con.execute("SELECT * FROM movies"):
+    for name in indexes:
+        filename = os.path.join("gh-pages", name, row[name] + ".json")
         with open(filename, "w") as f:
-            json.dump(row, f, indent=2)
+            json.dump(dict(row), f, indent=2)
             f.write("\n")
