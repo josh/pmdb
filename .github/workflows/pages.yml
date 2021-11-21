@@ -47,7 +47,7 @@ jobs:
           con.row_factory = sqlite3.Row
           indexes = os.environ["INDEXES"].split()
 
-          for row in con.execute("SELECT * FROM movies"):
+          for row in con.execute("SELECT * FROM items"):
               for name in indexes:
                   if row[name] is None:
                       continue
