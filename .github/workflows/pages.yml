@@ -38,7 +38,8 @@ jobs:
         run: sqlite3 data.sqlite3 '.indexes'
         
       - name: Clean gh-pages artifacts
-        run: rm -r gh-pages/*
+        run: rm -r *
+        working-directory: gh-pages/
 
       - name: Export data to flat JSON files
         run: python3 export_db.py data/data.sqlite3 gh-pages/
