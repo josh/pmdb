@@ -49,6 +49,8 @@ jobs:
 
           for row in con.execute("SELECT * FROM movies"):
               for name in indexes:
+                  if row[name] is None:
+                      continue
                   filename = os.path.join("gh-pages", name, row[name] + ".json")
                   print(filename)
                   with open(filename, "w") as f:
