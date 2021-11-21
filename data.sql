@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS "movies" (
 );
 INSERT INTO movies VALUES('Q47703','tt0068646');
 INSERT INTO movies VALUES('Q172241','tt0111161');
+INSERT INTO movies VALUES('Q732960','tt0780504');
 CREATE UNIQUE INDEX wikidata ON "movies" ("wikidata" ASC);
 CREATE UNIQUE INDEX imdb ON "movies" ("imdb" ASC);
 COMMIT;
