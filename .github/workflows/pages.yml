@@ -52,7 +52,6 @@ jobs:
                   if row[name] is None:
                       continue
                   filename = os.path.join("gh-pages", name, row[name] + ".json")
-                  print(filename)
                   with open(filename, "w") as f:
                       json.dump(dict(row), f, indent=2)
                       f.write("\n")
