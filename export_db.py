@@ -26,7 +26,7 @@ print("=== Loading indexes", file=sys.stderr)
 for name in index_names:
     results = con.execute("PRAGMA index_info('" + name + "')")
     cols = index_info[name] = [result["name"] for result in results]
-    print("{}: {}".format(name, ",".join(cols)))
+    print("{}: {}".format(name, ",".join(cols)), file=sys.stderr)
 
 print("=== Dumping JSON rows", file=sys.stderr)
 
