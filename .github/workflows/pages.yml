@@ -36,6 +36,7 @@ jobs:
 
       - name: Clean gh-pages index directories
         run: |
+          set -x
           indexes=$(sqlite3 data/data.sqlite3 '.indexes')
           for index in $indexes; do
               rm -rf "gh-pages/$index"
