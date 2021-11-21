@@ -34,11 +34,15 @@ jobs:
       - name: Load SQLite database
         run: sqlite3 data/data.sqlite3 <data/data.sql
 
+      - name: Get database indexes
+        run: |
+          INDEXES=$(sqlite3 data/data.sqlite3 '.indexes')
+          echo "INDEXES=$INDEXES" >> $GITHUB_ENV
+
       - name: Clean gh-pages index directories
         run: |
           set -x
-          indexes=$(sqlite3 data/data.sqlite3 '.indexes')
-          for index in $indexes; do
+          for index in $INDEXES; do
               rm -rf "gh-pages/$index"
               mkdir -p "gh-pages/$index"
           done
