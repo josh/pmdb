@@ -3,7 +3,6 @@ name: Pages
 on:
   push:
     branches:
-      - main
       - data
 
 jobs:
@@ -11,11 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main branch
-        uses: actions/checkout@v2
-        with:
-          ref: "main"
-
       - name: Checkout data branch
         uses: actions/checkout@v2
         with:
@@ -48,7 +42,7 @@ jobs:
           done
 
       - name: Export data to flat JSON files
-        run: python3 export_db.py data/data.sqlite3 gh-pages/
+        run: python3 data/export_db.py data/data.sqlite3 gh-pages/
 
       - name: Commit changes
         run: |
