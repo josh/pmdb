@@ -41,7 +41,7 @@ def export_tables(con, output_dir):
         logging.info("Exporting table '{}'".format(tbl_name))
 
         sql = "SELECT * FROM {}".format(tbl_name)
-        rows = [dict(row) for row in con.execute(sql)]
+        rows = [clean_dict(row) for row in con.execute(sql)]
 
         filename = os.path.join(output_dir, tbl_name + ".json")
         write_json(filename, rows)
@@ -63,7 +63,7 @@ def export_index(con, output_dir, index_info):
 
     sql = "SELECT * FROM {}".format(index_info["tbl_name"])
     for row in con.execute(sql):
-        row = dict(row)
+        row = clean_dict(row)
 
         index_keys = []
         has_null_values = False
@@ -166,6 +166,10 @@ def insert_value(obj, keys, value, unique=False):
         values = root[last_key]
         assert type(values) is list
         values.append(value)
+
+
+def clean_dict(obj):
+    return {k: v for k, v in obj.items() if v is not None}
 
 
 def get_value(obj, keys):
