@@ -27,6 +27,9 @@ jobs:
       - name: Export database
         run: python3 script/export_database.py -vv --database data.sqlite3 --output gh-pages/
 
+      - run: pwd ; ls
+        working-directory: gh-pages/
+
       - name: Commit changes
         run: |
           git config user.name 'GitHub Actions'
