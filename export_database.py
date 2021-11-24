@@ -70,7 +70,7 @@ def export_index(con, output_dir, index_info):
         for col in index_info["columns"]:
             if row.get(col) is None:
                 has_null_values = True
-            index_keys.append(str(row[col]))
+            index_keys.append(str(row.get(col)))
 
         if unique and has_null_values:
             continue
