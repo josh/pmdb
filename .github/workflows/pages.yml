@@ -25,7 +25,7 @@ jobs:
         run: sqlite3 data.sqlite3 <script/data.sql
 
       - name: Export database
-        run: python3 script/export_database.py -vv --database script/data.sqlite3 --output gh-pages/
+        run: python3 script/export_database.py -vv --database data.sqlite3 --output gh-pages/
 
       - name: Commit changes
         run: |
