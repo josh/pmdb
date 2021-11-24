@@ -104,7 +104,7 @@ def clean_dir(output_dir):
 
     for name in os.listdir(output_dir):
         path = os.path.join(output_dir, name)
-        if os.path.isdir(path):
+        if os.path.isdir(path) and not name.startswith("."):
             logging.debug("Removing '{}'".format(path))
             shutil.rmtree(path)
         elif os.path.isfile(path) and path.endswith(".json"):
