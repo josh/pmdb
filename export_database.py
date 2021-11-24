@@ -169,7 +169,7 @@ def insert_value(obj, keys, value, unique=False):
 
 
 def clean_dict(obj):
-    return {k: v for k, v in obj.items() if v is not None}
+    return {k: v for k, v in dict(obj).items() if v is not None}
 
 
 def get_value(obj, keys):
