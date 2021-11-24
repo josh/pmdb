@@ -22,40 +22,8 @@ jobs:
       - name: Load SQLite database
         run: sqlite3 data.sqlite3 <data.sql
 
-      - name: Get database indexes
-        run: |
-          INDEXES=$(sqlite3 data.sqlite3 '.indexes')
-          echo "INDEXES=$INDEXES" | tee -a $GITHUB_ENV
-
-      - name: Clean gh-pages index directories
-        run: |
-          set -x
-          for index in $INDEXES; do
-              rm -rf "$index"
-              mkdir -p "$index"
-          done
-        working-directory: gh-pages/
-
-      - name: Export data to flat JSON files
-        run: |
-          python3 <<PY
-          import json
-          import os
-          import sqlite3
-
-          con = sqlite3.connect("data.sqlite3")
-          con.row_factory = sqlite3.Row
-          indexes = os.environ["INDEXES"].split()
-
-          for row in con.execute("SELECT * FROM items"):
-              for name in indexes:
-                  if row[name] is None:
-                      continue
-                  filename = os.path.join("gh-pages", name, row[name] + ".json")
-                  with open(filename, "w") as f:
-                      json.dump(dict(row), f, indent=2)
-                      f.write("\n")
-          PY
+      - name: Export database
+        run: python3 export_database.py -v --database ./data.sqlite3 --output gh-pages/
 
       - name: Commit changes
         run: |
