@@ -68,7 +68,7 @@ def export_index(con, output_dir, index_info):
         index_keys = []
         has_null_values = False
         for col in index_info["columns"]:
-            if row[col] is None:
+            if row.get(col) is None:
                 has_null_values = True
             index_keys.append(str(row[col]))
 
