@@ -27,13 +27,10 @@ jobs:
       - name: Export database
         run: python3 script/export_database.py -vv --database data.sqlite3 --output gh-pages/
 
-      - run: pwd ; ls
-        working-directory: gh-pages/
-
       - name: Commit changes
         run: |
-          git config user.name 'GitHub Actions'
-          git config user.email 'joshbot@users.noreply.github.com'
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'joshbot@users.noreply.github.com'
           git add .
           git commit --message "Export database ${{ github.sha }}" || true
         working-directory: gh-pages/
