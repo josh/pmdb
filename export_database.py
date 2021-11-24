@@ -55,7 +55,7 @@ def export_indexes(con, output_dir):
 def export_index(con, output_dir, index_info):
     index_name = index_info["name"]
     unique = index_info["unique"]
-    
+
     logging.info("Exporting index '{}'".format(index_name))
 
     indexed_rows = {}
@@ -65,7 +65,16 @@ def export_index(con, output_dir, index_info):
     for row in con.execute(sql):
         row = dict(row)
 
-        index_keys = [str(row[col]) for col in index_info["columns"]]
+        index_keys = []
+        has_null_values = False
+        for col in index_info["columns"]:
+            if row[col] is None:
+                has_null_values = True
+            index_keys.append(str(row[col]))
+
+        if unique and has_null_values:
+            continue
+
         filename = os.path.join(output_dir, index_name, *index_keys) + ".json"
         filename_index_keys[filename] = index_keys
         insert_value(indexed_rows, index_keys, row, unique)
