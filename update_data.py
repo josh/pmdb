@@ -2,7 +2,7 @@ import argparse
 import logging
 import sqlite3
 
-from sparql import fetch_statements
+from sparql import fetch_items, fetch_statements
 
 
 def main():
@@ -23,10 +23,12 @@ def main():
 
     con = sqlite3.connect(args.database)
     con.row_factory = sqlite3.Row
-    update_wikidata(con)
+
+    find_missing_wikidata_qids(con)
+    update_wikidata_items(con)
 
 
-def update_wikidata(con):
+def update_wikidata_items(con):
     rows = con.execute("SELECT wikidata FROM items")
     qids = set([qid for (qid,) in rows])
 
@@ -62,6 +64,25 @@ def update_wikidata(con):
                 "UPDATE items SET tmdb = ? WHERE wikidata = ?;",
                 (tmdb, qid),
             )
+
+    con.commit()
+
+
+def find_missing_wikidata_qids(con):
+    rows = con.execute("SELECT imdb FROM items WHERE wikidata IS NULL")
+    imdb_ids = set([imdb for (imdb,) in rows])
+
+    if len(imdb_ids) == 0:
+        return
+
+    items = fetch_items("P345", imdb_ids)
+
+    for qid in items:
+        imdb_id = items[qid]
+        con.execute(
+            "UPDATE items SET wikidata = ? WHERE imdb = ?;",
+            (qid, imdb_id),
+        )
 
     con.commit()
 

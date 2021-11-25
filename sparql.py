@@ -53,3 +53,20 @@ def fetch_statements(qids, properties):
 def values_query(qids, binding="item"):
     values = " ".join("wd:{}".format(qid) for qid in qids)
     return "VALUES ?" + binding + " { " + values + " }"
+
+
+def fetch_items(property, values):
+    quoted_values = " ".join('"{}"'.format(value) for value in values)
+
+    query = "SELECT ?item ?value WHERE { "
+    query += "VALUES ?value { " + quoted_values + " } "
+    query += "?item wdt:" + property + " ?value. }"
+
+    items = {}
+
+    for result in sparql(query):
+        qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
+        value = result["value"]["value"]
+        items[qid] = value
+
+    return items
