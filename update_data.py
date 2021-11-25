@@ -42,6 +42,13 @@ def update_wikidata(con):
                 (imdb, qid),
             )
 
+        if "P1476" in item and len(item["P1476"]) == 1:
+            title = item["P1476"][0]
+            con.execute(
+                "UPDATE items SET title = ? WHERE wikidata = ?;",
+                (title, qid),
+            )
+
         if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
             tmdb = item["P4947"][0]
             con.execute(
