@@ -50,6 +50,26 @@ def fetch_statements(qids, properties):
     return items
 
 
+def fetch_labels(qids):
+    query = "SELECT ?item ?itemLabel WHERE { "
+    query += values_query(qids)
+    query += """
+      SERVICE wikibase:label {
+        bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+      }
+    }
+    """
+
+    items = {}
+
+    for result in sparql(query):
+        qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
+        label = result["itemLabel"]["value"]
+        items[qid] = label
+
+    return items
+
+
 def values_query(qids, binding="item"):
     values = " ".join("wd:{}".format(qid) for qid in qids)
     return "VALUES ?" + binding + " { " + values + " }"

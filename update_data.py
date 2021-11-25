@@ -2,7 +2,7 @@ import argparse
 import logging
 import sqlite3
 
-from sparql import fetch_items, fetch_statements
+from sparql import fetch_items, fetch_labels, fetch_statements
 
 
 def main():
@@ -32,7 +32,7 @@ def update_wikidata_items(con):
     rows = con.execute("SELECT wikidata FROM items")
     qids = set([qid for (qid,) in rows])
 
-    items = fetch_statements(qids, {"P345", "P1476", "P4947", "P4983"})
+    items = fetch_statements(qids, {"P345", "P4947", "P4983"})
 
     for qid in items:
         item = items[qid]
@@ -42,13 +42,6 @@ def update_wikidata_items(con):
             con.execute(
                 "UPDATE items SET imdb = ? WHERE wikidata = ?;",
                 (imdb, qid),
-            )
-
-        if "P1476" in item and len(item["P1476"]) == 1:
-            title = item["P1476"][0]
-            con.execute(
-                "UPDATE items SET title = ? WHERE wikidata = ?;",
-                (title, qid),
             )
 
         if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
@@ -64,6 +57,15 @@ def update_wikidata_items(con):
                 "UPDATE items SET tmdb = ? WHERE wikidata = ?;",
                 (tmdb, qid),
             )
+
+    items = fetch_labels(qids)
+
+    for qid in items:
+        label = items[qid]
+        con.execute(
+            "UPDATE items SET title = ? WHERE wikidata = ?;",
+            (label, qid),
+        )
 
     con.commit()
 
