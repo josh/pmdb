@@ -14,3 +14,42 @@ def sparql(query):
     r = requests.post(url, headers=headers, data=data)
     r.raise_for_status()
     return r.json()["results"]["bindings"]
+
+
+ENTITY_URL_PREFIX = "http://www.wikidata.org/entity/"
+PROP_URL_PREFIX = "http://www.wikidata.org/prop/"
+
+
+def fetch_statements(qids, properties):
+    query = "SELECT ?item ?property ?value WHERE { "
+    query += values_query(qids)
+    query += """
+    OPTIONAL {
+      ?item ?property ?statement.
+      ?statement ?ps ?value.
+      ?statement wikibase:rank ?rank.
+      FILTER(?rank != wikibase:DeprecatedRank)
+    }
+    """
+    query += "FILTER("
+    query += " || ".join(["(?ps = ps:" + p + ")" for p in properties]) + ")"
+    query += "}"
+
+    items = {}
+
+    for result in sparql(query):
+        qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
+        prop = result["property"]["value"].replace(PROP_URL_PREFIX, "")
+        value = result["value"]["value"]
+
+        item = items[qid] = items.get(qid, {})
+        properties = item[prop] = item.get(prop, [])
+
+        properties.append(value)
+
+    return items
+
+
+def values_query(qids, binding="item"):
+    values = " ".join("wd:{}".format(qid) for qid in qids)
+    return "VALUES ?" + binding + " { " + values + " }"

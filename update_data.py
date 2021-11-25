@@ -2,7 +2,7 @@ import argparse
 import logging
 import sqlite3
 
-from sparql import sparql
+from sparql import fetch_statements
 
 
 def main():
@@ -27,32 +27,34 @@ def main():
 
 
 def update_wikidata(con):
-    rows = [dict(row) for row in con.execute("SELECT * FROM items;")]
+    rows = con.execute("SELECT wikidata FROM items")
+    qids = set([qid for (qid,) in rows])
 
-    query = """
-    SELECT * WHERE {
-    """
+    items = fetch_statements(qids, {"P345", "P1476", "P4947", "P4983"})
 
-    values = set()
-    for row in rows:
-        values.add("wd:{}".format(row["wikidata"]))
-    query += "  VALUES ?item { " + " ".join(values) + " }"
+    for qid in items:
+        item = items[qid]
 
-    query += """
-      OPTIONAL { ?item wdt:P1476 ?title. }
-      OPTIONAL { ?item wdt:P345 ?imdb. }
-      OPTIONAL { ?item wdt:P4947 ?tmdb_movie. }
-      OPTIONAL { ?item wdt:P4983 ?tmdb_tv. }
-    }
-    """
+        if "P345" in item and len(item["P345"]) == 1:
+            imdb = item["P345"][0]
+            con.execute(
+                "UPDATE items SET imdb = ? WHERE wikidata = ?;",
+                (imdb, qid),
+            )
 
-    items = {}
+        if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
+            tmdb = item["P4947"][0]
+            con.execute(
+                "UPDATE items SET tmdb = ? WHERE wikidata = ?;",
+                (tmdb, qid),
+            )
 
-    for result in sparql(query):
-        qid = result["item"]["value"].replace("http://www.wikidata.org/entity/", "")
-        imdb = result["imdb"]["value"]
-
-        con.execute("UPDATE items SET imdb = ? WHERE wikidata = ?;", (imdb, qid))
+        if "P4983" in item and "P4947" not in item and len(item["P4983"]) == 1:
+            tmdb = item["P4983"][0]
+            con.execute(
+                "UPDATE items SET tmdb = ? WHERE wikidata = ?;",
+                (tmdb, qid),
+            )
 
     con.commit()
 
