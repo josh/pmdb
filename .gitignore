@@ -1,2 +1,3 @@
-gh-pages/
+/__pycache__/
+/gh-pages/
 data.sqlite3
