@@ -3,6 +3,7 @@ name: Tasks
 on:
   schedule:
     - cron: "15 0,16 * * *"
+  push:
   workflow_dispatch:
 
 jobs:
