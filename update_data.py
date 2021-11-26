@@ -42,12 +42,18 @@ def insert(cur, tbl_name, row, replace=False):
 
 
 def upsert(con, pk_name, pk_value, sk_name, sk_value):
-    sql = "SELECT * FROM items WHERE {} = ? OR {} = ?;".format(pk_name, sk_name)
+    sql = "SELECT * FROM items WHERE {} = ? OR {} = ?;".format(
+        pk_name,
+        sk_name,
+    )
     rows = con.execute(sql, (pk_value, sk_value)).fetchall()
 
     if len(rows) == 0:
         cur = con.cursor()
-        sql = "INSERT INTO items ({}, {}) VALUES (?, ?);".format(pk_name, sk_name)
+        sql = "INSERT INTO items ({}, {}) VALUES (?, ?);".format(
+            pk_name,
+            sk_name,
+        )
         cur.execute(sql, (pk_value, sk_value))
         assert cur.rowcount == 1
         con.commit()
