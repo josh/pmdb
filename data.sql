@@ -101,7 +101,7 @@ INSERT INTO items VALUES('Q188652','tt0075148',1366,'Rocky','umc.cmc.s32qp1txtrp
 INSERT INTO items VALUES('Q188718','tt0050212',826,'The Bridge on the River Kwai','umc.cmc.2dszbwan9s01w76tzhzvjubk7');
 INSERT INTO items VALUES('Q189330','tt1345836',49026,'The Dark Knight Rises','umc.cmc.4chkhft26y3bhfxrtfjemtp2c');
 INSERT INTO items VALUES('Q189540','tt0047478',346,'Seven Samurai','umc.cmc.3j1e4hzd95tf9vtnjot79gwbp');
-INSERT INTO items VALUES('Q190050','tt0137523',NULL,'Fight Club','umc.cmc.70dbl3043tb6ealg0u12k1pih');
+INSERT INTO items VALUES('Q190050','tt0137523',550,'Fight Club','umc.cmc.70dbl3043tb6ealg0u12k1pih');
 INSERT INTO items VALUES('Q190086','tt0053291',239,'Some Like It Hot','umc.cmc.6qxikznwhazec02ha81hmtexn');
 INSERT INTO items VALUES('Q190525','tt0209144',77,'Memento','umc.cmc.331ztpz088uyhmqcxvkh0d9uy');
 INSERT INTO items VALUES('Q190643','tt0091763',792,'Platoon','umc.cmc.5ecv7yrex9ocne1t2dzpygy8n');
