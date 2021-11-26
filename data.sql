@@ -126,7 +126,7 @@ INSERT INTO items VALUES('Q208263','tt0120689',497,'The Green Mile','umc.cmc.7hc
 INSERT INTO items VALUES('Q208269','tt0338013',38,'Eternal Sunshine of the Spotless Mind','umc.cmc.4sao10xsyfeqf1t185lhrvo65');
 INSERT INTO items VALUES('Q208572','tt0120586',73,'American History X','umc.cmc.5hy97p3z19vf7iafmc3ug4jep');
 INSERT INTO items VALUES('Q208632','tt0025316',3078,'It Happened One Night','umc.cmc.19i0oe02iziz7y5qwnylq1klo');
-INSERT INTO items VALUES('Q21001632','tt1954470',NULL,'Gangs of Wasseypur',NULL);
+INSERT INTO items VALUES('Q21001632','tt1954470',117691,'Gangs of Wasseypur',NULL);
 INSERT INTO items VALUES('Q21010856','tt2119532',324786,'Hacksaw Ridge','umc.cmc.62aqgczvqwoqyzv1vwv8er5wr');
 INSERT INTO items VALUES('Q210364','tt1130884',11324,'Shutter Island','umc.cmc.1n432wlu275a0640043zypfsj');
 INSERT INTO items VALUES('Q210756','tt0084787',1091,'The Thing','umc.cmc.70lpgfopfk3gr1pg7uux69znx');
@@ -165,7 +165,7 @@ INSERT INTO items VALUES('Q25188','tt1375666',27205,'Inception','umc.cmc.6loas01
 INSERT INTO items VALUES('Q26060','tt0046438',18148,'Tokyo Story','umc.cmc.2uou0pg9gyn4tc895xtxwpmxs');
 INSERT INTO items VALUES('Q269912','tt0758758',5915,'Into the Wild','umc.cmc.3nuas5m80l7dxppd8iu2n3n2p');
 INSERT INTO items VALUES('Q270510','tt0053604',284,'The Apartment','umc.cmc.1720r16d0p7cvx2aciwwxotnj');
-INSERT INTO items VALUES('Q271830','tt0041959',NULL,'The Third Man','umc.cmc.33e6r9d99u94yb2l9zuorhmgr');
+INSERT INTO items VALUES('Q271830','tt0041959',1092,'The Third Man','umc.cmc.33e6r9d99u94yb2l9zuorhmgr');
 INSERT INTO items VALUES('Q272860','tt0080678',1955,'The Elephant Man','umc.cmc.38x03u4l6veekhyy5wng0wzk7');
 INSERT INTO items VALUES('Q274520','tt0095327',12477,'Grave of the Fireflies',NULL);
 INSERT INTO items VALUES('Q2875','tt0031381',770,'Gone with the Wind','umc.cmc.yrquc45v8733x85h5klgxbeh');
