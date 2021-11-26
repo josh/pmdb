@@ -28,6 +28,52 @@ def main():
     update_wikidata_items(con)
 
 
+def insert(cur, tbl_name, row, replace=False):
+    statement = "INSERT"
+    if replace:
+        statement = "REPLACE"
+    keys = row.keys()
+    col_names = ", ".join(keys)
+    value_names = ", ".join(":" + k for k in keys)
+    sql = "{} INTO {} ({}) VALUES ({})".format(
+        statement, tbl_name, col_names, value_names
+    )
+    cur.execute(sql, row)
+
+
+def upsert(con, pk_name, pk_value, sk_name, sk_value):
+    sql = "SELECT * FROM items WHERE {} = ? OR {} = ?;".format(pk_name, sk_name)
+    rows = con.execute(sql, (pk_value, sk_value)).fetchall()
+
+    if len(rows) == 0:
+        cur = con.cursor()
+        sql = "INSERT INTO items ({}, {}) VALUES (?, ?);".format(pk_name, sk_name)
+        cur.execute(sql, (pk_value, sk_value))
+        assert cur.rowcount == 1
+        con.commit()
+    if len(rows) == 1:
+        row = rows[0]
+        if row[pk_name] == pk_value and row[sk_name] == sk_value:
+            return
+        cur = con.cursor()
+        sql = "UPDATE items SET {} = ?, {} = ? WHERE {} = ? OR {} = ?;".format(
+            pk_name, sk_name, pk_name, sk_name
+        )
+        cur.execute(sql, (pk_value, sk_value, pk_value, sk_value))
+        assert cur.rowcount == 1
+        con.commit()
+    else:
+        cur = con.cursor()
+        new_row = {}
+        for row in rows:
+            for key in row.keys():
+                if row[key]:
+                    new_row[key] = row[key]
+        insert(cur, "items", new_row, replace=True)
+        assert cur.rowcount == 1
+        con.commit()
+
+
 def update_wikidata_items(con):
     rows = con.execute("SELECT wikidata FROM items")
     qids = set([qid for (qid,) in rows])
@@ -39,24 +85,15 @@ def update_wikidata_items(con):
 
         if "P345" in item and len(item["P345"]) == 1:
             imdb = item["P345"][0]
-            con.execute(
-                "UPDATE items SET imdb = ? WHERE wikidata = ?;",
-                (imdb, qid),
-            )
+            upsert(con, "wikidata", qid, "imdb", imdb)
 
         if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
             tmdb = item["P4947"][0]
-            con.execute(
-                "UPDATE items SET tmdb = ? WHERE wikidata = ?;",
-                (tmdb, qid),
-            )
+            upsert(con, "wikidata", qid, "tmdb", tmdb)
 
         if "P4983" in item and "P4947" not in item and len(item["P4983"]) == 1:
             tmdb = item["P4983"][0]
-            con.execute(
-                "UPDATE items SET tmdb = ? WHERE wikidata = ?;",
-                (tmdb, qid),
-            )
+            upsert(con, "wikidata", qid, "tmdb", tmdb)
 
     items = fetch_labels(qids)
 
@@ -81,10 +118,7 @@ def find_missing_wikidata_qids(con):
 
     for qid in items:
         imdb_id = items[qid]
-        con.execute(
-            "UPDATE items SET wikidata = ? WHERE imdb = ?;",
-            (qid, imdb_id),
-        )
+        upsert(con, "imdb", imdb_id, "wikidata", qid)
 
     con.commit()
 
