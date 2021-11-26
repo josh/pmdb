@@ -101,6 +101,14 @@ def update_wikidata_items(con):
             tmdb = item["P4983"][0]
             upsert(con, "wikidata", qid, "tmdb", tmdb)
 
+        if "P9586" in item and "P9751" not in item and len(item["P9586"]) == 1:
+            appletv = item["P9586"][0]
+            upsert(con, "wikidata", qid, "appletv", tmdb)
+
+        if "P9751" in item and "P9586" not in item and len(item["P9751"]) == 1:
+            appletv = item["P9751"][0]
+            upsert(con, "wikidata", qid, "appletv", tmdb)
+
     items = fetch_labels(qids)
 
     for qid in items:
