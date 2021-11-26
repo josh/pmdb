@@ -84,7 +84,16 @@ def update_wikidata_items(con):
     rows = con.execute("SELECT wikidata FROM items")
     qids = set([qid for (qid,) in rows])
 
-    items = fetch_statements(qids, {"P345", "P4947", "P4983"})
+    items = fetch_statements(
+        qids,
+        {
+            "P345",
+            "P4947",
+            "P4983",
+            "P9586",
+            "P9751",
+        },
+    )
 
     for qid in items:
         item = items[qid]
