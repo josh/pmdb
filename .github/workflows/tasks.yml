@@ -31,7 +31,7 @@ jobs:
         run: sqlite3 data.sqlite3 <data.sql
 
       - name: Update database
-        run: python3 update_data.py -vv --database data.sqlite3
+        run: python3 script/update_data.py -vv --database data.sqlite3
 
       - name: Dump SQLite database
         run: sqlite3 data.sqlite3 '.dump'>data.sql
