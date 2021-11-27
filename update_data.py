@@ -82,7 +82,7 @@ def upsert(con, pk_name, pk_value, sk_name, sk_value):
 
 def update_wikidata_items(con):
     # TODO: Iterate over all items
-    rows = con.execute("SELECT wikidata FROM items ORDER BY RAND() LIMIT 1000")
+    rows = con.execute("SELECT wikidata FROM items ORDER BY RANDOM() LIMIT 1000")
     qids = set([qid for (qid,) in rows])
 
     items = fetch_statements(
