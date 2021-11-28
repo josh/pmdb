@@ -83,10 +83,18 @@ def fetch_items(property, values):
     query += "?item wdt:" + property + " ?value. }"
 
     items = {}
+    nonunique = set()
 
     for result in sparql(query):
         qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
         value = result["value"]["value"]
+
+        if qid in items:
+            nonunique.add(qid)
+
         items[qid] = value
+
+    for qid in nonunique:
+        del items[qid]
 
     return items
