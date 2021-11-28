@@ -1,4 +1,18 @@
-from export_database import clean_dict, get_value
+from export_database import clean_dict, get_value, insert_value
+
+
+def test_insert_value():
+    obj = {}
+
+    insert_value(obj, ["foo"], 42, unique=True)
+    assert obj["foo"] == 42
+
+    insert_value(obj, ["bar"], 1, unique=False)
+    insert_value(obj, ["bar"], 2, unique=False)
+    assert obj["bar"] == [1, 2]
+
+    insert_value(obj, ["baz", "bar", "foo"], 42, unique=True)
+    assert obj["baz"]["bar"]["foo"] == 42
 
 
 def test_clean_dict():
