@@ -36,7 +36,8 @@ def fetch_statements(qids, properties):
     }
      """
     query_suffix += "FILTER("
-    query_suffix += " || ".join(["(?ps = ps:" + p + ")" for p in properties]) + ")"
+    ps = ["(?ps = ps:" + p + ")" for p in properties]
+    query_suffix += " || ".join(ps) + ")"
     query_suffix += "}"
 
     def fetch(qids):
