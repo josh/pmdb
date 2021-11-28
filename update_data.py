@@ -2,7 +2,14 @@ import argparse
 import logging
 import sqlite3
 
-from sparql import fetch_items, fetch_labels, fetch_statements
+from sparql import (
+    ENTITY_URL_PREFIX,
+    fetch_items,
+    fetch_labels,
+    fetch_statements,
+    sparql,
+    values_query,
+)
 
 
 def main():
@@ -120,7 +127,6 @@ def update_wikidata_items(con):
             upsert(con, "wikidata", qid, "appletv", appletv)
 
     items = fetch_labels(qids)
-
     for qid in items:
         label = items[qid]
         con.execute(
@@ -128,7 +134,33 @@ def update_wikidata_items(con):
             (label, qid),
         )
 
+    items = fetch_tomatometer(qids)
+    for qid in items:
+        score = items[qid]
+        con.execute(
+            "UPDATE items SET tomatometer = ? WHERE wikidata = ?;",
+            (score, qid),
+        )
+
     con.commit()
+
+
+def fetch_tomatometer(qids):
+    query = "SELECT ?item ?tomatometer WHERE { "
+    query += values_query(qids)
+    query += """
+      ?item p:P444 [ pq:P459 wd:Q108403393; ps:P444 ?tomatometer ].
+    }
+    """
+
+    items = {}
+
+    for result in sparql(query):
+        qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
+        score = int(result["tomatometer"]["value"].replace("%", ""))
+        items[qid] = score
+
+    return items
 
 
 def find_missing_wikidata_qids(con):
