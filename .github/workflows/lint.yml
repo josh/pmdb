@@ -41,7 +41,7 @@ jobs:
 
       - name: Lint with isort
         run: |
-          isort . --check --diff
+          isort . --profile black --check --diff
 
   flake8:
     runs-on: ubuntu-latest
