@@ -34,7 +34,7 @@ jobs:
         run: python3 script/update_data.py -vv --database data.sqlite3
 
       - name: Sort table row ids
-        run: python3 script/reinsert_database_table.py --database data.sqlite3 --table items --order-by 'wikidata ASC'
+        run: python3 script/reinsert_database_table.py --database data.sqlite3 --table items --order-by 'CAST(LTRIM(wikidata,"Q") AS INTEGER)'
 
       - name: Dump SQLite database
         run: sqlite3 data.sqlite3 '.dump'>data.sql
