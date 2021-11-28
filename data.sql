@@ -61,7 +61,7 @@ INSERT INTO items VALUES('Q24953','tt0079470',583,'Monty Python’s Life of Bria
 INSERT INTO items VALUES('Q25043','tt0071853',762,'Monty Python and the Holy Grail','umc.cmc.5re6h6rrzwtaub8i4bc3udwm6',97);
 INSERT INTO items VALUES('Q25057','tt0088846',68,'Brazil','umc.cmc.25tn9231aa7mzrvk4y5ssijqj',98);
 INSERT INTO items VALUES('Q25139','tt0169547',14,'American Beauty','umc.cmc.16daqxpennfm6jm9nkrmtscp',87);
-INSERT INTO items VALUES('Q25182','tt1235099',8358,'Lie to Me','umc.cmc.4d21df8rd05b1bi9ir6s6ddyu',NULL);
+INSERT INTO items VALUES('Q25182','tt1235099',8358,'Lie to Me','umc.cmc.4d21df8rd05b1bi9ir6s6ddyu',89);
 INSERT INTO items VALUES('Q25188','tt1375666',27205,'Inception','umc.cmc.6loas01ow0w4lkatxxloz7a6e',87);
 INSERT INTO items VALUES('Q26060','tt0046438',18148,'Tokyo Story','umc.cmc.2uou0pg9gyn4tc895xtxwpmxs',100);
 INSERT INTO items VALUES('Q26265','tt0104009',14239,'Cool World','umc.cmc.3me973dyx1ugm73e035xm8ec',4);
@@ -2098,7 +2098,7 @@ INSERT INTO items VALUES('Q1427248','tt1054588',14914,'Flash of Genius','umc.cmc
 INSERT INTO items VALUES('Q1427521','tt0211443',11470,'Jason X','umc.cmc.heuzgjb5seh1h0jyneayaw2b',19);
 INSERT INTO items VALUES('Q1428153','tt0089155',9749,'Fletch','umc.cmc.32ph55vzt2oc18hea0d0b0o8g',77);
 INSERT INTO items VALUES('Q1428715','tt0120768',9631,'The Negotiator','umc.cmc.3kfel3pu6f13tigq2v9j7y2ff',74);
-INSERT INTO items VALUES('Q1428750','tt0863046',2742,'Flight of the Conchords','umc.cmc.2woqrfenxvg78pdpgl5mb2fjz',NULL);
+INSERT INTO items VALUES('Q1428750','tt0863046',2742,'Flight of the Conchords','umc.cmc.2woqrfenxvg78pdpgl5mb2fjz',69);
 INSERT INTO items VALUES('Q1430511','tt0080025',24750,'Time After Time','umc.cmc.2w3pdvp31suk3q83mlbypm88z',87);
 INSERT INTO items VALUES('Q1432710','tt0290212',15186,'Full Frontal',NULL,39);
 INSERT INTO items VALUES('Q1434995','tt0390384',14337,'Primer','umc.cmc.29qec9frjzyhp4pi7dnbz4nmv',72);
@@ -2369,7 +2369,7 @@ INSERT INTO items VALUES('Q3196361','tt0113537',28387,'Kicking and Screaming','u
 INSERT INTO items VALUES('Q3198000','tt2101383',86835,'Knight of Cups','umc.cmc.33flpf6aw8lcjcigeq8pvo645',47);
 INSERT INTO items VALUES('Q3258993','tt1091191',193756,'Lone Survivor','umc.cmc.35g4fwcxhe4rlnefrivooui61',75);
 INSERT INTO items VALUES('Q3271467','tt0362526',14198,'Criminal','umc.cmc.5v825xnnkw0yfugha92ko9q6j',69);
-INSERT INTO items VALUES('Q3278334','tt0348894',1562,'The Bachelorette','umc.cmc.bcuw2uk3bcihexktp8qyaea4',NULL);
+INSERT INTO items VALUES('Q3278334','tt0348894',1562,'The Bachelorette','umc.cmc.bcuw2uk3bcihexktp8qyaea4',71);
 INSERT INTO items VALUES('Q3281221','tt0436078',15258,'The Aristocrats','umc.cmc.5ii85kqlpmd7ionlpflzlqm5j',79);
 INSERT INTO items VALUES('Q3284270','tt1421048',67198,'Bloodworth','umc.cmc.7dp0rsckjw6ui8qnq3jxc5czw',50);
 INSERT INTO items VALUES('Q3286391','tt1517451',332562,'A Star Is Born','umc.cmc.3pz1dmbs07y7553nlrs7js3by',90);
