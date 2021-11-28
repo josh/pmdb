@@ -1,4 +1,54 @@
-from export_database import clean_dict, get_value, insert_value
+import sqlite3
+
+from export_database import (
+    clean_dict,
+    get_value,
+    insert_value,
+    schema_indexes,
+    schema_tables,
+)
+
+
+def test_schema_tables():
+    con = sqlite3.connect(":memory:")
+    con.executescript(
+        """
+        CREATE TABLE foo (id integer);
+        CREATE TABLE bar (id integer);
+        """
+    )
+    tables = list(schema_tables(con))
+    assert tables == ["foo", "bar"]
+
+
+def test_schema_indexes():
+    con = sqlite3.connect(":memory:")
+    con.executescript(
+        """
+        CREATE TABLE foo (id integer, name text);
+        CREATE UNIQUE INDEX idx_foo_id ON foo (id);
+        CREATE INDEX idx_foo_id_name ON foo (id, name);
+        """
+    )
+    indexes = list(schema_indexes(con))
+    assert indexes == [
+        {
+            "name": "idx_foo_id",
+            "tbl_name": "foo",
+            "unique": True,
+            "origin": "c",
+            "partial": False,
+            "columns": ["id"],
+        },
+        {
+            "name": "idx_foo_id_name",
+            "tbl_name": "foo",
+            "unique": False,
+            "origin": "c",
+            "partial": False,
+            "columns": ["id", "name"],
+        },
+    ]
 
 
 def test_insert_value():

@@ -127,20 +127,20 @@ def schema_indexes(con):
 def schema_index_info(con, table_name, index_name):
     sql = "PRAGMA index_list('{}');".format(table_name)
     for row in con.execute(sql):
-        if row["name"] == index_name:
+        if row[1] == index_name:
             info = {
                 "name": index_name,
                 "tbl_name": table_name,
-                "unique": row["unique"] == 1 or row["origin"] == "pk",
-                "origin": row["origin"],
-                "partial": row["partial"] == 1,
+                "unique": row[2] == 1 or row[3] == "pk",
+                "origin": row[3],
+                "partial": row[4] == 1,
             }
     assert info
 
     info["columns"] = []
     sql = "PRAGMA index_info('{}');".format(index_name)
     for row in con.execute(sql):
-        info["columns"].append(row["name"])
+        info["columns"].append(row[2])
 
     return info
 
