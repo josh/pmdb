@@ -1,7 +1,10 @@
+import logging
+
 import requests
 
 
 def sparql(query):
+    logging.debug("SPARQL\n{}".format(query))
     url = "https://query.wikidata.org/sparql"
     headers = {
         "Accept": "application/sparql-results+json",
@@ -21,31 +24,35 @@ PROP_URL_PREFIX = "http://www.wikidata.org/prop/"
 
 
 def fetch_statements(qids, properties):
-    query = "SELECT ?item ?property ?value WHERE { "
-    query += values_query(qids)
-    query += """
+    items = {}
+
+    query_prefix = "SELECT ?item ?property ?value WHERE { "
+    query_suffix = """
     OPTIONAL {
       ?item ?property ?statement.
       ?statement ?ps ?value.
       ?statement wikibase:rank ?rank.
       FILTER(?rank != wikibase:DeprecatedRank)
     }
-    """
-    query += "FILTER("
-    query += " || ".join(["(?ps = ps:" + p + ")" for p in properties]) + ")"
-    query += "}"
+     """
+    query_suffix += "FILTER("
+    query_suffix += " || ".join(["(?ps = ps:" + p + ")" for p in properties]) + ")"
+    query_suffix += "}"
 
-    items = {}
+    def fetch(qids):
+        query = query_prefix + values_query(qids) + query_suffix
+        for result in sparql(query):
+            qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
+            prop = result["property"]["value"].replace(PROP_URL_PREFIX, "")
+            value = result["value"]["value"]
 
-    for result in sparql(query):
-        qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
-        prop = result["property"]["value"].replace(PROP_URL_PREFIX, "")
-        value = result["value"]["value"]
+            item = items[qid] = items.get(qid, {})
+            properties = item[prop] = item.get(prop, [])
 
-        item = items[qid] = items.get(qid, {})
-        properties = item[prop] = item.get(prop, [])
+            properties.append(value)
 
-        properties.append(value)
+    for qid_batch in batches(qids, size=500):
+        fetch(qid_batch)
 
     return items
 
@@ -98,3 +105,16 @@ def fetch_items(property, values):
         del items[qid]
 
     return items
+
+
+def batches(iterable, size):
+    batch = []
+
+    for element in iterable:
+        batch.append(element)
+        if len(batch) == size:
+            yield batch
+            batch = []
+
+    if batch:
+        yield batch
