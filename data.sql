@@ -1,14 +1,14 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE items (
-  wikidata_qid text,
-  imdb_id text,
-  tmdb_type text,
-  tmdb_id integer,
+  wikidata_qid text CHECK (wikidata_qid GLOB "Q*"),
+  imdb_id text CHECK (imdb_id GLOB "tt*"),
+  tmdb_type text CHECK (tmdb_type IN ("movie", "tv")),
+  tmdb_id integer CHECK (tmdb_id IS NULL OR tmdb_type IS NOT NULL),
   trakt_type text,
   trakt_id integer,
   title text,
-  appletv_id text,
+  appletv_id text CHECK (appletv_id GLOB "umc.cmc.*"),
   tomatometer integer
 );
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,NULL,NULL,'We Live in Public',NULL,82);
