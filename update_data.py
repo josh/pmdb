@@ -48,31 +48,26 @@ def insert(cur, tbl_name, row, replace=False):
     cur.execute(sql, row)
 
 
-def upsert(con, pk_name, pk_value, sk_name, sk_value):
-    sql = "SELECT * FROM items WHERE {} = ? OR {} = ?;".format(
-        pk_name,
-        sk_name,
-    )
-    rows = con.execute(sql, (pk_value, sk_value)).fetchall()
+def update(cur, tbl_name, row, where):
+    keys = row.keys()
+    set_names = ", ".join("{} = :{}".format(k, k) for k in keys)
+    sql = "UPDATE {} SET {} WHERE {}".format(tbl_name, set_names, where)
+    cur.execute(sql, row)
+
+
+def upsert(con, row, where):
+    sql = "SELECT * FROM items WHERE {}".format(where)
+    rows = con.execute(sql, row).fetchall()
 
     if len(rows) == 0:
         cur = con.cursor()
-        sql = "INSERT INTO items ({}, {}) VALUES (?, ?);".format(
-            pk_name,
-            sk_name,
-        )
-        cur.execute(sql, (pk_value, sk_value))
+        insert(cur, "items", row)
         assert cur.rowcount == 1
         con.commit()
     if len(rows) == 1:
-        row = rows[0]
-        if row[pk_name] == pk_value and row[sk_name] == sk_value:
-            return
         cur = con.cursor()
-        sql = "UPDATE items SET {} = ?, {} = ? WHERE {} = ? OR {} = ?;".format(
-            pk_name, sk_name, pk_name, sk_name
-        )
-        cur.execute(sql, (pk_value, sk_value, pk_value, sk_value))
+        # TODO: Update using rowid
+        update(cur, "items", row, where)
         assert cur.rowcount == 1
         con.commit()
     else:
@@ -108,23 +103,41 @@ def update_wikidata_items(con):
 
         if "P345" in item and len(item["P345"]) == 1:
             imdb = item["P345"][0]
-            upsert(con, "wikidata", qid, "imdb", imdb)
+            upsert(
+                con,
+                row={"wikidata": qid, "imdb": imdb},
+                where="wikidata = :wikidata OR imdb = :imdb",
+            )
 
         if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
-            tmdb = item["P4947"][0]
-            upsert(con, "wikidata", qid, "tmdb_id", tmdb)
+            tmdb_id = item["P4947"][0]
+            row = {"wikidata": qid, "tmdb_type": "movie", "tmdb_id": tmdb_id}
+            where = """
+              wikidata = :wikidata OR
+              (tmdb_type = :tmdb_type AND tmdb_id = :tmdb_id)
+            """
+            upsert(con, row, where)
 
         if "P4983" in item and "P4947" not in item and len(item["P4983"]) == 1:
-            tmdb = item["P4983"][0]
-            upsert(con, "wikidata", qid, "tmdb_id", tmdb)
+            tmdb_id = item["P4983"][0]
+            row = {"wikidata": qid, "tmdb_type": "tv", "tmdb_id": tmdb_id}
+            where = """
+              wikidata = :wikidata OR
+              (tmdb_type = :tmdb_type AND tmdb_id = :tmdb_id)
+            """
+            upsert(con, row, where)
 
         if "P9586" in item and "P9751" not in item and len(item["P9586"]) == 1:
             appletv = item["P9586"][0]
-            upsert(con, "wikidata", qid, "appletv", appletv)
+            row = {"wikidata": qid, "appletv": appletv}
+            where = "wikidata = :wikidata OR appletv = :appletv"
+            upsert(con, row, where)
 
         if "P9751" in item and "P9586" not in item and len(item["P9751"]) == 1:
             appletv = item["P9751"][0]
-            upsert(con, "wikidata", qid, "appletv", appletv)
+            row = {"wikidata": qid, "appletv": appletv}
+            where = "wikidata = :wikidata OR appletv = :appletv"
+            upsert(con, row, where)
 
     items = fetch_labels(qids)
     for qid in items:
