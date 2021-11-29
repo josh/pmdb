@@ -83,7 +83,7 @@ def upsert(con, row, where):
 
 
 def update_wikidata_items(con):
-    sql = "SELECT wikidata FROM items"
+    sql = "SELECT wikidata_qid FROM items"
     rows = con.execute(sql)
     qids = set([qid for (qid,) in rows])
 
@@ -102,48 +102,50 @@ def update_wikidata_items(con):
         item = items[qid]
 
         if "P345" in item and len(item["P345"]) == 1:
-            imdb = item["P345"][0]
-            upsert(
-                con,
-                row={"wikidata": qid, "imdb": imdb},
-                where="wikidata = :wikidata OR imdb = :imdb",
-            )
+            imdb_id = item["P345"][0]
+            row = {"wikidata_qid": qid, "imdb_id": imdb_id}
+            where = "wikidata_qid = :wikidata_qid OR imdb_id = :imdb_id"
+            upsert(con, row, where)
 
         if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
             tmdb_id = item["P4947"][0]
-            row = {"wikidata": qid, "tmdb_type": "movie", "tmdb_id": tmdb_id}
+            row = {
+                "wikidata_qid": qid,
+                "tmdb_type": "movie",
+                "tmdb_id": tmdb_id,
+            }
             where = """
-              wikidata = :wikidata OR
+              wikidata_qid = :wikidata_qid OR
               (tmdb_type = :tmdb_type AND tmdb_id = :tmdb_id)
             """
             upsert(con, row, where)
 
         if "P4983" in item and "P4947" not in item and len(item["P4983"]) == 1:
             tmdb_id = item["P4983"][0]
-            row = {"wikidata": qid, "tmdb_type": "tv", "tmdb_id": tmdb_id}
+            row = {"wikidata_qid": qid, "tmdb_type": "tv", "tmdb_id": tmdb_id}
             where = """
-              wikidata = :wikidata OR
+              wikidata_qid = :wikidata_qid OR
               (tmdb_type = :tmdb_type AND tmdb_id = :tmdb_id)
             """
             upsert(con, row, where)
 
         if "P9586" in item and "P9751" not in item and len(item["P9586"]) == 1:
-            appletv = item["P9586"][0]
-            row = {"wikidata": qid, "appletv": appletv}
-            where = "wikidata = :wikidata OR appletv = :appletv"
+            appletv_id = item["P9586"][0]
+            row = {"wikidata_qid": qid, "appletv_id": appletv_id}
+            where = "wikidata_qid = :wikidata_qid OR appletv_id = :appletv_id"
             upsert(con, row, where)
 
         if "P9751" in item and "P9586" not in item and len(item["P9751"]) == 1:
-            appletv = item["P9751"][0]
-            row = {"wikidata": qid, "appletv": appletv}
-            where = "wikidata = :wikidata OR appletv = :appletv"
+            appletv_id = item["P9751"][0]
+            row = {"wikidata_qid": qid, "appletv_id": appletv_id}
+            where = "wikidata_qid = :wikidata_qid OR appletv_id = :appletv_id"
             upsert(con, row, where)
 
     items = fetch_labels(qids)
     for qid in items:
         label = items[qid]
         con.execute(
-            "UPDATE items SET title = ? WHERE wikidata = ?;",
+            "UPDATE items SET title = ? WHERE wikidata_qid = ?;",
             (label, qid),
         )
 
@@ -151,7 +153,7 @@ def update_wikidata_items(con):
     for qid in items:
         score = items[qid]
         con.execute(
-            "UPDATE items SET tomatometer = ? WHERE wikidata = ?;",
+            "UPDATE items SET tomatometer = ? WHERE wikidata_qid = ?;",
             (score, qid),
         )
 
@@ -177,7 +179,7 @@ def fetch_tomatometer(qids):
 
 
 def find_missing_wikidata_qids(con):
-    rows = con.execute("SELECT imdb FROM items WHERE wikidata IS NULL")
+    rows = con.execute("SELECT imdb_id FROM items WHERE wikidata_qid IS NULL")
     imdb_ids = set([imdb for (imdb,) in rows])
 
     if len(imdb_ids) == 0:
@@ -187,7 +189,9 @@ def find_missing_wikidata_qids(con):
 
     for qid in items:
         imdb_id = items[qid]
-        upsert(con, "imdb", imdb_id, "wikidata", qid)
+        row = {"wikidata_qid": qid, "imdb_id": imdb_id}
+        where = "wikidata_qid = :wikidata_qid OR imdb_id = :imdb_id"
+        upsert(con, row, where)
 
     con.commit()
 
