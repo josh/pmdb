@@ -2746,7 +2746,7 @@ INSERT INTO items VALUES('Q20966593','tt4425064','movie',324308,'Steve Jobs: The
 INSERT INTO items VALUES('Q20977110','tt2527338','movie',181812,'Star Wars Episode IX: The Rise of Skywalker','umc.cmc.71hlilqgd8utz8c4nlpl6ol7m',52);
 INSERT INTO items VALUES('Q20982361','tt3072482','movie',325348,'Hardcore Henry','umc.cmc.5i2nbrpzoien9k171ki61klaj',51);
 INSERT INTO items VALUES('Q20992484','tt5045592','movie',363810,'The Leisure Class','umc.cmc.5iialo61d3g6xp8oxurt509ym',0);
-INSERT INTO items VALUES('Q21001632','tt1954470',NULL,117691,'Gangs of Wasseypur',NULL,97);
+INSERT INTO items VALUES('Q21001632','tt1954470','movie',117691,'Gangs of Wasseypur',NULL,97);
 INSERT INTO items VALUES('Q21010845','tt4385888','movie',342737,'20th Century Women','umc.cmc.5am13okdzttrvi7owgk1tusag',88);
 INSERT INTO items VALUES('Q21010849','tt4287320','movie',339988,'The Circle','umc.cmc.1eqd61vr4glc5zwd86g53gtv5',16);
 INSERT INTO items VALUES('Q21010856','tt2119532','movie',324786,'Hacksaw Ridge','umc.cmc.62aqgczvqwoqyzv1vwv8er5wr',84);
