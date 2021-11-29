@@ -1,12 +1,12 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS "items" (
-  "wikidata" text CHECK (wikidata GLOB "Q*"),
-  "imdb" text CHECK (imdb GLOB "tt*"),
+  "wikidata_qid" text CHECK (wikidata_qid GLOB "Q*"),
+  "imdb_id" text CHECK (imdb_id GLOB "tt*"),
   "tmdb_type" text CHECK (tmdb_type IN ("movie", "tv")),
   "tmdb_id" integer CHECK (tmdb_id IS NULL OR tmdb_type IS NOT NULL),
   "title" text,
-  "appletv" text CHECK (appletv GLOB "umc.cmc.*"),
+  "appletv_id" text CHECK (appletv_id GLOB "umc.cmc.*"),
   "tomatometer" integer
 );
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'We Live in Public',NULL,82);
@@ -3736,8 +3736,8 @@ INSERT INTO items VALUES('Q108690659','tt12263384','movie',697843,'Extraction 2'
 INSERT INTO items VALUES('Q109051190','tt11001074','movie',710258,'Rust',NULL,NULL);
 INSERT INTO items VALUES('Q109269311','tt15239678','movie',693134,'Dune: Part Two',NULL,NULL);
 INSERT INTO items VALUES('Q109284708','tt15523010','movie',879540,'The Closer',NULL,NULL);
-CREATE UNIQUE INDEX appletv ON "items" ("appletv" ASC);
+CREATE UNIQUE INDEX appletv ON "items" ("appletv_id" ASC);
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id" ASC);
-CREATE UNIQUE INDEX imdb ON "items" ("imdb" ASC);
-CREATE UNIQUE INDEX wikidata ON "items" ("wikidata" ASC);
+CREATE UNIQUE INDEX imdb ON "items" ("imdb_id" ASC);
+CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid" ASC);
 COMMIT;
