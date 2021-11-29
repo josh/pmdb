@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS "items" (
   "wikidata" text CHECK (wikidata GLOB "Q*"),
   "imdb" text CHECK (imdb GLOB "tt*"),
   "tmdb_type" text CHECK (tmdb_type IN ("movie", "tv")),
-  "tmdb_id" integer,
+  "tmdb_id" integer CHECK (tmdb_id IS NULL OR tmdb_type IS NOT NULL),
   "title" text,
   "appletv" text,
   "tomatometer" integer
