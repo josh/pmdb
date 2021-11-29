@@ -112,11 +112,11 @@ def update_wikidata_items(con):
 
         if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
             tmdb = item["P4947"][0]
-            upsert(con, "wikidata", qid, "tmdb", tmdb)
+            upsert(con, "wikidata", qid, "tmdb_id", tmdb)
 
         if "P4983" in item and "P4947" not in item and len(item["P4983"]) == 1:
             tmdb = item["P4983"][0]
-            upsert(con, "wikidata", qid, "tmdb", tmdb)
+            upsert(con, "wikidata", qid, "tmdb_id", tmdb)
 
         if "P9586" in item and "P9751" not in item and len(item["P9586"]) == 1:
             appletv = item["P9586"][0]
