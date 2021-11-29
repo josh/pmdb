@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS "items" (
   "tmdb_type" text CHECK (tmdb_type IN ("movie", "tv")),
   "tmdb_id" integer CHECK (tmdb_id IS NULL OR tmdb_type IS NOT NULL),
   "title" text,
-  "appletv" text,
+  "appletv" text CHECK (appletv GLOB "umc.cmc.*"),
   "tomatometer" integer
 );
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'We Live in Public',NULL,82);
