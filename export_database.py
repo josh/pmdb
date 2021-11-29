@@ -70,9 +70,10 @@ def export_index(con, output_dir, index_info):
         for col in index_info["columns"]:
             if row.get(col) is None:
                 has_null_values = True
-            index_keys.append(str(row.get(col)))
+                break
+            index_keys.append(index_value_to_str(row.get(col)))
 
-        if unique and has_null_values:
+        if has_null_values:
             continue
 
         filename = os.path.join(output_dir, index_name, *index_keys) + ".json"
@@ -85,6 +86,15 @@ def export_index(con, output_dir, index_info):
 
     filename = os.path.join(output_dir, index_info["name"] + ".json")
     write_json(filename, indexed_rows)
+
+
+def index_value_to_str(value):
+    if type(value) is str:
+        return value
+    elif type(value) is int:
+        return str(value)
+    else:
+        assert "bad value: {}".format(value)
 
 
 def write_json(filename, obj):
