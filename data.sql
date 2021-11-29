@@ -5,8 +5,8 @@ CREATE TABLE items (
   imdb_id text CHECK (imdb_id GLOB "tt*"),
   tmdb_type text CHECK (tmdb_type IN ("movie", "tv")),
   tmdb_id integer CHECK (tmdb_id IS NULL OR tmdb_type IS NOT NULL),
-  trakt_type text,
-  trakt_id integer,
+  trakt_type text CHECK (trakt_type IN ("movie", "show")),
+  trakt_id integer CHECK (trakt_id IS NULL OR trakt_type IS NOT NULL),
   title text,
   appletv_id text CHECK (appletv_id GLOB "umc.cmc.*"),
   tomatometer integer
