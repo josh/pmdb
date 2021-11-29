@@ -3741,5 +3741,6 @@ INSERT INTO items VALUES('Q109284708','tt15523010','movie',879540,NULL,NULL,'The
 CREATE UNIQUE INDEX wikidata ON items (wikidata_qid ASC);
 CREATE UNIQUE INDEX imdb ON items (imdb_id ASC);
 CREATE UNIQUE INDEX tmdb ON items (tmdb_type, tmdb_id);
+CREATE UNIQUE INDEX trakt ON items (trakt_type, trakt_id);
 CREATE UNIQUE INDEX appletv ON items (appletv_id ASC);
 COMMIT;
