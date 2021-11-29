@@ -9,7 +9,8 @@ CREATE TABLE items (
   trakt_id integer CHECK (trakt_id IS NULL OR trakt_type IS NOT NULL),
   title text,
   appletv_id text CHECK (appletv_id GLOB "umc.cmc.*"),
-  tomatometer integer
+  tomatometer integer,
+  CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,NULL,NULL,'We Live in Public',NULL,82);
 INSERT INTO items VALUES('Q595','tt1675434','movie',77338,NULL,NULL,'The Intouchables',NULL,75);
