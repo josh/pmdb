@@ -1,6 +1,6 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
-CREATE TABLE IF NOT EXISTS items (
+CREATE TABLE items (
   wikidata_qid text,
   imdb_id text,
   tmdb_type text,
