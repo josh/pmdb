@@ -1,7 +1,7 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS "items" (
-  "wikidata" text,
+  "wikidata" text CHECK(wikidata GLOB 'Q*'),
   "imdb" text,
   "tmdb_type" text,
   "tmdb_id" integer,
