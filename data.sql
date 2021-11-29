@@ -1,8 +1,8 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS "items" (
-  "wikidata" text CHECK(wikidata GLOB 'Q*'),
-  "imdb" text CHECK(imdb GLOB 'tt*'),
+  "wikidata" text CHECK (wikidata GLOB "Q*"),
+  "imdb" text CHECK (imdb GLOB "tt*"),
   "tmdb_type" text CHECK (tmdb_type IN ("movie", "tv")),
   "tmdb_id" integer,
   "title" text,
