@@ -42,7 +42,7 @@ def fetch_statements(qids, properties):
     def fetch(qids):
         query = query_prefix + values_query(qids) + query_suffix
         for result in sparql(query):
-            qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
+            qid = extract_qid(result["item"]["value"])
             prop = result["property"]["value"].replace(PROP_URL_PREFIX, "")
             value = result["value"]["value"]
 
@@ -58,48 +58,61 @@ def fetch_statements(qids, properties):
 
 
 def fetch_labels(qids):
-    query = "SELECT ?item ?itemLabel WHERE { "
-    query += values_query(qids)
-    query += """
-      SERVICE wikibase:label {
-        bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
-      }
-    }
-    """
-
     items = {}
 
-    for result in sparql(query):
-        qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
-        label = result["itemLabel"]["value"]
-        items[qid] = label
+    def fetch(qids):
+        query = "SELECT ?item ?itemLabel WHERE { "
+        query += values_query(qids)
+        query += """
+          SERVICE wikibase:label {
+            bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+          }
+        }
+        """
+
+        for result in sparql(query):
+            qid = extract_qid(result["item"]["value"])
+            label = result["itemLabel"]["value"]
+            items[qid] = label
+
+    for qid_batch in batches(qids, size=500):
+        fetch(qid_batch)
 
     return items
 
 
 def fetch_items(property, values):
-    quoted_values = " ".join('"{}"'.format(value) for value in values)
-
-    query = "SELECT ?item ?value WHERE { "
-    query += "VALUES ?value { " + quoted_values + " } "
-    query += "?item wdt:" + property + " ?value. }"
-
     items = {}
     nonunique = set()
 
-    for result in sparql(query):
-        qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
-        value = result["value"]["value"]
+    def fetch(values):
+        quoted_values = " ".join('"{}"'.format(value) for value in values)
 
-        if qid in items:
-            nonunique.add(qid)
+        query = "SELECT ?item ?value WHERE { "
+        query += "VALUES ?value { " + quoted_values + " } "
+        query += "?item wdt:" + property + " ?value. }"
 
-        items[qid] = value
+        for result in sparql(query):
+            qid = extract_qid(result["item"]["value"])
+            value = result["value"]["value"]
+
+            if qid in items:
+                nonunique.add(qid)
+
+            items[qid] = value
+
+    for value_batch in batches(values, size=500):
+        fetch(value_batch)
 
     for qid in nonunique:
         del items[qid]
 
     return items
+
+
+def extract_qid(uri):
+    assert uri.startswith(ENTITY_URL_PREFIX)
+    return uri.replace(ENTITY_URL_PREFIX, "")
 
 
 def values_query(qids, binding="item"):
