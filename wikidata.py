@@ -122,7 +122,7 @@ def fetch_tomatometer(qids):
         """
 
         for result in sparql(query):
-            qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
+            qid = extract_qid(result["item"]["value"])
             score = int(result["tomatometer"]["value"].replace("%", ""))
             items[qid] = score
 
