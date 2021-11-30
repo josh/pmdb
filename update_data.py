@@ -7,6 +7,7 @@ from wikidata import (
     fetch_items,
     fetch_labels,
     fetch_statements,
+    fetch_tomatometer,
     sparql,
     values_query,
 )
@@ -158,24 +159,6 @@ def update_wikidata_items(con):
         )
 
     con.commit()
-
-
-def fetch_tomatometer(qids):
-    query = "SELECT ?item ?tomatometer WHERE { "
-    query += values_query(qids)
-    query += """
-      ?item p:P444 [ pq:P459 wd:Q108403393; ps:P444 ?tomatometer ].
-    }
-    """
-
-    items = {}
-
-    for result in sparql(query):
-        qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
-        score = int(result["tomatometer"]["value"].replace("%", ""))
-        items[qid] = score
-
-    return items
 
 
 def find_missing_wikidata_qids(con):

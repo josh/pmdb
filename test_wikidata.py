@@ -1,4 +1,10 @@
-from wikidata import fetch_items, fetch_labels, fetch_statements, sparql
+from wikidata import (
+    fetch_items,
+    fetch_labels,
+    fetch_statements,
+    fetch_tomatometer,
+    sparql,
+)
 
 
 def test_sparql():
@@ -41,3 +47,10 @@ def test_fetch_items():
 
     assert items["Q47703"] == "tt0068646"
     assert items["Q172241"] == "tt0111161"
+
+
+def test_fetch_tomatometer():
+    items = fetch_tomatometer({"Q172241"})
+    assert len(items) == 1
+
+    assert items["Q172241"] == 91

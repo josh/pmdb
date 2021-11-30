@@ -110,6 +110,28 @@ def fetch_items(property, values):
     return items
 
 
+def fetch_tomatometer(qids):
+    items = {}
+
+    def fetch(qids):
+        query = "SELECT ?item ?tomatometer WHERE { "
+        query += values_query(qids)
+        query += """
+          ?item p:P444 [ pq:P459 wd:Q108403393; ps:P444 ?tomatometer ].
+        }
+        """
+
+        for result in sparql(query):
+            qid = result["item"]["value"].replace(ENTITY_URL_PREFIX, "")
+            score = int(result["tomatometer"]["value"].replace("%", ""))
+            items[qid] = score
+
+    for qid_batch in batches(qids, size=500):
+        fetch(qid_batch)
+
+    return items
+
+
 def extract_qid(uri):
     assert uri.startswith(ENTITY_URL_PREFIX)
     return uri.replace(ENTITY_URL_PREFIX, "")
