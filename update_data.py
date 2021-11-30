@@ -2,7 +2,7 @@ import argparse
 import logging
 import sqlite3
 
-from sparql import (
+from wikidata import (
     ENTITY_URL_PREFIX,
     fetch_items,
     fetch_labels,

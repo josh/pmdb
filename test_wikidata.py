@@ -1,4 +1,4 @@
-from sparql import fetch_items, fetch_statements, sparql
+from wikidata import fetch_items, fetch_labels, fetch_statements, sparql
 
 
 def test_sparql():
@@ -26,6 +26,13 @@ def test_fetch_statements():
     assert item
     assert item["P345"]
     assert item["P4947"]
+
+
+def test_fetch_labels():
+    items = fetch_labels({"Q172241"})
+    assert len(items) == 1
+
+    assert items["Q172241"] == "The Shawshank Redemption"
 
 
 def test_fetch_items():

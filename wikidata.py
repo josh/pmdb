@@ -2,6 +2,9 @@ import logging
 
 import requests
 
+ENTITY_URL_PREFIX = "http://www.wikidata.org/entity/"
+PROP_URL_PREFIX = "http://www.wikidata.org/prop/"
+
 
 def sparql(query):
     logging.debug("SPARQL\n{}".format(query))
@@ -17,10 +20,6 @@ def sparql(query):
     r = requests.post(url, headers=headers, data=data)
     r.raise_for_status()
     return r.json()["results"]["bindings"]
-
-
-ENTITY_URL_PREFIX = "http://www.wikidata.org/entity/"
-PROP_URL_PREFIX = "http://www.wikidata.org/prop/"
 
 
 def fetch_statements(qids, properties):
@@ -78,11 +77,6 @@ def fetch_labels(qids):
     return items
 
 
-def values_query(qids, binding="item"):
-    values = " ".join("wd:{}".format(qid) for qid in qids)
-    return "VALUES ?" + binding + " { " + values + " }"
-
-
 def fetch_items(property, values):
     quoted_values = " ".join('"{}"'.format(value) for value in values)
 
@@ -106,6 +100,11 @@ def fetch_items(property, values):
         del items[qid]
 
     return items
+
+
+def values_query(qids, binding="item"):
+    values = " ".join("wd:{}".format(qid) for qid in qids)
+    return "VALUES ?" + binding + " { " + values + " }"
 
 
 def batches(iterable, size):
