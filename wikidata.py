@@ -24,37 +24,41 @@ def sparql(query):
     return r.json()["results"]["bindings"]
 
 
+def sparql_batch_items(query_template, qids, batch_size):
+    assert "?items" in query_template
+    for qid_batch in batches(qids, size=batch_size):
+        query = query_template.replace("?items", values_query(qid_batch))
+        yield from sparql(query)
+
+
 def fetch_statements(qids, properties):
     items = {}
 
-    query_prefix = "SELECT ?item ?property ?value WHERE { "
-    query_suffix = """
-    OPTIONAL {
-      ?item ?property ?statement.
-      ?statement ?ps ?value.
-      ?statement wikibase:rank ?rank.
-      FILTER(?rank != wikibase:DeprecatedRank)
-    }
-     """
-    query_suffix += "FILTER("
+    query = """
+    SELECT ?item ?property ?value WHERE {
+      ?items
+      OPTIONAL {
+        ?item ?property ?statement.
+        ?statement ?ps ?value.
+        ?statement wikibase:rank ?rank.
+        FILTER(?rank != wikibase:DeprecatedRank)
+      }
+    """
+    query += "FILTER("
     ps = ["(?ps = ps:" + p + ")" for p in properties]
-    query_suffix += " || ".join(ps) + ")"
-    query_suffix += "}"
+    query += " || ".join(ps) + ")"
+    query += " }"
 
-    def fetch(qids):
-        query = query_prefix + values_query(qids) + query_suffix
-        for result in sparql(query):
-            qid = extract_qid(result["item"]["value"])
-            prop = result["property"]["value"].replace(PROP_URL_PREFIX, "")
-            value = result["value"]["value"]
+    results = sparql_batch_items(query, qids, batch_size=500)
+    for result in results:
+        qid = extract_qid(result["item"]["value"])
+        prop = result["property"]["value"].replace(PROP_URL_PREFIX, "")
+        value = result["value"]["value"]
 
-            item = items[qid] = items.get(qid, {})
-            properties = item[prop] = item.get(prop, [])
+        item = items[qid] = items.get(qid, {})
+        properties = item[prop] = item.get(prop, [])
 
-            properties.append(value)
-
-    for qid_batch in batches(qids, size=500):
-        fetch(qid_batch)
+        properties.append(value)
 
     return items
 
@@ -62,23 +66,20 @@ def fetch_statements(qids, properties):
 def fetch_labels(qids):
     items = {}
 
-    def fetch(qids):
-        query = "SELECT ?item ?itemLabel WHERE { "
-        query += values_query(qids)
-        query += """
-          SERVICE wikibase:label {
-            bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
-          }
+    query = """
+      SELECT ?item ?itemLabel WHERE {
+        ?items
+        SERVICE wikibase:label {
+          bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
         }
-        """
+      }
+    """
 
-        for result in sparql(query):
-            qid = extract_qid(result["item"]["value"])
-            label = result["itemLabel"]["value"]
-            items[qid] = label
-
-    for qid_batch in batches(qids, size=500):
-        fetch(qid_batch)
+    results = sparql_batch_items(query, qids, batch_size=500)
+    for result in results:
+        qid = extract_qid(result["item"]["value"])
+        label = result["itemLabel"]["value"]
+        items[qid] = label
 
     return items
 
