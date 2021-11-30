@@ -2,14 +2,7 @@ import argparse
 import logging
 import sqlite3
 
-from wikidata import (
-    fetch_items,
-    fetch_labels,
-    fetch_statements,
-    fetch_tomatometer,
-    sparql,
-    values_query,
-)
+from wikidata import fetch_items, fetch_labels, fetch_statements, fetch_tomatometer
 
 
 def main():
