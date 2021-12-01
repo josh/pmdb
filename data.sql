@@ -13,7 +13,6 @@ CREATE TABLE items (
   duration integer,
   CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
-INSERT INTO items VALUES(NULL,'tt9359796','tv',84553,'show',140440,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt2934286','tv',52814,'show',150109,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'movie',21763,NULL,'We Live in Public',82,90);
 INSERT INTO items VALUES('Q595','tt1675434','movie',77338,NULL,NULL,NULL,'The Intouchables',75,112);
@@ -3647,7 +3646,7 @@ INSERT INTO items VALUES('Q104845027','tt8097030','movie',508947,'movie',356441,
 INSERT INTO items VALUES('Q104845082','tt12614214','tv',106454,'show',163677,NULL,'The Afterparty',NULL,NULL);
 INSERT INTO items VALUES('Q104846899','tt12762002','movie',725239,'movie',567611,'umc.cmc.p8f31geoloyr74lu9c62jzi8','The Swamp',67,NULL);
 INSERT INTO items VALUES('Q104848117','tt5807330','movie',576560,'movie',427044,'umc.cmc.3t2kfbumwyv352b6wxitapz6d','Tread',90,NULL);
-INSERT INTO items VALUES('Q104848864',NULL,NULL,NULL,NULL,NULL,NULL,'Blade Runner: Black Lotus',NULL,NULL);
+INSERT INTO items VALUES('Q104848864','tt9359796','tv',84553,'show',140440,NULL,'Blade Runner: Black Lotus',NULL,NULL);
 INSERT INTO items VALUES('Q104854877','tt13024674','movie',796499,'movie',631758,NULL,'Army of Thieves',NULL,129);
 INSERT INTO items VALUES('Q104856751','tt12680684','movie',722778,'movie',565297,NULL,'The Hand of God',67,130);
 INSERT INTO items VALUES('Q104857186','tt13651632','tv',114705,'show',170827,NULL,'Night Stalker: The Hunt for a Serial Killer',NULL,NULL);
