@@ -10,9 +10,7 @@ def upsert(con, tbl_name, pks, row):
     keys = row.keys()
     col_names = ", ".join(keys)
     value_names = ", ".join(":" + k for k in keys)
-    sql = "REPLACE INTO {} ({}) VALUES ({})".format(
-        tbl_name, col_names, value_names
-    )
+    sql = "REPLACE INTO {} ({}) VALUES ({})".format(tbl_name, col_names, value_names)
 
     cur.execute(sql, row)
     con.commit()
