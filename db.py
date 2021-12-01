@@ -1,8 +1,21 @@
+ITEMS_PRIMARY_KEYS = [
+    "wikidata_qid",
+    "imdb_id",
+    ["tmdb_type", "tmdb_id"],
+    ["trakt_type", "trakt_id"],
+    "appletv_id",
+]
+
+
+def items_upsert(con, row):
+    upsert(con, "items", ITEMS_PRIMARY_KEYS, row)
+
+
 def upsert(con, tbl_name, pks, row):
     cur = con.cursor()
 
+    pks = filter_pks(pks, row)
     where_clause = make_where_clause(pks)
-
     sql = "SELECT * FROM {} WHERE {}".format(tbl_name, where_clause)
     existing_rows = cur.execute(sql, row).fetchall()
     row = merge_rows(*existing_rows, row)
@@ -14,6 +27,16 @@ def upsert(con, tbl_name, pks, row):
 
     cur.execute(sql, row)
     con.commit()
+
+
+def filter_pks(pks, row):
+    for pk in pks:
+        if type(pk) is list:
+            if all(k in row for k in pk):
+                yield pk
+        else:
+            if pk in row:
+                yield pk
 
 
 def make_where_clause(keys):
