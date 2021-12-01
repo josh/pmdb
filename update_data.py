@@ -112,8 +112,7 @@ def find_missing_wikidata_qids(con):
     for qid in items:
         imdb_id = items[qid]
         row = {"wikidata_qid": qid, "imdb_id": imdb_id}
-        where = "wikidata_qid = :wikidata_qid OR imdb_id = :imdb_id"
-        upsert(con, row, where)
+        upsert(con, "items", ["wikidata_qid", "imdb_id"], row)
 
     con.commit()
 
