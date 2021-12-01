@@ -84,6 +84,7 @@ def update_wikidata_items(con):
         qids,
         {
             "P345",
+            "P2047",
             "P4947",
             "P4983",
             "P9586",
@@ -99,6 +100,13 @@ def update_wikidata_items(con):
             row = {"wikidata_qid": qid, "imdb_id": imdb_id}
             where = "wikidata_qid = :wikidata_qid OR imdb_id = :imdb_id"
             upsert(con, row, where)
+
+        if "P2047" in item and len(item["P2047"]) == 1:
+            duration = int(item["P2047"][0])
+            con.execute(
+                "UPDATE items SET duration = ? WHERE wikidata_qid = ?;",
+                (duration, qid),
+            )
 
         if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
             tmdb_id = item["P4947"][0]
