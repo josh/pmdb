@@ -102,7 +102,7 @@ def update_wikidata_items(con):
             upsert(con, row, where)
 
         if "P2047" in item and len(item["P2047"]) == 1:
-            duration = int(item["P2047"][0])
+            duration = int(float(item["P2047"][0]))
             con.execute(
                 "UPDATE items SET duration = ? WHERE wikidata_qid = ?;",
                 (duration, qid),
