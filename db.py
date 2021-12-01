@@ -34,6 +34,7 @@ def merge_rows(*rows):
     new_row = {}
     for row in rows:
         for key in row.keys():
-            if row[key]:
-                new_row[key] = row[key]
+            if row[key] is None:
+                continue
+            new_row[key] = row[key]
     return new_row
