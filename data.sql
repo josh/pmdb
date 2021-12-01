@@ -3532,6 +3532,7 @@ INSERT INTO items VALUES('Q87220566','tt11291274','movie',648579,'movie',485187,
 INSERT INTO items VALUES('Q87220906','tt8114980','movie',643586,'movie',481333,'umc.cmc.46asbtrm1jjg0hsrqw0z8zwiw','Willy''s Wonderland',62,NULL);
 INSERT INTO items VALUES('Q88053410','tt5259822','movie',517412,'movie',365657,'umc.cmc.6cmxgh0jvkr5pi33w1bw9phtp','Tesla',58,96);
 INSERT INTO items VALUES('Q88306935','tt11823076','tv',100698,'show',158420,'umc.cmc.eupzmd4udgn6wbybq3dx9ax','Tiger King: Murder, Mayhem and Madness',NULL,NULL);
+INSERT INTO items VALUES('Q88532913','tt9735318','movie',579558,NULL,NULL,NULL,'The Beatles: Get Back',NULL,468);
 INSERT INTO items VALUES('Q90340902','tt8923484','movie',653725,'movie',488551,'umc.cmc.qw2kxa2btpdu7m9of7rjmfog','Crip Camp',100,NULL);
 INSERT INTO items VALUES('Q90389788','tt10577736','tv',103913,'show',160368,'umc.cmc.337cdk1ou0bmn6frmzxwm7xqd','Tehran',NULL,NULL);
 INSERT INTO items VALUES('Q90766964','tt11656220','movie',693113,'movie',537217,NULL,'Midnight in the Switchgrass',9,NULL);
@@ -3646,6 +3647,7 @@ INSERT INTO items VALUES('Q104845027','tt8097030','movie',508947,'movie',356441,
 INSERT INTO items VALUES('Q104845082','tt12614214','tv',106454,'show',163677,NULL,'The Afterparty',NULL,NULL);
 INSERT INTO items VALUES('Q104846899','tt12762002','movie',725239,'movie',567611,'umc.cmc.p8f31geoloyr74lu9c62jzi8','The Swamp',67,NULL);
 INSERT INTO items VALUES('Q104848117','tt5807330','movie',576560,'movie',427044,'umc.cmc.3t2kfbumwyv352b6wxitapz6d','Tread',90,NULL);
+INSERT INTO items VALUES('Q104848864',NULL,NULL,NULL,NULL,NULL,NULL,'Blade Runner: Black Lotus',NULL,NULL);
 INSERT INTO items VALUES('Q104854877','tt13024674','movie',796499,'movie',631758,NULL,'Army of Thieves',NULL,129);
 INSERT INTO items VALUES('Q104856751','tt12680684','movie',722778,'movie',565297,NULL,'The Hand of God',67,130);
 INSERT INTO items VALUES('Q104857186','tt13651632','tv',114705,'show',170827,NULL,'Night Stalker: The Hunt for a Serial Killer',NULL,NULL);
@@ -3753,8 +3755,6 @@ INSERT INTO items VALUES('Q109269311','tt15239678','movie',693134,'movie',537449
 INSERT INTO items VALUES('Q109284708','tt15523010','movie',879540,'movie',704047,NULL,'The Closer',NULL,NULL);
 INSERT INTO items VALUES('Q109285531','tt13622146','movie',819500,'movie',652579,NULL,'Found',NULL,NULL);
 INSERT INTO items VALUES('Q109607643','tt13622958','tv',114466,'show',170646,NULL,'Baymax!',NULL,NULL);
-INSERT INTO items VALUES('Q104848864',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q88532913',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid" ASC);
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id" ASC);
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
