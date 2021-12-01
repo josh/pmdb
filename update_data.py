@@ -2,6 +2,7 @@ import argparse
 import logging
 import sqlite3
 
+from db import upsert
 from wikidata import fetch_items, fetch_labels, fetch_statements, fetch_tomatometer
 
 
@@ -28,53 +29,6 @@ def main():
     update_wikidata_items(con)
 
 
-def insert(cur, tbl_name, row, replace=False):
-    statement = "INSERT"
-    if replace:
-        statement = "REPLACE"
-    keys = row.keys()
-    col_names = ", ".join(keys)
-    value_names = ", ".join(":" + k for k in keys)
-    sql = "{} INTO {} ({}) VALUES ({})".format(
-        statement, tbl_name, col_names, value_names
-    )
-    cur.execute(sql, row)
-
-
-def update(cur, tbl_name, row, where):
-    keys = row.keys()
-    set_names = ", ".join("{} = :{}".format(k, k) for k in keys)
-    sql = "UPDATE {} SET {} WHERE {}".format(tbl_name, set_names, where)
-    cur.execute(sql, row)
-
-
-def upsert(con, row, where):
-    sql = "SELECT * FROM items WHERE {}".format(where)
-    rows = con.execute(sql, row).fetchall()
-
-    if len(rows) == 0:
-        cur = con.cursor()
-        insert(cur, "items", row)
-        assert cur.rowcount == 1
-        con.commit()
-    if len(rows) == 1:
-        cur = con.cursor()
-        # TODO: Update using rowid
-        update(cur, "items", row, where)
-        assert cur.rowcount == 1
-        con.commit()
-    else:
-        cur = con.cursor()
-        new_row = {}
-        for row in rows:
-            for key in row.keys():
-                if row[key]:
-                    new_row[key] = row[key]
-        insert(cur, "items", new_row, replace=True)
-        assert cur.rowcount == 1
-        con.commit()
-
-
 def update_wikidata_items(con):
     sql = "SELECT wikidata_qid FROM items"
     rows = con.execute(sql)
@@ -98,8 +52,7 @@ def update_wikidata_items(con):
         if "P345" in item and len(item["P345"]) == 1:
             imdb_id = item["P345"][0]
             row = {"wikidata_qid": qid, "imdb_id": imdb_id}
-            where = "wikidata_qid = :wikidata_qid OR imdb_id = :imdb_id"
-            upsert(con, row, where)
+            upsert(con, "items", ["wikidata_qid", "imdb_id"], row)
 
         if "P2047" in item and len(item["P2047"]) == 1:
             duration = int(float(item["P2047"][0]))
@@ -110,37 +63,23 @@ def update_wikidata_items(con):
 
         if "P4947" in item and "P4983" not in item and len(item["P4947"]) == 1:
             tmdb_id = item["P4947"][0]
-            row = {
-                "wikidata_qid": qid,
-                "tmdb_type": "movie",
-                "tmdb_id": tmdb_id,
-            }
-            where = """
-              wikidata_qid = :wikidata_qid OR
-              (tmdb_type = :tmdb_type AND tmdb_id = :tmdb_id)
-            """
-            upsert(con, row, where)
+            row = {"wikidata_qid": qid, "tmdb_type": "movie", "tmdb_id": tmdb_id}
+            upsert(con, "items", ["wikidata_qid", ["tmdb_type", "tmdb_id"]], row)
 
         if "P4983" in item and "P4947" not in item and len(item["P4983"]) == 1:
             tmdb_id = item["P4983"][0]
             row = {"wikidata_qid": qid, "tmdb_type": "tv", "tmdb_id": tmdb_id}
-            where = """
-              wikidata_qid = :wikidata_qid OR
-              (tmdb_type = :tmdb_type AND tmdb_id = :tmdb_id)
-            """
-            upsert(con, row, where)
+            upsert(con, "items", ["wikidata_qid", ["tmdb_type", "tmdb_id"]], row)
 
         if "P9586" in item and "P9751" not in item and len(item["P9586"]) == 1:
             appletv_id = item["P9586"][0]
             row = {"wikidata_qid": qid, "appletv_id": appletv_id}
-            where = "wikidata_qid = :wikidata_qid OR appletv_id = :appletv_id"
-            upsert(con, row, where)
+            upsert(con, "items", ["wikidata_qid", "appletv_id"], row)
 
         if "P9751" in item and "P9586" not in item and len(item["P9751"]) == 1:
             appletv_id = item["P9751"][0]
             row = {"wikidata_qid": qid, "appletv_id": appletv_id}
-            where = "wikidata_qid = :wikidata_qid OR appletv_id = :appletv_id"
-            upsert(con, row, where)
+            upsert(con, "items", ["wikidata_qid", "appletv_id"], row)
 
     items = fetch_labels(qids)
     for qid in items:
