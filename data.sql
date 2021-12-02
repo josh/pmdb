@@ -62,7 +62,7 @@ INSERT INTO items VALUES('Q23722','tt0264235','tv',4546,'show',4522,'umc.cmc.4ko
 INSERT INTO items VALUES('Q23733','tt0098904','tv',1400,'show',1391,'umc.cmc.7wi0fpx37shx0bfxau56ufps','Seinfeld',NULL,23);
 INSERT INTO items VALUES('Q23831','tt0386676','tv',2316,'show',2302,'umc.cmc.455js879szmdywutf3qjewagm','The Office',NULL,NULL);
 INSERT INTO items VALUES('Q24815','tt0033467','movie',15,'movie',11,'umc.cmc.42bh02qjj9pwomt79n7ci0g6e','Citizen Kane',99,119);
-INSERT INTO items VALUES('Q24871','tt0499549','movie',19995,'movie',12269,'umc.cmc.1hmaf5hccvdvn71dc5hr7mgcj','Avatar',81,162);
+INSERT INTO items VALUES('Q24871','tt0499549','movie',19995,'movie',12269,'umc.cmc.1hmaf5hccvdvn71dc5hr7mgcj','Avatar lev',81,162);
 INSERT INTO items VALUES('Q24953','tt0079470','movie',583,NULL,NULL,'umc.cmc.3gr8pnn3t310ng2zjr9gr79ni','Monty Python’s Life of Brian',95,94);
 INSERT INTO items VALUES('Q25043','tt0071853','movie',762,'movie',605,'umc.cmc.5re6h6rrzwtaub8i4bc3udwm6','Monty Python and the Holy Grail',97,91);
 INSERT INTO items VALUES('Q25057','tt0088846','movie',68,'movie',39,'umc.cmc.25tn9231aa7mzrvk4y5ssijqj','Brazil',98,142);
@@ -3601,7 +3601,7 @@ INSERT INTO items VALUES('Q99900595','tt12593682','movie',718930,'movie',561702,
 INSERT INTO items VALUES('Q99926331','tt9100054','movie',554230,'movie',405234,NULL,'The Lost Daughter',100,NULL);
 INSERT INTO items VALUES('Q99938119','tt8545482','movie',675319,'movie',508084,NULL,'Zone 414',NULL,NULL);
 INSERT INTO items VALUES('Q100361490','tt11286314','movie',646380,'movie',483617,NULL,'Don’t Look Up',NULL,145);
-INSERT INTO items VALUES('Q100613366','tt11989890','movie',664280,'movie',497936,NULL,'David Attenborough: A Life on Our Planet',95,NULL);
+INSERT INTO items VALUES('Q100613366','tt11989890','movie',664280,'movie',497936,NULL,'David Attenboroug: A Life on Our Planet',95,NULL);
 INSERT INTO items VALUES('Q100801718','tt10731256','movie',619730,'movie',464903,NULL,'Don''t Worry Darling',NULL,NULL);
 INSERT INTO items VALUES('Q100934044','tt12235718','tv',106651,'show',170211,NULL,'Hellbound',NULL,NULL);
 INSERT INTO items VALUES('Q101069738','tt6920084','movie',460458,NULL,NULL,NULL,'Resident Evil: Welcome to Raccoon City',NULL,106);
