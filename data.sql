@@ -3502,7 +3502,7 @@ INSERT INTO items VALUES('Q84693711','tt10095582','movie',591538,'movie',437960,
 INSERT INTO items VALUES('Q84712813','tt10857164','tv',92782,'show',151853,NULL,'Ms. Marvel',NULL,NULL);
 INSERT INTO items VALUES('Q85000980','tt4244994','movie',617653,'movie',460727,'umc.cmc.5pn94vkq8936chiiqsyo52bc1','The Last Duel',77,152);
 INSERT INTO items VALUES('Q85115721','tt9848536','tv',88713,'show',161186,'umc.cmc.3pdjm6cmv5i298tyrodxwomd7','We Are Who We Are',NULL,NULL);
-INSERT INTO items VALUES('Q85323337','tt10293406','movie',600583,'movie',446376,NULL,'The Power of the Dog',92,NULL);
+INSERT INTO items VALUES('Q85323337','tt10293406','movie',600583,'movie',446376,NULL,'The Power of the Dog',92,126);
 INSERT INTO items VALUES('Q85323361','tt8721424','movie',537116,'movie',388470,NULL,'Tick, Tick... Boom!',NULL,NULL);
 INSERT INTO items VALUES('Q85419727','tt8045468','tv',87393,'show',156903,'umc.cmc.58g06mk1gnpjud5kyk2t7nznk','Run',NULL,NULL);
 INSERT INTO items VALUES('Q85518571','tt11126994','tv',94605,'show',154164,NULL,'Arcane',NULL,NULL);
@@ -3684,7 +3684,7 @@ INSERT INTO items VALUES('Q105657351','tt13453006','movie',763329,'movie',601906
 INSERT INTO items VALUES('Q105657922','tt13622118','movie',776660,'movie',614246,'umc.cmc.771tuqt4kn6d7dldffryrekp0','Cryptozoo',70,NULL);
 INSERT INTO items VALUES('Q105658212','tt3108894','movie',727293,'movie',569479,NULL,'The Tender Bar',NULL,104);
 INSERT INTO items VALUES('Q105686499','tt11188154','movie',795622,'movie',630998,NULL,'WeWork: Or the Making and Breaking of a $47 Billion Unicorn',77,NULL);
-INSERT INTO items VALUES('Q105686521','tt14031338','movie',795530,'movie',631012,NULL,'Language Lessons',96,NULL);
+INSERT INTO items VALUES('Q105686521','tt14031338','movie',795530,'movie',631012,NULL,'Language Lessons',96,91);
 INSERT INTO items VALUES('Q105753321','tt11041132','tv',93716,'show',153528,'umc.cmc.5nghmxp88xe0qxhtlhfiu5r2h','The Mosquito Coast',NULL,NULL);
 INSERT INTO items VALUES('Q105773126','tt10971064','tv',124897,'show',170595,'umc.cmc.2iams7vr2o0i6mtb6wm6r9q1n','Mr. Corman',NULL,NULL);
 INSERT INTO items VALUES('Q105818526','tt10011302','movie',596028,'movie',441951,'umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p','The Emoji Story',92,79);
