@@ -28,16 +28,19 @@ jobs:
           pip install -r script/requirements.txt
 
       - name: Load SQLite database
-        run: sqlite3 data.sqlite3 <data.sql
+        run: sqlite3 data.db <data.sql
+
+      - name: Discover items
+        run: python3 script/discover_items.py -vv --database data.db
 
       - name: Update database
-        run: python3 script/update_data.py -vv --database data.sqlite3
+        run: python3 script/update_data.py -vv --database data.db
 
       - name: Sort table row ids
-        run: python3 script/reinsert_database_table.py --database data.sqlite3 --table items --order-by 'CAST(LTRIM(wikidata_qid,"Q") AS INTEGER)'
+        run: python3 script/reinsert_database_table.py --database data.db --table items --order-by 'CAST(LTRIM(wikidata_qid,"Q") AS INTEGER)'
 
       - name: Dump SQLite database
-        run: sqlite3 data.sqlite3 '.dump'>data.sql
+        run: sqlite3 data.db '.dump'>data.sql
 
       - name: Commit changes
         run: |
