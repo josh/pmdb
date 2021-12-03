@@ -81,7 +81,7 @@ def trakt_request(endpoint):
 
 def extract_row(item):
     row = {}
-    
+
     if "movie" in item:
         row["title"] = item["movie"]["title"]
         ids = item["movie"]["ids"]
