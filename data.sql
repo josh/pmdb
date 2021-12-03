@@ -24,7 +24,6 @@ INSERT INTO items VALUES('Q595','tt1675434','movie',77338,'movie',57181,NULL,'Th
 INSERT INTO items VALUES('Q662','tt0112159','tv',890,'show',885,NULL,'Neon Genesis Evangelion',NULL,NULL);
 INSERT INTO items VALUES('Q886','tt0096697','tv',456,'show',455,NULL,'The Simpsons',NULL,22);
 INSERT INTO items VALUES('Q1079','tt0903747','tv',1396,'show',1388,'umc.cmc.1v90fu25sgywa1e14jwnrt9uc','Breaking Bad',NULL,NULL);
-INSERT INTO items VALUES('Q2085','tt0098936','tv',1920,'show',1907,'umc.cmc.1n2apxyl1chm6vcebyfefmqdk','Twin Peaks',NULL,NULL);
 INSERT INTO items VALUES('Q2201','tt1250777','movie',23483,'movie',14160,'umc.cmc.4uq7djrr388nw9ixykllrvasl','Kick-Ass',76,117);
 INSERT INTO items VALUES('Q2345','tt0050083','movie',389,'movie',309,'umc.cmc.2w9gsodu34xfgr9wjpa4a3llb','12 Angry Men',100,95);
 INSERT INTO items VALUES('Q2744','tt0106179','tv',4087,'show',4063,NULL,'The X-Files',NULL,43);
@@ -2994,7 +2993,7 @@ INSERT INTO items VALUES('Q23894629','tt9032400','movie',524434,'movie',372798,N
 INSERT INTO items VALUES('Q23925035','tt5323662','movie',378064,'movie',225063,NULL,'A Silent Voice',94,129);
 INSERT INTO items VALUES('Q23925037','tt5566790','movie',391710,'movie',234040,'umc.cmc.3580fwtto5qe1bfxniq23msbt','A Futile and Stupid Gesture',67,101);
 INSERT INTO items VALUES('Q23932553','tt3967856','movie',387426,'movie',229330,'umc.cmc.7086i3dk23d565gobtnkutwkr','Okja',86,121);
-INSERT INTO items VALUES('Q23971551','tt4093826','tv',NULL,'show',134095,NULL,'Twin Peaks',NULL,NULL);
+INSERT INTO items VALUES('Q23971551','tt0098936','tv',1920,'show',1907,'umc.cmc.1n2apxyl1chm6vcebyfefmqdk','Twin Peaks',NULL,NULL);
 INSERT INTO items VALUES('Q24034578','tt5491994','tv',68595,'show',112332,NULL,'Planet Earth II',NULL,NULL);
 INSERT INTO items VALUES('Q24034591','tt5704928','tv',68290,'show',108040,'umc.cmc.73ijoz91r1389jmg04ofu54ul','Extra Gear',NULL,NULL);
 INSERT INTO items VALUES('Q24042656','tt5278506','movie',373072,'movie',233859,'umc.cmc.4mwldk5y56nhyfq7yhpsegwqd','Tickled',94,92);
@@ -3344,7 +3343,7 @@ INSERT INTO items VALUES('Q55632932','tt7767422','tv',81356,'show',140590,'umc.c
 INSERT INTO items VALUES('Q55634470','tt8372298','movie',586461,'movie',433827,'umc.cmc.3x3zftaicri7myevqlatv8tth','Swallow',87,94);
 INSERT INTO items VALUES('Q55635187','tt8178486','movie',513409,'movie',361121,'umc.cmc.dl52xlolbqp9u1haof6lz9x','Earthquake Bird',50,108);
 INSERT INTO items VALUES('Q55635222','tt7569576','tv',93287,'show',153823,'umc.cmc.39xnunex9rqudlhd9lkglozgr','The Flight Attendant',NULL,NULL);
-INSERT INTO items VALUES('Q55635302','tt7456722','tv',79622,'show',155090,'umc.cmc.2601i2idx1shkwlrirq98go0a','Hunters',NULL,NULL);
+INSERT INTO items VALUES('Q55635302','tt7456722','tv',79622,'show',141638,'umc.cmc.2601i2idx1shkwlrirq98go0a','Hunters',NULL,NULL);
 INSERT INTO items VALUES('Q55635341','tt7456312','movie',505225,'movie',352472,'umc.cmc.dbo1zzuzubr3edt1huxe5k0b','The Last Thing He Wanted',5,115);
 INSERT INTO items VALUES('Q55636827','tt8303474','tv',78903,'show',145296,NULL,'Utopia',NULL,NULL);
 INSERT INTO items VALUES('Q55637127','tt6378710','movie',510388,'movie',357461,'umc.cmc.5asghj6bxgya2ai453w27beli','Villains',85,NULL);
@@ -3484,7 +3483,7 @@ INSERT INTO items VALUES('Q61740797','tt5562070','movie',550205,'movie',400047,N
 INSERT INTO items VALUES('Q61740809','tt8739240','movie',575812,'movie',433074,'umc.cmc.5133cb23mnan5hkmr1yiy4hzf','Running with Beto',91,NULL);
 INSERT INTO items VALUES('Q61740820','tt9770150','movie',581734,'movie',430483,'umc.cmc.6vwzl6aa6vi63zt7vhblvbeum','Nomadland',93,107);
 INSERT INTO items VALUES('Q61741521','tt9243946','movie',559969,'movie',410927,'umc.cmc.2jwq3uw5z0jrmg396e3lii76x','El Camino: A Breaking Bad Movie',91,122);
-INSERT INTO items VALUES('Q61742231','tt9654080','tv',86807,'show',143789,'umc.cmc.9mi3c70yc0kqwc3uz803xjnb','Dating Around',NULL,NULL);
+INSERT INTO items VALUES('Q61742231','tt9654080','tv',86807,'show',143196,'umc.cmc.9mi3c70yc0kqwc3uz803xjnb','Dating Around',NULL,NULL);
 INSERT INTO items VALUES('Q61774261','tt1831804','tv',86382,'show',144126,'umc.cmc.ekq3rnaw8zz7v98z9nf7t5fe','The Stand',NULL,NULL);
 INSERT INTO items VALUES('Q61782227','tt8851668','movie',576156,'movie',426690,'umc.cmc.mjxbx23kc7f2qqvyuu8yikze','The Lovebirds',66,86);
 INSERT INTO items VALUES('Q61782859','tt2235759','tv',93812,'show',152469,NULL,'The Great',NULL,50);
