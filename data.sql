@@ -1297,7 +1297,7 @@ INSERT INTO items VALUES('Q599432','tt0144528','movie',12107,'movie',7025,'umc.c
 INSERT INTO items VALUES('Q602256','tt1441952','movie',81025,'movie',60417,'umc.cmc.5i0ryy2vs8yya4t607btmanzp','Salmon Fishing in the Yemen',67,108);
 INSERT INTO items VALUES('Q602289','tt0117283','movie',23570,'movie',14201,'umc.cmc.18wcpxobkvnf77trc9qv3r803','The Pallbearer',45,94);
 INSERT INTO items VALUES('Q602600','tt0266452','movie',9275,'movie',4575,'umc.cmc.2dqg8sgwb8uqkwwl6k5gi87hr','Death to Smoochy',42,105);
-INSERT INTO items VALUES('Q603433',NULL,NULL,NULL,NULL,NULL,'umc.cmc.37hfnamsnu5q7utt3mgxnzvzj','Loose Change',NULL,90);
+INSERT INTO items VALUES('Q603433','tt1394268','movie',14277,NULL,NULL,'umc.cmc.37hfnamsnu5q7utt3mgxnzvzj','Loose Change',NULL,90);
 INSERT INTO items VALUES('Q603448','tt0107211','movie',4478,'movie',2626,'umc.cmc.1uewqrrpxd15innpw5pj815qa','Indecent Proposal',35,112);
 INSERT INTO items VALUES('Q603494','tt0324554','movie',11208,'movie',6334,'umc.cmc.6pxetlklfp7nokv8jf2cmjr7b','Wicker Park',27,114);
 INSERT INTO items VALUES('Q603696','tt0099371','movie',2119,'movie',1467,'umc.cmc.14h0i5s30vu04jj2y4ja29m21','Days of Thunder',38,107);
