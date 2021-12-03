@@ -3531,7 +3531,7 @@ INSERT INTO items VALUES('Q87220566','tt11291274','movie',648579,'movie',485187,
 INSERT INTO items VALUES('Q87220906','tt8114980','movie',643586,'movie',481333,'umc.cmc.46asbtrm1jjg0hsrqw0z8zwiw','Willy''s Wonderland',62,NULL);
 INSERT INTO items VALUES('Q88053410','tt5259822','movie',517412,'movie',365657,'umc.cmc.6cmxgh0jvkr5pi33w1bw9phtp','Tesla',58,96);
 INSERT INTO items VALUES('Q88306935','tt11823076','tv',100698,'show',158420,'umc.cmc.eupzmd4udgn6wbybq3dx9ax','Tiger King: Murder, Mayhem and Madness',NULL,NULL);
-INSERT INTO items VALUES('Q88532913','tt9735318','movie',579558,NULL,NULL,NULL,'The Beatles: Get Back',NULL,468);
+INSERT INTO items VALUES('Q88532913','tt9735318','tv',128876,'show',182510,NULL,'The Beatles: Get Back',NULL,468);
 INSERT INTO items VALUES('Q90340902','tt8923484','movie',653725,'movie',488551,'umc.cmc.qw2kxa2btpdu7m9of7rjmfog','Crip Camp',100,NULL);
 INSERT INTO items VALUES('Q90389788','tt10577736','tv',103913,'show',160368,'umc.cmc.337cdk1ou0bmn6frmzxwm7xqd','Tehran',NULL,NULL);
 INSERT INTO items VALUES('Q90766964','tt11656220','movie',693113,'movie',537217,NULL,'Midnight in the Switchgrass',9,NULL);
@@ -3657,7 +3657,7 @@ INSERT INTO items VALUES('Q104870521','tt11394276','movie',653740,'movie',488579
 INSERT INTO items VALUES('Q104872930','tt6060444','movie',731738,'movie',573735,NULL,'The Paper Tigers',98,NULL);
 INSERT INTO items VALUES('Q104874416','tt13648230','movie',776518,'movie',613903,NULL,'In the Same Breath',96,NULL);
 INSERT INTO items VALUES('Q104875494','tt13646976','movie',776596,'movie',614068,'umc.cmc.6t11r8fucomc6fqm9e26avf29','Bring Your Own Brigade',88,NULL);
-INSERT INTO items VALUES('Q104878660','tt11394170','movie',653734,'movie',502395,NULL,'Coded Bias',100,NULL);
+INSERT INTO items VALUES('Q104878660','tt11394170','movie',668818,'movie',502395,NULL,'Coded Bias',100,NULL);
 INSERT INTO items VALUES('Q104881069','tt13648228','movie',776559,'movie',614029,NULL,'How It Ends',66,NULL);
 INSERT INTO items VALUES('Q104882631','tt11508438','movie',776545,'movie',613880,NULL,'One for the Road',66,NULL);
 INSERT INTO items VALUES('Q104891260','tt1649418','movie',725201,'movie',567523,NULL,'The Gray Man',NULL,NULL);
