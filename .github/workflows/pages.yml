@@ -49,5 +49,5 @@ jobs:
         working-directory: gh-pages/
 
       - name: Push changes
-        run: git push
+        run: git push --force origin refs/heads/gh-pages
         working-directory: gh-pages/
