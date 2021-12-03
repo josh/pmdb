@@ -7,18 +7,22 @@ ITEMS_PRIMARY_KEYS = [
 ]
 
 
-def items_upsert(con, row):
-    upsert(con, "items", ITEMS_PRIMARY_KEYS, row)
+def items_upsert(con, row, overwrite=True):
+    upsert(con, "items", ITEMS_PRIMARY_KEYS, row, overwrite)
 
 
-def upsert(con, tbl_name, pks, row):
+def upsert(con, tbl_name, pks, row, overwrite=True):
     cur = con.cursor()
 
     pks = filter_pks(pks, row)
     where_clause = make_where_clause(pks)
     sql = "SELECT * FROM {} WHERE {}".format(tbl_name, where_clause)
     existing_rows = cur.execute(sql, row).fetchall()
-    row = merge_rows(*existing_rows, row)
+
+    if overwrite:
+        row = merge_rows(*existing_rows, row)
+    else:
+        row = merge_rows(row, *existing_rows)
 
     keys = row.keys()
     col_names = ", ".join(keys)

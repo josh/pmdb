@@ -47,7 +47,7 @@ def discover(con):
         for item in trakt_request(endpoint):
             row = extract_row(item)
             assert row
-            items_upsert(con, row)
+            items_upsert(con, row, overwrite=False)
 
 
 def trakt_request(endpoint):
