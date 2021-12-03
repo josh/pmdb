@@ -2993,7 +2993,7 @@ INSERT INTO items VALUES('Q23894629','tt9032400','movie',524434,'movie',372798,N
 INSERT INTO items VALUES('Q23925035','tt5323662','movie',378064,'movie',225063,NULL,'A Silent Voice',94,129);
 INSERT INTO items VALUES('Q23925037','tt5566790','movie',391710,'movie',234040,'umc.cmc.3580fwtto5qe1bfxniq23msbt','A Futile and Stupid Gesture',67,101);
 INSERT INTO items VALUES('Q23932553','tt3967856','movie',387426,'movie',229330,'umc.cmc.7086i3dk23d565gobtnkutwkr','Okja',86,121);
-INSERT INTO items VALUES('Q23971551','tt0098936','tv',1920,'show',1907,'umc.cmc.1n2apxyl1chm6vcebyfefmqdk','Twin Peaks',NULL,NULL);
+INSERT INTO items VALUES('Q23971551','tt4093826','tv',1920,'show',134095,'umc.cmc.1n2apxyl1chm6vcebyfefmqdk','Twin Peaks',NULL,NULL);
 INSERT INTO items VALUES('Q24034578','tt5491994','tv',68595,'show',112332,NULL,'Planet Earth II',NULL,NULL);
 INSERT INTO items VALUES('Q24034591','tt5704928','tv',68290,'show',108040,'umc.cmc.73ijoz91r1389jmg04ofu54ul','Extra Gear',NULL,NULL);
 INSERT INTO items VALUES('Q24042656','tt5278506','movie',373072,'movie',233859,'umc.cmc.4mwldk5y56nhyfq7yhpsegwqd','Tickled',94,92);
