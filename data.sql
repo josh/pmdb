@@ -3796,7 +3796,7 @@ INSERT INTO items VALUES('Q101244908','tt0213338','tv',30991,'show',30857,NULL,'
 INSERT INTO items VALUES('Q101245030','tt11454066','movie',672035,'movie',505284,NULL,'You Cannot Kill David Arquette',84,NULL);
 INSERT INTO items VALUES('Q101245207','tt11140488','movie',652004,'movie',487247,'umc.cmc.38tjz3u4j7trbdnuy27tapup','The Wolf of Snow Hollow',89,83);
 INSERT INTO items VALUES('Q101245209','tt8785030','movie',653710,'movie',488446,NULL,'Beast Beast',79,NULL);
-INSERT INTO items VALUES('Q101420707','tt9174558','tv',110695,'show',168682,NULL,'Dopesick',NULL,NULL);
+INSERT INTO items VALUES('Q101420707','tt9174558','tv',110695,'show',168682,'umc.cmc.3nfl7j0dcbjsczlhzc7yw1wbq','Dopesick',NULL,NULL);
 INSERT INTO items VALUES('Q101440388','tt5834426','movie',406759,'movie',250807,NULL,'Moonfall',NULL,NULL);
 INSERT INTO items VALUES('Q101542419','tt11301642','tv',112745,'show',169287,NULL,'Ethos',NULL,NULL);
 INSERT INTO items VALUES('Q101666960','tt9421570','movie',567748,'movie',417262,NULL,'The Guilty',71,90);
@@ -3909,7 +3909,7 @@ INSERT INTO items VALUES('Q106679014','tt13406094','tv',111803,'show',168471,'um
 INSERT INTO items VALUES('Q106763973','tt14512538','movie',642732,'movie',481586,NULL,'Roadrunner: A Film About Anthony Bourdain',91,NULL);
 INSERT INTO items VALUES('Q106765478','tt14392248','tv',124411,'show',179231,NULL,'Aspirants',NULL,NULL);
 INSERT INTO items VALUES('Q106819328','tt11815682','tv',124101,'show',179632,'umc.cmc.43wmt3l7kce5o3628tdf1ox0v','Hacks (TV series)',NULL,NULL);
-INSERT INTO items VALUES('Q106830311','tt11041332','tv',117488,'show',176276,NULL,'Yellowjackets',NULL,NULL);
+INSERT INTO items VALUES('Q106830311','tt11041332','tv',117488,'show',176276,'umc.cmc.3r0gi7bohabc183116w6r7t0z','Yellowjackets',NULL,NULL);
 INSERT INTO items VALUES('Q106846193','tt10944276','movie',735812,'movie',577316,NULL,'Death of a Telemarketer',NULL,NULL);
 INSERT INTO items VALUES('Q106867709','tt10530900','tv',90966,'show',149834,NULL,'Gullak',NULL,NULL);
 INSERT INTO items VALUES('Q106972163','tt11852724','tv',119033,'show',171855,'umc.cmc.2yiricezxngkbyfosdt8fzq0','Stanley Tucci: Searching for Italy',NULL,NULL);
@@ -3918,7 +3918,7 @@ INSERT INTO items VALUES('Q107069381','tt14544192','movie',823754,'movie',656566
 INSERT INTO items VALUES('Q107071651','tt14673560','movie',830991,'movie',663244,'umc.cmc.ryvo8kqy3813nnbetgg1nfjf','Ride the Eagle',81,NULL);
 INSERT INTO items VALUES('Q107105883','tt2914760','movie',413453,'movie',260325,NULL,'Malibu Road',NULL,NULL);
 INSERT INTO items VALUES('Q107121453','tt14375756','movie',808703,'movie',642902,'umc.cmc.1zuqyrfujuh4ratngp3ncm40s','LFG',94,NULL);
-INSERT INTO items VALUES('Q107132222','tt14164730','tv',131927,'show',187026,NULL,'Dexter: New Blood',NULL,NULL);
+INSERT INTO items VALUES('Q107132222','tt14164730','tv',131927,'show',187026,'umc.cmc.1zzm4893ldk443lyy9xa5839f','Dexter: New Blood',NULL,NULL);
 INSERT INTO items VALUES('Q107202403','tt14731254','movie',834027,'movie',665921,'umc.cmc.pozh1f8s66qulcv10roswf1x','Val',93,NULL);
 INSERT INTO items VALUES('Q107203482','tt9257258','tv',99652,'show',153556,'umc.cmc.1zcw5qvtqaplltm533oeemyd7','Kevin Can F**k Himself',NULL,NULL);
 INSERT INTO items VALUES('Q107233698','tt10541088','tv',117648,'show',159013,NULL,'Clarkson''s Farm',NULL,NULL);
