@@ -32,6 +32,8 @@ jobs:
 
       - name: Discover items
         run: python3 script/discover_items.py -vv --database data.db
+        env:
+          TRAKT_CLIENT_ID: ${{ secrets.TRAKT_CLIENT_ID }}
 
       - name: Update database
         run: python3 script/update_data.py -vv --database data.db
