@@ -136,7 +136,7 @@ def fetch_tomatometer(qids):
 
 
 def extract_qid(uri):
-    assert uri.startswith(ENTITY_URL_PREFIX)
+    assert uri.startswith(ENTITY_URL_PREFIX + "Q"), "invalid entity url: " + uri
     return uri.replace(ENTITY_URL_PREFIX, "")
 
 
