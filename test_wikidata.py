@@ -68,6 +68,7 @@ def test_fetch_media_items():
     assert item["appletv_id"] == "umc.cmc.459n4f98t82t8ommdoa7ebnny"
     assert item["title"] == "The Shawshank Redemption"
     assert item["duration"] == 142
+    assert item["rottentomatoes_id"] == "m/shawshank_redemption"
     assert item["tomatometer"] == 91
 
     item = items["Q1079"]

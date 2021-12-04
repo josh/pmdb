@@ -160,6 +160,7 @@ def batches(iterable, size):
 
 media_properties = {
     "P345",
+    "P1258",
     "P2047",
     "P4947",
     "P4983",
@@ -179,6 +180,9 @@ def fetch_media_items(qids):
 
         if exists_once(item, "P345"):
             result[qid]["imdb_id"] = item["P345"][0]
+
+        if exists_once(item, "P1258"):
+            result[qid]["rottentomatoes_id"] = item["P1258"][0]
 
         if exists_once(item, "P2047"):
             result[qid]["duration"] = int(float(item["P2047"][0]))
