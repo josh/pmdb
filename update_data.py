@@ -31,9 +31,10 @@ def main():
 
 def update_wikidata_items(con):
     rows = con.execute("SELECT wikidata_qid FROM items")
-    rows = fetch_media_items([qid for (qid,) in rows])
-    for qid in rows:
-        items_upsert(con, rows[qid], overwrite=True)
+    qids = set([qid for (qid,) in rows])
+    items = fetch_media_items(qids)
+    for qid in items:
+        items_upsert(con, items[qid], overwrite=True)
     con.commit()
 
 
