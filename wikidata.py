@@ -77,8 +77,6 @@ def fetch_labels(qids):
 
     results = sparql_batch_items(query, qids, batch_size=1000)
     for result in results:
-        if result["item"]["value"] == "http://www.wikidata.org/entity/None":
-            print("DEBUG", result)
         qid = extract_qid(result["item"]["value"])
         label = result["itemLabel"]["value"]
         items[qid] = label
