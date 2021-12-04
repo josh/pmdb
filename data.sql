@@ -3657,7 +3657,7 @@ INSERT INTO items VALUES('Q80322391','tt10838180','movie',624860,'movie',466465,
 INSERT INTO items VALUES('Q81207836','tt3272066','movie',579047,'movie',429258,NULL,'Reminiscence',37,116);
 INSERT INTO items VALUES('Q81560766','tt11426660','tv',97401,'show',156697,'umc.cmc.5p8c1trrhux33dnp1kysefd46','Cheer',NULL,NULL);
 INSERT INTO items VALUES('Q81562219','tt11390530','tv',96815,'show',156517,'umc.cmc.2w8bbd0kz3ax5eyv4a612o04x','Sex, Explained',NULL,NULL);
-INSERT INTO items VALUES('Q82430214','tt7740496','movie',597208,'movie',443066,NULL,'Nightmare Alley',NULL,139);
+INSERT INTO items VALUES('Q82430214','tt7740496','movie',597208,'movie',443066,NULL,'Nightmare Alley',NULL,150);
 INSERT INTO items VALUES('Q83295128','tt4329810','movie',631143,'movie',471502,'umc.cmc.5b6l5pqf6uatkukkvpl6a5i9x','QT8: The First Eight',91,NULL);
 INSERT INTO items VALUES('Q83437242','tt11388406','movie',653601,'movie',488452,'umc.cmc.3c2o2l3bxh8jo4t29poay69sh','Horse Girl',71,103);
 INSERT INTO items VALUES('Q83726435','tt4761112','movie',644583,'movie',484515,'umc.cmc.4grky7892tsldnq7vwhezxtpi','The Mauritanian',75,129);
