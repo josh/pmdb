@@ -3944,9 +3944,9 @@ INSERT INTO items VALUES('Q109284708','tt15523010','movie',879540,'movie',704047
 INSERT INTO items VALUES('Q109285531','tt13622146','movie',819500,'movie',652579,NULL,NULL,'Found',NULL,NULL);
 INSERT INTO items VALUES('Q109607643','tt13622958','tv',114466,'show',170646,NULL,NULL,'Baymax!',NULL,NULL);
 INSERT INTO items VALUES('Q109901438','tt9288030','tv',108978,'show',155536,NULL,NULL,'Reacher',NULL,NULL);
-CREATE UNIQUE INDEX appletv ON "items" ("appletv_id" ASC);
+CREATE UNIQUE INDEX appletv ON "items" ("appletv_id");
 CREATE UNIQUE INDEX trakt ON "items" ("trakt_type", "trakt_id");
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
-CREATE UNIQUE INDEX imdb ON "items" ("imdb_id" ASC);
-CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid" ASC);
+CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
+CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
 COMMIT;
