@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
 
       - name: Checkout code branch
         uses: actions/checkout@v2

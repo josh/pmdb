@@ -25,6 +25,7 @@ jobs:
         with:
           ref: "gh-pages"
           path: "gh-pages"
+          token: ${{ secrets.GIT_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v2
