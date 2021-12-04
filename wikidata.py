@@ -156,3 +156,55 @@ def batches(iterable, size):
 
     if batch:
         yield batch
+
+
+media_properties = {
+    "P345",
+    "P2047",
+    "P4947",
+    "P4983",
+    "P9586",
+    "P9751",
+}
+
+
+def fetch_media_items(qids):
+    result = {}
+    for qid in qids:
+        result[qid] = {}
+
+    items = fetch_statements(qids, media_properties)
+    for qid in items:
+        item = items[qid]
+
+        if exists_once(item, "P345"):
+            result[qid]["imdb_id"] = item["P345"][0]
+
+        if exists_once(item, "P2047"):
+            result[qid]["duration"] = int(float(item["P2047"][0]))
+
+        if exists_once(item, "P4947") and "P4983" not in item:
+            result[qid]["tmdb_type"] = "movie"
+            result[qid]["tmdb_id"] = int(item["P4947"][0])
+        elif exists_once(item, "P4983") and "P4947" not in item:
+            result[qid]["tmdb_type"] = "tv"
+            result[qid]["tmdb_id"] = int(item["P4983"][0])
+
+        if exists_once(item, "P9586") and "P9751" not in item:
+            result[qid]["appletv_id"] = item["P9586"][0]
+        elif exists_once(item, "P9751") and "P9586" not in item:
+            result[qid]["appletv_id"] = item["P9751"][0]
+
+    items = fetch_labels(qids)
+    for qid in items:
+        result[qid]["title"] = items[qid]
+
+    items = fetch_tomatometer(qids)
+    for qid in items:
+        result[qid]["tomatometer"] = items[qid]
+
+    return result
+
+
+def exists_once(obj, key):
+    return key in obj and len(obj[key]) == 1

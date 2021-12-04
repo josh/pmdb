@@ -1,6 +1,7 @@
 from wikidata import (
     fetch_items,
     fetch_labels,
+    fetch_media_items,
     fetch_statements,
     fetch_tomatometer,
     sparql,
@@ -54,3 +55,24 @@ def test_fetch_tomatometer():
     assert len(items) == 1
 
     assert items["Q172241"] == 91
+
+
+def test_fetch_media_items():
+    items = fetch_media_items({"Q172241", "Q1079"})
+    assert len(items) == 2
+
+    item = items["Q172241"]
+    assert item["imdb_id"] == "tt0111161"
+    assert item["tmdb_type"] == "movie"
+    assert item["tmdb_id"] == 278
+    assert item["appletv_id"] == "umc.cmc.459n4f98t82t8ommdoa7ebnny"
+    assert item["title"] == "The Shawshank Redemption"
+    assert item["duration"] == 142
+    assert item["tomatometer"] == 91
+
+    item = items["Q1079"]
+    assert item["imdb_id"] == "tt0903747"
+    assert item["tmdb_type"] == "tv"
+    assert item["tmdb_id"] == 1396
+    assert item["appletv_id"] == "umc.cmc.1v90fu25sgywa1e14jwnrt9uc"
+    assert item["title"] == "Breaking Bad"
