@@ -3,7 +3,6 @@ ITEMS_PRIMARY_KEYS = [
     "imdb_id",
     ["tmdb_type", "tmdb_id"],
     ["trakt_type", "trakt_id"],
-    "appletv_id",
 ]
 
 
