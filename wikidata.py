@@ -201,6 +201,9 @@ def fetch_media_items(qids):
 
     labels = fetch_labels(qids)
     for qid in labels:
+        assert qid
+        assert qid in items
+        assert qid in labels
         items[qid]["title"] = labels[qid]
 
     scores = fetch_tomatometer(qids)
