@@ -21,7 +21,12 @@ def sparql(query):
     data = {"query": query}
     r = requests.post(sparql_url, headers=sparql_headers, data=data)
     r.raise_for_status()
-    return r.json()["results"]["bindings"]
+    # return r.json()["results"]["bindings"]
+
+    for result in r.json()["results"]["bindings"]:
+        if result.get("item", {}).get("value") == "http://www.wikidata.org/entity/None":
+            print("DEBUG", query)
+        yield result
 
 
 def sparql_batch_items(query_template, qids, batch_size):
@@ -75,11 +80,8 @@ def fetch_labels(qids):
       }
     """
 
-    print(qids)
     results = sparql_batch_items(query, qids, batch_size=1000)
     for result in results:
-        if result["item"]["value"] == 'http://www.wikidata.org/entity/None':
-            continue
         qid = extract_qid(result["item"]["value"])
         label = result["itemLabel"]["value"]
         items[qid] = label
