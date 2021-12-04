@@ -80,6 +80,7 @@ def fetch_labels(qids):
         qid = extract_qid(result["item"]["value"])
         label = result["itemLabel"]["value"]
         items[qid] = label
+        assert qid in qids, "{} not in requested set".format(qid)
 
     return items
 
