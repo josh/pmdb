@@ -46,6 +46,9 @@ jobs:
       - name: Dump SQLite database
         run: sqlite3 data.db '.dump'>data.sql
 
+      - name: Clean SQLite database
+        run: rm data.db
+
       - name: Commit changes
         run: |
           git config user.name 'GitHub Actions'
