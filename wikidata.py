@@ -195,13 +195,13 @@ def fetch_media_items(qids):
         elif exists_once(item, "P9751") and "P9586" not in item:
             result[qid]["appletv_id"] = item["P9751"][0]
 
-    items = fetch_labels(qids)
-    for qid in items:
-        result[qid]["title"] = items[qid]
+    labels = fetch_labels(qids)
+    for qid in labels:
+        result[qid]["title"] = labels[qid]
 
-    items = fetch_tomatometer(qids)
-    for qid in items:
-        result[qid]["tomatometer"] = items[qid]
+    scores = fetch_tomatometer(qids)
+    for qid in scores:
+        result[qid]["tomatometer"] = scores[qid]
 
     return result
 
