@@ -8,7 +8,7 @@ CREATE TABLE items (
   trakt_type text CHECK (trakt_type IN ("movie", "show")),
   trakt_id integer CHECK (trakt_id IS NULL OR trakt_type IS NOT NULL),
   appletv_id text CHECK (appletv_id GLOB "umc.cmc.*"),
-  rottentomatoes_id text,
+  rottentomatoes_id text CHECK (rottentomatoes_id GLOB "m/*" OR rottentomatoes_id GLOB "tv/*"),
   title text,
   tomatometer integer,
   duration integer,
