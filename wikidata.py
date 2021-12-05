@@ -74,7 +74,7 @@ def fetch_labels(qids):
       }
     """
 
-    results = sparql_batch_items(query, qids, batch_size=1000)
+    results = sparql_batch_items(query, qids, batch_size=500)
     for result in results:
         qid = extract_qid(result["item"]["value"])
         label = result["itemLabel"]["value"]
@@ -128,7 +128,7 @@ def fetch_tomatometer(qids):
             score = int(result["tomatometer"]["value"].replace("%", ""))
             items[qid] = score
 
-    for qid_batch in batches(qids, size=1000):
+    for qid_batch in batches(qids, size=500):
         fetch(qid_batch)
 
     return items
