@@ -30,7 +30,8 @@ def main():
 
 
 def update_wikidata_items(con):
-    rows = con.execute("SELECT wikidata_qid FROM items")
+    sql = "SELECT wikidata_qid FROM items WHERE wikidata_qid IS NOT NULL"
+    rows = con.execute(sql)
     qids = set([qid for (qid,) in rows])
     items = fetch_media_items(qids)
     for qid in items:
