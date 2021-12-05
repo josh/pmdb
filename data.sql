@@ -10,7 +10,7 @@ CREATE TABLE items (
   appletv_id text CHECK (appletv_id GLOB "umc.cmc.*"),
   rottentomatoes_id text CHECK (rottentomatoes_id GLOB "m/*" OR rottentomatoes_id GLOB "tv/*"),
   title text,
-  tomatometer integer,
+  tomatometer integer CHECK (tomatometer >= 0 AND tomatometer <= 100),
   duration integer,
   CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
