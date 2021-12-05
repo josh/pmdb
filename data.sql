@@ -11,7 +11,7 @@ CREATE TABLE items (
   rottentomatoes_id text CHECK (rottentomatoes_id GLOB "m/*" OR rottentomatoes_id GLOB "tv/*"),
   title text,
   tomatometer integer CHECK (tomatometer >= 0 AND tomatometer <= 100),
-  duration integer,
+  duration integer CHECK (duration >= 0),
   CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
 INSERT INTO items VALUES(NULL,'tt0090509','tv',NULL,'show',142212,NULL,NULL,'The Return of Sherlock Holmes',NULL,NULL);
