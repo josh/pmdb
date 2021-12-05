@@ -16,7 +16,6 @@ def upsert(con, tbl_name, pks, row, overwrite=True):
     pks = filter_pks(pks, row)
     where_clause = make_where_clause(pks)
     sql = "SELECT * FROM {} WHERE {}".format(tbl_name, where_clause)
-    print(sql)
     existing_rows = cur.execute(sql, row).fetchall()
 
     if overwrite:

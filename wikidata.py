@@ -21,13 +21,7 @@ def sparql(query):
     data = {"query": query}
     r = requests.post(sparql_url, headers=sparql_headers, data=data)
     r.raise_for_status()
-    # return r.json()["results"]["bindings"]
-
-    for result in r.json()["results"]["bindings"]:
-        if result.get("item", {}).get("value") == "http://www.wikidata.org/entity/None":
-            print("DEBUG", query)
-        yield result
-
+    return r.json()["results"]["bindings"]
 
 def sparql_batch_items(query_template, qids, batch_size):
     assert "?items" in query_template
