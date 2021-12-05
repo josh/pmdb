@@ -23,6 +23,7 @@ def sparql(query):
     r.raise_for_status()
     return r.json()["results"]["bindings"]
 
+
 def sparql_batch_items(query_template, qids, batch_size):
     assert "?items" in query_template
     for qid_batch in batches(qids, size=batch_size):
@@ -140,6 +141,8 @@ def extract_qid(uri):
 
 
 def values_query(qids, binding="item"):
+    for qid in qids:
+        assert type(qid) is str and qid.startswith("Q"), "invalid qid: {}".format(qid)
     values = " ".join("wd:{}".format(qid) for qid in qids)
     return "VALUES ?" + binding + " { " + values + " }"
 
