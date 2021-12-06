@@ -2372,6 +2372,7 @@ INSERT INTO items VALUES('Q1917925','tt0156812','movie',17908,'movie',10952,'umc
 INSERT INTO items VALUES('Q1933953','tt1439572','movie',51999,'movie',36553,NULL,'m/perfect_sense','Perfect Sense',58,92);
 INSERT INTO items VALUES('Q1959378','tt1121977','movie',37080,'movie',23664,'umc.cmc.3bq0js187zc9ml4j3pi1juiur','m/mother_and_child','Mother and Child',78,125);
 INSERT INTO items VALUES('Q1962835','tt0102015','movie',4539,'movie',2667,'umc.cmc.74lmbqhdqbmfnox6flc4dmvij','m/hearts_of_darkness_a_filmmakers_apocalypse','Hearts of Darkness: A Filmmaker''s Apocalypse',100,96);
+INSERT INTO items VALUES('Q1969617','tt0108598','movie',531,'movie',414,NULL,'m/wallace_and_gromit_the_wrong_trousers','The Wrong Trousers',100,30);
 INSERT INTO items VALUES('Q1971748','tt0119731','movie',9415,'movie',4704,'umc.cmc.2cq0zjx6z6yx88i4ac0ojqga3','m/murder_at_1600','Murder at 1600',33,102);
 INSERT INTO items VALUES('Q1973919','tt0417349','tv',13643,'show',13584,NULL,NULL,'North & South',NULL,NULL);
 INSERT INTO items VALUES('Q2002073','tt0477139','movie',13198,'movie',7744,'umc.cmc.2yl6mfqhlrbyy5zcf7sf1txi1','m/wristcutters_a_love_story','Wristcutters: A Love Story',67,88);
