@@ -187,7 +187,11 @@ def fetch_media_items(qids):
 
         labels_to_fetch.add(qid)
 
-        years = list(int(s[0:4]) for s in item.get("P577", []))
+        years = []
+        for pubdate in item.get("P577", []):
+            year = pubdate[0:4]
+            if year.isdigit():
+                years.append(int(year))
         if years:
             items[qid]["year"] = min(years)
 
