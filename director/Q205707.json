@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q3286391",
+    "imdb_id": "tt1517451",
+    "tmdb_type": "movie",
+    "tmdb_id": 332562,
+    "trakt_type": "movie",
+    "trakt_id": 213443,
+    "plex_type": "movie",
+    "plex_id": "5d776b8b96b655001fe148a8",
+    "appletv_id": "umc.cmc.3pz1dmbs07y7553nlrs7js3by",
+    "rottentomatoes_id": "m/a_star_is_born_2018",
+    "title": "A Star Is Born",
+    "year": 2018,
+    "director_qid": "Q205707",
+    "director": "Bradley Cooper",
+    "duration": 135,
+    "tomatometer": 90
+  }
+]

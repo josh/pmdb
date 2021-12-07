@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q684150",
+  "imdb_id": "tt0061512",
+  "tmdb_type": "movie",
+  "tmdb_id": 903,
+  "trakt_type": "movie",
+  "trakt_id": 746,
+  "plex_type": "movie",
+  "plex_id": "5d776828103a2d001f5648aa",
+  "appletv_id": "umc.cmc.31ec45ekyz6w2ac9m4a6zdx6m",
+  "rottentomatoes_id": "m/cool_hand_luke",
+  "title": "Cool Hand Luke",
+  "year": 1967,
+  "director_qid": "Q966078",
+  "director": "Stuart Rosenberg",
+  "duration": 123,
+  "tomatometer": 100
+}

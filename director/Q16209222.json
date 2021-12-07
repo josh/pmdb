@@ -1,0 +1,34 @@
+[
+  {
+    "wikidata_qid": "Q1130799",
+    "imdb_id": "tt0458254",
+    "tmdb_type": "tv",
+    "tmdb_id": 4385,
+    "trakt_type": "show",
+    "trakt_id": 4361,
+    "plex_type": "show",
+    "plex_id": "5d9c081d2192ba001f307ea3",
+    "appletv_id": "umc.cmc.3k1kkmfgd34hfnk8mc6p1uj01",
+    "rottentomatoes_id": "tv/colbert-report",
+    "title": "The Colbert Report",
+    "director_qid": "Q16209222",
+    "director": "Jim Hoskinson",
+    "duration": 30
+  },
+  {
+    "wikidata_qid": "Q18151598",
+    "imdb_id": "tt3697842",
+    "tmdb_type": "tv",
+    "tmdb_id": 63770,
+    "trakt_type": "show",
+    "trakt_id": 93737,
+    "plex_type": "show",
+    "plex_id": "5d9c0807ffd9ef001e98b056",
+    "appletv_id": "umc.cmc.47en469pzxna0nk9wyqkxgy3b",
+    "rottentomatoes_id": "tv/late-show-with-stephen-colbert",
+    "title": "The Late Show with Stephen Colbert",
+    "director_qid": "Q16209222",
+    "director": "Jim Hoskinson",
+    "duration": 46
+  }
+]

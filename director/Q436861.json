@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q65082453",
+    "imdb_id": "tt9231040",
+    "tmdb_type": "movie",
+    "tmdb_id": 558582,
+    "trakt_type": "movie",
+    "trakt_id": 409198,
+    "plex_type": "movie",
+    "plex_id": "5d7770976afb3d002061db80",
+    "appletv_id": "umc.cmc.3mxjynj5qs69ya80w1e85iveu",
+    "rottentomatoes_id": "m/first_cow",
+    "title": "First Cow",
+    "year": 2019,
+    "director_qid": "Q436861",
+    "director": "Kelly Reichardt",
+    "duration": 121,
+    "tomatometer": 96
+  }
+]

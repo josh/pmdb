@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q598096",
+    "imdb_id": "tt0100054",
+    "tmdb_type": "movie",
+    "tmdb_id": 10847,
+    "trakt_type": "movie",
+    "trakt_id": 6004,
+    "plex_type": "movie",
+    "plex_id": "5d9f3dccb0262f001f6f4eb4",
+    "appletv_id": "umc.cmc.4cmgw3nufbv1hy7wj4ui3vmhu",
+    "rottentomatoes_id": "m/lord_of_the_flies",
+    "title": "Lord of the Flies",
+    "year": 1990,
+    "director_qid": "Q16193642",
+    "director": "Harry Hook",
+    "duration": 90,
+    "tomatometer": 60
+  }
+]

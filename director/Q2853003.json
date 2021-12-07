@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q23780914",
+    "imdb_id": "tt4154756",
+    "tmdb_type": "movie",
+    "tmdb_id": 299536,
+    "trakt_type": "movie",
+    "trakt_id": 191797,
+    "plex_type": "movie",
+    "plex_id": "5d776b377a53e9001e71e283",
+    "appletv_id": "umc.cmc.2do0xuo1u4tjmqbfz1p42a0p9",
+    "rottentomatoes_id": "m/avengers_infinity_war",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "director_qid": "Q2853003",
+    "director": "Russo brothers",
+    "duration": 149,
+    "tomatometer": 85
+  },
+  {
+    "wikidata_qid": "Q23781155",
+    "imdb_id": "tt4154796",
+    "tmdb_type": "movie",
+    "tmdb_id": 299534,
+    "trakt_type": "movie",
+    "trakt_id": 191798,
+    "plex_type": "movie",
+    "plex_id": "5d776b37fb0d55001f56046d",
+    "appletv_id": "umc.cmc.4ao9tm6b6rz4sy7yj5v13ltf8",
+    "rottentomatoes_id": "m/avengers_endgame",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "director_qid": "Q2853003",
+    "director": "Russo brothers",
+    "duration": 181,
+    "tomatometer": 94
+  }
+]

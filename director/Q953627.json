@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1381843",
+    "imdb_id": "tt0404163",
+    "tmdb_type": "movie",
+    "tmdb_id": 19126,
+    "trakt_type": "movie",
+    "trakt_id": 11777,
+    "plex_type": "movie",
+    "plex_id": "5d776844961905001eb96ee9",
+    "appletv_id": "umc.cmc.3d8173u2epofurgcaygaqz9gm",
+    "rottentomatoes_id": "m/even_money",
+    "title": "Even Money",
+    "year": 2007,
+    "director_qid": "Q953627",
+    "director": "Mark Rydell",
+    "duration": 113,
+    "tomatometer": 24
+  }
+]

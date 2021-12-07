@@ -1,0 +1,36 @@
+[
+  {
+    "wikidata_qid": "Q261209",
+    "imdb_id": "tt0062765",
+    "tmdb_type": "movie",
+    "tmdb_id": 916,
+    "trakt_type": "movie",
+    "trakt_id": 758,
+    "plex_type": "movie",
+    "plex_id": "5d7768298a7581001f12c0da",
+    "appletv_id": "umc.cmc.47iu9prcc4cgiy86vxiox6kjt",
+    "rottentomatoes_id": "m/bullitt",
+    "title": "Bullitt",
+    "year": 1968,
+    "director_qid": "Q314301",
+    "director": "Peter Yates",
+    "duration": 113,
+    "tomatometer": 98
+  },
+  {
+    "wikidata_qid": "Q1546058",
+    "imdb_id": "tt0068718",
+    "tmdb_type": "movie",
+    "tmdb_id": 46059,
+    "trakt_type": "movie",
+    "trakt_id": 31528,
+    "appletv_id": "umc.cmc.n7w4fwilc16b81puq03hvsml",
+    "rottentomatoes_id": "m/hot_rock",
+    "title": "The Hot Rock",
+    "year": 1972,
+    "director_qid": "Q314301",
+    "director": "Peter Yates",
+    "duration": 101,
+    "tomatometer": 78
+  }
+]

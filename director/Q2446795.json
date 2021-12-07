@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1427248",
+    "imdb_id": "tt1054588",
+    "tmdb_type": "movie",
+    "tmdb_id": 14914,
+    "trakt_type": "movie",
+    "trakt_id": 9045,
+    "plex_type": "movie",
+    "plex_id": "5d77683c7228e5001f1dfbc1",
+    "appletv_id": "umc.cmc.1694ai8dqx5dmrdwfp2u66nxs",
+    "rottentomatoes_id": "m/flash_of_genius",
+    "title": "Flash of Genius",
+    "year": 2008,
+    "director_qid": "Q2446795",
+    "director": "Marc Abraham",
+    "duration": 120,
+    "tomatometer": 61
+  }
+]

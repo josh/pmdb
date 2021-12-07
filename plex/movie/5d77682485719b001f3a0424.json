@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q217182",
+  "imdb_id": "tt0099487",
+  "tmdb_type": "movie",
+  "tmdb_id": 162,
+  "trakt_type": "movie",
+  "trakt_id": 127,
+  "plex_type": "movie",
+  "plex_id": "5d77682485719b001f3a0424",
+  "appletv_id": "umc.cmc.4ygepzc66jc8v75rpukqh5lro",
+  "rottentomatoes_id": "m/edward_scissorhands",
+  "title": "Edward Scissorhands",
+  "year": 1990,
+  "director_qid": "Q56008",
+  "director": "Tim Burton",
+  "duration": 105,
+  "tomatometer": 90
+}

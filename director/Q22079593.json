@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q634493",
+    "imdb_id": "tt0290095",
+    "tmdb_type": "movie",
+    "tmdb_id": 10771,
+    "trakt_type": "movie",
+    "trakt_id": 5933,
+    "plex_type": "movie",
+    "plex_id": "5d9f34fb6fc551001ef7fc89",
+    "appletv_id": "umc.cmc.4w1l28pz5wwsfbozz7ssudwyx",
+    "rottentomatoes_id": "m/tuxedo",
+    "title": "The Tuxedo",
+    "year": 2002,
+    "director_qid": "Q22079593",
+    "director": "Kevin Donovan",
+    "duration": 94,
+    "tomatometer": 21
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "wikidata_qid": "Q20502242",
+    "imdb_id": "tt0451279",
+    "tmdb_type": "movie",
+    "tmdb_id": 297762,
+    "trakt_type": "movie",
+    "trakt_id": 192487,
+    "plex_type": "movie",
+    "plex_id": "5d776b32ad5437001f797096",
+    "appletv_id": "umc.cmc.z7v0grnlsjbdd8l699lou0wq",
+    "rottentomatoes_id": "m/wonder_woman_2017",
+    "title": "Wonder Woman",
+    "year": 2017,
+    "director_qid": "Q456910",
+    "director": "Patty Jenkins",
+    "duration": 141,
+    "tomatometer": 93
+  },
+  {
+    "wikidata_qid": "Q33408623",
+    "imdb_id": "tt7126948",
+    "tmdb_type": "movie",
+    "tmdb_id": 464052,
+    "trakt_type": "movie",
+    "trakt_id": 311212,
+    "plex_type": "movie",
+    "plex_id": "5d776d43fb0d55001f59bbbc",
+    "appletv_id": "umc.cmc.1pq7jxkjbskjmlbiskxlydtef",
+    "rottentomatoes_id": "m/wonder_woman_1984",
+    "title": "Wonder Woman 1984",
+    "year": 2020,
+    "director_qid": "Q456910",
+    "director": "Patty Jenkins",
+    "duration": 151,
+    "tomatometer": 58
+  },
+  {
+    "wikidata_qid": "Q55360440",
+    "imdb_id": "tt7186588",
+    "tmdb_type": "tv",
+    "tmdb_id": 81239,
+    "trakt_type": "show",
+    "trakt_id": 133887,
+    "plex_type": "show",
+    "plex_id": "5d9c08f546115600200ae2c9",
+    "appletv_id": "umc.cmc.4flhqk2pl0qp50xpqsl80c5dk",
+    "rottentomatoes_id": "tv/i_am_the_night",
+    "title": "I Am the Night",
+    "director_qid": "Q456910",
+    "director": "Patty Jenkins"
+  }
+]

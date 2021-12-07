@@ -1,0 +1,52 @@
+[
+  {
+    "wikidata_qid": "Q473628",
+    "imdb_id": "tt0106965",
+    "tmdb_type": "movie",
+    "tmdb_id": 1634,
+    "trakt_type": "movie",
+    "trakt_id": 1080,
+    "plex_type": "movie",
+    "plex_id": "5d776829880197001ec91382",
+    "appletv_id": "umc.cmc.4akfargc6e10a6cfsoafdftpx",
+    "rottentomatoes_id": "m/free_willy",
+    "title": "Free Willy",
+    "year": 1993,
+    "director_qid": "Q1368884",
+    "director": "Simon Wincer",
+    "duration": 107,
+    "tomatometer": 71
+  },
+  {
+    "wikidata_qid": "Q1170071",
+    "imdb_id": "tt0117331",
+    "tmdb_type": "movie",
+    "tmdb_id": 9826,
+    "trakt_type": "movie",
+    "trakt_id": 5082,
+    "plex_type": "movie",
+    "plex_id": "5d776833961905001eb938af",
+    "appletv_id": "umc.cmc.2ptx7uub1p6f9b7g8ctbnhh0u",
+    "rottentomatoes_id": "m/1072083-phantom",
+    "title": "The Phantom",
+    "year": 1996,
+    "director_qid": "Q1368884",
+    "director": "Simon Wincer",
+    "duration": 96,
+    "tomatometer": 43
+  },
+  {
+    "wikidata_qid": "Q2547946",
+    "imdb_id": "tt0096639",
+    "tmdb_type": "tv",
+    "tmdb_id": 41692,
+    "trakt_type": "show",
+    "trakt_id": 41488,
+    "plex_type": "show",
+    "plex_id": "5d9c0862e264b7001fc42945",
+    "rottentomatoes_id": "tv/lonesome_dove",
+    "title": "Lonesome Dove",
+    "director_qid": "Q1368884",
+    "director": "Simon Wincer"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q200437",
+    "imdb_id": "tt0079944",
+    "tmdb_type": "movie",
+    "tmdb_id": 1398,
+    "trakt_type": "movie",
+    "trakt_id": 932,
+    "plex_type": "movie",
+    "plex_id": "5d7768292e80df001ebdd260",
+    "appletv_id": "umc.cmc.6tlak228cs2e9rrcwkffz5kq1",
+    "rottentomatoes_id": "m/1043378-stalker",
+    "title": "Stalker",
+    "year": 1979,
+    "director_qid": "Q853",
+    "director": "Andrei Tarkovsky",
+    "duration": 163,
+    "tomatometer": 100
+  },
+  {
+    "wikidata_qid": "Q503046",
+    "imdb_id": "tt0060107",
+    "tmdb_type": "movie",
+    "tmdb_id": 895,
+    "trakt_type": "movie",
+    "trakt_id": 738,
+    "plex_type": "movie",
+    "plex_id": "5d7768298a7581001f12c0d8",
+    "appletv_id": "umc.cmc.2y4kgycte536fl01d8n1qhwx1",
+    "rottentomatoes_id": "m/andrei_rublev",
+    "title": "Andrei Rublev",
+    "year": 1966,
+    "director_qid": "Q853",
+    "director": "Andrei Tarkovsky",
+    "duration": 185,
+    "tomatometer": 95
+  }
+]

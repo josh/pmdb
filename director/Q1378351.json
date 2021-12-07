@@ -1,0 +1,34 @@
+[
+  {
+    "wikidata_qid": "Q27703156",
+    "imdb_id": "tt5884230",
+    "tmdb_type": "movie",
+    "tmdb_id": 425980,
+    "trakt_type": "movie",
+    "trakt_id": 294598,
+    "appletv_id": "umc.cmc.6kgckplwo510ggra7hgj6l3gp",
+    "rottentomatoes_id": "m/brads_status",
+    "title": "Brad's Status",
+    "year": 2017,
+    "director_qid": "Q1378351",
+    "director": "Mike White",
+    "duration": 101,
+    "tomatometer": 79
+  },
+  {
+    "wikidata_qid": "Q106679014",
+    "imdb_id": "tt13406094",
+    "tmdb_type": "tv",
+    "tmdb_id": 111803,
+    "trakt_type": "show",
+    "trakt_id": 168471,
+    "plex_type": "show",
+    "plex_id": "5f9075bb583581002d739d91",
+    "appletv_id": "umc.cmc.3c8psnhdn9viikje3kvq69fyr",
+    "rottentomatoes_id": "tv/the_white_lotus",
+    "title": "The White Lotus",
+    "director_qid": "Q1378351",
+    "director": "Mike White",
+    "tomatometer": 88
+  }
+]

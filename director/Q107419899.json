@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q39069693",
+    "imdb_id": "tt5867314",
+    "tmdb_type": "movie",
+    "tmdb_id": 516632,
+    "trakt_type": "movie",
+    "trakt_id": 364989,
+    "plex_type": "movie",
+    "plex_id": "5d77703dfb0d55001f5eb8d6",
+    "appletv_id": "umc.cmc.6mosuxkkut5fc2ctyaprexaw",
+    "rottentomatoes_id": "m/the_empty_man",
+    "title": "The Empty Man",
+    "year": 2020,
+    "director_qid": "Q107419899",
+    "director": "David Prior",
+    "duration": 137,
+    "tomatometer": 75
+  }
+]

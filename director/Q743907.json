@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q586880",
+    "imdb_id": "tt0067927",
+    "tmdb_type": "movie",
+    "tmdb_id": 11951,
+    "trakt_type": "movie",
+    "trakt_id": 6965,
+    "plex_type": "movie",
+    "plex_id": "5d776837961905001eb94a08",
+    "rottentomatoes_id": "m/1022504-vanishing_point",
+    "title": "Vanishing Point",
+    "year": 1971,
+    "director_qid": "Q743907",
+    "director": "Richard C. Sarafian",
+    "duration": 98,
+    "tomatometer": 79
+  }
+]

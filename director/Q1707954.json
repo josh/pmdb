@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1199839",
+    "imdb_id": "tt0093300",
+    "tmdb_type": "movie",
+    "tmdb_id": 580,
+    "trakt_type": "movie",
+    "trakt_id": 459,
+    "plex_type": "movie",
+    "plex_id": "5d77682754f42c001f8c2911",
+    "appletv_id": "umc.cmc.5flru2ysuf1nqmipw7bqsgulr",
+    "rottentomatoes_id": "m/jaws_the_revenge",
+    "title": "Jaws: The Revenge",
+    "year": 1987,
+    "director_qid": "Q1707954",
+    "director": "Joseph Sargent",
+    "duration": 86,
+    "tomatometer": 3
+  }
+]

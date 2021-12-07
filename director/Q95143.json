@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q271830",
+    "imdb_id": "tt0041959",
+    "tmdb_type": "movie",
+    "tmdb_id": 1092,
+    "trakt_type": "movie",
+    "trakt_id": 844,
+    "plex_type": "movie",
+    "plex_id": "5d7768283c3c2a001fbcb8b3",
+    "appletv_id": "umc.cmc.33e6r9d99u94yb2l9zuorhmgr",
+    "rottentomatoes_id": "m/the_third_man",
+    "title": "The Third Man",
+    "year": 1949,
+    "director_qid": "Q95143",
+    "director": "Carol Reed",
+    "tomatometer": 99
+  }
+]

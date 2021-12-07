@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1971748",
+    "imdb_id": "tt0119731",
+    "tmdb_type": "movie",
+    "tmdb_id": 9415,
+    "trakt_type": "movie",
+    "trakt_id": 4704,
+    "plex_type": "movie",
+    "plex_id": "5d776833e6d55c002040c8cc",
+    "appletv_id": "umc.cmc.2cq0zjx6z6yx88i4ac0ojqga3",
+    "rottentomatoes_id": "m/murder_at_1600",
+    "title": "Murder at 1600",
+    "year": 1997,
+    "director_qid": "Q1268483",
+    "director": "Dwight H. Little",
+    "duration": 102,
+    "tomatometer": 33
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q555814",
+    "imdb_id": "tt0325596",
+    "tmdb_type": "movie",
+    "tmdb_id": 11588,
+    "trakt_type": "movie",
+    "trakt_id": 6665,
+    "plex_type": "movie",
+    "plex_id": "5d7768373c3c2a001fbce991",
+    "appletv_id": "umc.cmc.4edv4rx6l187j1v7bglyj5p1o",
+    "rottentomatoes_id": "m/i_inside",
+    "title": "The I Inside",
+    "year": 2004,
+    "director_qid": "Q75714",
+    "director": "Roland Suso Richter",
+    "duration": 87,
+    "tomatometer": 43
+  }
+]

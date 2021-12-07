@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1437261",
+    "imdb_id": "tt0858479",
+    "tmdb_type": "movie",
+    "tmdb_id": 12890,
+    "trakt_type": "movie",
+    "trakt_id": 7558,
+    "plex_type": "movie",
+    "plex_id": "5d776839999c64001ec301f2",
+    "appletv_id": "umc.cmc.60j8go0ylc37mlcjaflx41h6u",
+    "rottentomatoes_id": "m/1192938-smart_people",
+    "title": "Smart People",
+    "year": 2008,
+    "director_qid": "Q15277249",
+    "director": "Noam Murro",
+    "duration": 95,
+    "tomatometer": 50
+  }
+]

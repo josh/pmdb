@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q385036",
+    "imdb_id": "tt1646980",
+    "tmdb_type": "movie",
+    "tmdb_id": 73499,
+    "trakt_type": "movie",
+    "trakt_id": 54014,
+    "plex_type": "movie",
+    "plex_id": "5d9f35b6ca3253001ef29f8e",
+    "appletv_id": "umc.cmc.67g7vhpkrji4fdhj6k98upjs3",
+    "rottentomatoes_id": "m/the_double_2011",
+    "title": "The Double",
+    "year": 2011,
+    "director_qid": "Q3856120",
+    "director": "Michael Brandt",
+    "duration": 98,
+    "tomatometer": 21
+  }
+]

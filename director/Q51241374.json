@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q33256085",
+    "imdb_id": "tt6212478",
+    "tmdb_type": "movie",
+    "tmdb_id": 489931,
+    "trakt_type": "movie",
+    "trakt_id": 337055,
+    "plex_type": "movie",
+    "plex_id": "5d776d9796b655001fe4d388",
+    "appletv_id": "umc.cmc.531v0hw3o5sfbjg2celp5b783",
+    "rottentomatoes_id": "m/american_animals",
+    "title": "American Animals",
+    "year": 2018,
+    "director_qid": "Q51241374",
+    "director": "Bart Layton",
+    "duration": 116,
+    "tomatometer": 88
+  }
+]

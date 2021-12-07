@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q28489891",
+    "imdb_id": "tt1365519",
+    "tmdb_type": "movie",
+    "tmdb_id": 338970,
+    "trakt_type": "movie",
+    "trakt_id": 219436,
+    "plex_type": "movie",
+    "plex_id": "5d776b9e96b655001fe16fd9",
+    "appletv_id": "umc.cmc.6ej8o082anw0xrzfaw4k5a2mv",
+    "rottentomatoes_id": "m/tomb_raider_2018",
+    "title": "Tomb Raider",
+    "year": 2018,
+    "director_qid": "Q1780665",
+    "director": "Roar Uthaug",
+    "duration": 118,
+    "tomatometer": 52
+  }
+]

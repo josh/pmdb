@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q105393880",
+    "imdb_id": "tt13403046",
+    "tmdb_type": "movie",
+    "tmdb_id": 787752,
+    "trakt_type": "movie",
+    "trakt_id": 624213,
+    "plex_type": "movie",
+    "plex_id": "5fa5045bdfd34b002e79720f",
+    "appletv_id": "umc.cmc.1obuvvvue23glw3w7xfd5dceb",
+    "rottentomatoes_id": "m/fresh_2022",
+    "title": "Fresh",
+    "year": 2022,
+    "director_qid": "Q110644906",
+    "director": "Mimi Cave",
+    "duration": 114
+  }
+]

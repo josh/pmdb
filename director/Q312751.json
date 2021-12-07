@@ -1,0 +1,37 @@
+[
+  {
+    "wikidata_qid": "Q860479",
+    "imdb_id": "tt0383028",
+    "tmdb_type": "movie",
+    "tmdb_id": 4960,
+    "trakt_type": "movie",
+    "trakt_id": 2893,
+    "plex_type": "movie",
+    "plex_id": "5d9f34f2e4fc29001eb648f2",
+    "appletv_id": "umc.cmc.49y2389kloyk68ufg39vz4plo",
+    "rottentomatoes_id": "m/synecdoche_new_york",
+    "title": "Synecdoche, New York",
+    "year": 2008,
+    "director_qid": "Q312751",
+    "director": "Charlie Kaufman",
+    "duration": 124,
+    "tomatometer": 69
+  },
+  {
+    "wikidata_qid": "Q63226470",
+    "imdb_id": "tt7939766",
+    "tmdb_type": "movie",
+    "tmdb_id": 500840,
+    "trakt_type": "movie",
+    "trakt_id": 348052,
+    "plex_type": "movie",
+    "plex_id": "5d776d9f594b2b001e70dbe2",
+    "rottentomatoes_id": "m/im_thinking_of_ending_things",
+    "title": "I'm Thinking of Ending Things",
+    "year": 2020,
+    "director_qid": "Q312751",
+    "director": "Charlie Kaufman",
+    "duration": 134,
+    "tomatometer": 82
+  }
+]

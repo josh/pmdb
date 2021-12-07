@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q208572",
+    "imdb_id": "tt0120586",
+    "tmdb_type": "movie",
+    "tmdb_id": 73,
+    "trakt_type": "movie",
+    "trakt_id": 43,
+    "plex_type": "movie",
+    "plex_id": "5d7768242ec6b5001f6ba12d",
+    "appletv_id": "umc.cmc.5hy97p3z19vf7iafmc3ug4jep",
+    "rottentomatoes_id": "m/american_history_x",
+    "title": "American History X",
+    "year": 1998,
+    "director_qid": "Q1070690",
+    "director": "Tony Kaye",
+    "duration": 114,
+    "tomatometer": 83
+  }
+]

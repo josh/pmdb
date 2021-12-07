@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q14320",
+  "imdb_id": "tt0319262",
+  "tmdb_type": "movie",
+  "tmdb_id": 435,
+  "trakt_type": "movie",
+  "trakt_id": 346,
+  "plex_type": "movie",
+  "plex_id": "5d776825961905001eb90ccb",
+  "appletv_id": "umc.cmc.6a4d21rv7s6bqileg9e24tu0s",
+  "rottentomatoes_id": "m/day_after_tomorrow",
+  "title": "The Day After Tomorrow",
+  "year": 2004,
+  "director_qid": "Q60100",
+  "director": "Roland Emmerich",
+  "duration": 118,
+  "tomatometer": 45
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "wikidata_qid": "Q48313895",
+    "imdb_id": "tt5960374",
+    "tmdb_type": "movie",
+    "tmdb_id": 429202,
+    "trakt_type": "movie",
+    "trakt_id": 273221,
+    "plex_type": "movie",
+    "plex_id": "5d776c9496b655001fe3532f",
+    "appletv_id": "umc.cmc.4awa8t9foxjl9gvlm7c8s6rcn",
+    "rottentomatoes_id": "m/vox_lux",
+    "title": "Vox Lux",
+    "year": 2018,
+    "director_qid": "Q897115",
+    "director": "Brady Corbet",
+    "duration": 114,
+    "tomatometer": 62
+  },
+  {
+    "wikidata_qid": "Q101112656",
+    "imdb_id": "tt8999762",
+    "tmdb_type": "movie",
+    "tmdb_id": 549509,
+    "trakt_type": "movie",
+    "trakt_id": 399330,
+    "title": "The Brutalist",
+    "year": 2021,
+    "director_qid": "Q897115",
+    "director": "Brady Corbet"
+  }
+]

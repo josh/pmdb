@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q962809",
+    "imdb_id": "tt0112461",
+    "tmdb_type": "movie",
+    "tmdb_id": 10474,
+    "trakt_type": "movie",
+    "trakt_id": 5657,
+    "plex_type": "movie",
+    "plex_id": "5d9f34fa9dd5f4001e842d0d",
+    "appletv_id": "umc.cmc.1ijt0ulc2r4ebusipak0hnss4",
+    "rottentomatoes_id": "m/basketball_diaries",
+    "title": "The Basketball Diaries",
+    "year": 1995,
+    "director_qid": "Q16019723",
+    "director": "Scott Kalvert",
+    "duration": 90,
+    "tomatometer": 45
+  }
+]

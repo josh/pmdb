@@ -1,0 +1,53 @@
+[
+  {
+    "wikidata_qid": "Q25136757",
+    "imdb_id": "tt5726616",
+    "tmdb_type": "movie",
+    "tmdb_id": 398818,
+    "trakt_type": "movie",
+    "trakt_id": 241956,
+    "plex_type": "movie",
+    "plex_id": "5d776c43fb0d55001f58253f",
+    "appletv_id": "umc.cmc.4qs91ldaqauuwed1v8i1dz1c7",
+    "rottentomatoes_id": "m/call_me_by_your_name",
+    "title": "Call Me by Your Name",
+    "year": 2017,
+    "director_qid": "Q1335528",
+    "director": "Luca Guadagnino",
+    "duration": 132,
+    "tomatometer": 94
+  },
+  {
+    "wikidata_qid": "Q28123467",
+    "imdb_id": "tt1034415",
+    "tmdb_type": "movie",
+    "tmdb_id": 361292,
+    "trakt_type": "movie",
+    "trakt_id": 259044,
+    "plex_type": "movie",
+    "plex_id": "5d776be096b655001fe1ee2c",
+    "appletv_id": "umc.cmc.g9vorhq4d0bp88mpt74ixu1z",
+    "rottentomatoes_id": "m/suspiria_2018",
+    "title": "Suspiria",
+    "year": 2018,
+    "director_qid": "Q1335528",
+    "director": "Luca Guadagnino",
+    "duration": 152,
+    "tomatometer": 65
+  },
+  {
+    "wikidata_qid": "Q85115721",
+    "imdb_id": "tt9848536",
+    "tmdb_type": "tv",
+    "tmdb_id": 88713,
+    "trakt_type": "show",
+    "trakt_id": 161186,
+    "plex_type": "show",
+    "plex_id": "5d9c09283c3f87001f35cf0f",
+    "appletv_id": "umc.cmc.3pdjm6cmv5i298tyrodxwomd7",
+    "rottentomatoes_id": "tv/we_are_who_we_are",
+    "title": "We Are Who We Are",
+    "director_qid": "Q1335528",
+    "director": "Luca Guadagnino"
+  }
+]

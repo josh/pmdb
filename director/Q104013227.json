@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q65158549",
+    "imdb_id": "tt5363618",
+    "tmdb_type": "movie",
+    "tmdb_id": 502033,
+    "trakt_type": "movie",
+    "trakt_id": 348846,
+    "plex_type": "movie",
+    "plex_id": "5d776da696b655001fe4eaef",
+    "appletv_id": "umc.cmc.tq9fx7eigyh5vrzx484vbtvf",
+    "rottentomatoes_id": "m/sound_of_metal",
+    "title": "Sound of Metal",
+    "year": 2019,
+    "director_qid": "Q104013227",
+    "director": "Darius Marder",
+    "duration": 120,
+    "tomatometer": 97
+  }
+]

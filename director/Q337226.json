@@ -1,0 +1,35 @@
+[
+  {
+    "wikidata_qid": "Q249040",
+    "imdb_id": "tt0910905",
+    "tmdb_type": "movie",
+    "tmdb_id": 13975,
+    "trakt_type": "movie",
+    "trakt_id": 8342,
+    "plex_type": "movie",
+    "plex_id": "5d77683b151a60001f24f0d7",
+    "appletv_id": "umc.cmc.d6g3bsasxm74be4j7qkd99sk",
+    "rottentomatoes_id": "m/in_the_electric_mist",
+    "title": "In the Electric Mist",
+    "year": 2009,
+    "director_qid": "Q337226",
+    "director": "Bertrand Tavernier",
+    "duration": 117,
+    "tomatometer": 58
+  },
+  {
+    "wikidata_qid": "Q576371",
+    "imdb_id": "tt0090557",
+    "tmdb_type": "movie",
+    "tmdb_id": 14670,
+    "trakt_type": "movie",
+    "trakt_id": 8864,
+    "rottentomatoes_id": "m/round_midnight",
+    "title": "Round Midnight",
+    "year": 1986,
+    "director_qid": "Q337226",
+    "director": "Bertrand Tavernier",
+    "duration": 133,
+    "tomatometer": 100
+  }
+]

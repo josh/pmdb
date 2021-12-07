@@ -1,0 +1,36 @@
+[
+  {
+    "wikidata_qid": "Q61040213",
+    "imdb_id": "tt10155688",
+    "tmdb_type": "tv",
+    "tmdb_id": 115004,
+    "trakt_type": "show",
+    "trakt_id": 153275,
+    "plex_type": "show",
+    "plex_id": "5e21a3bafa5376004190dccc",
+    "appletv_id": "umc.cmc.3dfp0e1k4wjrkfygos5dy53u4",
+    "rottentomatoes_id": "tv/mare_of_easttown",
+    "title": "Mare of Easttown",
+    "director_qid": "Q5181627",
+    "director": "Craig Zobel",
+    "duration": 410
+  },
+  {
+    "wikidata_qid": "Q62720813",
+    "imdb_id": "tt8244784",
+    "tmdb_type": "movie",
+    "tmdb_id": 514847,
+    "trakt_type": "movie",
+    "trakt_id": 363240,
+    "plex_type": "movie",
+    "plex_id": "5d7770366afb3d0020614de2",
+    "appletv_id": "umc.cmc.2bc8p4o8floxwy0qq4f4e9op7",
+    "rottentomatoes_id": "m/the_hunt_2019",
+    "title": "The Hunt",
+    "year": 2020,
+    "director_qid": "Q5181627",
+    "director": "Craig Zobel",
+    "duration": 90,
+    "tomatometer": 57
+  }
+]

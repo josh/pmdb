@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q96384692",
+    "imdb_id": "tt11307724",
+    "tmdb_type": "movie",
+    "tmdb_id": 682532,
+    "trakt_type": "movie",
+    "trakt_id": 527356,
+    "plex_type": "movie",
+    "plex_id": "5e9184069bec79003fe50679",
+    "appletv_id": "umc.cmc.2hagqbdmsazeo9lwxf6p52kjz",
+    "rottentomatoes_id": "m/john_and_the_hole",
+    "title": "John and the Hole",
+    "year": 2021,
+    "director_qid": "Q104368548",
+    "director": "Pascual Sisto",
+    "duration": 98,
+    "tomatometer": 58
+  }
+]

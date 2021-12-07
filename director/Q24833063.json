@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q51879925",
+    "imdb_id": "tt8185182",
+    "tmdb_type": "movie",
+    "tmdb_id": 486898,
+    "trakt_type": "movie",
+    "trakt_id": 333979,
+    "plex_type": "movie",
+    "plex_id": "5d776d80594b2b001e70abfd",
+    "appletv_id": "umc.cmc.70hnp1sedssqf44g7r9u0rkx8",
+    "rottentomatoes_id": "m/long_days_journey_into_night",
+    "title": "Long Day's Journey into Night",
+    "year": 2018,
+    "director_qid": "Q24833063",
+    "director": "Bi Gan",
+    "duration": 138,
+    "tomatometer": 93
+  }
+]

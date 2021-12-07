@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q765677",
+    "imdb_id": "tt0278736",
+    "tmdb_type": "movie",
+    "tmdb_id": 30416,
+    "trakt_type": "movie",
+    "trakt_id": 19286,
+    "plex_type": "movie",
+    "plex_id": "5d77685beb5d26001f1e7b12",
+    "appletv_id": "umc.cmc.75b8wgfctj3bqjkx4vf8t64pb",
+    "rottentomatoes_id": "m/stanley_kubrick_a_life_in_pictures",
+    "title": "Stanley Kubrick: A Life in Pictures",
+    "year": 2001,
+    "director_qid": "Q69234",
+    "director": "Jan Harlan",
+    "duration": 142,
+    "tomatometer": 86
+  }
+]

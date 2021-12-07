@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q27964354",
+    "imdb_id": "tt7282468",
+    "tmdb_type": "movie",
+    "tmdb_id": 491584,
+    "trakt_type": "movie",
+    "trakt_id": 338552,
+    "plex_type": "movie",
+    "plex_id": "5d776f1af617c90020198e25",
+    "appletv_id": "umc.cmc.2tk6930hx41blpqwgk9o5hqvs",
+    "rottentomatoes_id": "m/burning_2018",
+    "title": "Burning",
+    "year": 2018,
+    "director_qid": "Q239656",
+    "director": "Lee Chang-dong",
+    "duration": 148,
+    "tomatometer": 95
+  }
+]

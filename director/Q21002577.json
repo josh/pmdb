@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q109284828",
+    "imdb_id": "tt11127680",
+    "tmdb_type": "movie",
+    "tmdb_id": 807196,
+    "trakt_type": "movie",
+    "trakt_id": 641839,
+    "plex_type": "movie",
+    "plex_id": "5f408dfcfea1a1003fad88f0",
+    "appletv_id": "umc.cmc.vxi26ov03pq2ck938d7rhwz",
+    "rottentomatoes_id": "m/boiling_point_2021",
+    "title": "Boiling Point",
+    "year": 2021,
+    "director_qid": "Q21002577",
+    "director": "Philip Barantini",
+    "duration": 92
+  }
+]

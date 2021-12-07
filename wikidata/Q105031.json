@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q105031",
+  "imdb_id": "tt0099785",
+  "tmdb_type": "movie",
+  "tmdb_id": 771,
+  "trakt_type": "movie",
+  "trakt_id": 614,
+  "plex_type": "movie",
+  "plex_id": "5d7768275af944001f1f6dc9",
+  "appletv_id": "umc.cmc.43qg0hbj3zyyum9us4nzbz9x5",
+  "rottentomatoes_id": "m/home_alone",
+  "title": "Home Alone",
+  "year": 1990,
+  "director_qid": "Q75079",
+  "director": "Chris Columbus",
+  "duration": 103,
+  "tomatometer": 66
+}

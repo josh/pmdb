@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q87126473",
+    "imdb_id": "tt11655202",
+    "tmdb_type": "movie",
+    "tmdb_id": 663870,
+    "trakt_type": "movie",
+    "trakt_id": 497687,
+    "plex_type": "movie",
+    "plex_id": "5e23e64ba85af200409e4595",
+    "appletv_id": "umc.cmc.33ey6th9l5ijmdfaxib5q91rf",
+    "rottentomatoes_id": "m/riders_of_justice",
+    "title": "Riders of Justice",
+    "year": 2020,
+    "director_qid": "Q491314",
+    "director": "Anders Thomas Jensen",
+    "duration": 116,
+    "tomatometer": 96
+  }
+]

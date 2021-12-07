@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q786279",
+    "imdb_id": "tt0098663",
+    "tmdb_type": "movie",
+    "tmdb_id": 183,
+    "trakt_type": "movie",
+    "trakt_id": 147,
+    "plex_type": "movie",
+    "plex_id": "5d776824103a2d001f5639b6",
+    "appletv_id": "umc.cmc.5tf68q990bee823pmo87o8u57",
+    "rottentomatoes_id": "m/wizard",
+    "title": "The Wizard",
+    "year": 1989,
+    "director_qid": "Q1071497",
+    "director": "Todd Holland",
+    "duration": 96,
+    "tomatometer": 29
+  }
+]

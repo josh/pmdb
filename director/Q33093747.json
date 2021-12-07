@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q23781129",
+    "imdb_id": "tt4154664",
+    "tmdb_type": "movie",
+    "tmdb_id": 299537,
+    "trakt_type": "movie",
+    "trakt_id": 193963,
+    "plex_type": "movie",
+    "plex_id": "5d9f3c7c9dd5f4001e84c1a7",
+    "appletv_id": "umc.cmc.3o1o52plk3pxcpvhfhdrzrsun",
+    "rottentomatoes_id": "m/captain_marvel",
+    "title": "Captain Marvel",
+    "year": 2019,
+    "director_qid": "Q33093747",
+    "director": "Anna Boden and Ryan Fleck",
+    "duration": 124,
+    "tomatometer": 79
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q63026",
+  "imdb_id": "tt0116209",
+  "tmdb_type": "movie",
+  "tmdb_id": 409,
+  "trakt_type": "movie",
+  "trakt_id": 327,
+  "plex_type": "movie",
+  "plex_id": "5d7768266f4521001ea98bde",
+  "appletv_id": "umc.cmc.61v7tb5a7940pr2qo1fuhdirf",
+  "rottentomatoes_id": "m/english_patient",
+  "title": "The English Patient",
+  "year": 1996,
+  "director_qid": "Q188726",
+  "director": "Anthony Minghella",
+  "duration": 162,
+  "tomatometer": 85
+}

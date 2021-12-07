@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q864592",
+    "imdb_id": "tt0266308",
+    "tmdb_type": "movie",
+    "tmdb_id": 3176,
+    "trakt_type": "movie",
+    "trakt_id": 2134,
+    "plex_type": "movie",
+    "plex_id": "5d9f34efd74e67002001f758",
+    "appletv_id": "umc.cmc.49m0v2vvzhvoxhfdl1lt76f6o",
+    "rottentomatoes_id": "m/battle_royale",
+    "title": "Battle Royale",
+    "year": 2000,
+    "director_qid": "Q470779",
+    "director": "Kinji Fukasaku",
+    "tomatometer": 88
+  }
+]

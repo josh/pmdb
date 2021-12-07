@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q755523",
+    "imdb_id": "tt0419706",
+    "tmdb_type": "movie",
+    "tmdb_id": 8814,
+    "trakt_type": "movie",
+    "trakt_id": 4316,
+    "plex_type": "movie",
+    "plex_id": "5d776832f54112001f5bd02a",
+    "appletv_id": "umc.cmc.2h8keic81r1bl5p1rlbmr10rx",
+    "rottentomatoes_id": "m/doom",
+    "title": "Doom",
+    "year": 2005,
+    "director_qid": "Q494835",
+    "director": "Andrzej Bartkowiak",
+    "duration": 113,
+    "tomatometer": 18
+  },
+  {
+    "wikidata_qid": "Q1383916",
+    "imdb_id": "tt0242445",
+    "tmdb_type": "movie",
+    "tmdb_id": 10877,
+    "trakt_type": "movie",
+    "trakt_id": 6034,
+    "plex_type": "movie",
+    "plex_id": "5d776835103a2d001f567da7",
+    "appletv_id": "umc.cmc.1qlq0m9waqgqep32xiudjzsmu",
+    "rottentomatoes_id": "m/exit_wounds",
+    "title": "Exit Wounds",
+    "year": 2001,
+    "director_qid": "Q494835",
+    "director": "Andrzej Bartkowiak",
+    "duration": 101,
+    "tomatometer": 33
+  }
+]

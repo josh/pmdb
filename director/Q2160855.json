@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1306317",
+    "imdb_id": "tt0106375",
+    "tmdb_type": "movie",
+    "tmdb_id": 10438,
+    "trakt_type": "movie",
+    "trakt_id": 5630,
+    "plex_type": "movie",
+    "plex_id": "5d9f34fad74e670020020015",
+    "appletv_id": "umc.cmc.6ihasst71mo5gy034j6dn8i4m",
+    "rottentomatoes_id": "m/beethovens_2nd",
+    "title": "Beethoven's 2nd",
+    "year": 1993,
+    "director_qid": "Q2160855",
+    "director": "Rod Daniel",
+    "duration": 85,
+    "tomatometer": 23
+  }
+]

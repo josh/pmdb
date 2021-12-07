@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q32067450",
+    "imdb_id": "tt5688932",
+    "tmdb_type": "movie",
+    "tmdb_id": 424781,
+    "trakt_type": "movie",
+    "trakt_id": 269566,
+    "plex_type": "movie",
+    "plex_id": "5d776c899ab5440021517c81",
+    "appletv_id": "umc.cmc.xzg0k5cj56qp4h3ylzd7xeyd",
+    "rottentomatoes_id": "m/sorry_to_bother_you_2018",
+    "title": "Sorry to Bother You",
+    "year": 2018,
+    "director_qid": "Q4944043",
+    "director": "Boots Riley",
+    "duration": 112,
+    "tomatometer": 93
+  }
+]

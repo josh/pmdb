@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q106316",
+  "imdb_id": "tt0097165",
+  "tmdb_type": "movie",
+  "tmdb_id": 207,
+  "trakt_type": "movie",
+  "trakt_id": 169,
+  "plex_type": "movie",
+  "plex_id": "5d7768247e9a3c0020c6a8f7",
+  "appletv_id": "umc.cmc.40eizj37hvedszozcidhgpari",
+  "rottentomatoes_id": "m/dead_poets_society",
+  "title": "Dead Poets Society",
+  "year": 1989,
+  "director_qid": "Q55424",
+  "director": "Peter Weir",
+  "duration": 123,
+  "tomatometer": 85
+}

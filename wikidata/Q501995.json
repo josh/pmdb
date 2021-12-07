@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q501995",
+  "imdb_id": "tt0101540",
+  "tmdb_type": "movie",
+  "tmdb_id": 1598,
+  "trakt_type": "movie",
+  "trakt_id": 1053,
+  "plex_type": "movie",
+  "plex_id": "5d77682a6f4521001ea99ad8",
+  "appletv_id": "umc.cmc.1ci02nt27rwm63dqz16ypt03c",
+  "rottentomatoes_id": "m/1037581-cape_fear",
+  "title": "Cape Fear",
+  "year": 1991,
+  "director_qid": "Q41148",
+  "director": "Martin Scorsese",
+  "duration": 128,
+  "tomatometer": 73
+}

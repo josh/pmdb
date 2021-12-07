@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q21203766",
+    "imdb_id": "tt3731562",
+    "tmdb_type": "movie",
+    "tmdb_id": 293167,
+    "trakt_type": "movie",
+    "trakt_id": 189952,
+    "plex_type": "movie",
+    "plex_id": "5d776b237a53e9001e71b793",
+    "appletv_id": "umc.cmc.1a37740ca7ijozqij923wzejn",
+    "rottentomatoes_id": "m/kong_skull_island",
+    "title": "Kong: Skull Island",
+    "year": 2017,
+    "director_qid": "Q17091099",
+    "director": "Jordan Vogt-Roberts",
+    "duration": 118,
+    "tomatometer": 75
+  }
+]

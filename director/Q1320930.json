@@ -1,0 +1,34 @@
+[
+  {
+    "wikidata_qid": "Q44491815",
+    "imdb_id": "tt2139881",
+    "tmdb_type": "movie",
+    "tmdb_id": 459992,
+    "trakt_type": "movie",
+    "trakt_id": 307062,
+    "plex_type": "movie",
+    "plex_id": "5d776f037a53e9001e7895f5",
+    "appletv_id": "umc.cmc.4wts5mg72uz4pkmn3qr9jzppd",
+    "rottentomatoes_id": "m/long_shot_2019",
+    "title": "Long Shot",
+    "year": 2019,
+    "director_qid": "Q1320930",
+    "director": "Jonathan Levine",
+    "duration": 125,
+    "tomatometer": 81
+  },
+  {
+    "wikidata_qid": "Q98315446",
+    "imdb_id": "tt8760932",
+    "tmdb_type": "tv",
+    "tmdb_id": 88989,
+    "trakt_type": "show",
+    "trakt_id": 158087,
+    "plex_type": "show",
+    "plex_id": "6086e989f5acfd002e1f4bb1",
+    "rottentomatoes_id": "tv/nine_perfect_strangers",
+    "title": "Nine Perfect Strangers",
+    "director_qid": "Q1320930",
+    "director": "Jonathan Levine"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1357820",
+    "imdb_id": "tt1990314",
+    "tmdb_type": "movie",
+    "tmdb_id": 84329,
+    "trakt_type": "movie",
+    "trakt_id": 63210,
+    "plex_type": "movie",
+    "plex_id": "5d7768d3fb0d55001f51a3e8",
+    "appletv_id": "umc.cmc.1tj4b4djocc7gco2s1ta2dazj",
+    "rottentomatoes_id": "m/robot_and_frank",
+    "title": "Robot & Frank",
+    "year": 2012,
+    "director_qid": "Q6124973",
+    "director": "Jake Schreier",
+    "duration": 89,
+    "tomatometer": 86
+  }
+]

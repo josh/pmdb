@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q3050651",
+    "imdb_id": "tt1340773",
+    "tmdb_type": "movie",
+    "tmdb_id": 56272,
+    "trakt_type": "movie",
+    "trakt_id": 40091,
+    "plex_type": "movie",
+    "plex_id": "5d77689923d5a3001f4ee8f9",
+    "appletv_id": "umc.cmc.40cmqeeowlamcre23rrvutrn9",
+    "rottentomatoes_id": "m/elektra-luxx",
+    "title": "Elektra Luxx",
+    "year": 2010,
+    "director_qid": "Q3476873",
+    "director": "Sebastian Gutierrez",
+    "duration": 104,
+    "tomatometer": 24
+  }
+]

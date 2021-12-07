@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q41754",
+    "imdb_id": "tt0259324",
+    "tmdb_type": "movie",
+    "tmdb_id": 1250,
+    "trakt_type": "movie",
+    "trakt_id": 866,
+    "plex_type": "movie",
+    "plex_id": "5d776828999c64001ec2ce5e",
+    "appletv_id": "umc.cmc.hklfeydrhrruhss8rml0yacp",
+    "rottentomatoes_id": "m/ghost_rider",
+    "title": "Ghost Rider",
+    "year": 2007,
+    "director_qid": "Q1320761",
+    "director": "Mark Steven Johnson",
+    "duration": 110,
+    "tomatometer": 26
+  },
+  {
+    "wikidata_qid": "Q751805",
+    "imdb_id": "tt0287978",
+    "tmdb_type": "movie",
+    "tmdb_id": 9480,
+    "trakt_type": "movie",
+    "trakt_id": 4766,
+    "plex_type": "movie",
+    "plex_id": "5d7768333c3c2a001fbcd979",
+    "appletv_id": "umc.cmc.scnz0l8oax9qwrmj1szgoath",
+    "rottentomatoes_id": "m/daredevil",
+    "title": "Daredevil",
+    "year": 2003,
+    "director_qid": "Q1320761",
+    "director": "Mark Steven Johnson",
+    "duration": 103,
+    "tomatometer": 43
+  }
+]

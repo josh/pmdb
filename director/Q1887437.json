@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q16782",
+    "imdb_id": "tt1462758",
+    "tmdb_type": "movie",
+    "tmdb_id": 26388,
+    "trakt_type": "movie",
+    "trakt_id": 16052,
+    "plex_type": "movie",
+    "plex_id": "5d7768517228e5001f1e20fc",
+    "appletv_id": "umc.cmc.4fcsj7y7qxntmo3bt1gceavyr",
+    "rottentomatoes_id": "m/buried",
+    "title": "Buried",
+    "year": 2010,
+    "director_qid": "Q1887437",
+    "director": "Rodrigo Cort\u00e9s",
+    "duration": 91,
+    "tomatometer": 87
+  }
+]

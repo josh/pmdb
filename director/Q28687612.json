@@ -1,0 +1,34 @@
+[
+  {
+    "wikidata_qid": "Q63350570",
+    "imdb_id": "tt9335498",
+    "tmdb_type": "tv",
+    "tmdb_id": 85937,
+    "trakt_type": "show",
+    "trakt_id": 131598,
+    "plex_type": "show",
+    "plex_id": "5d9c090246115600200ae731",
+    "rottentomatoes_id": "tv/demon_slayer_kimetsu_no_yaiba",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "director_qid": "Q28687612",
+    "director": "Haruo Sotozaki"
+  },
+  {
+    "wikidata_qid": "Q96376192",
+    "imdb_id": "tt11032374",
+    "tmdb_type": "movie",
+    "tmdb_id": 635302,
+    "trakt_type": "movie",
+    "trakt_id": 474745,
+    "plex_type": "movie",
+    "plex_id": "5e1622cf5abc9c003f1ce556",
+    "appletv_id": "umc.cmc.3w12m80vzkxhxqcgnxwt1jxqd",
+    "rottentomatoes_id": "m/demon_slayer_kimetsu_no_yaiba_the_movie_mugen_train",
+    "title": "Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train",
+    "year": 2020,
+    "director_qid": "Q28687612",
+    "director": "Haruo Sotozaki",
+    "duration": 117,
+    "tomatometer": 98
+  }
+]

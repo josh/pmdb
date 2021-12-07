@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q1677081",
+    "imdb_id": "tt1032817",
+    "tmdb_type": "movie",
+    "tmdb_id": 19688,
+    "trakt_type": "movie",
+    "trakt_id": 12122,
+    "plex_type": "movie",
+    "plex_id": "5d7768446f4521001ea9eff0",
+    "appletv_id": "umc.cmc.4f3tvs3thqm6d8gu0k14kljsr",
+    "rottentomatoes_id": "m/10010554-middle_of_nowhere",
+    "title": "Middle of Nowhere",
+    "year": 2008,
+    "director_qid": "Q944198",
+    "director": "John Stockwell",
+    "duration": 95
+  }
+]

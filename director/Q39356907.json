@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q76656215",
+    "imdb_id": "tt9598214",
+    "tmdb_type": "movie",
+    "tmdb_id": 624789,
+    "trakt_type": "movie",
+    "trakt_id": 466561,
+    "plex_type": "movie",
+    "plex_id": "5d7770de6afb3d0020623c07",
+    "appletv_id": "umc.cmc.bykmu98meo4k0j7kc8hvof6a",
+    "rottentomatoes_id": "m/naked_singularity",
+    "title": "Naked Singularity",
+    "year": 2021,
+    "director_qid": "Q39356907",
+    "director": "Chase Palmer",
+    "duration": 93,
+    "tomatometer": 29
+  }
+]

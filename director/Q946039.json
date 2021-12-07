@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q673902",
+    "imdb_id": "tt0263488",
+    "tmdb_type": "movie",
+    "tmdb_id": 8922,
+    "trakt_type": "movie",
+    "trakt_id": 4399,
+    "plex_type": "movie",
+    "plex_id": "5d7768324de0ee001fccacd4",
+    "appletv_id": "umc.cmc.796j17v519pnxpmwnx1wlt2as",
+    "rottentomatoes_id": "m/jeepers_creepers",
+    "title": "Jeepers Creepers",
+    "year": 2001,
+    "director_qid": "Q946039",
+    "director": "Victor Salva",
+    "duration": 89,
+    "tomatometer": 46
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "wikidata_qid": "Q60649578",
+    "imdb_id": "tt9612516",
+    "tmdb_type": "tv",
+    "tmdb_id": 85922,
+    "trakt_type": "show",
+    "trakt_id": 152908,
+    "plex_type": "show",
+    "plex_id": "5e160e07697c5a001e6dd32c",
+    "appletv_id": "umc.cmc.27gvch6j6nch8dvkvexn0ve6q",
+    "rottentomatoes_id": "tv/space_force",
+    "title": "Space Force",
+    "year": 2020,
+    "director_qid": "Q7151786",
+    "director": "Paul King"
+  },
+  {
+    "wikidata_qid": "Q108456719",
+    "imdb_id": "tt6166392",
+    "tmdb_type": "movie",
+    "tmdb_id": 787699,
+    "trakt_type": "movie",
+    "trakt_id": 624003,
+    "title": "Wonka",
+    "year": 2023,
+    "director_qid": "Q7151786",
+    "director": "Paul King"
+  }
+]

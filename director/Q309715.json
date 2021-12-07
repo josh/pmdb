@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q494582",
+    "imdb_id": "tt0087553",
+    "tmdb_type": "movie",
+    "tmdb_id": 625,
+    "trakt_type": "movie",
+    "trakt_id": 501,
+    "plex_type": "movie",
+    "plex_id": "5d77682754f42c001f8c290a",
+    "appletv_id": "umc.cmc.3f1rohtsumbt1eu4vjofz0xvt",
+    "rottentomatoes_id": "m/killing_fields",
+    "title": "The Killing Fields",
+    "year": 1984,
+    "director_qid": "Q309715",
+    "director": "Roland Joff\u00e9",
+    "duration": 139,
+    "tomatometer": 93
+  }
+]

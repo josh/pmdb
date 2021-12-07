@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q65087118",
+    "imdb_id": "tt10096842",
+    "tmdb_type": "movie",
+    "tmdb_id": 591634,
+    "trakt_type": "movie",
+    "trakt_id": 438259,
+    "plex_type": "movie",
+    "plex_id": "5d7770cdf617c900201a06cc",
+    "appletv_id": "umc.cmc.3a74a490oih5cy87imvmdxdlh",
+    "rottentomatoes_id": "m/false_positive",
+    "title": "False Positive",
+    "year": 2020,
+    "director_qid": "Q6244383",
+    "director": "John Lee",
+    "tomatometer": 48
+  }
+]

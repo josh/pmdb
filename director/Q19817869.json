@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q74198352",
+    "imdb_id": "tt7737528",
+    "tmdb_type": "movie",
+    "tmdb_id": 597891,
+    "trakt_type": "movie",
+    "trakt_id": 443935,
+    "plex_type": "movie",
+    "plex_id": "5d7770da7a53e9001e7acb6a",
+    "rottentomatoes_id": "m/kate_2021",
+    "title": "Kate",
+    "year": 2021,
+    "director_qid": "Q19817869",
+    "director": "Cedric Nicolas-Troyan",
+    "duration": 106,
+    "tomatometer": 42
+  }
+]

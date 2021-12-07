@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1199902",
+    "imdb_id": "tt0022286",
+    "tmdb_type": "movie",
+    "tmdb_id": 17687,
+    "trakt_type": "movie",
+    "trakt_id": 10830,
+    "plex_type": "movie",
+    "plex_id": "5d7768402ec6b5001f6bde40",
+    "appletv_id": "umc.cmc.47ry0z3iz6w165z2diht54uad",
+    "rottentomatoes_id": "m/1016885-public_enemy",
+    "title": "The Public Enemy",
+    "year": 1931,
+    "director_qid": "Q290962",
+    "director": "William A. Wellman",
+    "duration": 83,
+    "tomatometer": 100
+  }
+]

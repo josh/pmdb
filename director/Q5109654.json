@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q28860130",
+    "imdb_id": "tt1259528",
+    "tmdb_type": "movie",
+    "tmdb_id": 449443,
+    "trakt_type": "movie",
+    "trakt_id": 296164,
+    "plex_type": "movie",
+    "plex_id": "5d776cc196b655001fe3a55d",
+    "appletv_id": "umc.cmc.4c48zcgrkqkhm14yjrjt8kawn",
+    "rottentomatoes_id": "m/den_of_thieves",
+    "title": "Den of Thieves",
+    "year": 2018,
+    "director_qid": "Q5109654",
+    "director": "Christian Gudegast",
+    "duration": 140,
+    "tomatometer": 42
+  }
+]

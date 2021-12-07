@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q329127",
+    "imdb_id": "tt0252866",
+    "tmdb_type": "movie",
+    "tmdb_id": 2770,
+    "trakt_type": "movie",
+    "trakt_id": 1851,
+    "plex_type": "movie",
+    "plex_id": "5d77682b85719b001f3a1b52",
+    "appletv_id": "umc.cmc.571889pm9s6ty9x410rqj8963",
+    "rottentomatoes_id": "m/american_pie_2",
+    "title": "American Pie 2",
+    "year": 2001,
+    "director_qid": "Q8999922",
+    "director": "J. B. Rogers",
+    "duration": 106,
+    "tomatometer": 52
+  }
+]

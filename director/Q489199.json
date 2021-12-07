@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q58439",
+    "imdb_id": "tt0100758",
+    "tmdb_type": "movie",
+    "tmdb_id": 1498,
+    "trakt_type": "movie",
+    "trakt_id": 992,
+    "plex_type": "movie",
+    "plex_id": "5d77682985719b001f3a14c0",
+    "appletv_id": "umc.cmc.4hzjnc76plinsohzo7297t266",
+    "rottentomatoes_id": "m/teenage_mutant_ninja_turtles_the_movie",
+    "title": "Teenage Mutant Ninja Turtles",
+    "year": 1990,
+    "director_qid": "Q489199",
+    "director": "Steve Barron",
+    "duration": 93,
+    "tomatometer": 40
+  }
+]

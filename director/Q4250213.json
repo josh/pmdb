@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q28465803",
+    "imdb_id": "tt6108178",
+    "tmdb_type": "movie",
+    "tmdb_id": 419743,
+    "trakt_type": "movie",
+    "trakt_id": 264745,
+    "plex_type": "movie",
+    "plex_id": "5d776c7c96b655001fe325d2",
+    "appletv_id": "umc.cmc.4hye7pd02tm4a6zr209lspb8f",
+    "rottentomatoes_id": "m/disobedience_2017",
+    "title": "Disobedience",
+    "year": 2018,
+    "director_qid": "Q4250213",
+    "director": "Sebasti\u00e1n Lelio",
+    "duration": 114,
+    "tomatometer": 84
+  },
+  {
+    "wikidata_qid": "Q44727126",
+    "imdb_id": "tt6902696",
+    "tmdb_type": "movie",
+    "tmdb_id": 491473,
+    "trakt_type": "movie",
+    "trakt_id": 338530,
+    "plex_type": "movie",
+    "plex_id": "5d776f1afb0d55001f5d7f63",
+    "appletv_id": "umc.cmc.62ir2467gg761ct376ebw7lmv",
+    "rottentomatoes_id": "m/gloria_bell",
+    "title": "Gloria Bell",
+    "year": 2018,
+    "director_qid": "Q4250213",
+    "director": "Sebasti\u00e1n Lelio",
+    "duration": 102,
+    "tomatometer": 91
+  }
+]

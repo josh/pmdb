@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q925072",
+    "imdb_id": "tt1231587",
+    "tmdb_type": "movie",
+    "tmdb_id": 23048,
+    "trakt_type": "movie",
+    "trakt_id": 13968,
+    "plex_type": "movie",
+    "plex_id": "5d77684a7228e5001f1e1598",
+    "appletv_id": "umc.cmc.5hsrqgqkf2fe68ccaqm89r2jr",
+    "rottentomatoes_id": "m/hot_tub_time_machine",
+    "title": "Hot Tub Time Machine",
+    "year": 2010,
+    "director_qid": "Q7613624",
+    "director": "Steve Pink",
+    "duration": 101,
+    "tomatometer": 63
+  },
+  {
+    "wikidata_qid": "Q1519049",
+    "imdb_id": "tt0384793",
+    "tmdb_type": "movie",
+    "tmdb_id": 9788,
+    "trakt_type": "movie",
+    "trakt_id": 5048,
+    "plex_type": "movie",
+    "plex_id": "5d776d0e7a53e9001e74fb79",
+    "appletv_id": "umc.cmc.7k1wpgragsjq82gdjizreb0jk",
+    "rottentomatoes_id": "m/accepted",
+    "title": "Accepted",
+    "year": 2006,
+    "director_qid": "Q7613624",
+    "director": "Steve Pink",
+    "duration": 90,
+    "tomatometer": 38
+  }
+]

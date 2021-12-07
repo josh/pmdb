@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q392696",
+    "imdb_id": "tt0324216",
+    "tmdb_type": "movie",
+    "tmdb_id": 9373,
+    "trakt_type": "movie",
+    "trakt_id": 4664,
+    "plex_type": "movie",
+    "plex_id": "5d776832999c64001ec2ebf5",
+    "appletv_id": "umc.cmc.10q9d2s7kfqpfvegrqnnn3vaj",
+    "rottentomatoes_id": "m/texas_chainsaw_massacre",
+    "title": "The Texas Chainsaw Massacre",
+    "year": 2003,
+    "director_qid": "Q77399",
+    "director": "Marcus Nispel",
+    "duration": 113,
+    "tomatometer": 37
+  },
+  {
+    "wikidata_qid": "Q1454815",
+    "imdb_id": "tt0758746",
+    "tmdb_type": "movie",
+    "tmdb_id": 13207,
+    "trakt_type": "movie",
+    "trakt_id": 7753,
+    "plex_type": "movie",
+    "plex_id": "5d776d0dad5437001f7cbadb",
+    "appletv_id": "umc.cmc.6wx7vc62759zdk0xczn1cn0b4",
+    "rottentomatoes_id": "m/friday_the_13th_prequel",
+    "title": "Friday the 13th",
+    "year": 2009,
+    "director_qid": "Q77399",
+    "director": "Marcus Nispel",
+    "duration": 97,
+    "tomatometer": 26
+  }
+]

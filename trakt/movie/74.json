@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q91540",
+  "imdb_id": "tt0088763",
+  "tmdb_type": "movie",
+  "tmdb_id": 105,
+  "trakt_type": "movie",
+  "trakt_id": 74,
+  "plex_type": "movie",
+  "plex_id": "5d7768244de0ee001fcc7fed",
+  "appletv_id": "umc.cmc.1alygfljzpxrofhgpoa6mmjnb",
+  "rottentomatoes_id": "m/back_to_the_future",
+  "title": "Back to the Future",
+  "year": 1985,
+  "director_qid": "Q187364",
+  "director": "Robert Zemeckis",
+  "duration": 116,
+  "tomatometer": 96
+}

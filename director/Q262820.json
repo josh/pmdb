@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q676939",
+    "imdb_id": "tt0184858",
+    "tmdb_type": "movie",
+    "tmdb_id": 2155,
+    "trakt_type": "movie",
+    "trakt_id": 1496,
+    "plex_type": "movie",
+    "plex_id": "5d776d15ad5437001f7cc8d3",
+    "appletv_id": "umc.cmc.463cltcox3o2j29pmnow0tebx",
+    "rottentomatoes_id": "m/reindeer_games",
+    "title": "Reindeer Games",
+    "year": 2000,
+    "director_qid": "Q262820",
+    "director": "John Frankenheimer",
+    "duration": 104,
+    "tomatometer": 26
+  },
+  {
+    "wikidata_qid": "Q751401",
+    "imdb_id": "tt0122690",
+    "tmdb_type": "movie",
+    "tmdb_id": 8195,
+    "trakt_type": "movie",
+    "trakt_id": 4065,
+    "plex_type": "movie",
+    "plex_id": "5d77683254c0f0001f3030cd",
+    "appletv_id": "umc.cmc.50z86u9tpbb3ni7q7r78yrra",
+    "rottentomatoes_id": "m/ronin",
+    "title": "Ronin",
+    "year": 1998,
+    "director_qid": "Q262820",
+    "director": "John Frankenheimer",
+    "duration": 122,
+    "tomatometer": 68
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q611535",
+    "imdb_id": "tt0234354",
+    "tmdb_type": "movie",
+    "tmdb_id": 20794,
+    "trakt_type": "movie",
+    "trakt_id": 12771,
+    "plex_type": "movie",
+    "plex_id": "5d776846eb5d26001f1e4657",
+    "appletv_id": "umc.cmc.6svt0xgk5lyj0smmzyxhmc2m",
+    "rottentomatoes_id": "m/novocaine",
+    "title": "Novocaine",
+    "year": 2001,
+    "director_qid": "Q462036",
+    "director": "David Atkins",
+    "duration": 91,
+    "tomatometer": 38
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q485803",
+    "imdb_id": "tt0363771",
+    "tmdb_type": "movie",
+    "tmdb_id": 411,
+    "trakt_type": "movie",
+    "trakt_id": 329,
+    "plex_type": "movie",
+    "plex_id": "5d776825103a2d001f563e40",
+    "appletv_id": "umc.cmc.74ylmvjgg8c0uzugsay5hkkdj",
+    "rottentomatoes_id": "m/chronicles_of_narnia_lion_witch_wardrobe",
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe or Narnia",
+    "year": 2005,
+    "director_qid": "Q432845",
+    "director": "Andrew Adamson",
+    "duration": 143,
+    "tomatometer": 76
+  }
+]

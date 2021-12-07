@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q749624",
+    "imdb_id": "tt0283084",
+    "tmdb_type": "movie",
+    "tmdb_id": 13768,
+    "trakt_type": "movie",
+    "trakt_id": 8173,
+    "plex_type": "movie",
+    "plex_id": "5d9f3504d74e670020020914",
+    "appletv_id": "umc.cmc.5yam3qr1wi3p8awyd596c0w0d",
+    "rottentomatoes_id": "m/tuck_everlasting",
+    "title": "Tuck Everlasting",
+    "year": 2002,
+    "director_qid": "Q1392128",
+    "director": "Jay Russell",
+    "duration": 88,
+    "tomatometer": 60
+  },
+  {
+    "wikidata_qid": "Q1917925",
+    "imdb_id": "tt0156812",
+    "tmdb_type": "movie",
+    "tmdb_id": 17908,
+    "trakt_type": "movie",
+    "trakt_id": 10952,
+    "plex_type": "movie",
+    "plex_id": "5d7768418a7581001f12f099",
+    "appletv_id": "umc.cmc.254zwiv722zaxnw38h3ezy1ms",
+    "rottentomatoes_id": "m/my_dog_skip",
+    "title": "My Dog Skip",
+    "year": 2000,
+    "director_qid": "Q1392128",
+    "director": "Jay Russell",
+    "duration": 95,
+    "tomatometer": 73
+  }
+]

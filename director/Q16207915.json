@@ -1,0 +1,30 @@
+[
+  {
+    "wikidata_qid": "Q10935299",
+    "imdb_id": "tt2297757",
+    "tmdb_type": "tv",
+    "tmdb_id": 58957,
+    "trakt_type": "show",
+    "trakt_id": 69722,
+    "plex_type": "show",
+    "plex_id": "5d9c0849ba6eb9001fba0171",
+    "rottentomatoes_id": "tv/nathan_for_you",
+    "title": "Nathan for You",
+    "director_qid": "Q16207915",
+    "director": "Nathan Fielder"
+  },
+  {
+    "wikidata_qid": "Q112915576",
+    "imdb_id": "tt10802170",
+    "tmdb_type": "tv",
+    "tmdb_id": 204284,
+    "trakt_type": "show",
+    "trakt_id": 182868,
+    "plex_type": "show",
+    "plex_id": "60e0368a3c3bb7002cfca9e8",
+    "rottentomatoes_id": "tv/the_rehearsal_2022",
+    "title": "The Rehearsal",
+    "director_qid": "Q16207915",
+    "director": "Nathan Fielder"
+  }
+]

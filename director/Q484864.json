@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1286387",
+    "imdb_id": "tt0312528",
+    "tmdb_type": "movie",
+    "tmdb_id": 10588,
+    "trakt_type": "movie",
+    "trakt_id": 5765,
+    "plex_type": "movie",
+    "plex_id": "5d77683554f42c001f8c462c",
+    "appletv_id": "umc.cmc.1fn1m8iug5qdg0pf6xep4t42h",
+    "rottentomatoes_id": "m/cat_in_the_hat",
+    "title": "The Cat in the Hat",
+    "year": 2003,
+    "director_qid": "Q484864",
+    "director": "Bo Welch",
+    "duration": 82,
+    "tomatometer": 9
+  }
+]

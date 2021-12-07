@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q483941",
+  "imdb_id": "tt0108052",
+  "tmdb_type": "movie",
+  "tmdb_id": 424,
+  "trakt_type": "movie",
+  "trakt_id": 336,
+  "plex_type": "movie",
+  "plex_id": "5d7768255af944001f1f65a1",
+  "appletv_id": "umc.cmc.53hzoo3z0ufjb6wsxgspp2jlf",
+  "rottentomatoes_id": "m/schindlers_list",
+  "title": "Schindler's List",
+  "year": 1993,
+  "director_qid": "Q8877",
+  "director": "Steven Spielberg",
+  "duration": 195,
+  "tomatometer": 98
+}

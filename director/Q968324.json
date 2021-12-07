@@ -1,0 +1,36 @@
+[
+  {
+    "wikidata_qid": "Q678306",
+    "imdb_id": "tt0124298",
+    "tmdb_type": "movie",
+    "tmdb_id": 11622,
+    "trakt_type": "movie",
+    "trakt_id": 6698,
+    "plex_type": "movie",
+    "plex_id": "5d7768375af944001f1fa6ca",
+    "appletv_id": "umc.cmc.3kud86szm0a9ag73suyksorq0",
+    "rottentomatoes_id": "m/blast_from_the_past",
+    "title": "Blast from the Past",
+    "year": 1999,
+    "director_qid": "Q968324",
+    "director": "Hugh Wilson",
+    "duration": 112,
+    "tomatometer": 58
+  },
+  {
+    "wikidata_qid": "Q913620",
+    "imdb_id": "tt0116313",
+    "tmdb_type": "movie",
+    "tmdb_id": 2925,
+    "trakt_type": "movie",
+    "trakt_id": 1941,
+    "appletv_id": "umc.cmc.184rrt1fybwfcy1yinqjj4ni9",
+    "rottentomatoes_id": "m/first_wives_club",
+    "title": "The First Wives Club",
+    "year": 1996,
+    "director_qid": "Q968324",
+    "director": "Hugh Wilson",
+    "duration": 103,
+    "tomatometer": 50
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q936327",
+    "imdb_id": "tt0067992",
+    "tmdb_type": "movie",
+    "tmdb_id": 252,
+    "trakt_type": "movie",
+    "trakt_id": 210,
+    "plex_type": "movie",
+    "plex_id": "5d776824961905001eb908e6",
+    "appletv_id": "umc.cmc.33jugzmtwhfbl45dd3eui946o",
+    "rottentomatoes_id": "m/willy_wonka_and_the_chocolate_factory",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "director_qid": "Q1380505",
+    "director": "Mel Stuart",
+    "duration": 100,
+    "tomatometer": 91
+  }
+]

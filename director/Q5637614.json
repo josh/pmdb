@@ -1,0 +1,49 @@
+[
+  {
+    "wikidata_qid": "Q24608298",
+    "imdb_id": "tt5151716",
+    "tmdb_type": "movie",
+    "tmdb_id": 376426,
+    "trakt_type": "movie",
+    "trakt_id": 248619,
+    "plex_type": "movie",
+    "plex_id": "5d776c09fb0d55001f57ad72",
+    "appletv_id": "umc.cmc.61r0xm6jelp5cqva889f11xdv",
+    "rottentomatoes_id": "m/tony_robbins_i_am_not_your_guru",
+    "title": "Tony Robbins: I Am Not Your Guru",
+    "year": 2016,
+    "director_qid": "Q5637614",
+    "director": "Joe Berlinger",
+    "duration": 115,
+    "tomatometer": 45
+  },
+  {
+    "wikidata_qid": "Q48671183",
+    "imdb_id": "tt2481498",
+    "tmdb_type": "movie",
+    "tmdb_id": 457799,
+    "trakt_type": "movie",
+    "trakt_id": 303985,
+    "plex_type": "movie",
+    "plex_id": "5d776d309ab544002151c648",
+    "rottentomatoes_id": "m/extremely_wicked_shockingly_evil_and_vile",
+    "title": "Extremely Wicked, Shockingly Evil and Vile",
+    "year": 2019,
+    "director_qid": "Q5637614",
+    "director": "Joe Berlinger",
+    "duration": 110,
+    "tomatometer": 54
+  },
+  {
+    "wikidata_qid": "Q105430529",
+    "imdb_id": "tt13837672",
+    "tmdb_type": "tv",
+    "tmdb_id": 116989,
+    "trakt_type": "show",
+    "trakt_id": 172256,
+    "rottentomatoes_id": "tv/crime_scene_the_vanishing_at_the_cecil_hotel",
+    "title": "Crime Scene: The Vanishing at the Cecil Hotel",
+    "director_qid": "Q5637614",
+    "director": "Joe Berlinger"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q220515",
+    "imdb_id": "tt0454921",
+    "tmdb_type": "movie",
+    "tmdb_id": 1402,
+    "trakt_type": "movie",
+    "trakt_id": 933,
+    "plex_type": "movie",
+    "plex_id": "5d776d0d9ab544002151b05b",
+    "appletv_id": "umc.cmc.5elxsau2bij3kmoadwoomll4s",
+    "rottentomatoes_id": "m/pursuit_of_happyness",
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "director_qid": "Q558822",
+    "director": "Gabriele Muccino",
+    "duration": 113,
+    "tomatometer": 67
+  },
+  {
+    "wikidata_qid": "Q635924",
+    "imdb_id": "tt0814314",
+    "tmdb_type": "movie",
+    "tmdb_id": 11321,
+    "trakt_type": "movie",
+    "trakt_id": 6419,
+    "plex_type": "movie",
+    "plex_id": "5d7768367228e5001f1debad",
+    "appletv_id": "umc.cmc.61yvo1yav6zqbb1py1xntrvfx",
+    "rottentomatoes_id": "m/seven_pounds",
+    "title": "Seven Pounds",
+    "year": 2008,
+    "director_qid": "Q558822",
+    "director": "Gabriele Muccino",
+    "duration": 123,
+    "tomatometer": 27
+  }
+]

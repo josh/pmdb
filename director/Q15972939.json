@@ -1,0 +1,37 @@
+[
+  {
+    "wikidata_qid": "Q56419916",
+    "imdb_id": "tt4916630",
+    "tmdb_type": "movie",
+    "tmdb_id": 522212,
+    "trakt_type": "movie",
+    "trakt_id": 370437,
+    "plex_type": "movie",
+    "plex_id": "5d777049ad5437001f81e3ed",
+    "appletv_id": "umc.cmc.18g6eu15orgsvcbm39ur1dd5d",
+    "rottentomatoes_id": "m/just_mercy",
+    "title": "Just Mercy",
+    "year": 2019,
+    "director_qid": "Q15972939",
+    "director": "Destin Daniel Cretton",
+    "tomatometer": 85
+  },
+  {
+    "wikidata_qid": "Q65768589",
+    "imdb_id": "tt9376612",
+    "tmdb_type": "movie",
+    "tmdb_id": 566525,
+    "trakt_type": "movie",
+    "trakt_id": 416151,
+    "plex_type": "movie",
+    "plex_id": "5d7770a7fb0d55001f5f5c83",
+    "appletv_id": "umc.cmc.1r6h2ku90p1e6jaznhnk0m5hd",
+    "rottentomatoes_id": "m/shang_chi_and_the_legend_of_the_ten_rings",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "director_qid": "Q15972939",
+    "director": "Destin Daniel Cretton",
+    "duration": 132,
+    "tomatometer": 91
+  }
+]

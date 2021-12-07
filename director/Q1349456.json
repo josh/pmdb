@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q640450",
+    "imdb_id": "tt0918927",
+    "tmdb_type": "movie",
+    "tmdb_id": 14359,
+    "trakt_type": "movie",
+    "trakt_id": 8625,
+    "plex_type": "movie",
+    "plex_id": "5d77683b961905001eb95222",
+    "appletv_id": "umc.cmc.47b58k9d758kekhd8bn84rrxd",
+    "rottentomatoes_id": "m/doubt",
+    "title": "Doubt",
+    "year": 2008,
+    "director_qid": "Q1349456",
+    "director": "John Patrick Shanley",
+    "duration": 104,
+    "tomatometer": 79
+  }
+]

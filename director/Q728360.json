@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q749661",
+    "imdb_id": "tt0252076",
+    "tmdb_type": "movie",
+    "tmdb_id": 7303,
+    "trakt_type": "movie",
+    "trakt_id": 3883,
+    "plex_type": "movie",
+    "plex_id": "5d9f34f506d220001feb35b8",
+    "appletv_id": "umc.cmc.34vo1rs3qwx3i169x6er7i0ad",
+    "rottentomatoes_id": "m/maid_in_manhattan",
+    "title": "Maid in Manhattan",
+    "year": 2002,
+    "director_qid": "Q728360",
+    "director": "Wayne Wang",
+    "duration": 101,
+    "tomatometer": 38
+  }
+]

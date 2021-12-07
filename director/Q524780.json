@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q645931",
+    "imdb_id": "tt1645089",
+    "tmdb_type": "movie",
+    "tmdb_id": 44639,
+    "trakt_type": "movie",
+    "trakt_id": 30322,
+    "plex_type": "movie",
+    "plex_id": "5d77687eeb5d26001f1edd61",
+    "appletv_id": "umc.cmc.3i8u8o4m0a3f4qi1m9gd7ueei",
+    "rottentomatoes_id": "m/inside_job_2010",
+    "title": "Inside Job",
+    "year": 2010,
+    "director_qid": "Q524780",
+    "director": "Charles Ferguson",
+    "duration": 105,
+    "tomatometer": 98
+  }
+]

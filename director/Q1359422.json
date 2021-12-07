@@ -1,0 +1,36 @@
+[
+  {
+    "wikidata_qid": "Q1123006",
+    "imdb_id": "tt0094074",
+    "tmdb_type": "movie",
+    "tmdb_id": 11411,
+    "trakt_type": "movie",
+    "trakt_id": 6506,
+    "plex_type": "movie",
+    "plex_id": "5d7768368a7581001f12d911",
+    "appletv_id": "umc.cmc.1nipv2bc4kmb9s5n8ujnys9gh",
+    "rottentomatoes_id": "m/superman_iv_the_quest_for_peace",
+    "title": "Superman IV: The Quest for Peace",
+    "year": 1987,
+    "director_qid": "Q1359422",
+    "director": "Sidney J. Furie",
+    "duration": 86,
+    "tomatometer": 11
+  },
+  {
+    "wikidata_qid": "Q1546041",
+    "imdb_id": "tt0065989",
+    "tmdb_type": "movie",
+    "tmdb_id": 44721,
+    "trakt_type": "movie",
+    "trakt_id": 30391,
+    "appletv_id": "umc.cmc.1xn55mlw8m3qs9i740fptpkkg",
+    "rottentomatoes_id": "m/little-fauss-and-big-halsy",
+    "title": "Little Fauss and Big Halsy",
+    "year": 1970,
+    "director_qid": "Q1359422",
+    "director": "Sidney J. Furie",
+    "duration": 98,
+    "tomatometer": 33
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q27907394",
+    "imdb_id": "tt5477566",
+    "tmdb_type": "movie",
+    "tmdb_id": 397717,
+    "trakt_type": "movie",
+    "trakt_id": 254597,
+    "plex_type": "movie",
+    "plex_id": "5d776c4096b655001fe2b06e",
+    "appletv_id": "umc.cmc.2ap45td909nhmx0f3bcmg2f3y",
+    "rottentomatoes_id": "m/barry_2016",
+    "title": "Barry",
+    "year": 2016,
+    "director_qid": "Q16298288",
+    "director": "Vikram Gandhi",
+    "duration": 104,
+    "tomatometer": 80
+  }
+]

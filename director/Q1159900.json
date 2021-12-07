@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q1165090",
+    "imdb_id": "tt1216487",
+    "tmdb_type": "movie",
+    "tmdb_id": 24253,
+    "trakt_type": "movie",
+    "trakt_id": 14582,
+    "plex_type": "movie",
+    "plex_id": "5d77684d85719b001f3a7dd4",
+    "appletv_id": "umc.cmc.11ghqsuiobx83axccxml741er",
+    "rottentomatoes_id": "m/girl_who_played_with_fire",
+    "title": "The Girl Who Played with Fire",
+    "year": 2009,
+    "director_qid": "Q1159900",
+    "director": "Daniel Alfredson",
+    "duration": 129,
+    "tomatometer": 69
+  },
+  {
+    "wikidata_qid": "Q1416607",
+    "imdb_id": "tt1343097",
+    "tmdb_type": "movie",
+    "tmdb_id": 33613,
+    "trakt_type": "movie",
+    "trakt_id": 21547,
+    "plex_type": "movie",
+    "plex_id": "5d7768636f4521001eaa4cca",
+    "appletv_id": "umc.cmc.26fs0wlqter8gu9d52gg2q3pz",
+    "rottentomatoes_id": "m/the_girl_who_kicked_the_hornets_nest",
+    "title": "The Girl Who Kicked the Hornets' Nest",
+    "year": 2009,
+    "director_qid": "Q1159900",
+    "director": "Daniel Alfredson",
+    "duration": 147,
+    "tomatometer": 54
+  }
+]

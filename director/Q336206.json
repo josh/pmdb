@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q1969617",
+    "imdb_id": "tt0108598",
+    "tmdb_type": "movie",
+    "tmdb_id": 531,
+    "trakt_type": "movie",
+    "trakt_id": 414,
+    "plex_type": "movie",
+    "plex_id": "5d7768264de0ee001fcc87e4",
+    "rottentomatoes_id": "m/wallace_and_gromit_the_wrong_trousers",
+    "title": "The Wrong Trousers",
+    "year": 1993,
+    "director_qid": "Q336206",
+    "director": "Nick Park",
+    "duration": 30,
+    "tomatometer": 100
+  }
+]

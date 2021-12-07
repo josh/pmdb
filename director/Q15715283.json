@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q28943852",
+    "imdb_id": "tt4537896",
+    "tmdb_type": "movie",
+    "tmdb_id": 438808,
+    "trakt_type": "movie",
+    "trakt_id": 284950,
+    "plex_type": "movie",
+    "plex_id": "5d776cacad5437001f7c59eb",
+    "appletv_id": "umc.cmc.5ptdv9ly32rhcjiydj9m4o4uk",
+    "rottentomatoes_id": "m/white_boy_rick",
+    "title": "White Boy Rick",
+    "year": 2018,
+    "director_qid": "Q15715283",
+    "director": "Yann Demange",
+    "duration": 111,
+    "tomatometer": 57
+  }
+]

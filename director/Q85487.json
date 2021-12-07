@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q1133132",
+    "imdb_id": "tt0385002",
+    "tmdb_type": "movie",
+    "tmdb_id": 8923,
+    "trakt_type": "movie",
+    "trakt_id": 4400,
+    "plex_type": "movie",
+    "plex_id": "5d7768324de0ee001fccac76",
+    "rottentomatoes_id": "m/green_street_hooligans",
+    "title": "Green Street",
+    "year": 2005,
+    "director_qid": "Q85487",
+    "director": "Lexi Alexander",
+    "duration": 109,
+    "tomatometer": 47
+  }
+]

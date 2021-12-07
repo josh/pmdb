@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q616265",
+    "imdb_id": "tt1720616",
+    "tmdb_type": "movie",
+    "tmdb_id": 80038,
+    "trakt_type": "movie",
+    "trakt_id": 59537,
+    "plex_type": "movie",
+    "plex_id": "5d7768c1decfcd001f2f1f3d",
+    "appletv_id": "umc.cmc.3exefe7tzwjeguuuuvlay64qp",
+    "rottentomatoes_id": "m/friends_with_kids",
+    "title": "Friends with Kids",
+    "year": 2011,
+    "director_qid": "Q271554",
+    "director": "Jennifer Westfeldt",
+    "tomatometer": 67
+  }
+]

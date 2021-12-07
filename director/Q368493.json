@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q581859",
+    "imdb_id": "tt1655420",
+    "tmdb_type": "movie",
+    "tmdb_id": 75900,
+    "trakt_type": "movie",
+    "trakt_id": 56002,
+    "plex_type": "movie",
+    "plex_id": "5d9f35b9b0262f001f6ec4a6",
+    "appletv_id": "umc.cmc.4oxtur76ccg4mphu2kf13mxsd",
+    "rottentomatoes_id": "m/my_week_with_marilyn",
+    "title": "My Week with Marilyn",
+    "year": 2011,
+    "director_qid": "Q368493",
+    "director": "Simon Curtis",
+    "duration": 99,
+    "tomatometer": 83
+  }
+]

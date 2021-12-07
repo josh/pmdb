@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1055796",
+    "imdb_id": "tt0081070",
+    "tmdb_type": "movie",
+    "tmdb_id": 14807,
+    "trakt_type": "movie",
+    "trakt_id": 8959,
+    "plex_type": "movie",
+    "plex_id": "5d9f3514ca3253001ef27ec6",
+    "appletv_id": "umc.cmc.4g59dx4vkrz4lbotzd21o7b6x",
+    "rottentomatoes_id": "m/the_long_good_friday",
+    "title": "The Long Good Friday",
+    "year": 1980,
+    "director_qid": "Q457559",
+    "director": "John Mackenzie",
+    "duration": 114,
+    "tomatometer": 97
+  }
+]

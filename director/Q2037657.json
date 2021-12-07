@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q387348",
+    "imdb_id": "tt0952640",
+    "tmdb_type": "movie",
+    "tmdb_id": 6477,
+    "trakt_type": "movie",
+    "trakt_id": 3640,
+    "plex_type": "movie",
+    "plex_id": "5d77683085719b001f3a2a56",
+    "appletv_id": "umc.cmc.s0qxy4kcuwx5e8jeg0ab0emr",
+    "rottentomatoes_id": "m/1184827-alvin_and_the_chipmunks",
+    "title": "Alvin and the Chipmunks",
+    "year": 2007,
+    "director_qid": "Q2037657",
+    "director": "Tim Hill",
+    "duration": 92,
+    "tomatometer": 28
+  },
+  {
+    "wikidata_qid": "Q25999873",
+    "imdb_id": "tt4532038",
+    "tmdb_type": "movie",
+    "tmdb_id": 425001,
+    "trakt_type": "movie",
+    "trakt_id": 282497,
+    "plex_type": "movie",
+    "plex_id": "5d776c89ad5437001f7c1259",
+    "appletv_id": "umc.cmc.1xkir61k2bm6yagjw4wb5lgs",
+    "rottentomatoes_id": "m/the_war_with_grandpa",
+    "title": "The War with Grandpa",
+    "year": 2020,
+    "director_qid": "Q2037657",
+    "director": "Tim Hill",
+    "duration": 94,
+    "tomatometer": 29
+  }
+]

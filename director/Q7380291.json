@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q14317024",
+    "imdb_id": "tt2273657",
+    "tmdb_type": "movie",
+    "tmdb_id": 245706,
+    "trakt_type": "movie",
+    "trakt_id": 149558,
+    "plex_type": "movie",
+    "plex_id": "5d776a89fb0d55001f549080",
+    "appletv_id": "umc.cmc.3jukhoxi5cz47t1yjm8ajglh7",
+    "rottentomatoes_id": "m/true_story_2014",
+    "title": "True Story",
+    "year": 2014,
+    "director_qid": "Q7380291",
+    "director": "Rupert Goold",
+    "duration": 100,
+    "tomatometer": 45
+  }
+]

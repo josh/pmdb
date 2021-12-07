@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1582590",
+    "imdb_id": "tt1278379",
+    "tmdb_type": "movie",
+    "tmdb_id": 43943,
+    "trakt_type": "movie",
+    "trakt_id": 29689,
+    "plex_type": "movie",
+    "plex_id": "5d77687d7a53e9001e6d0770",
+    "appletv_id": "umc.cmc.1dw7b7x1breioeoldnm6fgfwg",
+    "rottentomatoes_id": "m/jack_goes_boating",
+    "title": "Jack Goes Boating",
+    "year": 2010,
+    "director_qid": "Q180560",
+    "director": "Philip Seymour Hoffman",
+    "duration": 89,
+    "tomatometer": 68
+  }
+]

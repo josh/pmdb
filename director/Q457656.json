@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q144756",
+    "imdb_id": "tt1139797",
+    "tmdb_type": "movie",
+    "tmdb_id": 13310,
+    "trakt_type": "movie",
+    "trakt_id": 7812,
+    "plex_type": "movie",
+    "plex_id": "5d77683a999c64001ec304b4",
+    "appletv_id": "umc.cmc.5xv69iwvrcvjxe84nb9d0xn6e",
+    "rottentomatoes_id": "m/let_the_right_one_in",
+    "title": "Let the Right One In",
+    "year": 2008,
+    "director_qid": "Q457656",
+    "director": "Tomas Alfredson",
+    "duration": 110,
+    "tomatometer": 98
+  },
+  {
+    "wikidata_qid": "Q681962",
+    "imdb_id": "tt1340800",
+    "tmdb_type": "movie",
+    "tmdb_id": 49517,
+    "trakt_type": "movie",
+    "trakt_id": 34503,
+    "plex_type": "movie",
+    "plex_id": "5d776889ebdf2200209c1bdd",
+    "appletv_id": "umc.cmc.3ougl68zsg3kc5nk260s48zu2",
+    "rottentomatoes_id": "m/tinker_tailor_soldier_spy",
+    "title": "Tinker Tailor Soldier Spy",
+    "year": 2011,
+    "director_qid": "Q457656",
+    "director": "Tomas Alfredson",
+    "duration": 127,
+    "tomatometer": 83
+  }
+]

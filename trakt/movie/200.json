@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q202326",
+  "imdb_id": "tt0099674",
+  "tmdb_type": "movie",
+  "tmdb_id": 242,
+  "trakt_type": "movie",
+  "trakt_id": 200,
+  "plex_type": "movie",
+  "plex_id": "5d7768257228e5001f1dccce",
+  "appletv_id": "umc.cmc.5t90r6dhxiieui9jdeajph0w4",
+  "rottentomatoes_id": "m/godfather_part_iii",
+  "title": "The Godfather Part III",
+  "year": 1990,
+  "director_qid": "Q56094",
+  "director": "Francis Ford Coppola",
+  "duration": 162,
+  "tomatometer": 68
+}

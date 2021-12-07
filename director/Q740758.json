@@ -1,0 +1,52 @@
+[
+  {
+    "wikidata_qid": "Q23994919",
+    "imdb_id": "tt13056052",
+    "tmdb_type": "movie",
+    "tmdb_id": 736732,
+    "trakt_type": "movie",
+    "trakt_id": 578049,
+    "rottentomatoes_id": "m/broker",
+    "title": "Broker",
+    "year": 2022,
+    "director_qid": "Q740758",
+    "director": "Hirokazu Koreeda",
+    "duration": 129
+  },
+  {
+    "wikidata_qid": "Q48765577",
+    "imdb_id": "tt8075192",
+    "tmdb_type": "movie",
+    "tmdb_id": 505192,
+    "trakt_type": "movie",
+    "trakt_id": 352473,
+    "plex_type": "movie",
+    "plex_id": "5d776f08f617c90020198589",
+    "appletv_id": "umc.cmc.3a10g7qwaeclpe5aac406iutq",
+    "rottentomatoes_id": "m/shoplifters",
+    "title": "Shoplifters",
+    "year": 2018,
+    "director_qid": "Q740758",
+    "director": "Hirokazu Koreeda",
+    "duration": 121,
+    "tomatometer": 99
+  },
+  {
+    "wikidata_qid": "Q64666990",
+    "imdb_id": "tt8323120",
+    "tmdb_type": "movie",
+    "tmdb_id": 517468,
+    "trakt_type": "movie",
+    "trakt_id": 365950,
+    "plex_type": "movie",
+    "plex_id": "5d77703f81ba41001faebb37",
+    "appletv_id": "umc.cmc.6g8zh5yhewgaou6w1trkzo2tn",
+    "rottentomatoes_id": "m/the_truth_2020",
+    "title": "The Truth",
+    "year": 2019,
+    "director_qid": "Q740758",
+    "director": "Hirokazu Koreeda",
+    "duration": 106,
+    "tomatometer": 87
+  }
+]

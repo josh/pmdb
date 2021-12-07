@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q27942936",
+    "imdb_id": "tt1485796",
+    "tmdb_type": "movie",
+    "tmdb_id": 316029,
+    "trakt_type": "movie",
+    "trakt_id": 196835,
+    "plex_type": "movie",
+    "plex_id": "5d776b607a53e9001e723c57",
+    "appletv_id": "umc.cmc.g5zw3ci4satz3r1xsdp9zy0t",
+    "rottentomatoes_id": "m/the_greatest_showman_2017",
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "director_qid": "Q28152753",
+    "director": "Michael Gracey",
+    "duration": 105,
+    "tomatometer": 57
+  }
+]

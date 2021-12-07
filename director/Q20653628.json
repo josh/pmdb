@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q1139266",
+    "imdb_id": "tt1758570",
+    "tmdb_type": "movie",
+    "tmdb_id": 59197,
+    "trakt_type": "movie",
+    "trakt_id": 42415,
+    "plex_type": "movie",
+    "plex_id": "5d77689e1999bc0020dcb430",
+    "appletv_id": "umc.cmc.4c8q1jzofeutdvl9224g35osi",
+    "rottentomatoes_id": "m/attack_los_angeles",
+    "title": "Battle of Los Angeles",
+    "year": 2011,
+    "director_qid": "Q20653628",
+    "director": "Mark Atkins",
+    "duration": 92
+  }
+]

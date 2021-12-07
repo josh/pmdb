@@ -1,0 +1,37 @@
+[
+  {
+    "wikidata_qid": "Q55402791",
+    "imdb_id": "tt7984734",
+    "tmdb_type": "movie",
+    "tmdb_id": 503919,
+    "trakt_type": "movie",
+    "trakt_id": 351214,
+    "plex_type": "movie",
+    "plex_id": "5d776efd96b655001fe7ad9e",
+    "appletv_id": "umc.cmc.2gh13feg8tcy7lr2fzv2q09b7",
+    "rottentomatoes_id": "m/the_lighthouse_2019",
+    "title": "The Lighthouse",
+    "year": 2019,
+    "director_qid": "Q20826736",
+    "director": "Robert Eggers",
+    "duration": 109,
+    "tomatometer": 90
+  },
+  {
+    "wikidata_qid": "Q87126244",
+    "imdb_id": "tt11138512",
+    "tmdb_type": "movie",
+    "tmdb_id": 639933,
+    "trakt_type": "movie",
+    "trakt_id": 478776,
+    "plex_type": "movie",
+    "plex_id": "5e16598c61c6140040d9245d",
+    "appletv_id": "umc.cmc.6pv6f3gbz0vuh4zr3or1wdth4",
+    "rottentomatoes_id": "m/the_northman",
+    "title": "The Northman",
+    "year": 2022,
+    "director_qid": "Q20826736",
+    "director": "Robert Eggers",
+    "duration": 137
+  }
+]

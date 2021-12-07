@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q2997404",
+    "imdb_id": "tt0250310",
+    "tmdb_type": "movie",
+    "tmdb_id": 17708,
+    "trakt_type": "movie",
+    "trakt_id": 10846,
+    "plex_type": "movie",
+    "plex_id": "5d776841999c64001ec319ce",
+    "appletv_id": "umc.cmc.2g4eiosnt9hoc2mi8j7wpklxv",
+    "rottentomatoes_id": "m/corky_romano",
+    "title": "Corky Romano",
+    "year": 2001,
+    "director_qid": "Q3434224",
+    "director": "Rob Pritts",
+    "duration": 86,
+    "tomatometer": 7
+  }
+]

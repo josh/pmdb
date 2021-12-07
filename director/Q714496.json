@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q646426",
+    "imdb_id": "tt0113540",
+    "tmdb_type": "movie",
+    "tmdb_id": 9344,
+    "trakt_type": "movie",
+    "trakt_id": 4637,
+    "plex_type": "movie",
+    "plex_id": "5d776832999c64001ec2ebda",
+    "rottentomatoes_id": "m/kids",
+    "title": "Kids",
+    "year": 1995,
+    "director_qid": "Q714496",
+    "director": "Larry Clark",
+    "duration": 91,
+    "tomatometer": 46
+  }
+]

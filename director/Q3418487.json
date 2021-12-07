@@ -1,0 +1,37 @@
+[
+  {
+    "wikidata_qid": "Q39069893",
+    "imdb_id": "tt0360556",
+    "tmdb_type": "movie",
+    "tmdb_id": 401905,
+    "trakt_type": "movie",
+    "trakt_id": 246677,
+    "plex_type": "movie",
+    "plex_id": "5d77704e47dd6e001f708ee4",
+    "appletv_id": "umc.cmc.7b39ubxpjr9h82vdwbbx94cgp",
+    "rottentomatoes_id": "m/fahrenheit_451",
+    "title": "Fahrenheit 451",
+    "year": 2018,
+    "director_qid": "Q3418487",
+    "director": "Ramin Bahrani",
+    "duration": 100,
+    "tomatometer": 32
+  },
+  {
+    "wikidata_qid": "Q101098258",
+    "imdb_id": "tt6571548",
+    "tmdb_type": "movie",
+    "tmdb_id": 628534,
+    "trakt_type": "movie",
+    "trakt_id": 469316,
+    "plex_type": "movie",
+    "plex_id": "5e16334861c6140040d67fbc",
+    "rottentomatoes_id": "m/the_white_tiger_2020",
+    "title": "The White Tiger",
+    "year": 2021,
+    "director_qid": "Q3418487",
+    "director": "Ramin Bahrani",
+    "duration": 125,
+    "tomatometer": 91
+  }
+]

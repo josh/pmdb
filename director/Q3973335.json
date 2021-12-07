@@ -1,0 +1,35 @@
+[
+  {
+    "wikidata_qid": "Q48758",
+    "imdb_id": "tt0491738",
+    "tmdb_type": "tv",
+    "tmdb_id": 1447,
+    "trakt_type": "show",
+    "trakt_id": 1438,
+    "plex_type": "show",
+    "plex_id": "5d9c086ce98e47001eb0f527",
+    "appletv_id": "umc.cmc.4mrda39021a4w75i3fbehihi5",
+    "rottentomatoes_id": "tv/psych",
+    "title": "Psych",
+    "director_qid": "Q3973335",
+    "director": "Steve Franks",
+    "duration": 42
+  },
+  {
+    "wikidata_qid": "Q97354742",
+    "imdb_id": "tt9792884",
+    "tmdb_type": "movie",
+    "tmdb_id": 582218,
+    "trakt_type": "movie",
+    "trakt_id": 430848,
+    "plex_type": "movie",
+    "plex_id": "5d7770ba51dd69001fe5a24a",
+    "appletv_id": "umc.cmc.2snjd4kpe4syiaom2swg6j4f7",
+    "rottentomatoes_id": "m/psych_2_lassie_come_home",
+    "title": "Psych 2: Lassie Come Home",
+    "year": 2020,
+    "director_qid": "Q3973335",
+    "director": "Steve Franks",
+    "tomatometer": 83
+  }
+]

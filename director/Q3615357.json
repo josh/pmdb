@@ -1,0 +1,30 @@
+[
+  {
+    "wikidata_qid": "Q5594340",
+    "imdb_id": "tt0858497",
+    "tmdb_type": "movie",
+    "tmdb_id": 15557,
+    "trakt_type": "movie",
+    "trakt_id": 9468,
+    "rottentomatoes_id": "m/grand_canyon_adventure_river_at_risk",
+    "title": "Grand Canyon Adventure: River at Risk",
+    "year": 2008,
+    "director_qid": "Q3615357",
+    "director": "Greg MacGillivray",
+    "tomatometer": 78
+  },
+  {
+    "wikidata_qid": "Q24604288",
+    "imdb_id": "tt5568164",
+    "tmdb_type": "movie",
+    "tmdb_id": 384043,
+    "trakt_type": "movie",
+    "trakt_id": 241426,
+    "appletv_id": "umc.cmc.16fyxjs01v0fyotw9mmvjioai",
+    "title": "America Wild: National Parks Adventure",
+    "year": 2016,
+    "director_qid": "Q3615357",
+    "director": "Greg MacGillivray",
+    "duration": 43
+  }
+]

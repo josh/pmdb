@@ -1,0 +1,33 @@
+[
+  {
+    "wikidata_qid": "Q67171095",
+    "imdb_id": "tt10687506",
+    "tmdb_type": "movie",
+    "tmdb_id": 617762,
+    "trakt_type": "movie",
+    "trakt_id": 460903,
+    "plex_type": "movie",
+    "plex_id": "5e16330a4c78f7003e7f1a73",
+    "rottentomatoes_id": "m/the_electrical_life_of_louis_wain",
+    "title": "The Electrical Life of Louis Wain",
+    "director_qid": "Q14946917",
+    "director": "Will Sharpe",
+    "duration": 111,
+    "tomatometer": 76
+  },
+  {
+    "wikidata_qid": "Q108471031",
+    "imdb_id": "tt11471892",
+    "tmdb_type": "tv",
+    "tmdb_id": 113987,
+    "trakt_type": "show",
+    "trakt_id": 157275,
+    "plex_type": "show",
+    "plex_id": "5e8338c263ea830042ee6ed4",
+    "rottentomatoes_id": "tv/landscapers",
+    "title": "Landscapers",
+    "year": 2021,
+    "director_qid": "Q14946917",
+    "director": "Will Sharpe"
+  }
+]

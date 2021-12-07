@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q1627076",
+    "imdb_id": "tt0116311",
+    "tmdb_type": "movie",
+    "tmdb_id": 12559,
+    "trakt_type": "movie",
+    "trakt_id": 7329,
+    "plex_type": "movie",
+    "plex_id": "5d7768387228e5001f1df2ad",
+    "appletv_id": "umc.cmc.5w1ivxihyo77c60yi2bdg96lg",
+    "rottentomatoes_id": "m/first_kid",
+    "title": "First Kid",
+    "year": 1996,
+    "director_qid": "Q1175381",
+    "director": "David M. Evans",
+    "duration": 97,
+    "tomatometer": 20
+  },
+  {
+    "wikidata_qid": "Q2369793",
+    "imdb_id": "tt0108037",
+    "tmdb_type": "movie",
+    "tmdb_id": 11528,
+    "trakt_type": "movie",
+    "trakt_id": 6610,
+    "plex_type": "movie",
+    "plex_id": "5d7768363c3c2a001fbce961",
+    "appletv_id": "umc.cmc.1q4100ra278icgyp06k07p4r9",
+    "rottentomatoes_id": "m/sandlot",
+    "title": "The Sandlot",
+    "year": 1993,
+    "director_qid": "Q1175381",
+    "director": "David M. Evans",
+    "duration": 101,
+    "tomatometer": 64
+  }
+]

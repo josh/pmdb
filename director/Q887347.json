@@ -1,0 +1,35 @@
+[
+  {
+    "wikidata_qid": "Q47265121",
+    "imdb_id": "tt7014006",
+    "tmdb_type": "movie",
+    "tmdb_id": 489925,
+    "trakt_type": "movie",
+    "trakt_id": 336953,
+    "plex_type": "movie",
+    "plex_id": "5d776d949ab544002151fba4",
+    "appletv_id": "umc.cmc.45or9qu47jajvpm5l1ce2zg42",
+    "rottentomatoes_id": "m/eighth_grade",
+    "title": "Eighth Grade",
+    "year": 2018,
+    "director_qid": "Q887347",
+    "director": "Bo Burnham",
+    "duration": 94,
+    "tomatometer": 99
+  },
+  {
+    "wikidata_qid": "Q107069381",
+    "imdb_id": "tt14544192",
+    "tmdb_type": "movie",
+    "tmdb_id": 823754,
+    "trakt_type": "movie",
+    "trakt_id": 656566,
+    "rottentomatoes_id": "m/bo_burnham_inside",
+    "title": "Bo Burnham: Inside",
+    "year": 2021,
+    "director_qid": "Q887347",
+    "director": "Bo Burnham",
+    "duration": 87,
+    "tomatometer": 93
+  }
+]

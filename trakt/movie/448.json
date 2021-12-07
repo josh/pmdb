@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q106428",
+  "imdb_id": "tt0112384",
+  "tmdb_type": "movie",
+  "tmdb_id": 568,
+  "trakt_type": "movie",
+  "trakt_id": 448,
+  "plex_type": "movie",
+  "plex_id": "5d776826151a60001f24a9d0",
+  "appletv_id": "umc.cmc.5vgm2wvd7nt2eklpd7lk1arpz",
+  "rottentomatoes_id": "m/apollo_13",
+  "title": "Apollo 13",
+  "year": 1995,
+  "director_qid": "Q103646",
+  "director": "Ron Howard",
+  "duration": 134,
+  "tomatometer": 96
+}

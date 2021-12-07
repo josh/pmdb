@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q503343",
+  "imdb_id": "tt0070909",
+  "tmdb_type": "movie",
+  "tmdb_id": 2362,
+  "trakt_type": "movie",
+  "trakt_id": 1660,
+  "plex_type": "movie",
+  "plex_id": "5d77682be6d55c002040b712",
+  "appletv_id": "umc.cmc.35iw9i9cqugw8z4jam98pwipv",
+  "rottentomatoes_id": "m/westworld",
+  "title": "Westworld",
+  "year": 1973,
+  "director_qid": "Q172140",
+  "director": "Michael Crichton",
+  "duration": 89,
+  "tomatometer": 85
+}

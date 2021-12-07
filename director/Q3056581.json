@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1759328",
+    "imdb_id": "tt0119375",
+    "tmdb_type": "movie",
+    "tmdb_id": 26610,
+    "trakt_type": "movie",
+    "trakt_id": 16209,
+    "plex_type": "movie",
+    "plex_id": "5d7768522ec6b5001f6bf9be",
+    "appletv_id": "umc.cmc.3di8vsbr34m6sexjsfdhddsxi",
+    "rottentomatoes_id": "m/insomnia_1998",
+    "title": "Insomnia",
+    "year": 1997,
+    "director_qid": "Q3056581",
+    "director": "Erik Skjoldbj\u00e6rg",
+    "duration": 96,
+    "tomatometer": 95
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q27703192",
+    "imdb_id": "tt4695012",
+    "tmdb_type": "movie",
+    "tmdb_id": 418078,
+    "trakt_type": "movie",
+    "trakt_id": 262061,
+    "plex_type": "movie",
+    "plex_id": "5d776c7796b655001fe31924",
+    "appletv_id": "umc.cmc.dmeskqazlvttbp40hz6zwc82",
+    "rottentomatoes_id": "m/it_comes_at_night",
+    "title": "It Comes at Night",
+    "year": 2017,
+    "director_qid": "Q22212893",
+    "director": "Trey Edward Shults",
+    "duration": 91,
+    "tomatometer": 87
+  },
+  {
+    "wikidata_qid": "Q56205334",
+    "imdb_id": "tt8652728",
+    "tmdb_type": "movie",
+    "tmdb_id": 533444,
+    "trakt_type": "movie",
+    "trakt_id": 385907,
+    "plex_type": "movie",
+    "plex_id": "5d777063ad5437001f820ba1",
+    "appletv_id": "umc.cmc.4de7jbwhk0795czvy2zslh247",
+    "rottentomatoes_id": "m/waves_2019",
+    "title": "Waves",
+    "year": 2019,
+    "director_qid": "Q22212893",
+    "director": "Trey Edward Shults",
+    "duration": 135,
+    "tomatometer": 84
+  }
+]

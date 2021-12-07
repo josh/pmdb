@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q67628998",
+    "imdb_id": "tt8228288",
+    "tmdb_type": "movie",
+    "tmdb_id": 619264,
+    "trakt_type": "movie",
+    "trakt_id": 464098,
+    "plex_type": "movie",
+    "plex_id": "5e16222d63a68b003fcb686a",
+    "rottentomatoes_id": "m/the_platform",
+    "title": "The Platform",
+    "year": 2019,
+    "director_qid": "Q68079608",
+    "director": "Galder Gaztelu-Urrutiatxe",
+    "duration": 94,
+    "tomatometer": 79
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q132689",
+    "imdb_id": "tt0034583",
+    "tmdb_type": "movie",
+    "tmdb_id": 289,
+    "trakt_type": "movie",
+    "trakt_id": 243,
+    "plex_type": "movie",
+    "plex_id": "5d776824103a2d001f5639b1",
+    "appletv_id": "umc.cmc.6i7o1550iyqet6xexqniqyp4k",
+    "rottentomatoes_id": "m/1003707-casablanca",
+    "title": "Casablanca",
+    "year": 1942,
+    "director_qid": "Q51491",
+    "director": "Michael Curtiz",
+    "duration": 102,
+    "tomatometer": 99
+  }
+]

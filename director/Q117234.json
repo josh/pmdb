@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q976728",
+    "imdb_id": "tt0097474",
+    "tmdb_type": "movie",
+    "tmdb_id": 11361,
+    "trakt_type": "movie",
+    "trakt_id": 6457,
+    "plex_type": "movie",
+    "plex_id": "5d77683654c0f0001f303c23",
+    "appletv_id": "umc.cmc.4igzhykb2olsno5m2wrdulw6m",
+    "rottentomatoes_id": "m/halloween_5_the_revenge_of_michael_myers",
+    "title": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "director_qid": "Q117234",
+    "director": "Dominique Othenin-Girard",
+    "duration": 96,
+    "tomatometer": 12
+  }
+]

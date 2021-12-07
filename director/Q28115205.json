@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1189674",
+    "imdb_id": "tt1531663",
+    "tmdb_type": "movie",
+    "tmdb_id": 45658,
+    "trakt_type": "movie",
+    "trakt_id": 31187,
+    "plex_type": "movie",
+    "plex_id": "5d77688196b655001fdba166",
+    "appletv_id": "umc.cmc.16mnncn7tbpuqbo9f5fbcpalz",
+    "rottentomatoes_id": "m/everything_must_go",
+    "title": "Everything Must Go",
+    "year": 2010,
+    "director_qid": "Q28115205",
+    "director": "Dan Rush",
+    "duration": 97,
+    "tomatometer": 73
+  }
+]

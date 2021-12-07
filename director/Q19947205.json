@@ -1,0 +1,52 @@
+[
+  {
+    "wikidata_qid": "Q20948236",
+    "imdb_id": "tt5700672",
+    "tmdb_type": "movie",
+    "tmdb_id": 396535,
+    "trakt_type": "movie",
+    "trakt_id": 239425,
+    "plex_type": "movie",
+    "plex_id": "5d776c3d51dd69001fe39387",
+    "appletv_id": "umc.cmc.74kcjars4r3m6bliewisxh4dr",
+    "rottentomatoes_id": "m/train_to_busan",
+    "title": "Train to Busan",
+    "year": 2016,
+    "director_qid": "Q19947205",
+    "director": "Yeon Sang-ho",
+    "duration": 118,
+    "tomatometer": 94
+  },
+  {
+    "wikidata_qid": "Q65061643",
+    "imdb_id": "tt8850222",
+    "tmdb_type": "movie",
+    "tmdb_id": 581392,
+    "trakt_type": "movie",
+    "trakt_id": 455571,
+    "plex_type": "movie",
+    "plex_id": "5d7770b881ba41001faf6860",
+    "appletv_id": "umc.cmc.6825ltzbghuj3zok8xz4pn12p",
+    "rottentomatoes_id": "m/train_to_busan_presents_peninsula",
+    "title": "Peninsula",
+    "year": 2020,
+    "director_qid": "Q19947205",
+    "director": "Yeon Sang-ho",
+    "duration": 116,
+    "tomatometer": 54
+  },
+  {
+    "wikidata_qid": "Q100934044",
+    "imdb_id": "tt12235718",
+    "tmdb_type": "tv",
+    "tmdb_id": 106651,
+    "trakt_type": "show",
+    "trakt_id": 170211,
+    "plex_type": "show",
+    "plex_id": "5f235d96f94d66004144cdb3",
+    "rottentomatoes_id": "tv/hellbound",
+    "title": "Hellbound",
+    "director_qid": "Q19947205",
+    "director": "Yeon Sang-ho"
+  }
+]

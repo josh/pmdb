@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q180098",
+    "imdb_id": "tt0052618",
+    "tmdb_type": "movie",
+    "tmdb_id": 665,
+    "trakt_type": "movie",
+    "trakt_id": 539,
+    "plex_type": "movie",
+    "plex_id": "5d7768287e9a3c0020c6ad1f",
+    "appletv_id": "umc.cmc.523sgjwmhal494z5qfp0xz51g",
+    "rottentomatoes_id": "m/benhur",
+    "title": "Ben-Hur",
+    "year": 1959,
+    "director_qid": "Q51495",
+    "director": "William Wyler",
+    "duration": 222,
+    "tomatometer": 86
+  },
+  {
+    "wikidata_qid": "Q645094",
+    "imdb_id": "tt0036868",
+    "tmdb_type": "movie",
+    "tmdb_id": 887,
+    "trakt_type": "movie",
+    "trakt_id": 730,
+    "plex_type": "movie",
+    "plex_id": "5d776828103a2d001f5648ab",
+    "appletv_id": "umc.cmc.6ll8awupea52o2e215bvxwd7p",
+    "rottentomatoes_id": "m/best_years_of_our_lives",
+    "title": "The Best Years of Our Lives",
+    "year": 1946,
+    "director_qid": "Q51495",
+    "director": "William Wyler",
+    "duration": 172,
+    "tomatometer": 98
+  }
+]

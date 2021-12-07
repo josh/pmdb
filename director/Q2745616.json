@@ -1,0 +1,53 @@
+[
+  {
+    "wikidata_qid": "Q908473",
+    "imdb_id": "tt0364725",
+    "tmdb_type": "movie",
+    "tmdb_id": 9472,
+    "trakt_type": "movie",
+    "trakt_id": 4758,
+    "plex_type": "movie",
+    "plex_id": "5d77683385719b001f3a3311",
+    "appletv_id": "umc.cmc.20a30ox1zug9kvge4yi437swt",
+    "rottentomatoes_id": "m/dodgeball_a_true_underdog_story",
+    "title": "DodgeBall: A True Underdog Story",
+    "year": 2004,
+    "director_qid": "Q2745616",
+    "director": "Rawson Marshall Thurber",
+    "tomatometer": 71
+  },
+  {
+    "wikidata_qid": "Q19867575",
+    "imdb_id": "tt1489889",
+    "tmdb_type": "movie",
+    "tmdb_id": 302699,
+    "trakt_type": "movie",
+    "trakt_id": 222153,
+    "plex_type": "movie",
+    "plex_id": "5d776b40fb0d55001f5618cf",
+    "appletv_id": "umc.cmc.7iaqfisrbpgdnndjzswarz7xs",
+    "rottentomatoes_id": "m/central_intelligence",
+    "title": "Central Intelligence",
+    "year": 2016,
+    "director_qid": "Q2745616",
+    "director": "Rawson Marshall Thurber",
+    "tomatometer": 71
+  },
+  {
+    "wikidata_qid": "Q58815001",
+    "imdb_id": "tt7991608",
+    "tmdb_type": "movie",
+    "tmdb_id": 512195,
+    "trakt_type": "movie",
+    "trakt_id": 359731,
+    "plex_type": "movie",
+    "plex_id": "5d77704481ba41001faec15d",
+    "appletv_id": "umc.cmc.6f81oweplmpp3ne7g1d8q37k9",
+    "rottentomatoes_id": "m/red_notice",
+    "title": "Red Notice",
+    "year": 2021,
+    "director_qid": "Q2745616",
+    "director": "Rawson Marshall Thurber",
+    "duration": 118
+  }
+]

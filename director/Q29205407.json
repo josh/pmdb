@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q65061274",
+    "imdb_id": "tt10230994",
+    "tmdb_type": "movie",
+    "tmdb_id": 597433,
+    "trakt_type": "movie",
+    "trakt_id": 443368,
+    "plex_type": "movie",
+    "plex_id": "5d7770d99ab5440021538043",
+    "rottentomatoes_id": "m/beckett",
+    "title": "Beckett",
+    "year": 2021,
+    "director_qid": "Q29205407",
+    "director": "Ferdinando Cito Filomarino",
+    "duration": 108,
+    "tomatometer": 45
+  }
+]

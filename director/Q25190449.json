@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q60611804",
+    "imdb_id": "tt8637428",
+    "tmdb_type": "movie",
+    "tmdb_id": 565310,
+    "trakt_type": "movie",
+    "trakt_id": 414991,
+    "plex_type": "movie",
+    "plex_id": "5d7770a59ab5440021536ad1",
+    "appletv_id": "umc.cmc.3biyedq13oydckx5jbstv46s",
+    "rottentomatoes_id": "m/the_farewell_2019",
+    "title": "The Farewell",
+    "year": 2019,
+    "director_qid": "Q25190449",
+    "director": "Lulu Wang",
+    "duration": 98,
+    "tomatometer": 97
+  }
+]

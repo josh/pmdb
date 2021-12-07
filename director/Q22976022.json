@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q77009",
+    "imdb_id": "tt0338325",
+    "tmdb_type": "movie",
+    "tmdb_id": 15644,
+    "trakt_type": "movie",
+    "trakt_id": 9525,
+    "plex_type": "movie",
+    "plex_id": "5d77683d5af944001f1fbb36",
+    "appletv_id": "umc.cmc.48blqti38h5m444lz20ixqbjp",
+    "rottentomatoes_id": "m/paparazzi",
+    "title": "Paparazzi",
+    "year": 2004,
+    "director_qid": "Q22976022",
+    "director": "Paul Abascal",
+    "duration": 87,
+    "tomatometer": 18
+  }
+]

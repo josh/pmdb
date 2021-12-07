@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q571032",
+  "imdb_id": "tt1853728",
+  "tmdb_type": "movie",
+  "tmdb_id": 68718,
+  "trakt_type": "movie",
+  "trakt_id": 50131,
+  "plex_type": "movie",
+  "plex_id": "5d7768adebdf2200209c5d46",
+  "appletv_id": "umc.cmc.1k5z2t463bta6u5dyvu9xsp4g",
+  "rottentomatoes_id": "m/django_unchained_2012",
+  "title": "Django Unchained",
+  "year": 2012,
+  "director_qid": "Q3772",
+  "director": "Quentin Tarantino",
+  "duration": 165,
+  "tomatometer": 87
+}

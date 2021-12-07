@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q59631393",
+    "imdb_id": "tt6127004",
+    "tmdb_type": "movie",
+    "tmdb_id": 487083,
+    "trakt_type": "movie",
+    "trakt_id": 334154,
+    "plex_type": "movie",
+    "plex_id": "5d776d827a53e9001e75ba10",
+    "appletv_id": "umc.cmc.68ps53dl2cbgl6j1hsxho07ja",
+    "rottentomatoes_id": "m/paradise_hills",
+    "title": "Paradise Hills",
+    "year": 2019,
+    "director_qid": "Q29053527",
+    "director": "Alice Waddington",
+    "duration": 95,
+    "tomatometer": 63
+  }
+]

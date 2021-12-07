@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1200137",
+    "imdb_id": "tt1403988",
+    "tmdb_type": "movie",
+    "tmdb_id": 41556,
+    "trakt_type": "movie",
+    "trakt_id": 27517,
+    "plex_type": "movie",
+    "plex_id": "5d776876374a5b001fec6581",
+    "appletv_id": "umc.cmc.6a896o4jxhc8ia63fauxj44hg",
+    "rottentomatoes_id": "m/the-romantics",
+    "title": "The Romantics",
+    "year": 2010,
+    "director_qid": "Q4969366",
+    "director": "Galt Niederhoffer",
+    "duration": 93,
+    "tomatometer": 14
+  }
+]

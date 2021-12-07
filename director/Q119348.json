@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q180279",
+    "imdb_id": "tt0086006",
+    "tmdb_type": "movie",
+    "tmdb_id": 36670,
+    "trakt_type": "movie",
+    "trakt_id": 23310,
+    "plex_type": "movie",
+    "plex_id": "5d776868594b2b001e68b2ac",
+    "appletv_id": "umc.cmc.sj15hj1thtal8sp6jtmrs0f",
+    "rottentomatoes_id": "m/never_say_never_again",
+    "title": "Never Say Never Again",
+    "year": 1983,
+    "director_qid": "Q119348",
+    "director": "Irvin Kershner",
+    "duration": 128,
+    "tomatometer": 70
+  },
+  {
+    "wikidata_qid": "Q181795",
+    "imdb_id": "tt0080684",
+    "tmdb_type": "movie",
+    "tmdb_id": 1891,
+    "trakt_type": "movie",
+    "trakt_id": 1266,
+    "plex_type": "movie",
+    "plex_id": "5d77682a880197001ec91562",
+    "appletv_id": "umc.cmc.3vabzkcmuoxxm3r3ng9q4rgh9",
+    "rottentomatoes_id": "m/star_wars_the_empire_strikes_back",
+    "title": "Star Wars: Episode V \u2013 The Empire Strikes Back",
+    "year": 1980,
+    "director_qid": "Q119348",
+    "director": "Irvin Kershner",
+    "duration": 124,
+    "tomatometer": 94
+  }
+]

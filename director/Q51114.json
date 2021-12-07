@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q676039",
+    "imdb_id": "tt0032551",
+    "tmdb_type": "movie",
+    "tmdb_id": 596,
+    "trakt_type": "movie",
+    "trakt_id": 474,
+    "plex_type": "movie",
+    "plex_id": "5d7768264de0ee001fcc87e9",
+    "appletv_id": "umc.cmc.7breq54ynfalfw2sgah76xd2u",
+    "rottentomatoes_id": "m/grapes_of_wrath",
+    "title": "The Grapes of Wrath",
+    "year": 1940,
+    "director_qid": "Q51114",
+    "director": "John Ford",
+    "duration": 128,
+    "tomatometer": 100
+  }
+]

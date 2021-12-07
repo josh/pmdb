@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q2004314",
+    "imdb_id": "tt0093185",
+    "tmdb_type": "movie",
+    "tmdb_id": 12476,
+    "trakt_type": "movie",
+    "trakt_id": 7250,
+    "plex_type": "movie",
+    "plex_id": "5d9f3501ca3253001ef27a7f",
+    "appletv_id": "umc.cmc.xpfv9tdbmpijtg30s9sofdq7",
+    "rottentomatoes_id": "m/hidden",
+    "title": "The Hidden",
+    "year": 1987,
+    "director_qid": "Q11338",
+    "director": "Jack Sholder",
+    "duration": 96,
+    "tomatometer": 73
+  }
+]

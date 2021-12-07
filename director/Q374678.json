@@ -1,0 +1,51 @@
+[
+  {
+    "wikidata_qid": "Q22026371",
+    "imdb_id": "tt3655448",
+    "tmdb_type": "tv",
+    "tmdb_id": 62699,
+    "trakt_type": "show",
+    "trakt_id": 108927,
+    "plex_type": "show",
+    "plex_id": "5d9c086846115600200a9d66",
+    "appletv_id": "umc.cmc.45z4jrk0216kyw9vh1eq7oyxt",
+    "rottentomatoes_id": "tv/the_young_pope",
+    "title": "The Young Pope",
+    "year": 2016,
+    "director_qid": "Q374678",
+    "director": "Paolo Sorrentino",
+    "tomatometer": 80
+  },
+  {
+    "wikidata_qid": "Q60769208",
+    "imdb_id": "tt7157248",
+    "tmdb_type": "tv",
+    "tmdb_id": 88408,
+    "trakt_type": "show",
+    "trakt_id": 157582,
+    "plex_type": "show",
+    "plex_id": "5d9c08ff3c3f87001f35a1b3",
+    "appletv_id": "umc.cmc.1lc50oui5ezfl8qrddfw3fbul",
+    "rottentomatoes_id": "tv/the_new_pope",
+    "title": "The New Pope",
+    "director_qid": "Q374678",
+    "director": "Paolo Sorrentino"
+  },
+  {
+    "wikidata_qid": "Q104856751",
+    "imdb_id": "tt12680684",
+    "tmdb_type": "movie",
+    "tmdb_id": 722778,
+    "trakt_type": "movie",
+    "trakt_id": 565297,
+    "plex_type": "movie",
+    "plex_id": "5f072030324bcc0042046809",
+    "rottentomatoes_id": "m/the_hand_of_god",
+    "title": "The Hand of God",
+    "year": 2021,
+    "director_qid": "Q374678",
+    "director": "Paolo Sorrentino",
+    "duration": 130,
+    "tomatometer": 67
+  }
+]

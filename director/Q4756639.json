@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q83726977",
+    "imdb_id": "tt10661180",
+    "tmdb_type": "movie",
+    "tmdb_id": 653606,
+    "trakt_type": "movie",
+    "trakt_id": 488193,
+    "plex_type": "movie",
+    "plex_id": "5e162561025089003f48d5c4",
+    "appletv_id": "umc.cmc.3s36nvd4t1ka0v3qwfgk9bv20",
+    "rottentomatoes_id": "m/the_last_shift",
+    "title": "The Last Shift",
+    "year": 2020,
+    "director_qid": "Q4756639",
+    "director": "Andrew Cohn",
+    "tomatometer": 64
+  }
+]

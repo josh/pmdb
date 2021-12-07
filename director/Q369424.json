@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q115597",
+    "imdb_id": "tt1262981",
+    "tmdb_type": "movie",
+    "tmdb_id": 20178,
+    "trakt_type": "movie",
+    "trakt_id": 12386,
+    "plex_type": "movie",
+    "plex_id": "5d9f3541e4fc29001eb66131",
+    "appletv_id": "umc.cmc.25hey6wm4f5twu88dtmatccgp",
+    "rottentomatoes_id": "m/1213731-worlds_greatest_dad",
+    "title": "World's Greatest Dad",
+    "year": 2009,
+    "director_qid": "Q369424",
+    "director": "Bobcat Goldthwait",
+    "duration": 99,
+    "tomatometer": 88
+  },
+  {
+    "wikidata_qid": "Q1533597",
+    "imdb_id": "tt1912398",
+    "tmdb_type": "movie",
+    "tmdb_id": 74306,
+    "trakt_type": "movie",
+    "trakt_id": 54692,
+    "plex_type": "movie",
+    "plex_id": "5d7768b70ea56a001e2a93f8",
+    "appletv_id": "umc.cmc.7d7e3nc4f2k933k9dv9o3e55r",
+    "rottentomatoes_id": "m/god_bless_america_2011",
+    "title": "God Bless America",
+    "year": 2011,
+    "director_qid": "Q369424",
+    "director": "Bobcat Goldthwait",
+    "duration": 105,
+    "tomatometer": 66
+  }
+]

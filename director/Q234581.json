@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q30607949",
+    "imdb_id": "tt2315596",
+    "tmdb_type": "movie",
+    "tmdb_id": 283601,
+    "trakt_type": "movie",
+    "trakt_id": 180878,
+    "plex_type": "movie",
+    "plex_id": "5d776b04594b2b001e6cc834",
+    "appletv_id": "umc.cmc.b5o4l2vir08js96vgftunigu",
+    "rottentomatoes_id": "m/galveston",
+    "title": "Galveston",
+    "year": 2018,
+    "director_qid": "Q234581",
+    "director": "M\u00e9lanie Laurent",
+    "duration": 91,
+    "tomatometer": 72
+  }
+]

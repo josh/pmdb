@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q627533",
+    "imdb_id": "tt0087277",
+    "tmdb_type": "movie",
+    "tmdb_id": 1788,
+    "trakt_type": "movie",
+    "trakt_id": 1185,
+    "plex_type": "movie",
+    "plex_id": "5d9f34ecd5fd3f001ee1409b",
+    "appletv_id": "umc.cmc.4qefj363v0pjsrt8tpzvn3zmg",
+    "rottentomatoes_id": "m/1007657-footloose",
+    "title": "Footloose",
+    "year": 1984,
+    "director_qid": "Q711415",
+    "director": "Herbert Ross",
+    "duration": 107,
+    "tomatometer": 51
+  }
+]

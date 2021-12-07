@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q263460",
+    "imdb_id": "tt0094963",
+    "tmdb_type": "movie",
+    "tmdb_id": 10651,
+    "trakt_type": "movie",
+    "trakt_id": 5825,
+    "plex_type": "movie",
+    "plex_id": "5d7768352e80df001ebde5e1",
+    "appletv_id": "umc.cmc.2fe1tasvkm8ti63e8h8nld0xu",
+    "rottentomatoes_id": "m/dead_pool",
+    "title": "The Dead Pool",
+    "year": 1988,
+    "director_qid": "Q1001362",
+    "director": "Buddy Van Horn",
+    "duration": 87,
+    "tomatometer": 55
+  }
+]

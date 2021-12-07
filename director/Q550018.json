@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q23925035",
+    "imdb_id": "tt5323662",
+    "tmdb_type": "movie",
+    "tmdb_id": 378064,
+    "trakt_type": "movie",
+    "trakt_id": 225063,
+    "plex_type": "movie",
+    "plex_id": "5d776c0ead5437001f7b25d6",
+    "rottentomatoes_id": "m/a_silent_voice",
+    "title": "A Silent Voice",
+    "year": 2016,
+    "director_qid": "Q550018",
+    "director": "Naoko Yamada",
+    "duration": 129,
+    "tomatometer": 94
+  }
+]

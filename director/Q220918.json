@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q679657",
+    "imdb_id": "tt0308055",
+    "tmdb_type": "movie",
+    "tmdb_id": 10741,
+    "trakt_type": "movie",
+    "trakt_id": 5905,
+    "plex_type": "movie",
+    "plex_id": "5d7768355af944001f1fa0da",
+    "appletv_id": "umc.cmc.6jrs85ba2bwwu20hheglmxkft",
+    "rottentomatoes_id": "m/1162559-bobby",
+    "title": "Bobby",
+    "year": 2006,
+    "director_qid": "Q220918",
+    "director": "Emilio Estevez",
+    "duration": 117,
+    "tomatometer": 46
+  },
+  {
+    "wikidata_qid": "Q1183257",
+    "imdb_id": "tt1441912",
+    "tmdb_type": "movie",
+    "tmdb_id": 59468,
+    "trakt_type": "movie",
+    "trakt_id": 42620,
+    "plex_type": "movie",
+    "plex_id": "5d9f359a6fc551001ef8237d",
+    "appletv_id": "umc.cmc.2sxbao860imzvpou65jxjg9z7",
+    "rottentomatoes_id": "m/the_way_2011",
+    "title": "The Way",
+    "year": 2010,
+    "director_qid": "Q220918",
+    "director": "Emilio Estevez",
+    "duration": 121,
+    "tomatometer": 83
+  }
+]

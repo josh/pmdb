@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q593718",
+    "imdb_id": "tt1629705",
+    "tmdb_type": "movie",
+    "tmdb_id": 68818,
+    "trakt_type": "movie",
+    "trakt_id": 50217,
+    "plex_type": "movie",
+    "plex_id": "5d7768ad1999bc0020dcd7d0",
+    "appletv_id": "umc.cmc.1dztdha9e6wbglzkw3zmclc0m",
+    "rottentomatoes_id": "m/blackthorn",
+    "title": "Blackthorn",
+    "year": 2011,
+    "director_qid": "Q519902",
+    "director": "Mateo Gil",
+    "duration": 98,
+    "tomatometer": 75
+  }
+]

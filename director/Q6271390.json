@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q549249",
+    "imdb_id": "tt0423977",
+    "tmdb_type": "movie",
+    "tmdb_id": 8669,
+    "trakt_type": "movie",
+    "trakt_id": 4262,
+    "plex_type": "movie",
+    "plex_id": "5d9f34f668e4c8001fb5db5e",
+    "appletv_id": "umc.cmc.6ix4687gump9mh2oj1dzajbhh",
+    "rottentomatoes_id": "m/charlie_bartlett",
+    "title": "Charlie Bartlett",
+    "year": 2007,
+    "director_qid": "Q6271390",
+    "director": "Jon Poll",
+    "duration": 97,
+    "tomatometer": 58
+  }
+]

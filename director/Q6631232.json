@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q789477",
+    "imdb_id": "tt0308208",
+    "tmdb_type": "movie",
+    "tmdb_id": 10550,
+    "trakt_type": "movie",
+    "trakt_id": 5728,
+    "plex_type": "movie",
+    "plex_id": "5d9f34fbb0262f001f6e92a4",
+    "rottentomatoes_id": "m/ballistic_ecks_vs_sever",
+    "title": "Ballistic: Ecks vs. Sever",
+    "year": 2002,
+    "director_qid": "Q6631232",
+    "director": "Wych Kaosayananda",
+    "duration": 91,
+    "tomatometer": 0
+  }
+]

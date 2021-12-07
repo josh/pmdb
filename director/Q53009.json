@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q822946",
+    "imdb_id": "tt0309987",
+    "tmdb_type": "movie",
+    "tmdb_id": 1278,
+    "trakt_type": "movie",
+    "trakt_id": 888,
+    "plex_type": "movie",
+    "plex_id": "5d7768298718ba001e31237d",
+    "rottentomatoes_id": "m/dreamers",
+    "title": "The Dreamers",
+    "year": 2003,
+    "director_qid": "Q53009",
+    "director": "Bernardo Bertolucci",
+    "duration": 115,
+    "tomatometer": 60
+  }
+]

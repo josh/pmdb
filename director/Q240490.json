@@ -1,0 +1,53 @@
+[
+  {
+    "wikidata_qid": "Q342876",
+    "imdb_id": "tt0445922",
+    "tmdb_type": "movie",
+    "tmdb_id": 4688,
+    "trakt_type": "movie",
+    "trakt_id": 2749,
+    "plex_type": "movie",
+    "plex_id": "5d77682e999c64001ec2df50",
+    "appletv_id": "umc.cmc.2wcuoboep43otg8jk6p3okzrn",
+    "rottentomatoes_id": "m/across_the_universe",
+    "title": "Across the Universe",
+    "year": 2007,
+    "director_qid": "Q240490",
+    "director": "Julie Taymor",
+    "duration": 131,
+    "tomatometer": 53
+  },
+  {
+    "wikidata_qid": "Q1635819",
+    "imdb_id": "tt0120866",
+    "tmdb_type": "movie",
+    "tmdb_id": 12524,
+    "trakt_type": "movie",
+    "trakt_id": 7296,
+    "plex_type": "movie",
+    "plex_id": "5d9f350168e4c8001fb5e2f0",
+    "rottentomatoes_id": "m/titus",
+    "title": "Titus",
+    "year": 1999,
+    "director_qid": "Q240490",
+    "director": "Julie Taymor",
+    "duration": 156,
+    "tomatometer": 68
+  },
+  {
+    "wikidata_qid": "Q60737551",
+    "imdb_id": "tt7435316",
+    "tmdb_type": "movie",
+    "tmdb_id": 519056,
+    "trakt_type": "movie",
+    "trakt_id": 367286,
+    "appletv_id": "umc.cmc.6s6t3r0t1kz0fnj4nzxrrvvuo",
+    "rottentomatoes_id": "m/the_glorias",
+    "title": "The Glorias",
+    "year": 2020,
+    "director_qid": "Q240490",
+    "director": "Julie Taymor",
+    "duration": 139,
+    "tomatometer": 67
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q5590",
+    "imdb_id": "tt1341167",
+    "tmdb_type": "movie",
+    "tmdb_id": 37495,
+    "trakt_type": "movie",
+    "trakt_id": 24015,
+    "plex_type": "movie",
+    "plex_id": "5d9f3571b0262f001f6eb357",
+    "appletv_id": "umc.cmc.5g4g7y7au1ep2d4ywnzslmuc9",
+    "rottentomatoes_id": "m/four_lions",
+    "title": "Four Lions",
+    "year": 2010,
+    "director_qid": "Q552780",
+    "director": "Chris Morris",
+    "duration": 97,
+    "tomatometer": 83
+  }
+]

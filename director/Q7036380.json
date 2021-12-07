@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q105044259",
+    "imdb_id": "tt11285280",
+    "tmdb_type": "movie",
+    "tmdb_id": 776515,
+    "trakt_type": "movie",
+    "trakt_id": 613919,
+    "plex_type": "movie",
+    "plex_id": "5f4096e052f200004160ce0f",
+    "appletv_id": "umc.cmc.33cb4iz6kx88x33mp0dqzdyd8",
+    "rottentomatoes_id": "m/together_together",
+    "title": "Together Together",
+    "year": 2021,
+    "director_qid": "Q7036380",
+    "director": "Nikole Beckwith",
+    "duration": 90,
+    "tomatometer": 90
+  }
+]

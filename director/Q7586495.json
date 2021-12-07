@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q44612834",
+    "imdb_id": "tt8108198",
+    "tmdb_type": "movie",
+    "tmdb_id": 534780,
+    "trakt_type": "movie",
+    "trakt_id": 386658,
+    "plex_type": "movie",
+    "plex_id": "5d77706681ba41001faef5da",
+    "appletv_id": "umc.cmc.4j7zw48zujb15dd0ljho1kan8",
+    "rottentomatoes_id": "m/andhadhun",
+    "title": "Andhadhun",
+    "year": 2018,
+    "director_qid": "Q7586495",
+    "director": "Sriram Raghavan",
+    "duration": 139,
+    "tomatometer": 100
+  }
+]

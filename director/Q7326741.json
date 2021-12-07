@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q264307",
+    "imdb_id": "tt1423894",
+    "tmdb_type": "movie",
+    "tmdb_id": 46829,
+    "trakt_type": "movie",
+    "trakt_id": 32205,
+    "plex_type": "movie",
+    "plex_id": "5d776883e6d55c00204149ab",
+    "appletv_id": "umc.cmc.2p8frl78tqv43kypoer3hkupp",
+    "rottentomatoes_id": "m/barneys-version",
+    "title": "Barney's Version",
+    "year": 2010,
+    "director_qid": "Q7326741",
+    "director": "Richard J. Lewis",
+    "duration": 134,
+    "tomatometer": 78
+  }
+]

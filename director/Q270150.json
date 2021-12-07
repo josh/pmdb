@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q610471",
+    "imdb_id": "tt1931602",
+    "tmdb_type": "movie",
+    "tmdb_id": 70706,
+    "trakt_type": "movie",
+    "trakt_id": 51801,
+    "plex_type": "movie",
+    "plex_id": "5d7768b10ea56a001e2a8da6",
+    "appletv_id": "umc.cmc.5n02k4gy4vwhvmtlghdga2jka",
+    "rottentomatoes_id": "m/very_good_girls",
+    "title": "Very Good Girls",
+    "year": 2013,
+    "director_qid": "Q270150",
+    "director": "Naomi Foner Gyllenhaal",
+    "duration": 91,
+    "tomatometer": 19
+  }
+]

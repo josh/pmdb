@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q186341",
+  "imdb_id": "tt0081505",
+  "tmdb_type": "movie",
+  "tmdb_id": 694,
+  "trakt_type": "movie",
+  "trakt_id": 566,
+  "plex_type": "movie",
+  "plex_id": "5d7768287e9a3c0020c6ad28",
+  "appletv_id": "umc.cmc.be3gn94hs3l9fjvg34ex9sy1",
+  "rottentomatoes_id": "m/shining",
+  "title": "The Shining",
+  "year": 1980,
+  "director_qid": "Q2001",
+  "director": "Stanley Kubrick",
+  "duration": 144,
+  "tomatometer": 84
+}

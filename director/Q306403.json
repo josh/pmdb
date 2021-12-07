@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q3520133",
+    "imdb_id": "tt1756791",
+    "tmdb_type": "movie",
+    "tmdb_id": 83728,
+    "trakt_type": "movie",
+    "trakt_id": 62690,
+    "plex_type": "movie",
+    "plex_id": "5d7768ce23d5a3001f4f19d6",
+    "appletv_id": "umc.cmc.17nesoyag0ujlmj01j0i736q7",
+    "rottentomatoes_id": "m/broken_tower",
+    "title": "The Broken Tower",
+    "year": 2011,
+    "director_qid": "Q306403",
+    "director": "James Franco",
+    "duration": 110,
+    "tomatometer": 20
+  },
+  {
+    "wikidata_qid": "Q22078002",
+    "imdb_id": "tt3521126",
+    "tmdb_type": "movie",
+    "tmdb_id": 371638,
+    "trakt_type": "movie",
+    "trakt_id": 224277,
+    "plex_type": "movie",
+    "plex_id": "5d776bfe47dd6e001f6e5ad6",
+    "appletv_id": "umc.cmc.ldnb5z7b8ru9vidxrslywj7l",
+    "rottentomatoes_id": "m/the_disaster_artist",
+    "title": "The Disaster Artist",
+    "year": 2017,
+    "director_qid": "Q306403",
+    "director": "James Franco",
+    "duration": 105,
+    "tomatometer": 91
+  }
+]

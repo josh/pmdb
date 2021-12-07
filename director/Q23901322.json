@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q348534",
+    "imdb_id": "tt0233142",
+    "tmdb_type": "movie",
+    "tmdb_id": 12138,
+    "trakt_type": "movie",
+    "trakt_id": 7055,
+    "plex_type": "movie",
+    "plex_id": "5d776838103a2d001f56884c",
+    "appletv_id": "umc.cmc.64t0ozln0c0ctn64kpwhchumw",
+    "rottentomatoes_id": "m/3000_miles_to_graceland",
+    "title": "3000 Miles to Graceland",
+    "year": 2001,
+    "director_qid": "Q23901322",
+    "director": "Demian Lichtenstein",
+    "duration": 120,
+    "tomatometer": 14
+  }
+]

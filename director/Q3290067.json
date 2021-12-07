@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q470891",
+    "imdb_id": "tt0106697",
+    "tmdb_type": "movie",
+    "tmdb_id": 9739,
+    "trakt_type": "movie",
+    "trakt_id": 5005,
+    "plex_type": "movie",
+    "plex_id": "5d776833a091de001f2e7b21",
+    "appletv_id": "umc.cmc.jsn6se4hotj9e3xc7hpvx0hf",
+    "rottentomatoes_id": "m/demolition_man",
+    "title": "Demolition Man",
+    "year": 1993,
+    "director_qid": "Q3290067",
+    "director": "Marco Brambilla",
+    "tomatometer": 60
+  }
+]

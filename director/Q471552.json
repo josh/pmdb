@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q75539",
+    "imdb_id": "tt0425123",
+    "tmdb_type": "movie",
+    "tmdb_id": 9007,
+    "trakt_type": "movie",
+    "trakt_id": 4465,
+    "plex_type": "movie",
+    "plex_id": "5d7768327e9a3c0020c6c2ec",
+    "appletv_id": "umc.cmc.318n4tbgrf4179wv6t5mhpz6v",
+    "rottentomatoes_id": "m/just_like_heaven",
+    "title": "Just like Heaven",
+    "year": 2005,
+    "director_qid": "Q471552",
+    "director": "Mark Waters",
+    "duration": 91,
+    "tomatometer": 55
+  },
+  {
+    "wikidata_qid": "Q631103",
+    "imdb_id": "tt0377092",
+    "tmdb_type": "movie",
+    "tmdb_id": 10625,
+    "trakt_type": "movie",
+    "trakt_id": 5799,
+    "plex_type": "movie",
+    "plex_id": "5d77683561141d001fb156e5",
+    "appletv_id": "umc.cmc.1jd9t7iyrhdoyso79puncvc1i",
+    "rottentomatoes_id": "m/mean_girls",
+    "title": "Mean Girls",
+    "year": 2004,
+    "director_qid": "Q471552",
+    "director": "Mark Waters",
+    "duration": 97,
+    "tomatometer": 84
+  }
+]

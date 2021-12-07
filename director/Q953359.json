@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q868177",
+    "imdb_id": "tt1217613",
+    "tmdb_type": "movie",
+    "tmdb_id": 44943,
+    "trakt_type": "movie",
+    "trakt_id": 30573,
+    "plex_type": "movie",
+    "plex_id": "5d77687ff59e58002189e6db",
+    "appletv_id": "umc.cmc.9wolpkui4npaghi2brj9lsyx",
+    "rottentomatoes_id": "m/battle-los-angeles",
+    "title": "Battle: Los Angeles",
+    "year": 2011,
+    "director_qid": "Q953359",
+    "director": "Jonathan Liebesman",
+    "duration": 116,
+    "tomatometer": 36
+  }
+]

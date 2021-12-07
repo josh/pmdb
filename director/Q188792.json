@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1889123",
+    "imdb_id": "tt1529572",
+    "tmdb_type": "movie",
+    "tmdb_id": 44945,
+    "trakt_type": "movie",
+    "trakt_id": 30575,
+    "plex_type": "movie",
+    "plex_id": "5d77687ff59e58002189e6dd",
+    "appletv_id": "umc.cmc.1xgcij8uyef5c8y3q8hecau6r",
+    "rottentomatoes_id": "m/trust_2010",
+    "title": "Trust",
+    "year": 2010,
+    "director_qid": "Q188792",
+    "director": "David Schwimmer",
+    "duration": 106,
+    "tomatometer": 79
+  }
+]

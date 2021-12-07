@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q107724",
+  "imdb_id": "tt0059800",
+  "tmdb_type": "movie",
+  "tmdb_id": 660,
+  "trakt_type": "movie",
+  "trakt_id": 534,
+  "plex_type": "movie",
+  "plex_id": "5d776d18ad5437001f7cd1c4",
+  "appletv_id": "umc.cmc.v0qdh4ogf0wpaahxeezdh1hd",
+  "rottentomatoes_id": "m/thunderball",
+  "title": "Thunderball",
+  "year": 1965,
+  "director_qid": "Q314882",
+  "director": "Terence Young",
+  "duration": 130,
+  "tomatometer": 87
+}

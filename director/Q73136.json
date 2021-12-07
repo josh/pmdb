@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q309545",
+    "imdb_id": "tt0055031",
+    "tmdb_type": "movie",
+    "tmdb_id": 821,
+    "trakt_type": "movie",
+    "trakt_id": 664,
+    "plex_type": "movie",
+    "plex_id": "5d77682861141d001fb136c4",
+    "appletv_id": "umc.cmc.581rrem8qg9bo9f920qxj30xa",
+    "rottentomatoes_id": "m/judgment_at_nuremburg",
+    "title": "Judgment at Nuremberg",
+    "year": 1961,
+    "director_qid": "Q73136",
+    "director": "Stanley Kramer",
+    "duration": 188,
+    "tomatometer": 92
+  }
+]

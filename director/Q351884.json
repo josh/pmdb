@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q786594",
+    "imdb_id": "tt1482459",
+    "tmdb_type": "movie",
+    "tmdb_id": 73723,
+    "trakt_type": "movie",
+    "trakt_id": 54196,
+    "plex_type": "movie",
+    "plex_id": "5d7768b6decfcd001f2f0a9c",
+    "appletv_id": "umc.cmc.73xyyyvpkyb82csve6rc02iaf",
+    "rottentomatoes_id": "m/the_lorax_2012",
+    "title": "The Lorax",
+    "year": 2012,
+    "director_qid": "Q351884",
+    "director": "Chris Renaud",
+    "duration": 86,
+    "tomatometer": 54
+  }
+]

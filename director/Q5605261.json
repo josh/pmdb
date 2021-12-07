@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q50289705",
+    "imdb_id": "tt7215444",
+    "tmdb_type": "movie",
+    "tmdb_id": 472608,
+    "trakt_type": "movie",
+    "trakt_id": 320091,
+    "plex_type": "movie",
+    "plex_id": "5d776d617a53e9001e758cb1",
+    "appletv_id": "umc.cmc.49bhiea42742zta7j0xt6do42",
+    "rottentomatoes_id": "m/the_final_year",
+    "title": "The Final Year",
+    "year": 2017,
+    "director_qid": "Q5605261",
+    "director": "Greg Barker",
+    "tomatometer": 84
+  }
+]

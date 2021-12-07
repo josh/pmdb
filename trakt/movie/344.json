@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q209170",
+  "imdb_id": "tt0058331",
+  "tmdb_type": "movie",
+  "tmdb_id": 433,
+  "trakt_type": "movie",
+  "trakt_id": 344,
+  "plex_type": "movie",
+  "plex_id": "5d77682685719b001f3a0a6b",
+  "appletv_id": "umc.cmc.1zrtu7kymga7ucaqeolq5akpm",
+  "rottentomatoes_id": "m/mary_poppins",
+  "title": "Mary Poppins",
+  "year": 1964,
+  "director_qid": "Q725060",
+  "director": "Robert Stevenson",
+  "duration": 140,
+  "tomatometer": 96
+}

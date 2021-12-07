@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q786562",
+    "imdb_id": "tt0343737",
+    "tmdb_type": "movie",
+    "tmdb_id": 1247,
+    "trakt_type": "movie",
+    "trakt_id": 863,
+    "plex_type": "movie",
+    "plex_id": "5d776828999c64001ec2ce5f",
+    "appletv_id": "umc.cmc.5yo1m989lotybvgj5nv80f8cq",
+    "rottentomatoes_id": "m/good_shepherd",
+    "title": "The Good Shepherd",
+    "year": 2006,
+    "director_qid": "Q36949",
+    "director": "Robert De Niro",
+    "duration": 167,
+    "tomatometer": 55
+  }
+]

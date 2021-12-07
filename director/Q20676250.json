@@ -1,0 +1,52 @@
+[
+  {
+    "wikidata_qid": "Q23013169",
+    "imdb_id": "tt4116284",
+    "tmdb_type": "movie",
+    "tmdb_id": 324849,
+    "trakt_type": "movie",
+    "trakt_id": 205398,
+    "plex_type": "movie",
+    "plex_id": "5d776b749ab544002150bae9",
+    "appletv_id": "umc.cmc.4jph299vcq0j326k6b1qwzeqf",
+    "rottentomatoes_id": "m/the_lego_batman_movie",
+    "title": "The Lego Batman Movie",
+    "year": 2017,
+    "director_qid": "Q20676250",
+    "director": "Chris McKay",
+    "duration": 105,
+    "tomatometer": 90
+  },
+  {
+    "wikidata_qid": "Q67171072",
+    "imdb_id": "tt9777666",
+    "tmdb_type": "movie",
+    "tmdb_id": 588228,
+    "trakt_type": "movie",
+    "trakt_id": 435403,
+    "plex_type": "movie",
+    "plex_id": "5d7770c631d95e001f1a9764",
+    "appletv_id": "umc.cmc.mm53lqx19p9il0b292z7fj5x",
+    "rottentomatoes_id": "m/the_tomorrow_war",
+    "title": "The Tomorrow War",
+    "year": 2021,
+    "director_qid": "Q20676250",
+    "director": "Chris McKay",
+    "duration": 140,
+    "tomatometer": 52
+  },
+  {
+    "wikidata_qid": "Q110811753",
+    "imdb_id": "tt11358390",
+    "tmdb_type": "movie",
+    "tmdb_id": 649609,
+    "trakt_type": "movie",
+    "trakt_id": 485769,
+    "plex_type": "movie",
+    "plex_id": "5e16339cdf4678003f51f580",
+    "title": "Renfield",
+    "year": 2022,
+    "director_qid": "Q20676250",
+    "director": "Chris McKay"
+  }
+]

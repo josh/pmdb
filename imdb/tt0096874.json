@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q109331",
+  "imdb_id": "tt0096874",
+  "tmdb_type": "movie",
+  "tmdb_id": 165,
+  "trakt_type": "movie",
+  "trakt_id": 130,
+  "plex_type": "movie",
+  "plex_id": "5d776d1023d5a3001f52001d",
+  "appletv_id": "umc.cmc.5voem26uknighvs9ac01dku4y",
+  "rottentomatoes_id": "m/back_to_the_future_2",
+  "title": "Back to the Future Part II",
+  "year": 1989,
+  "director_qid": "Q187364",
+  "director": "Robert Zemeckis",
+  "duration": 108,
+  "tomatometer": 63
+}

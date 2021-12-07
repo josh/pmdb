@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q55635187",
+    "imdb_id": "tt8178486",
+    "tmdb_type": "movie",
+    "tmdb_id": 513409,
+    "trakt_type": "movie",
+    "trakt_id": 361121,
+    "plex_type": "movie",
+    "plex_id": "5d77703d6afb3d00206159d6",
+    "appletv_id": "umc.cmc.dl52xlolbqp9u1haof6lz9x",
+    "rottentomatoes_id": "m/earthquake_bird",
+    "title": "Earthquake Bird",
+    "year": 2019,
+    "director_qid": "Q455482",
+    "director": "Wash Westmoreland",
+    "duration": 108,
+    "tomatometer": 50
+  }
+]

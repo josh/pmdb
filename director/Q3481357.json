@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q1434995",
+    "imdb_id": "tt0390384",
+    "tmdb_type": "movie",
+    "tmdb_id": 14337,
+    "trakt_type": "movie",
+    "trakt_id": 8610,
+    "plex_type": "movie",
+    "plex_id": "5d77683be6d55c002040e23c",
+    "appletv_id": "umc.cmc.29qec9frjzyhp4pi7dnbz4nmv",
+    "rottentomatoes_id": "m/primer",
+    "title": "Primer",
+    "year": 2004,
+    "director_qid": "Q3481357",
+    "director": "Shane Carruth",
+    "duration": 77,
+    "tomatometer": 72
+  },
+  {
+    "wikidata_qid": "Q7899323",
+    "imdb_id": "tt2084989",
+    "tmdb_type": "movie",
+    "tmdb_id": 145197,
+    "trakt_type": "movie",
+    "trakt_id": 96283,
+    "plex_type": "movie",
+    "plex_id": "5d9f390368e4c8001fb62554",
+    "appletv_id": "umc.cmc.4xqotpq69dcx792897cobwq3b",
+    "rottentomatoes_id": "m/upstream_color",
+    "title": "Upstream Color",
+    "year": 2013,
+    "director_qid": "Q3481357",
+    "director": "Shane Carruth",
+    "duration": 96,
+    "tomatometer": 86
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q372514",
+  "imdb_id": "tt0093870",
+  "tmdb_type": "movie",
+  "tmdb_id": 5548,
+  "trakt_type": "movie",
+  "trakt_id": 3138,
+  "plex_type": "movie",
+  "plex_id": "5d77682f7228e5001f1ddd2b",
+  "appletv_id": "umc.cmc.1a8d88y8168wemudh9skn3qje",
+  "rottentomatoes_id": "m/1017712-robocop",
+  "title": "RoboCop",
+  "year": 1987,
+  "director_qid": "Q129079",
+  "director": "Paul Verhoeven",
+  "duration": 102,
+  "tomatometer": 91
+}

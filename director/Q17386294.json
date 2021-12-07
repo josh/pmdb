@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q104409060",
+    "imdb_id": "tt10298810",
+    "tmdb_type": "movie",
+    "tmdb_id": 718789,
+    "trakt_type": "movie",
+    "trakt_id": 561241,
+    "plex_type": "movie",
+    "plex_id": "5ef5ee0d1ce3fd004039976a",
+    "appletv_id": "umc.cmc.5xveiilyr4awchk239ff6df2p",
+    "rottentomatoes_id": "m/lightyear",
+    "title": "Lightyear",
+    "year": 2022,
+    "director_qid": "Q17386294",
+    "director": "Angus MacLane",
+    "tomatometer": 75
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q73536766",
+    "imdb_id": "tt9784798",
+    "tmdb_type": "movie",
+    "tmdb_id": 583406,
+    "trakt_type": "movie",
+    "trakt_id": 431527,
+    "plex_type": "movie",
+    "plex_id": "5d7770bc81ba41001faf6dd4",
+    "appletv_id": "umc.cmc.5hcfmcygz9pghfi9sjhyg67p0",
+    "rottentomatoes_id": "m/judas_and_the_black_messiah",
+    "title": "Judas and the Black Messiah",
+    "year": 2021,
+    "director_qid": "Q104728627",
+    "director": "Shaka King",
+    "duration": 126,
+    "tomatometer": 96
+  }
+]

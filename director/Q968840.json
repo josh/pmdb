@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q866694",
+    "imdb_id": "tt0466893",
+    "tmdb_type": "movie",
+    "tmdb_id": 44754,
+    "trakt_type": "movie",
+    "trakt_id": 30419,
+    "plex_type": "movie",
+    "plex_id": "5d77687e7e5fa10020bf0980",
+    "appletv_id": "umc.cmc.2gxex059tiswrup7efqorbxrc",
+    "rottentomatoes_id": "m/margaret_2010",
+    "title": "Margaret",
+    "year": 2011,
+    "director_qid": "Q968840",
+    "director": "Kenneth Lonergan",
+    "duration": 144,
+    "tomatometer": 74
+  },
+  {
+    "wikidata_qid": "Q19864603",
+    "imdb_id": "tt4034228",
+    "tmdb_type": "movie",
+    "tmdb_id": 334541,
+    "trakt_type": "movie",
+    "trakt_id": 225133,
+    "plex_type": "movie",
+    "plex_id": "5d776b91f617c9002017798c",
+    "appletv_id": "umc.cmc.2zz8wiwkw06s5lzqbl8lqw69l",
+    "rottentomatoes_id": "m/manchester_by_the_sea",
+    "title": "Manchester by the Sea",
+    "year": 2016,
+    "director_qid": "Q968840",
+    "director": "Kenneth Lonergan",
+    "duration": 135,
+    "tomatometer": 96
+  }
+]

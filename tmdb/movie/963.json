@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q221462",
+  "imdb_id": "tt0033870",
+  "tmdb_type": "movie",
+  "tmdb_id": 963,
+  "trakt_type": "movie",
+  "trakt_id": 799,
+  "plex_type": "movie",
+  "plex_id": "5d776828961905001eb919dc",
+  "appletv_id": "umc.cmc.2h6et9ctdvrjoibkhkxqn3c5t",
+  "rottentomatoes_id": "m/1013139-maltese_falcon",
+  "title": "The Maltese Falcon",
+  "year": 1941,
+  "director_qid": "Q51575",
+  "director": "John Huston",
+  "duration": 101,
+  "tomatometer": 100
+}

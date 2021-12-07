@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q59065530",
+    "imdb_id": "tt7476236",
+    "tmdb_type": "movie",
+    "tmdb_id": 489985,
+    "trakt_type": "movie",
+    "trakt_id": 336920,
+    "plex_type": "movie",
+    "plex_id": "5d776d92ad5437001f7d9b90",
+    "appletv_id": "umc.cmc.6soxq5uqhxwdvju0zv5ul1wyq",
+    "rottentomatoes_id": "m/minding_the_gap",
+    "title": "Minding the Gap",
+    "year": 2018,
+    "director_qid": "Q61268566",
+    "director": "Bing Liu",
+    "duration": 93,
+    "tomatometer": 100
+  }
+]

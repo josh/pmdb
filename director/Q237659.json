@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q858467",
+    "imdb_id": "tt0094737",
+    "tmdb_type": "movie",
+    "tmdb_id": 2280,
+    "trakt_type": "movie",
+    "trakt_id": 1603,
+    "plex_type": "movie",
+    "plex_id": "5d77682ba091de001f2e6c95",
+    "appletv_id": "umc.cmc.63shspjw8f8vnl45r7zw9i3jx",
+    "rottentomatoes_id": "m/big",
+    "title": "Big",
+    "year": 1988,
+    "director_qid": "Q237659",
+    "director": "Penny Marshall",
+    "duration": 104,
+    "tomatometer": 97
+  }
+]

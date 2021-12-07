@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q97925311",
+    "imdb_id": "tt12801262",
+    "tmdb_type": "movie",
+    "tmdb_id": 508943,
+    "trakt_type": "movie",
+    "trakt_id": 356328,
+    "plex_type": "movie",
+    "plex_id": "5d777093ad5437001f825d23",
+    "appletv_id": "umc.cmc.4iiqngoc22wuohtan4eyl0qvq",
+    "rottentomatoes_id": "m/luca_2021",
+    "title": "Luca",
+    "year": 2021,
+    "director_qid": "Q1343730",
+    "director": "Enrico Casarosa",
+    "duration": 95,
+    "tomatometer": 91
+  }
+]

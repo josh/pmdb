@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q162255",
+  "imdb_id": "tt0088247",
+  "tmdb_type": "movie",
+  "tmdb_id": 218,
+  "trakt_type": "movie",
+  "trakt_id": 177,
+  "plex_type": "movie",
+  "plex_id": "5d776824151a60001f24a29e",
+  "appletv_id": "umc.cmc.14nmbhqhdyj6b4dfol85fpoou",
+  "rottentomatoes_id": "m/terminator",
+  "title": "The Terminator",
+  "year": 1984,
+  "director_qid": "Q42574",
+  "director": "James Cameron",
+  "duration": 108,
+  "tomatometer": 100
+}

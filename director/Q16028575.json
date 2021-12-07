@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q66688968",
+    "imdb_id": "tt9893250",
+    "tmdb_type": "movie",
+    "tmdb_id": 601666,
+    "trakt_type": "movie",
+    "trakt_id": 458615,
+    "plex_type": "movie",
+    "plex_id": "5d7770e196b655001fea09ea",
+    "rottentomatoes_id": "m/i_care_a_lot",
+    "title": "I Care a Lot",
+    "year": 2020,
+    "director_qid": "Q16028575",
+    "director": "J Blakeson",
+    "duration": 118,
+    "tomatometer": 79
+  }
+]

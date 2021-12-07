@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1075182",
+    "imdb_id": "tt1352824",
+    "tmdb_type": "movie",
+    "tmdb_id": 28211,
+    "trakt_type": "movie",
+    "trakt_id": 17539,
+    "plex_type": "movie",
+    "plex_id": "5d776856999c64001ec33988",
+    "appletv_id": "umc.cmc.3jslz5a28dtfzoflgo8m9dedj",
+    "rottentomatoes_id": "m/10011774-chloe",
+    "title": "Chloe",
+    "year": 2009,
+    "director_qid": "Q212167",
+    "director": "Atom Egoyan",
+    "duration": 96,
+    "tomatometer": 51
+  }
+]

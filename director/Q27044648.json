@@ -1,0 +1,52 @@
+[
+  {
+    "wikidata_qid": "Q63183574",
+    "imdb_id": "tt4651466",
+    "tmdb_type": "movie",
+    "tmdb_id": 552269,
+    "trakt_type": "movie",
+    "trakt_id": 401864,
+    "plex_type": "movie",
+    "plex_id": "5d77708cad5437001f825131",
+    "appletv_id": "umc.cmc.w8z1tu3pw0npcvexu193bzu5",
+    "rottentomatoes_id": "m/joe_bell",
+    "title": "Joe Bell",
+    "year": 2020,
+    "director_qid": "Q27044648",
+    "director": "Reinaldo Marcus Green",
+    "duration": 94,
+    "tomatometer": 39
+  },
+  {
+    "wikidata_qid": "Q84203429",
+    "imdb_id": "tt9620288",
+    "tmdb_type": "movie",
+    "tmdb_id": 614917,
+    "trakt_type": "movie",
+    "trakt_id": 458405,
+    "plex_type": "movie",
+    "plex_id": "5e1632fc61c6140040d675bb",
+    "appletv_id": "umc.cmc.11i83ne5iq37usxzghkyicmwk",
+    "rottentomatoes_id": "m/king_richard",
+    "title": "King Richard",
+    "year": 2021,
+    "director_qid": "Q27044648",
+    "director": "Reinaldo Marcus Green",
+    "duration": 144,
+    "tomatometer": 92
+  },
+  {
+    "wikidata_qid": "Q110942498",
+    "imdb_id": "tt14192504",
+    "tmdb_type": "tv",
+    "tmdb_id": 125949,
+    "trakt_type": "show",
+    "trakt_id": 175013,
+    "plex_type": "show",
+    "plex_id": "60a7daf361d56b002c58cebf",
+    "rottentomatoes_id": "tv/we_own_this_city",
+    "title": "We Own This City",
+    "director_qid": "Q27044648",
+    "director": "Reinaldo Marcus Green"
+  }
+]

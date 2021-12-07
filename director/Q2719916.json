@@ -1,0 +1,50 @@
+[
+  {
+    "wikidata_qid": "Q1424066",
+    "imdb_id": "tt0150915",
+    "tmdb_type": "movie",
+    "tmdb_id": 46992,
+    "trakt_type": "movie",
+    "trakt_id": 32358,
+    "plex_type": "movie",
+    "plex_id": "5d77688396b655001fdba544",
+    "appletv_id": "umc.cmc.qfhgevhwkf9ekwpn6bln3duy",
+    "rottentomatoes_id": "m/hilary_and_jackie",
+    "title": "Hilary and Jackie",
+    "year": 1998,
+    "director_qid": "Q2719916",
+    "director": "Anand Tucker",
+    "duration": 121,
+    "tomatometer": 88
+  },
+  {
+    "wikidata_qid": "Q3462137",
+    "imdb_id": "tt0120054",
+    "tmdb_type": "movie",
+    "tmdb_id": 124844,
+    "trakt_type": "movie",
+    "trakt_id": 85917,
+    "rottentomatoes_id": "m/saintex",
+    "title": "Saint-Ex",
+    "year": 1996,
+    "director_qid": "Q2719916",
+    "director": "Anand Tucker"
+  },
+  {
+    "wikidata_qid": "Q96608250",
+    "imdb_id": "tt1259573",
+    "tmdb_type": "movie",
+    "tmdb_id": 291092,
+    "trakt_type": "movie",
+    "trakt_id": 187958,
+    "plex_type": "movie",
+    "plex_id": "5d9f3c6dd5fd3f001ee1e06e",
+    "appletv_id": "umc.cmc.33krf9oeg153j4xqq649p9s74",
+    "rottentomatoes_id": "m/red_riding_1983",
+    "title": "Red Riding: 1983",
+    "year": 2009,
+    "director_qid": "Q2719916",
+    "director": "Anand Tucker",
+    "tomatometer": 92
+  }
+]

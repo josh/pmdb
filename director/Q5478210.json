@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1660328",
+    "imdb_id": "tt0262396",
+    "tmdb_type": "movie",
+    "tmdb_id": 13369,
+    "trakt_type": "movie",
+    "trakt_id": 7852,
+    "plex_type": "movie",
+    "plex_id": "5d77683aeb5d26001f1e1cd2",
+    "appletv_id": "umc.cmc.deb0jxgderorqalksjsfi3mv",
+    "rottentomatoes_id": "m/1118698-empire",
+    "title": "Empire",
+    "year": 2002,
+    "director_qid": "Q5478210",
+    "director": "Franc. Reyes",
+    "duration": 102,
+    "tomatometer": 21
+  }
+]

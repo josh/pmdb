@@ -1,0 +1,36 @@
+[
+  {
+    "wikidata_qid": "Q127021",
+    "imdb_id": "tt0022100",
+    "tmdb_type": "movie",
+    "tmdb_id": 832,
+    "trakt_type": "movie",
+    "trakt_id": 675,
+    "appletv_id": "umc.cmc.4k3awgjtmwousdfm5fv9xiig7",
+    "rottentomatoes_id": "m/1012928-m",
+    "title": "M",
+    "year": 1931,
+    "director_qid": "Q19504",
+    "director": "Fritz Lang",
+    "duration": 117,
+    "tomatometer": 100
+  },
+  {
+    "wikidata_qid": "Q151599",
+    "imdb_id": "tt0017136",
+    "tmdb_type": "movie",
+    "tmdb_id": 19,
+    "trakt_type": "movie",
+    "trakt_id": 15,
+    "plex_type": "movie",
+    "plex_id": "5d776824e6d55c002040ae63",
+    "appletv_id": "umc.cmc.77qb1mzju1ufshb6ztfi51gbu",
+    "rottentomatoes_id": "m/1013775-metropolis",
+    "title": "Metropolis",
+    "year": 1927,
+    "director_qid": "Q19504",
+    "director": "Fritz Lang",
+    "duration": 153,
+    "tomatometer": 97
+  }
+]

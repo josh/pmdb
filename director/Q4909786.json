@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q240852",
+    "imdb_id": "tt0104254",
+    "tmdb_type": "movie",
+    "tmdb_id": 13225,
+    "trakt_type": "movie",
+    "trakt_id": 7760,
+    "plex_type": "movie",
+    "plex_id": "5d77683a880197001ec944d9",
+    "appletv_id": "umc.cmc.332tlg5bpvczu5poo9q9cw48m",
+    "rottentomatoes_id": "m/ferngully_the_last_rainforest",
+    "title": "FernGully: The Last Rainforest",
+    "year": 1992,
+    "director_qid": "Q4909786",
+    "director": "Bill Kroyer",
+    "duration": 76,
+    "tomatometer": 63
+  }
+]

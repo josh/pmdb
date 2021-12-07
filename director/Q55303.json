@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1195727",
+    "imdb_id": "tt0074860",
+    "tmdb_type": "movie",
+    "tmdb_id": 10518,
+    "trakt_type": "movie",
+    "trakt_id": 5697,
+    "plex_type": "movie",
+    "plex_id": "5d7768355af944001f1f9dd1",
+    "appletv_id": "umc.cmc.7j564xapjggy561uyvcoryivo",
+    "rottentomatoes_id": "m/marathon_man",
+    "title": "Marathon Man",
+    "year": 1976,
+    "director_qid": "Q55303",
+    "director": "John Schlesinger",
+    "duration": 125,
+    "tomatometer": 81
+  }
+]

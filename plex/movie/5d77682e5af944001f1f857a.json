@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q729788",
+  "imdb_id": "tt0425112",
+  "tmdb_type": "movie",
+  "tmdb_id": 4638,
+  "trakt_type": "movie",
+  "trakt_id": 2724,
+  "plex_type": "movie",
+  "plex_id": "5d77682e5af944001f1f857a",
+  "appletv_id": "umc.cmc.fk3ttypsf32pasfqvy42f64p",
+  "rottentomatoes_id": "m/hot_fuzz",
+  "title": "Hot Fuzz",
+  "year": 2007,
+  "director_qid": "Q522057",
+  "director": "Edgar Wright",
+  "duration": 121,
+  "tomatometer": 91
+}

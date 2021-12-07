@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q99191029",
+    "imdb_id": "tt11464826",
+    "tmdb_type": "movie",
+    "tmdb_id": 656690,
+    "trakt_type": "movie",
+    "trakt_id": 491199,
+    "plex_type": "movie",
+    "plex_id": "5e165a4827d563003ed6b565",
+    "appletv_id": "umc.cmc.4ps6g6mobm6ce6rlf497d9asi",
+    "rottentomatoes_id": "m/the_social_dilemma",
+    "title": "The Social Dilemma",
+    "year": 2020,
+    "director_qid": "Q6174634",
+    "director": "Jeff Orlowski",
+    "duration": 94,
+    "tomatometer": 85
+  }
+]

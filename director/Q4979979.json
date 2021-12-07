@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1259466",
+    "imdb_id": "tt0482606",
+    "tmdb_type": "movie",
+    "tmdb_id": 10665,
+    "trakt_type": "movie",
+    "trakt_id": 5838,
+    "plex_type": "movie",
+    "plex_id": "5d776d057a53e9001e74ecfe",
+    "appletv_id": "umc.cmc.6p21a88s4fpb0x3j03v8njszy",
+    "rottentomatoes_id": "m/the_strangers",
+    "title": "The Strangers",
+    "year": 2008,
+    "director_qid": "Q4979979",
+    "director": "Bryan Bertino",
+    "duration": 85,
+    "tomatometer": 48
+  }
+]

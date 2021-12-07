@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q1044523",
+  "imdb_id": "tt0151804",
+  "tmdb_type": "movie",
+  "tmdb_id": 1542,
+  "trakt_type": "movie",
+  "trakt_id": 1002,
+  "plex_type": "movie",
+  "plex_id": "5d776829961905001eb91cf5",
+  "appletv_id": "umc.cmc.6jlilk9yf1ozlv281w6rnw5pu",
+  "rottentomatoes_id": "m/office_space",
+  "title": "Office Space",
+  "year": 1999,
+  "director_qid": "Q434585",
+  "director": "Mike Judge",
+  "duration": 89,
+  "tomatometer": 80
+}

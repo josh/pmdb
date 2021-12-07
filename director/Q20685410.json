@@ -1,0 +1,32 @@
+[
+  {
+    "wikidata_qid": "Q18844729",
+    "imdb_id": "tt4158110",
+    "tmdb_type": "tv",
+    "tmdb_id": 62560,
+    "trakt_type": "show",
+    "trakt_id": 93720,
+    "plex_type": "show",
+    "plex_id": "5d9c08672192ba001f30f19f",
+    "appletv_id": "umc.cmc.306sepo05euzg2r68zzsa02up",
+    "rottentomatoes_id": "tv/mr_robot",
+    "title": "Mr. Robot",
+    "director_qid": "Q20685410",
+    "director": "Sam Esmail"
+  },
+  {
+    "wikidata_qid": "Q48805434",
+    "imdb_id": "tt7008682",
+    "tmdb_type": "tv",
+    "tmdb_id": 80335,
+    "trakt_type": "show",
+    "trakt_id": 134328,
+    "plex_type": "show",
+    "plex_id": "5d9c08ecba6eb9001fbacaa8",
+    "appletv_id": "umc.cmc.bhi4i7zknmr9l8r81kzx3ow7",
+    "rottentomatoes_id": "tv/homecoming",
+    "title": "Homecoming",
+    "director_qid": "Q20685410",
+    "director": "Sam Esmail"
+  }
+]

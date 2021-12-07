@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q502908",
+  "imdb_id": "tt0120738",
+  "tmdb_type": "movie",
+  "tmdb_id": 2157,
+  "trakt_type": "movie",
+  "trakt_id": 1498,
+  "plex_type": "movie",
+  "plex_id": "5d77682b151a60001f24b95d",
+  "appletv_id": "umc.cmc.4drkb9gz863mhcl7chx1gg9mu",
+  "rottentomatoes_id": "m/lost_in_space",
+  "title": "Lost in Space",
+  "year": 1998,
+  "director_qid": "Q709076",
+  "director": "Stephen Hopkins",
+  "duration": 125,
+  "tomatometer": 28
+}

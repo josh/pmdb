@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q205447",
+  "imdb_id": "tt0240772",
+  "tmdb_type": "movie",
+  "tmdb_id": 161,
+  "trakt_type": "movie",
+  "trakt_id": 126,
+  "plex_type": "movie",
+  "plex_id": "5d7768243c3c2a001fbca85c",
+  "appletv_id": "umc.cmc.4mt9j4jqou4mlup1pc9riyo63",
+  "rottentomatoes_id": "m/oceans_eleven",
+  "title": "Ocean's Eleven",
+  "year": 2001,
+  "director_qid": "Q103917",
+  "director": "Steven Soderbergh",
+  "duration": 112,
+  "tomatometer": 83
+}

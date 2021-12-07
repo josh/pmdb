@@ -1,0 +1,53 @@
+[
+  {
+    "wikidata_qid": "Q25339940",
+    "imdb_id": "tt5362988",
+    "tmdb_type": "movie",
+    "tmdb_id": 395834,
+    "trakt_type": "movie",
+    "trakt_id": 238651,
+    "plex_type": "movie",
+    "plex_id": "5d776c3b7a53e9001e73d82d",
+    "appletv_id": "umc.cmc.4dta3bgx0g3mym4ukzhjc95rp",
+    "rottentomatoes_id": "m/wind_river_2017",
+    "title": "Wind River",
+    "year": 2017,
+    "director_qid": "Q24335412",
+    "director": "Taylor Sheridan",
+    "duration": 107,
+    "tomatometer": 87
+  },
+  {
+    "wikidata_qid": "Q47452423",
+    "imdb_id": "tt4236770",
+    "tmdb_type": "tv",
+    "tmdb_id": 73586,
+    "trakt_type": "show",
+    "trakt_id": 126995,
+    "plex_type": "show",
+    "plex_id": "5d9c08de08fddd001f2a3040",
+    "rottentomatoes_id": "tv/yellowstone",
+    "title": "Yellowstone",
+    "director_qid": "Q24335412",
+    "director": "Taylor Sheridan",
+    "tomatometer": 80
+  },
+  {
+    "wikidata_qid": "Q63923744",
+    "imdb_id": "tt3215824",
+    "tmdb_type": "movie",
+    "tmdb_id": 578701,
+    "trakt_type": "movie",
+    "trakt_id": 428432,
+    "plex_type": "movie",
+    "plex_id": "5d7770b4ad5437001f828fb1",
+    "appletv_id": "umc.cmc.6raxuim1mlrwnqqbifyvl8opt",
+    "rottentomatoes_id": "m/those_who_wish_me_dead",
+    "title": "Those Who Wish Me Dead",
+    "year": 2020,
+    "director_qid": "Q24335412",
+    "director": "Taylor Sheridan",
+    "duration": 100,
+    "tomatometer": 61
+  }
+]

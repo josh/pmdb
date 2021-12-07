@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q77833628",
+    "imdb_id": "tt11388580",
+    "tmdb_type": "movie",
+    "tmdb_id": 653567,
+    "trakt_type": "movie",
+    "trakt_id": 488498,
+    "plex_type": "movie",
+    "plex_id": "5e16256153953d003edeeaba",
+    "appletv_id": "umc.cmc.1e09yiakxjbryesw5ffc2edot",
+    "rottentomatoes_id": "m/miss_americana",
+    "title": "Miss Americana",
+    "year": 2020,
+    "director_qid": "Q42666164",
+    "director": "Lana Wilson",
+    "duration": 85,
+    "tomatometer": 91
+  }
+]

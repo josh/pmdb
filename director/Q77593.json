@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q166696",
+    "imdb_id": "tt0765432",
+    "tmdb_type": "movie",
+    "tmdb_id": 6968,
+    "trakt_type": "movie",
+    "trakt_id": 3789,
+    "plex_type": "movie",
+    "plex_id": "5d9f34f4d74e67002001fb15",
+    "appletv_id": "umc.cmc.149p7apyrly11dl7v0k3nnf41",
+    "rottentomatoes_id": "m/baader_meinhof_complex",
+    "title": "The Baader Meinhof Complex",
+    "year": 2008,
+    "director_qid": "Q77593",
+    "director": "Uli Edel",
+    "duration": 150,
+    "tomatometer": 85
+  }
+]

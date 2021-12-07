@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q754892",
+    "imdb_id": "tt0103786",
+    "tmdb_type": "movie",
+    "tmdb_id": 11806,
+    "trakt_type": "movie",
+    "trakt_id": 6830,
+    "plex_type": "movie",
+    "plex_id": "5d9f35006fc551001ef80004",
+    "appletv_id": "umc.cmc.2fnvldlfbvnnic2qhn2in0cuf",
+    "rottentomatoes_id": "m/1038726-beethoven",
+    "title": "Beethoven",
+    "year": 1992,
+    "director_qid": "Q912547",
+    "director": "Brian Levant",
+    "duration": 87,
+    "tomatometer": 30
+  },
+  {
+    "wikidata_qid": "Q1064530",
+    "imdb_id": "tt0116705",
+    "tmdb_type": "movie",
+    "tmdb_id": 9279,
+    "trakt_type": "movie",
+    "trakt_id": 4579,
+    "plex_type": "movie",
+    "plex_id": "5d776d1847dd6e001f6f002c",
+    "appletv_id": "umc.cmc.329bisnjs2zqfs4a57oqqra9o",
+    "rottentomatoes_id": "m/jingle_all_the_way",
+    "title": "Jingle All the Way",
+    "year": 1996,
+    "director_qid": "Q912547",
+    "director": "Brian Levant",
+    "duration": 89,
+    "tomatometer": 20
+  }
+]

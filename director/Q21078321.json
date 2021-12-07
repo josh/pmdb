@@ -1,0 +1,53 @@
+[
+  {
+    "wikidata_qid": "Q23894629",
+    "imdb_id": "tt9032400",
+    "tmdb_type": "movie",
+    "tmdb_id": 524434,
+    "trakt_type": "movie",
+    "trakt_id": 372798,
+    "plex_type": "movie",
+    "plex_id": "5d77704efb0d55001f5ed3a0",
+    "rottentomatoes_id": "m/eternals",
+    "title": "Eternals",
+    "year": 2021,
+    "director_qid": "Q21078321",
+    "director": "Chlo\u00e9 Zhao",
+    "duration": 156,
+    "tomatometer": 47
+  },
+  {
+    "wikidata_qid": "Q29877021",
+    "imdb_id": "tt6217608",
+    "tmdb_type": "movie",
+    "tmdb_id": 453278,
+    "trakt_type": "movie",
+    "trakt_id": 299782,
+    "appletv_id": "umc.cmc.38ccpc3e8z30aixdvkx7gj1mw",
+    "rottentomatoes_id": "m/the_rider",
+    "title": "The Rider",
+    "year": 2018,
+    "director_qid": "Q21078321",
+    "director": "Chlo\u00e9 Zhao",
+    "duration": 103,
+    "tomatometer": 97
+  },
+  {
+    "wikidata_qid": "Q61740820",
+    "imdb_id": "tt9770150",
+    "tmdb_type": "movie",
+    "tmdb_id": 581734,
+    "trakt_type": "movie",
+    "trakt_id": 430483,
+    "plex_type": "movie",
+    "plex_id": "5d7770b847dd6e001f70bef2",
+    "appletv_id": "umc.cmc.6vwzl6aa6vi63zt7vhblvbeum",
+    "rottentomatoes_id": "m/nomadland",
+    "title": "Nomadland",
+    "year": 2020,
+    "director_qid": "Q21078321",
+    "director": "Chlo\u00e9 Zhao",
+    "duration": 107,
+    "tomatometer": 93
+  }
+]

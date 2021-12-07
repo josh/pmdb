@@ -1,0 +1,52 @@
+[
+  {
+    "wikidata_qid": "Q16876411",
+    "imdb_id": "tt2049116",
+    "tmdb_type": "tv",
+    "tmdb_id": 61068,
+    "trakt_type": "show",
+    "trakt_id": 77641,
+    "plex_type": "show",
+    "plex_id": "5d9c0840e264b7001fc3f96c",
+    "rottentomatoes_id": "tv/gomorrah_2016",
+    "title": "Gomorrah",
+    "director_qid": "Q3497995",
+    "director": "Stefano Sollima"
+  },
+  {
+    "wikidata_qid": "Q27921157",
+    "imdb_id": "tt5052474",
+    "tmdb_type": "movie",
+    "tmdb_id": 400535,
+    "trakt_type": "movie",
+    "trakt_id": 256522,
+    "plex_type": "movie",
+    "plex_id": "5d776c47fb0d55001f583062",
+    "appletv_id": "umc.cmc.6o6i0xqesi2qxfa9zjfckrt3o",
+    "rottentomatoes_id": "m/sicario_day_of_the_soldado",
+    "title": "Sicario: Day of the Soldado",
+    "year": 2018,
+    "director_qid": "Q3497995",
+    "director": "Stefano Sollima",
+    "duration": 122,
+    "tomatometer": 62
+  },
+  {
+    "wikidata_qid": "Q75947080",
+    "imdb_id": "tt0499097",
+    "tmdb_type": "movie",
+    "tmdb_id": 567189,
+    "trakt_type": "movie",
+    "trakt_id": 416763,
+    "plex_type": "movie",
+    "plex_id": "5d777086dd931c001e38eac0",
+    "appletv_id": "umc.cmc.56pgng0r61e5kkhk40mw4mbpu",
+    "rottentomatoes_id": "m/tom_clancys_without_remorse",
+    "title": "Without Remorse",
+    "year": 2021,
+    "director_qid": "Q3497995",
+    "director": "Stefano Sollima",
+    "duration": 109,
+    "tomatometer": 44
+  }
+]

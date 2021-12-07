@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q255137",
+    "imdb_id": "tt0372237",
+    "tmdb_type": "movie",
+    "tmdb_id": 11638,
+    "trakt_type": "movie",
+    "trakt_id": 6714,
+    "plex_type": "movie",
+    "plex_id": "5d776837f59e580021898dc0",
+    "appletv_id": "umc.cmc.12qzs5k1xozkzsu5ixe57gqat",
+    "rottentomatoes_id": "m/guess_who",
+    "title": "Guess Who",
+    "year": 2005,
+    "director_qid": "Q3195793",
+    "director": "Kevin Rodney Sullivan",
+    "duration": 105,
+    "tomatometer": 42
+  }
+]

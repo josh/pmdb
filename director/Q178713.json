@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q274520",
+    "imdb_id": "tt0095327",
+    "tmdb_type": "movie",
+    "tmdb_id": 12477,
+    "trakt_type": "movie",
+    "trakt_id": 7251,
+    "plex_type": "movie",
+    "plex_id": "5d776d11fb0d55001f596587",
+    "rottentomatoes_id": "m/grave_of_the_fireflies",
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "director_qid": "Q178713",
+    "director": "Isao Takahata",
+    "duration": 93,
+    "tomatometer": 100
+  }
+]

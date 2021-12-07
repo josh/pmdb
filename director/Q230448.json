@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q85323337",
+    "imdb_id": "tt10293406",
+    "tmdb_type": "movie",
+    "tmdb_id": 600583,
+    "trakt_type": "movie",
+    "trakt_id": 446376,
+    "plex_type": "movie",
+    "plex_id": "5d776eaead5437001f7fd5ce",
+    "appletv_id": "umc.cmc.h8kvu6x2gr9aqyioib38gfst",
+    "rottentomatoes_id": "m/the_power_of_the_dog",
+    "title": "The Power of the Dog",
+    "year": 2021,
+    "director_qid": "Q230448",
+    "director": "Jane Campion",
+    "duration": 126,
+    "tomatometer": 92
+  }
+]

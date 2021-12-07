@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q159063",
+    "imdb_id": "tt0976051",
+    "tmdb_type": "movie",
+    "tmdb_id": 8055,
+    "trakt_type": "movie",
+    "trakt_id": 4022,
+    "plex_type": "movie",
+    "plex_id": "5d776831f54112001f5bcf9b",
+    "appletv_id": "umc.cmc.38d75qm5vllyj974d8zoja3gb",
+    "rottentomatoes_id": "m/reader",
+    "title": "The Reader",
+    "year": 2008,
+    "director_qid": "Q313506",
+    "director": "Stephen Daldry",
+    "duration": 124,
+    "tomatometer": 63
+  },
+  {
+    "wikidata_qid": "Q918769",
+    "imdb_id": "tt0477302",
+    "tmdb_type": "movie",
+    "tmdb_id": 64685,
+    "trakt_type": "movie",
+    "trakt_id": 46731,
+    "plex_type": "movie",
+    "plex_id": "5d7768a66f6af7001ee59ba9",
+    "appletv_id": "umc.cmc.7ck76fzenga2xp6cq206kc8bv",
+    "rottentomatoes_id": "m/extremely_loud_and_incredibly_close",
+    "title": "Extremely Loud and Incredibly Close",
+    "year": 2011,
+    "director_qid": "Q313506",
+    "director": "Stephen Daldry",
+    "duration": 129,
+    "tomatometer": 45
+  }
+]

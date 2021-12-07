@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q30611788",
+    "imdb_id": "tt6499752",
+    "tmdb_type": "movie",
+    "tmdb_id": 500664,
+    "trakt_type": "movie",
+    "trakt_id": 347587,
+    "plex_type": "movie",
+    "plex_id": "5d776d9fad5437001f7db1b2",
+    "appletv_id": "umc.cmc.5y4gtzpaftor940ypobn1m0as",
+    "rottentomatoes_id": "m/upgrade_2018",
+    "title": "Upgrade",
+    "year": 2018,
+    "director_qid": "Q471215",
+    "director": "Leigh Whannell",
+    "duration": 100,
+    "tomatometer": 88
+  },
+  {
+    "wikidata_qid": "Q64004122",
+    "imdb_id": "tt1051906",
+    "tmdb_type": "movie",
+    "tmdb_id": 570670,
+    "trakt_type": "movie",
+    "trakt_id": 428130,
+    "plex_type": "movie",
+    "plex_id": "5d776b987a53e9001e72a749",
+    "appletv_id": "umc.cmc.1h37616f3p8vezgas1pt59r0y",
+    "rottentomatoes_id": "m/the_invisible_man_2020",
+    "title": "The Invisible Man",
+    "year": 2020,
+    "director_qid": "Q471215",
+    "director": "Leigh Whannell",
+    "duration": 124,
+    "tomatometer": 91
+  }
+]

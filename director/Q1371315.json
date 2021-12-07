@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q3523132",
+    "imdb_id": "tt1976000",
+    "tmdb_type": "movie",
+    "tmdb_id": 192149,
+    "trakt_type": "movie",
+    "trakt_id": 120038,
+    "plex_type": "movie",
+    "plex_id": "5d776a159ab54400214fab4b",
+    "appletv_id": "umc.cmc.3gfdveufyu55ycqiwacq94p2y",
+    "rottentomatoes_id": "m/the_two_faces_of_january",
+    "title": "The Two Faces of January",
+    "year": 2014,
+    "director_qid": "Q1371315",
+    "director": "Hossein Amini",
+    "duration": 96,
+    "tomatometer": 79
+  }
+]

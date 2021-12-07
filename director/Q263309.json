@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q206336",
+    "imdb_id": "tt1017451",
+    "tmdb_type": "movie",
+    "tmdb_id": 27586,
+    "trakt_type": "movie",
+    "trakt_id": 16989,
+    "plex_type": "movie",
+    "plex_id": "5d776854e6d55c0020410eee",
+    "appletv_id": "umc.cmc.5zys8mufhioa9dor8qgian4nm",
+    "rottentomatoes_id": "m/the_runaways",
+    "title": "The Runaways",
+    "year": 2010,
+    "director_qid": "Q263309",
+    "director": "Floria Sigismondi",
+    "duration": 106,
+    "tomatometer": 69
+  }
+]

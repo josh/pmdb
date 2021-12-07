@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q23013699",
+    "imdb_id": "tt3741834",
+    "tmdb_type": "movie",
+    "tmdb_id": 334543,
+    "trakt_type": "movie",
+    "trakt_id": 220479,
+    "plex_type": "movie",
+    "plex_id": "5d776b9123d5a3001f511cfb",
+    "appletv_id": "umc.cmc.nzus1ck6odvkz8bom9w3zhpp",
+    "rottentomatoes_id": "m/lion_2016",
+    "title": "Lion",
+    "year": 2015,
+    "director_qid": "Q23651358",
+    "director": "Garth Davis",
+    "duration": 118,
+    "tomatometer": 84
+  }
+]

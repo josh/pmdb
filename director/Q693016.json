@@ -1,0 +1,51 @@
+[
+  {
+    "wikidata_qid": "Q2744",
+    "imdb_id": "tt0106179",
+    "tmdb_type": "tv",
+    "tmdb_id": 4087,
+    "trakt_type": "show",
+    "trakt_id": 4063,
+    "plex_type": "show",
+    "plex_id": "5d9c0806e264b7001fc3a3a8",
+    "rottentomatoes_id": "tv/the-x-files",
+    "title": "The X-Files",
+    "director_qid": "Q693016",
+    "director": "Rob Bowman",
+    "duration": 43
+  },
+  {
+    "wikidata_qid": "Q925384",
+    "imdb_id": "tt0253556",
+    "tmdb_type": "movie",
+    "tmdb_id": 6278,
+    "trakt_type": "movie",
+    "trakt_id": 3562,
+    "plex_type": "movie",
+    "plex_id": "5d776830f59e58002189813a",
+    "appletv_id": "umc.cmc.360rgo6qp26nf2zyiplmjqqyi",
+    "rottentomatoes_id": "m/reign_of_fire",
+    "title": "Reign of Fire",
+    "year": 2002,
+    "director_qid": "Q693016",
+    "director": "Rob Bowman",
+    "duration": 98,
+    "tomatometer": 42
+  },
+  {
+    "wikidata_qid": "Q4242745",
+    "imdb_id": "tt0106233",
+    "tmdb_type": "movie",
+    "tmdb_id": 13064,
+    "trakt_type": "movie",
+    "trakt_id": 7620,
+    "plex_type": "movie",
+    "plex_id": "5d7768397e9a3c0020c6d9af",
+    "rottentomatoes_id": "m/1046035-airborne",
+    "title": "Airborne",
+    "year": 1993,
+    "director_qid": "Q693016",
+    "director": "Rob Bowman",
+    "tomatometer": 21
+  }
+]

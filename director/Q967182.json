@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q1325828",
+    "imdb_id": "tt0452681",
+    "tmdb_type": "movie",
+    "tmdb_id": 13767,
+    "trakt_type": "movie",
+    "trakt_id": 8172,
+    "plex_type": "movie",
+    "plex_id": "5d77683a7e9a3c0020c6de00",
+    "appletv_id": "umc.cmc.2c27v0ahijgxu3mm79d52hc2u",
+    "rottentomatoes_id": "m/santa_clause_3",
+    "title": "The Santa Clause 3: The Escape Clause",
+    "year": 2006,
+    "director_qid": "Q967182",
+    "director": "Michael Lembeck",
+    "duration": 98,
+    "tomatometer": 17
+  },
+  {
+    "wikidata_qid": "Q1469426",
+    "imdb_id": "tt0304669",
+    "tmdb_type": "movie",
+    "tmdb_id": 9021,
+    "trakt_type": "movie",
+    "trakt_id": 4474,
+    "plex_type": "movie",
+    "plex_id": "5d7768324de0ee001fccadd6",
+    "appletv_id": "umc.cmc.g5nokpnpdf7ge349u3znp0xa",
+    "rottentomatoes_id": "m/the_santa_clause_2",
+    "title": "The Santa Clause 2",
+    "year": 2002,
+    "director_qid": "Q967182",
+    "director": "Michael Lembeck",
+    "duration": 105,
+    "tomatometer": 56
+  }
+]

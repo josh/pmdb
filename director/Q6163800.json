@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q99671372",
+    "imdb_id": "tt13143964",
+    "tmdb_type": "movie",
+    "tmdb_id": 740985,
+    "trakt_type": "movie",
+    "trakt_id": 581795,
+    "plex_type": "movie",
+    "plex_id": "5f590e23449ca9003fd2a392",
+    "appletv_id": "umc.cmc.60q1j4o9r5zzmjjv5k5lll95a",
+    "rottentomatoes_id": "m/borat_subsequent_moviefilm",
+    "title": "Borat Subsequent Moviefilm",
+    "year": 2020,
+    "director_qid": "Q6163800",
+    "director": "Jason Woliner",
+    "duration": 96,
+    "tomatometer": 85
+  }
+]

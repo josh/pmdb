@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q42047",
+  "imdb_id": "tt0099685",
+  "tmdb_type": "movie",
+  "tmdb_id": 769,
+  "trakt_type": "movie",
+  "trakt_id": 612,
+  "plex_type": "movie",
+  "plex_id": "5d7768282ec6b5001f6ba4da",
+  "appletv_id": "umc.cmc.77gvldp7rsv3dl2s6iec16srm",
+  "rottentomatoes_id": "m/1032176-goodfellas",
+  "title": "Goodfellas",
+  "year": 1990,
+  "director_qid": "Q41148",
+  "director": "Martin Scorsese",
+  "duration": 146,
+  "tomatometer": 96
+}

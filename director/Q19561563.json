@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q19347291",
+    "imdb_id": "tt1431045",
+    "tmdb_type": "movie",
+    "tmdb_id": 293660,
+    "trakt_type": "movie",
+    "trakt_id": 190430,
+    "plex_type": "movie",
+    "plex_id": "5d776b257a53e9001e71bb98",
+    "appletv_id": "umc.cmc.3wk2vn8v3eazsdy6bzelugfld",
+    "rottentomatoes_id": "m/deadpool",
+    "title": "Deadpool",
+    "year": 2016,
+    "director_qid": "Q19561563",
+    "director": "Tim Miller",
+    "duration": 109,
+    "tomatometer": 85
+  },
+  {
+    "wikidata_qid": "Q39072454",
+    "imdb_id": "tt6450804",
+    "tmdb_type": "movie",
+    "tmdb_id": 290859,
+    "trakt_type": "movie",
+    "trakt_id": 187745,
+    "plex_type": "movie",
+    "plex_id": "5d776d6c51dd69001fe4274b",
+    "appletv_id": "umc.cmc.6534hr6pgxeh2egackqui7vvl",
+    "rottentomatoes_id": "m/terminator_dark_fate",
+    "title": "Terminator: Dark Fate",
+    "year": 2019,
+    "director_qid": "Q19561563",
+    "director": "Tim Miller",
+    "duration": 128,
+    "tomatometer": 70
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q280928",
+    "imdb_id": "tt0424880",
+    "tmdb_type": "movie",
+    "tmdb_id": 4441,
+    "trakt_type": "movie",
+    "trakt_id": 2601,
+    "plex_type": "movie",
+    "plex_id": "5d9f34f1d5fd3f001ee1441d",
+    "appletv_id": "umc.cmc.767j4mah12o64zucrmzr35el7",
+    "rottentomatoes_id": "m/candy",
+    "title": "Candy",
+    "year": 2006,
+    "director_qid": "Q6988244",
+    "director": "Neil Armfield",
+    "duration": 108,
+    "tomatometer": 47
+  }
+]

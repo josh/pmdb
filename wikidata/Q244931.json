@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q244931",
+  "imdb_id": "tt0780536",
+  "tmdb_type": "movie",
+  "tmdb_id": 8321,
+  "trakt_type": "movie",
+  "trakt_id": 4120,
+  "plex_type": "movie",
+  "plex_id": "5d776831eb5d26001f1dfde1",
+  "appletv_id": "umc.cmc.3hfzzmfjj39s02vwynx3b91ih",
+  "rottentomatoes_id": "m/in_bruges",
+  "title": "In Bruges",
+  "year": 2008,
+  "director_qid": "Q372394",
+  "director": "Martin McDonagh",
+  "duration": 108,
+  "tomatometer": 84
+}

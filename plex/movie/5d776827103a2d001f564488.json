@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q104123",
+  "imdb_id": "tt0110912",
+  "tmdb_type": "movie",
+  "tmdb_id": 680,
+  "trakt_type": "movie",
+  "trakt_id": 554,
+  "plex_type": "movie",
+  "plex_id": "5d776827103a2d001f564488",
+  "appletv_id": "umc.cmc.1hfvw2p79f9qdeydow8nmrn7t",
+  "rottentomatoes_id": "m/pulp_fiction",
+  "title": "Pulp Fiction",
+  "year": 1994,
+  "director_qid": "Q3772",
+  "director": "Quentin Tarantino",
+  "duration": 154,
+  "tomatometer": 92
+}

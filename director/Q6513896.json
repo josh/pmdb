@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q4997083",
+    "imdb_id": "tt1682181",
+    "tmdb_type": "movie",
+    "tmdb_id": 84404,
+    "trakt_type": "movie",
+    "trakt_id": 63278,
+    "plex_type": "movie",
+    "plex_id": "5d7768d37a53e9001e6da00f",
+    "appletv_id": "umc.cmc.1ocb5sv94iig6y7wm3pcly7yd",
+    "rottentomatoes_id": "m/bully_2012",
+    "title": "Bully",
+    "year": 2011,
+    "director_qid": "Q6513896",
+    "director": "Lee Hirsch",
+    "tomatometer": 85
+  }
+]

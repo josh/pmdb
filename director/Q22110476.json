@@ -1,0 +1,34 @@
+[
+  {
+    "wikidata_qid": "Q930887",
+    "imdb_id": "tt0120434",
+    "tmdb_type": "movie",
+    "tmdb_id": 11419,
+    "trakt_type": "movie",
+    "trakt_id": 6514,
+    "plex_type": "movie",
+    "plex_id": "5d9f34feca3253001ef27843",
+    "appletv_id": "umc.cmc.4863dnsp596ecf7a3g0lx9zz2",
+    "rottentomatoes_id": "m/vegas_vacation",
+    "title": "Vegas Vacation",
+    "year": 1997,
+    "director_qid": "Q22110476",
+    "director": "Stephen Kessler",
+    "duration": 93,
+    "tomatometer": 13
+  },
+  {
+    "wikidata_qid": "Q7741790",
+    "imdb_id": "tt0160403",
+    "tmdb_type": "movie",
+    "tmdb_id": 81442,
+    "trakt_type": "movie",
+    "trakt_id": 60800,
+    "rottentomatoes_id": "m/the_independent",
+    "title": "The Independent",
+    "year": 2000,
+    "director_qid": "Q22110476",
+    "director": "Stephen Kessler",
+    "tomatometer": 60
+  }
+]

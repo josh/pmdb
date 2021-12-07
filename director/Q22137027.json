@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q54868300",
+    "imdb_id": "tt4353250",
+    "tmdb_type": "movie",
+    "tmdb_id": 522039,
+    "trakt_type": "movie",
+    "trakt_id": 370419,
+    "plex_type": "movie",
+    "plex_id": "5d7770496afb3d0020616b00",
+    "appletv_id": "umc.cmc.2wediwezcm5yahtn9utq0uw57",
+    "rottentomatoes_id": "m/the_last_black_man_in_san_francisco",
+    "title": "The Last Black Man in San Francisco",
+    "year": 2019,
+    "director_qid": "Q22137027",
+    "director": "Joe Talbott",
+    "duration": 120,
+    "tomatometer": 92
+  }
+]

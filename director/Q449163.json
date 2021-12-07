@@ -1,0 +1,33 @@
+[
+  {
+    "wikidata_qid": "Q24284283",
+    "imdb_id": "tt4566758",
+    "tmdb_type": "movie",
+    "tmdb_id": 337401,
+    "trakt_type": "movie",
+    "trakt_id": 218005,
+    "plex_type": "movie",
+    "plex_id": "5d776b99fb0d55001f56cc4b",
+    "appletv_id": "umc.cmc.6leemg5w51p0a3gnzskdsezfr",
+    "rottentomatoes_id": "m/mulan_2020",
+    "title": "Mulan",
+    "year": 2020,
+    "director_qid": "Q449163",
+    "director": "Niki Caro",
+    "tomatometer": 73
+  },
+  {
+    "wikidata_qid": "Q28091065",
+    "imdb_id": "tt5421602",
+    "tmdb_type": "tv",
+    "tmdb_id": 70785,
+    "trakt_type": "show",
+    "trakt_id": 116043,
+    "plex_type": "show",
+    "plex_id": "5d9c08ccba6eb9001fbaa4d7",
+    "rottentomatoes_id": "tv/anne",
+    "title": "Anne with an E",
+    "director_qid": "Q449163",
+    "director": "Niki Caro"
+  }
+]

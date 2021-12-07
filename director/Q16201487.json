@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q95483883",
+    "imdb_id": "tt7703924",
+    "tmdb_type": "movie",
+    "tmdb_id": 703134,
+    "trakt_type": "movie",
+    "trakt_id": 546888,
+    "plex_type": "movie",
+    "plex_id": "5ec632ee4ae16f0040da2dfd",
+    "appletv_id": "umc.cmc.5plkpikr8g6anea3gorlse9kd",
+    "rottentomatoes_id": "m/infamous_2020",
+    "title": "Infamous",
+    "year": 2020,
+    "director_qid": "Q16201487",
+    "director": "Joshua Caldwell",
+    "tomatometer": 21
+  }
+]

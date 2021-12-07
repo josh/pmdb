@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q72962",
+  "imdb_id": "tt0105236",
+  "tmdb_type": "movie",
+  "tmdb_id": 500,
+  "trakt_type": "movie",
+  "trakt_id": 392,
+  "plex_type": "movie",
+  "plex_id": "5d776826103a2d001f564150",
+  "appletv_id": "umc.cmc.7iuglffk5zzbfzcki63wclmdo",
+  "rottentomatoes_id": "m/reservoir_dogs",
+  "title": "Reservoir Dogs",
+  "year": 1992,
+  "director_qid": "Q3772",
+  "director": "Quentin Tarantino",
+  "duration": 95,
+  "tomatometer": 92
+}

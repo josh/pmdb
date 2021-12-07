@@ -1,0 +1,53 @@
+[
+  {
+    "wikidata_qid": "Q2363623",
+    "imdb_id": "tt0110620",
+    "tmdb_type": "movie",
+    "tmdb_id": 34574,
+    "trakt_type": "movie",
+    "trakt_id": 22072,
+    "rottentomatoes_id": "m/nadja",
+    "title": "Nadja",
+    "year": 1994,
+    "director_qid": "Q541368",
+    "director": "Michael Almereyda",
+    "duration": 93,
+    "tomatometer": 60
+  },
+  {
+    "wikidata_qid": "Q21405644",
+    "imdb_id": "tt4978710",
+    "tmdb_type": "movie",
+    "tmdb_id": 426254,
+    "trakt_type": "movie",
+    "trakt_id": 270557,
+    "plex_type": "movie",
+    "plex_id": "5d776c8c594b2b001e6f6823",
+    "appletv_id": "umc.cmc.2pdukfoeijrskhyg259ozxxqd",
+    "rottentomatoes_id": "m/marjorie_prime",
+    "title": "Marjorie Prime",
+    "year": 2017,
+    "director_qid": "Q541368",
+    "director": "Michael Almereyda",
+    "duration": 98,
+    "tomatometer": 90
+  },
+  {
+    "wikidata_qid": "Q88053410",
+    "imdb_id": "tt5259822",
+    "tmdb_type": "movie",
+    "tmdb_id": 517412,
+    "trakt_type": "movie",
+    "trakt_id": 365657,
+    "plex_type": "movie",
+    "plex_id": "5d776e92fb0d55001f5c6662",
+    "appletv_id": "umc.cmc.6cmxgh0jvkr5pi33w1bw9phtp",
+    "rottentomatoes_id": "m/tesla",
+    "title": "Tesla",
+    "year": 2020,
+    "director_qid": "Q541368",
+    "director": "Michael Almereyda",
+    "duration": 96,
+    "tomatometer": 58
+  }
+]

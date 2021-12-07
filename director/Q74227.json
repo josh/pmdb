@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q81205",
+    "imdb_id": "tt1001526",
+    "tmdb_type": "movie",
+    "tmdb_id": 38055,
+    "trakt_type": "movie",
+    "trakt_id": 24505,
+    "plex_type": "movie",
+    "plex_id": "5d77686c8718ba001e31baf6",
+    "appletv_id": "umc.cmc.4u183n7tgl8y9n0o2wk910chx",
+    "rottentomatoes_id": "m/megamind",
+    "title": "Megamind",
+    "year": 2010,
+    "director_qid": "Q74227",
+    "director": "Tom McGrath",
+    "duration": 96,
+    "tomatometer": 72
+  }
+]

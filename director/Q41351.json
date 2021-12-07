@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q847940",
+    "imdb_id": "tt1321860",
+    "tmdb_type": "movie",
+    "tmdb_id": 50780,
+    "trakt_type": "movie",
+    "trakt_id": 35546,
+    "plex_type": "movie",
+    "plex_id": "5d77688b3ab0e7001f5040f5",
+    "appletv_id": "umc.cmc.ycgburkx10ymyzdjchp866c1",
+    "rottentomatoes_id": "m/the_beaver_2010",
+    "title": "The Beaver",
+    "year": 2011,
+    "director_qid": "Q41351",
+    "director": "Jodie Foster",
+    "duration": 91,
+    "tomatometer": 62
+  },
+  {
+    "wikidata_qid": "Q19363691",
+    "imdb_id": "tt2241351",
+    "tmdb_type": "movie",
+    "tmdb_id": 303858,
+    "trakt_type": "movie",
+    "trakt_id": 209935,
+    "plex_type": "movie",
+    "plex_id": "5d776b439ab544002150954b",
+    "appletv_id": "umc.cmc.4u9uy4db6okdr52w3sy0eb9td",
+    "rottentomatoes_id": "m/money_monster",
+    "title": "Money Monster",
+    "year": 2016,
+    "director_qid": "Q41351",
+    "director": "Jodie Foster",
+    "duration": 99,
+    "tomatometer": 59
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1198799",
+    "imdb_id": "tt0071577",
+    "tmdb_type": "movie",
+    "tmdb_id": 11034,
+    "trakt_type": "movie",
+    "trakt_id": 6171,
+    "plex_type": "movie",
+    "plex_id": "5d776836103a2d001f567e71",
+    "appletv_id": "umc.cmc.3ems8dtzhti0slm8wg4iiwh9x",
+    "rottentomatoes_id": "m/1008799-great_gatsby",
+    "title": "The Great Gatsby",
+    "year": 1974,
+    "director_qid": "Q17887",
+    "director": "Jack Clayton",
+    "duration": 138,
+    "tomatometer": 39
+  }
+]

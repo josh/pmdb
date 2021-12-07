@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q620655",
+    "imdb_id": "tt0800308",
+    "tmdb_type": "movie",
+    "tmdb_id": 12690,
+    "trakt_type": "movie",
+    "trakt_id": 7438,
+    "plex_type": "movie",
+    "plex_id": "5d77683961141d001fb15fe5",
+    "appletv_id": "umc.cmc.63mmuwfv9qgydcfol0ywa6ts1",
+    "rottentomatoes_id": "m/10008785-appaloosa",
+    "title": "Appaloosa",
+    "year": 2008,
+    "director_qid": "Q104791",
+    "director": "Ed Harris",
+    "duration": 114,
+    "tomatometer": 76
+  },
+  {
+    "wikidata_qid": "Q1466736",
+    "imdb_id": "tt0183659",
+    "tmdb_type": "movie",
+    "tmdb_id": 12509,
+    "trakt_type": "movie",
+    "trakt_id": 7281,
+    "plex_type": "movie",
+    "plex_id": "5d7768387228e5001f1df2aa",
+    "appletv_id": "umc.cmc.33ik3tcm26t7964axtb2uvu2j",
+    "rottentomatoes_id": "m/pollock",
+    "title": "Pollock",
+    "year": 2000,
+    "director_qid": "Q104791",
+    "director": "Ed Harris",
+    "duration": 123,
+    "tomatometer": 80
+  }
+]

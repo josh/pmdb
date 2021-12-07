@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q753676",
+    "imdb_id": "tt0112499",
+    "tmdb_type": "movie",
+    "tmdb_id": 26441,
+    "trakt_type": "movie",
+    "trakt_id": 16078,
+    "plex_type": "movie",
+    "plex_id": "5d77685185719b001f3a889e",
+    "appletv_id": "umc.cmc.2h2awy0hamo4vrtenx2m6jr38",
+    "rottentomatoes_id": "m/big_green",
+    "title": "The Big Green",
+    "year": 1995,
+    "director_qid": "Q3139384",
+    "director": "Holly Goldberg Sloan",
+    "duration": 96,
+    "tomatometer": 0
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "wikidata_qid": "Q14918344",
+    "imdb_id": "tt2084970",
+    "tmdb_type": "movie",
+    "tmdb_id": 205596,
+    "trakt_type": "movie",
+    "trakt_id": 127828,
+    "plex_type": "movie",
+    "plex_id": "5d776a35fb0d55001f53de82",
+    "appletv_id": "umc.cmc.59i1cp4fboyedvyq6zlx3bymd",
+    "rottentomatoes_id": "m/the_imitation_game",
+    "title": "The Imitation Game",
+    "year": 2014,
+    "director_qid": "Q3425142",
+    "director": "Morten Tyldum",
+    "duration": 114,
+    "tomatometer": 89
+  },
+  {
+    "wikidata_qid": "Q60744732",
+    "imdb_id": "tt2304589",
+    "tmdb_type": "tv",
+    "tmdb_id": 87784,
+    "trakt_type": "show",
+    "trakt_id": 153534,
+    "plex_type": "show",
+    "plex_id": "5d9c090e705e7a001e6e95f5",
+    "appletv_id": "umc.cmc.5h5mr0shyyqqahqdv55ywyilr",
+    "rottentomatoes_id": "tv/defending_jacob",
+    "title": "Defending Jacob",
+    "director_qid": "Q3425142",
+    "director": "Morten Tyldum"
+  }
+]

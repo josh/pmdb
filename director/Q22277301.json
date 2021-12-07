@@ -1,0 +1,50 @@
+[
+  {
+    "wikidata_qid": "Q21451640",
+    "imdb_id": "tt4425200",
+    "tmdb_type": "movie",
+    "tmdb_id": 324552,
+    "trakt_type": "movie",
+    "trakt_id": 205127,
+    "plex_type": "movie",
+    "plex_id": "5d776b7323d5a3001f510a6d",
+    "appletv_id": "umc.cmc.dwfq3iu2xmm7lkzh4ao9cxpp",
+    "rottentomatoes_id": "m/john_wick_chapter_2",
+    "title": "John Wick: Chapter 2",
+    "year": 2017,
+    "director_qid": "Q22277301",
+    "director": "Chad Stahelski",
+    "duration": 123,
+    "tomatometer": 89
+  },
+  {
+    "wikidata_qid": "Q52951815",
+    "imdb_id": "tt6146586",
+    "tmdb_type": "movie",
+    "tmdb_id": 458156,
+    "trakt_type": "movie",
+    "trakt_id": 304278,
+    "plex_type": "movie",
+    "plex_id": "5d776d31fb0d55001f599a2b",
+    "appletv_id": "umc.cmc.4fio6tgwms256b6lkerx7qm0l",
+    "rottentomatoes_id": "m/john_wick_chapter_3_parabellum",
+    "title": "John Wick: Chapter 3 \u2013 Parabellum",
+    "year": 2019,
+    "director_qid": "Q22277301",
+    "director": "Chad Stahelski",
+    "duration": 131,
+    "tomatometer": 89
+  },
+  {
+    "wikidata_qid": "Q80322358",
+    "imdb_id": "tt10366206",
+    "tmdb_type": "movie",
+    "tmdb_id": 603692,
+    "trakt_type": "movie",
+    "trakt_id": 448646,
+    "title": "John Wick: Chapter 4",
+    "year": 2023,
+    "director_qid": "Q22277301",
+    "director": "Chad Stahelski"
+  }
+]

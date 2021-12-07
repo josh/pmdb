@@ -1,0 +1,51 @@
+[
+  {
+    "wikidata_qid": "Q836821",
+    "imdb_id": "tt0371724",
+    "tmdb_type": "movie",
+    "tmdb_id": 7453,
+    "trakt_type": "movie",
+    "trakt_id": 3914,
+    "plex_type": "movie",
+    "plex_id": "5d776831999c64001ec2e7ac",
+    "appletv_id": "umc.cmc.6r4os0atdgz9qwy5z6lk716ky",
+    "rottentomatoes_id": "m/hitchhikers_guide_to_the_galaxy",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 2005,
+    "director_qid": "Q598683",
+    "director": "Garth Jennings",
+    "duration": 108,
+    "tomatometer": 60
+  },
+  {
+    "wikidata_qid": "Q20762698",
+    "imdb_id": "tt3470600",
+    "tmdb_type": "movie",
+    "tmdb_id": 335797,
+    "trakt_type": "movie",
+    "trakt_id": 216570,
+    "appletv_id": "umc.cmc.2x657xfx6d1o26ac79nmp6mr2",
+    "rottentomatoes_id": "m/sing_2016",
+    "title": "Sing",
+    "year": 2016,
+    "director_qid": "Q598683",
+    "director": "Garth Jennings",
+    "duration": 108,
+    "tomatometer": 71
+  },
+  {
+    "wikidata_qid": "Q30933418",
+    "imdb_id": "tt6467266",
+    "tmdb_type": "movie",
+    "tmdb_id": 438695,
+    "trakt_type": "movie",
+    "trakt_id": 284832,
+    "appletv_id": "umc.cmc.590s95h5e9b3mmn5fdt38m15c",
+    "rottentomatoes_id": "m/sing_2",
+    "title": "Sing 2",
+    "year": 2021,
+    "director_qid": "Q598683",
+    "director": "Garth Jennings",
+    "tomatometer": 71
+  }
+]

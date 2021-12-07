@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q244604",
+  "imdb_id": "tt0181689",
+  "tmdb_type": "movie",
+  "tmdb_id": 180,
+  "trakt_type": "movie",
+  "trakt_id": 145,
+  "plex_type": "movie",
+  "plex_id": "5d776824f54112001f5bbddc",
+  "appletv_id": "umc.cmc.4e8pvt0eezl2rnq71x4nx3atn",
+  "rottentomatoes_id": "m/minority_report",
+  "title": "Minority Report",
+  "year": 2002,
+  "director_qid": "Q8877",
+  "director": "Steven Spielberg",
+  "duration": 145,
+  "tomatometer": 90
+}

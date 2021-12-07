@@ -1,0 +1,52 @@
+[
+  {
+    "wikidata_qid": "Q24901880",
+    "imdb_id": "tt5462602",
+    "tmdb_type": "movie",
+    "tmdb_id": 416477,
+    "trakt_type": "movie",
+    "trakt_id": 264821,
+    "plex_type": "movie",
+    "plex_id": "5d776c737a53e9001e743414",
+    "appletv_id": "umc.cmc.5z80febrs9qjg5u4ig9rjs26i",
+    "rottentomatoes_id": "m/the_big_sick",
+    "title": "The Big Sick",
+    "year": 2017,
+    "director_qid": "Q2092899",
+    "director": "Michael Showalter",
+    "duration": 119,
+    "tomatometer": 98
+  },
+  {
+    "wikidata_qid": "Q61782227",
+    "imdb_id": "tt8851668",
+    "tmdb_type": "movie",
+    "tmdb_id": 576156,
+    "trakt_type": "movie",
+    "trakt_id": 426690,
+    "appletv_id": "umc.cmc.mjxbx23kc7f2qqvyuu8yikze",
+    "rottentomatoes_id": "m/the_lovebirds_2020",
+    "title": "The Lovebirds",
+    "year": 2020,
+    "director_qid": "Q2092899",
+    "director": "Michael Showalter",
+    "duration": 86,
+    "tomatometer": 66
+  },
+  {
+    "wikidata_qid": "Q73537423",
+    "imdb_id": "tt9115530",
+    "tmdb_type": "movie",
+    "tmdb_id": 601470,
+    "trakt_type": "movie",
+    "trakt_id": 476541,
+    "plex_type": "movie",
+    "plex_id": "5d7770e131d95e001f1abf47",
+    "rottentomatoes_id": "m/the_eyes_of_tammy_faye_2021",
+    "title": "The Eyes of Tammy Faye",
+    "director_qid": "Q2092899",
+    "director": "Michael Showalter",
+    "duration": 126,
+    "tomatometer": 65
+  }
+]

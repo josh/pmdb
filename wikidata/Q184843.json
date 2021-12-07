@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q184843",
+  "imdb_id": "tt0083658",
+  "tmdb_type": "movie",
+  "tmdb_id": 78,
+  "trakt_type": "movie",
+  "trakt_id": 48,
+  "plex_type": "movie",
+  "plex_id": "5d7768245af944001f1f6282",
+  "appletv_id": "umc.cmc.31vu3b779lzce3c40rprt9qxx",
+  "rottentomatoes_id": "m/blade_runner",
+  "title": "Blade Runner",
+  "year": 1982,
+  "director_qid": "Q56005",
+  "director": "Ridley Scott",
+  "duration": 112,
+  "tomatometer": 90
+}

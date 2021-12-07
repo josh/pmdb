@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q38686109",
+    "imdb_id": "tt6317656",
+    "tmdb_type": "movie",
+    "tmdb_id": 618416,
+    "trakt_type": "movie",
+    "trakt_id": 461492,
+    "plex_type": "movie",
+    "plex_id": "5e16330eef1040003f2487f4",
+    "rottentomatoes_id": "m/penguin_bloom",
+    "title": "Penguin Bloom",
+    "year": 2020,
+    "director_qid": "Q1530946",
+    "director": "Glendyn Ivin",
+    "duration": 95,
+    "tomatometer": 67
+  }
+]

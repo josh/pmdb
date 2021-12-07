@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q18786433",
+    "imdb_id": "tt4226388",
+    "tmdb_type": "movie",
+    "tmdb_id": 320007,
+    "trakt_type": "movie",
+    "trakt_id": 200663,
+    "plex_type": "movie",
+    "plex_id": "5d776b697a53e9001e725095",
+    "appletv_id": "umc.cmc.15xup26lk8rl63custvlegllv",
+    "rottentomatoes_id": "m/victoria_2015",
+    "title": "Victoria",
+    "year": 2015,
+    "director_qid": "Q120283",
+    "director": "Sebastian Schipper",
+    "duration": 140,
+    "tomatometer": 82
+  }
+]

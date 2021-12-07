@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1454794",
+    "imdb_id": "tt0097388",
+    "tmdb_type": "movie",
+    "tmdb_id": 10283,
+    "trakt_type": "movie",
+    "trakt_id": 5490,
+    "plex_type": "movie",
+    "plex_id": "5d7768345af944001f1f9c70",
+    "appletv_id": "umc.cmc.6lffwl4n9vb2loygucs1vnyoz",
+    "rottentomatoes_id": "m/friday_the_13th_part_8_jason_takes_manhattan",
+    "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "year": 1989,
+    "director_qid": "Q21280751",
+    "director": "Rob Hedden",
+    "duration": 96,
+    "tomatometer": 12
+  }
+]

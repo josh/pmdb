@@ -1,0 +1,35 @@
+[
+  {
+    "wikidata_qid": "Q2667715",
+    "imdb_id": "tt0434124",
+    "tmdb_type": "movie",
+    "tmdb_id": 16367,
+    "trakt_type": "movie",
+    "trakt_id": 10079,
+    "appletv_id": "umc.cmc.5bxmurneu5z9pcbwvahpkvsft",
+    "rottentomatoes_id": "m/kinky_boots",
+    "title": "Kinky Boots",
+    "year": 2005,
+    "director_qid": "Q162340",
+    "director": "Julian Jarrold",
+    "duration": 107,
+    "tomatometer": 57
+  },
+  {
+    "wikidata_qid": "Q96607484",
+    "imdb_id": "tt1259574",
+    "tmdb_type": "movie",
+    "tmdb_id": 291081,
+    "trakt_type": "movie",
+    "trakt_id": 187948,
+    "plex_type": "movie",
+    "plex_id": "5d9f3c6dadeb7a0021ce8827",
+    "appletv_id": "umc.cmc.46s6zx5gncrpamejxo51hczox",
+    "rottentomatoes_id": "m/red_riding_1974",
+    "title": "Red Riding: 1974",
+    "year": 2009,
+    "director_qid": "Q162340",
+    "director": "Julian Jarrold",
+    "tomatometer": 100
+  }
+]

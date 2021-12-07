@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q701892",
+    "imdb_id": "tt0896872",
+    "tmdb_type": "movie",
+    "tmdb_id": 65760,
+    "trakt_type": "movie",
+    "trakt_id": 47602,
+    "plex_type": "movie",
+    "plex_id": "5d9f35a9b0262f001f6ec1c2",
+    "appletv_id": "umc.cmc.5i17fbo7z52wxgbalfkvvr2pi",
+    "rottentomatoes_id": "m/the_whistleblower",
+    "title": "The Whistleblower",
+    "year": 2010,
+    "director_qid": "Q6491988",
+    "director": "Larysa Kondracki",
+    "duration": 113,
+    "tomatometer": 75
+  }
+]

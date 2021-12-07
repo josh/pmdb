@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q55634470",
+    "imdb_id": "tt8372298",
+    "tmdb_type": "movie",
+    "tmdb_id": 586461,
+    "trakt_type": "movie",
+    "trakt_id": 433827,
+    "plex_type": "movie",
+    "plex_id": "5d7770c331d95e001f1a9202",
+    "appletv_id": "umc.cmc.3x3zftaicri7myevqlatv8tth",
+    "rottentomatoes_id": "m/swallow",
+    "title": "Swallow",
+    "year": 2019,
+    "director_qid": "Q106269431",
+    "director": "Carlo Mirabella-Davis",
+    "duration": 94,
+    "tomatometer": 87
+  }
+]

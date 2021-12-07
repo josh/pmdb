@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1140605",
+    "imdb_id": "tt0250687",
+    "tmdb_type": "movie",
+    "tmdb_id": 9896,
+    "trakt_type": "movie",
+    "trakt_id": 5130,
+    "plex_type": "movie",
+    "plex_id": "5d7768336f4521001ea9bcab",
+    "appletv_id": "umc.cmc.36pkg3bps77p4ii6ci81aq1ge",
+    "rottentomatoes_id": "m/rat_race",
+    "title": "Rat Race",
+    "year": 2001,
+    "director_qid": "Q363666",
+    "director": "Jerry Zucker",
+    "duration": 107,
+    "tomatometer": 44
+  }
+]

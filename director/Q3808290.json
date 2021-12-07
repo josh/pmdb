@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1143287",
+    "imdb_id": "tt0268690",
+    "tmdb_type": "movie",
+    "tmdb_id": 17734,
+    "trakt_type": "movie",
+    "trakt_id": 10856,
+    "plex_type": "movie",
+    "plex_id": "5d776841961905001eb96508",
+    "appletv_id": "umc.cmc.z7zt842id347wsnyjnkc8xm0",
+    "rottentomatoes_id": "m/thirteen_conversations_about_one_thing",
+    "title": "Thirteen Conversations About One Thing",
+    "year": 2001,
+    "director_qid": "Q3808290",
+    "director": "Jill Sprecher",
+    "duration": 104,
+    "tomatometer": 83
+  }
+]

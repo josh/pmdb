@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q26060",
+    "imdb_id": "tt0046438",
+    "tmdb_type": "movie",
+    "tmdb_id": 18148,
+    "trakt_type": "movie",
+    "trakt_id": 11093,
+    "plex_type": "movie",
+    "plex_id": "5d776842103a2d001f56ace9",
+    "appletv_id": "umc.cmc.2uou0pg9gyn4tc895xtxwpmxs",
+    "rottentomatoes_id": "m/tokyo_story",
+    "title": "Tokyo Story",
+    "year": 1953,
+    "director_qid": "Q55402",
+    "director": "Yasujir\u014d Ozu",
+    "duration": 136,
+    "tomatometer": 100
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "wikidata_qid": "Q2698322",
+    "imdb_id": "tt1764183",
+    "tmdb_type": "movie",
+    "tmdb_id": 60599,
+    "trakt_type": "movie",
+    "trakt_id": 43404,
+    "plex_type": "movie",
+    "plex_id": "5d9f359c9dd5f4001e8455d1",
+    "appletv_id": "umc.cmc.6tjqzv153at8lw4qv5n7lnp0g",
+    "rottentomatoes_id": "m/arbitrage",
+    "title": "Arbitrage",
+    "year": 2012,
+    "director_qid": "Q3875977",
+    "director": "Nicholas Jarecki",
+    "duration": 107,
+    "tomatometer": 87
+  },
+  {
+    "wikidata_qid": "Q65119650",
+    "imdb_id": "tt9731682",
+    "tmdb_type": "movie",
+    "tmdb_id": 580532,
+    "trakt_type": "movie",
+    "trakt_id": 429756,
+    "plex_type": "movie",
+    "plex_id": "5d7770b66afb3d002062039f",
+    "appletv_id": "umc.cmc.9mxe5l0fctuazk4rh4uifgzh",
+    "rottentomatoes_id": "m/crisis_2021",
+    "title": "Crisis",
+    "year": 2021,
+    "director_qid": "Q3875977",
+    "director": "Nicholas Jarecki",
+    "tomatometer": 67
+  }
+]

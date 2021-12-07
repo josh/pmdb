@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q103569",
+  "imdb_id": "tt0078748",
+  "tmdb_type": "movie",
+  "tmdb_id": 348,
+  "trakt_type": "movie",
+  "trakt_id": 295,
+  "plex_type": "movie",
+  "plex_id": "5d7768254de0ee001fcc83a5",
+  "appletv_id": "umc.cmc.419tta0vmcu3xnec7v6u44rzs",
+  "rottentomatoes_id": "m/alien",
+  "title": "Alien",
+  "year": 1979,
+  "director_qid": "Q56005",
+  "director": "Ridley Scott",
+  "duration": 117,
+  "tomatometer": 98
+}

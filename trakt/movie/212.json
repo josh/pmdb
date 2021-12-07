@@ -1,0 +1,18 @@
+{
+  "wikidata_qid": "Q160215",
+  "imdb_id": "tt0360717",
+  "tmdb_type": "movie",
+  "tmdb_id": 254,
+  "trakt_type": "movie",
+  "trakt_id": 212,
+  "plex_type": "movie",
+  "plex_id": "5d78b9a4fb0d55001f6677e2",
+  "appletv_id": "umc.cmc.3lt80pljik1292s2sm1r1yi5p",
+  "rottentomatoes_id": "m/king_kong",
+  "title": "King Kong",
+  "year": 2005,
+  "director_qid": "Q4465",
+  "director": "Peter Jackson",
+  "duration": 187,
+  "tomatometer": 84
+}

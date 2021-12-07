@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_qid": "Q1325589",
+    "imdb_id": "tt0086200",
+    "tmdb_type": "movie",
+    "tmdb_id": 9346,
+    "trakt_type": "movie",
+    "trakt_id": 4639,
+    "plex_type": "movie",
+    "plex_id": "5d9f34f7ca3253001ef2738b",
+    "appletv_id": "umc.cmc.42cakae4khtjp16tr83tphofg",
+    "rottentomatoes_id": "m/1017641-risky_business",
+    "title": "Risky Business",
+    "year": 1983,
+    "director_qid": "Q661685",
+    "director": "Paul Brickman",
+    "tomatometer": 92
+  }
+]

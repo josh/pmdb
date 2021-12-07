@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q60738297",
+    "imdb_id": "tt9179096",
+    "tmdb_type": "movie",
+    "tmdb_id": 560008,
+    "trakt_type": "movie",
+    "trakt_id": 410598,
+    "plex_type": "movie",
+    "plex_id": "5d7770ddad5437001f82cb35",
+    "appletv_id": "umc.cmc.5gz89tyo51k7l0m3wyakhhcmb",
+    "rottentomatoes_id": "m/minamata",
+    "title": "Minamata",
+    "year": 2020,
+    "director_qid": "Q4757751",
+    "director": "Andrew Levitas",
+    "duration": 115,
+    "tomatometer": 73
+  }
+]

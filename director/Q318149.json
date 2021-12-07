@@ -1,0 +1,38 @@
+[
+  {
+    "wikidata_qid": "Q300559",
+    "imdb_id": "tt1315981",
+    "tmdb_type": "movie",
+    "tmdb_id": 34653,
+    "trakt_type": "movie",
+    "trakt_id": 22117,
+    "plex_type": "movie",
+    "plex_id": "5d7768646f4521001eaa51ba",
+    "appletv_id": "umc.cmc.htefaej8qxqvscdv5g6wy738",
+    "rottentomatoes_id": "m/1218217-single_man",
+    "title": "A Single Man",
+    "year": 2009,
+    "director_qid": "Q318149",
+    "director": "Tom Ford",
+    "duration": 99,
+    "tomatometer": 86
+  },
+  {
+    "wikidata_qid": "Q21527905",
+    "imdb_id": "tt4550098",
+    "tmdb_type": "movie",
+    "tmdb_id": 340666,
+    "trakt_type": "movie",
+    "trakt_id": 221103,
+    "plex_type": "movie",
+    "plex_id": "5d7768c796b655001fdc178a",
+    "appletv_id": "umc.cmc.6ctpfqk8hhwrgukqn5pb4k202",
+    "rottentomatoes_id": "m/nocturnal_animals",
+    "title": "Nocturnal Animals",
+    "year": 2016,
+    "director_qid": "Q318149",
+    "director": "Tom Ford",
+    "duration": 115,
+    "tomatometer": 73
+  }
+]

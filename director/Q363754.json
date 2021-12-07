@@ -1,0 +1,20 @@
+[
+  {
+    "wikidata_qid": "Q1474393",
+    "imdb_id": "tt0120177",
+    "tmdb_type": "movie",
+    "tmdb_id": 10336,
+    "trakt_type": "movie",
+    "trakt_id": 5535,
+    "plex_type": "movie",
+    "plex_id": "5d77683585719b001f3a395d",
+    "appletv_id": "umc.cmc.84f1wmpipwoaemaue3l93uhh",
+    "rottentomatoes_id": "m/spawn",
+    "title": "Spawn",
+    "year": 1997,
+    "director_qid": "Q363754",
+    "director": "Mark A.Z. Dipp\u00e9",
+    "duration": 92,
+    "tomatometer": 17
+  }
+]

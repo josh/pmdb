@@ -1,0 +1,48 @@
+[
+  {
+    "wikidata_qid": "Q880647",
+    "imdb_id": "tt0165643",
+    "tmdb_type": "movie",
+    "tmdb_id": 38809,
+    "trakt_type": "movie",
+    "trakt_id": 25127,
+    "appletv_id": "umc.cmc.1g776qthohp5jw3y26dvc0tvq",
+    "rottentomatoes_id": "m/black-and-white1999",
+    "title": "Black and White",
+    "year": 1999,
+    "director_qid": "Q1387412",
+    "director": "James Toback",
+    "duration": 98,
+    "tomatometer": 38
+  },
+  {
+    "wikidata_qid": "Q1748292",
+    "imdb_id": "tt0093737",
+    "tmdb_type": "movie",
+    "tmdb_id": 17258,
+    "trakt_type": "movie",
+    "trakt_id": 10567,
+    "rottentomatoes_id": "m/pickup_artist",
+    "title": "The Pick-up Artist",
+    "year": 1987,
+    "director_qid": "Q1387412",
+    "director": "James Toback",
+    "duration": 81,
+    "tomatometer": 59
+  },
+  {
+    "wikidata_qid": "Q33730633",
+    "imdb_id": "tt6469960",
+    "tmdb_type": "movie",
+    "tmdb_id": 468291,
+    "trakt_type": "movie",
+    "trakt_id": 315511,
+    "appletv_id": "umc.cmc.1m43cscr3n8jwyjksh1gp4hgb",
+    "rottentomatoes_id": "m/an_imperfect_murder",
+    "title": "The Private Life of a Modern Woman",
+    "year": 2017,
+    "director_qid": "Q1387412",
+    "director": "James Toback",
+    "tomatometer": 40
+  }
+]
