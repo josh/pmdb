@@ -3105,6 +3105,7 @@ INSERT INTO items VALUES('Q28091065','tt5421602','tv',70785,'show',116043,NULL,'
 INSERT INTO items VALUES('Q28114659','tt5649108','movie',397722,'movie',240668,'umc.cmc.738riudmmigxl3diaizpjv905','m/thoroughbreds_2018','Thoroughbreds',2017,'Cory Finley',90,87);
 INSERT INTO items VALUES('Q28123467','tt1034415','movie',361292,'movie',259044,'umc.cmc.g9vorhq4d0bp88mpt74ixu1z','m/suspiria_2018','Suspiria',2018,'Luca Guadagnino',152,65);
 INSERT INTO items VALUES('Q28173075','tt2873282','movie',401981,'movie',254340,'umc.cmc.25ldi58014wux4etiisa92ia9','m/red_sparrow','Red Sparrow',2018,'Francis Lawrence',NULL,45);
+INSERT INTO items VALUES('Q28179710','tt7060344','movie',412862,'movie',258271,NULL,NULL,'Raatchasan',2017,'Ram Kumar',NULL,NULL);
 INSERT INTO items VALUES('Q28212128','tt6408226','movie',434203,'movie',290122,'umc.cmc.4xfopocuftngw3tpa8suqx6ah','m/newness_2017','Newness',2017,'Drake Doremus',112,71);
 INSERT INTO items VALUES('Q28222787','tt2338454','movie',423949,'movie',269069,'umc.cmc.5qyrl0361wsfq8gqc4ov2fnc','m/unicorn_store','Unicorn Store',2017,'Brie Larson',92,65);
 INSERT INTO items VALUES('Q28312316','tt2990126','movie',334532,'movie',223960,'umc.cmc.5czacgcafaanny3b7oihe2fnz','m/100_streets','100 Streets',2016,NULL,93,41);
