@@ -161,7 +161,9 @@ def batches(iterable, size):
 
 
 media_properties = {
+    "P57",
     "P345",
+    "P577",
     "P1258",
     "P2047",
     "P4947",
@@ -174,11 +176,25 @@ media_properties = {
 def fetch_media_items(qids):
     items = {}
     for qid in qids:
-        items[qid] = {}
+        items[qid] = {"wikidata_qid": qid}
+
+    directed = {}
+    labels_to_fetch = set()
 
     statements = fetch_statements(qids, media_properties)
     for qid in statements:
         item = statements[qid]
+
+        labels_to_fetch.add(qid)
+
+        years = list(int(s[0:4]) for s in item.get("P577", []))
+        if years:
+            items[qid]["year"] = min(years)
+
+        if exists_once(item, "P57"):
+            director_qid = extract_qid(item["P57"][0])
+            dict_add_to_set(directed, director_qid, qid)
+            labels_to_fetch.add(director_qid)
 
         if exists_once(item, "P345"):
             items[qid]["imdb_id"] = item["P345"][0]
@@ -201,9 +217,14 @@ def fetch_media_items(qids):
         elif exists_once(item, "P9751") and "P9586" not in item:
             items[qid]["appletv_id"] = item["P9751"][0]
 
-    labels = fetch_labels(qids)
+    labels = fetch_labels(labels_to_fetch)
     for qid in labels:
-        items[qid]["title"] = labels[qid]
+        label = labels[qid]
+        if qid in directed:
+            for film_qid in directed[qid]:
+                items[film_qid]["director"] = label
+        else:
+            items[qid]["title"] = label
 
     scores = fetch_tomatometer(qids)
     for qid in scores:
@@ -214,3 +235,12 @@ def fetch_media_items(qids):
 
 def exists_once(obj, key):
     return key in obj and len(obj[key]) == 1
+
+
+def dict_add_to_set(obj, key, value):
+    if key in obj:
+        s = obj[key]
+        assert type(s) == set
+        s.add(value)
+    else:
+        obj[key] = set([value])

@@ -62,16 +62,20 @@ def test_fetch_media_items():
     assert len(items) == 2
 
     item = items["Q172241"]
+    assert item["wikidata_qid"] == "Q172241"
     assert item["imdb_id"] == "tt0111161"
     assert item["tmdb_type"] == "movie"
     assert item["tmdb_id"] == 278
     assert item["appletv_id"] == "umc.cmc.459n4f98t82t8ommdoa7ebnny"
     assert item["title"] == "The Shawshank Redemption"
+    assert item["year"] == 1994
+    assert item["director"] == "Frank Darabont"
     assert item["duration"] == 142
     assert item["rottentomatoes_id"] == "m/shawshank_redemption"
     assert item["tomatometer"] == 91
 
     item = items["Q1079"]
+    assert item["wikidata_qid"] == "Q1079"
     assert item["imdb_id"] == "tt0903747"
     assert item["tmdb_type"] == "tv"
     assert item["tmdb_id"] == 1396
