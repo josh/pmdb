@@ -200,7 +200,7 @@ def fetch_media_items(qids):
             dict_add_to_set(directed, director_qid, qid)
             labels_to_fetch.add(director_qid)
 
-        if exists_once(item, "P345"):
+        if exists_once(item, "P345") and item["P345"][0].startswith("tt"):
             items[qid]["imdb_id"] = item["P345"][0]
 
         if exists_once(item, "P1258"):
