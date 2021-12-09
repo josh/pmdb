@@ -3773,7 +3773,7 @@ INSERT INTO items VALUES('Q98078172','tt10310140','movie',602211,'movie',447608,
 INSERT INTO items VALUES('Q98079245','tt11229780','movie',649401,'movie',508568,'umc.cmc.3opcl75cwe18x75rymh7iik4r','m/infidel_2020','Infidel',2020,'Cyrus Nowrasteh',NULL,58);
 INSERT INTO items VALUES('Q98139723','tt11169050','movie',642208,'movie',480318,'umc.cmc.6vr8o2eoh9x3ffglpf7tgkafp','m/supernova_2021','Supernova',2020,'Harry Macqueen',93,89);
 INSERT INTO items VALUES('Q98139865','tt11804152','movie',672741,'movie',506130,NULL,'m/till_death_2021','Till Death',2021,NULL,NULL,89);
-INSERT INTO items VALUES('Q98315446','tt8760932','tv',88989,'show',158087,NULL,'tv/nine_perfect_strangers','Nine Perfect Strangers',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q98315446','tt8760932','tv',88989,'show',158087,NULL,'tv/nine_perfect_strangers','Nine Perfect Strangers',NULL,'Jonathan Levine',NULL,NULL);
 INSERT INTO items VALUES('Q98544737','tt12759400','tv',106754,'show',164762,NULL,'tv/high_score','High Score',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q98688194','tt10851618','movie',726887,'movie',569372,'umc.cmc.4pzryo7z5ngs1cditgna2x05k','m/rising_phoenix','Rising Phoenix',2020,NULL,NULL,86);
 INSERT INTO items VALUES('Q98688203','tt12882136','tv',107625,'show',164758,NULL,'tv/million_dollar_beach_house','Million Dollar Beach House',NULL,NULL,NULL,NULL);
@@ -3796,7 +3796,7 @@ INSERT INTO items VALUES('Q100361490','tt11286314','movie',646380,'movie',483617
 INSERT INTO items VALUES('Q100613366','tt11989890','movie',664280,'movie',497936,NULL,'m/david_attenborough_a_life_on_our_planet','David Attenborough: A Life on Our Planet',2020,'Alastair Fothergill',NULL,95);
 INSERT INTO items VALUES('Q100709273','tt12392504','tv',111188,'show',167958,NULL,NULL,'Scam 1992: The Harshad Metha story',2020,'Hansal Mehta',NULL,NULL);
 INSERT INTO items VALUES('Q100801718','tt10731256','movie',619730,'movie',464903,NULL,NULL,'Don''t Worry Darling',2022,'Olivia Wilde',NULL,NULL);
-INSERT INTO items VALUES('Q100934044','tt12235718','tv',106651,'show',170211,NULL,NULL,'Hellbound',NULL,'Yeon Sang-ho',NULL,NULL);
+INSERT INTO items VALUES('Q100934044','tt12235718','tv',106651,'show',170211,NULL,'tv/hellbound','Hellbound',NULL,'Yeon Sang-ho',NULL,NULL);
 INSERT INTO items VALUES('Q100944081','tt0434706','tv',30981,'show',30847,NULL,NULL,'Monster',NULL,'Masayuki Kojima',24,NULL);
 INSERT INTO items VALUES('Q101089777','tt13146488','tv',110492,'show',169009,NULL,NULL,'Peacemaker',NULL,'James Gunn',NULL,NULL);
 INSERT INTO items VALUES('Q101098258','tt6571548','movie',628534,'movie',469316,NULL,'m/the_white_tiger_2020','The White Tiger',2021,'Ramin Bahrani',125,91);
