@@ -3875,7 +3875,7 @@ INSERT INTO items VALUES('Q105562834','tt13007904','tv',108303,'show',166076,'um
 INSERT INTO items VALUES('Q105584511','tt7144666','movie',756999,'movie',596179,'umc.cmc.6olxv5v6novx03n0fbdqvra2b','m/the_black_phone','The Black Phone',2021,'Scott Derrickson',102,NULL);
 INSERT INTO items VALUES('Q105599130','tt11738830','movie',749645,'movie',589554,NULL,'m/the_beta_test','The Beta Test',NULL,NULL,NULL,95);
 INSERT INTO items VALUES('Q105612382','tt9847360','movie',696109,'movie',539907,'umc.cmc.6orum26nnhmi34prlyvquec2l','m/a_glitch_in_the_matrix','A Glitch in the Matrix',2021,'Rodney Ascher',NULL,67);
-INSERT INTO items VALUES('Q105657351','tt13453006','movie',763329,'movie',601906,NULL,'m/red_rocket','Red Rocket',2021,'Sean Baker',NULL,91);
+INSERT INTO items VALUES('Q105657351','tt13453006','movie',763329,'movie',601906,'umc.cmc.66a7q10ezt21isapaf3ravb9p','m/red_rocket','Red Rocket',2021,'Sean Baker',NULL,91);
 INSERT INTO items VALUES('Q105657922','tt13622118','movie',776660,'movie',614246,'umc.cmc.771tuqt4kn6d7dldffryrekp0','m/cryptozoo','Cryptozoo',2021,'Dash Shaw',NULL,70);
 INSERT INTO items VALUES('Q105658212','tt3108894','movie',727293,'movie',569479,NULL,'m/the_tender_bar','The Tender Bar',2021,'George Clooney',104,NULL);
 INSERT INTO items VALUES('Q105686499','tt11188154','movie',795622,'movie',630998,NULL,'m/wework_or_the_making_and_breaking_of_a_47_billion_unicorn','WeWork: Or the Making and Breaking of a $47 Billion Unicorn',2021,'Jed Rothstein',NULL,77);
