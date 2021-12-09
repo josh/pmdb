@@ -1,3 +1,6 @@
+import logging
+import sqlite3
+
 ITEMS_PRIMARY_KEYS = [
     "wikidata_qid",
     "imdb_id",
@@ -28,7 +31,12 @@ def upsert(con, tbl_name, pks, row, overwrite=True):
     value_names = ", ".join(":" + k for k in keys)
     sql = "REPLACE INTO {} ({}) VALUES ({})".format(tbl_name, col_names, value_names)
 
-    cur.execute(sql, row)
+    try:
+        cur.execute(sql, row)
+    except sqlite3.IntegrityError as err:
+        logging.error("Failed to UPSERT into {} with {}".format(tbl_name, row))
+        raise err
+
     con.commit()
 
 
