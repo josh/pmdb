@@ -2827,6 +2827,7 @@ INSERT INTO items VALUES('Q19363883','tt3553442','movie',279641,'movie',177157,'
 INSERT INTO items VALUES('Q19481099','tt4196776','movie',324668,'movie',205219,'umc.cmc.2zk0h1p4axytgt4vgeu9qcp8i','m/jason_bourne','Jason Bourne',2016,'Paul Greengrass',123,54);
 INSERT INTO items VALUES('Q19569225','tt1972591','movie',274857,'movie',172687,'umc.cmc.2xlbkvlwk5ex32fuho6o4zj6q','m/king_arthur_legend_of_the_sword','King Arthur: Legend of the Sword',2017,'Guy Ritchie',127,31);
 INSERT INTO items VALUES('Q19590955','tt3748528','movie',330459,'movie',211396,'umc.cmc.5ydra856u0y2hc1ur13qd4xxx','m/rogue_one_a_star_wars_story','Rogue One',2016,'Gareth Edwards',133,84);
+INSERT INTO items VALUES('Q19593743','tt4063800','tv',62476,'show',98427,NULL,'tv/the_bureau','The Bureau',NULL,'Éric Rochant',NULL,NULL);
 INSERT INTO items VALUES('Q19602027','tt4299972','tv',61929,'show',94066,'umc.cmc.4k8pjyga6j2zl7f7gca7e9h4g','tv/the_jinx_the_life_and_deaths_of_robert_durst','The Jinx',2015,'Andrew Jarecki',NULL,NULL);
 INSERT INTO items VALUES('Q19605486','tt4973548','tv',65315,'show',104878,'umc.cmc.6xowibn53gye7xbb2leevwtoq','tv/flaked','Flaked',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q19627585','tt2400463','movie',306947,'movie',195334,'umc.cmc.nybymbb4rxqw7vu0cdwg2jz','m/the_invitation','The Invitation',2015,'Karyn Kusama',99,89);
@@ -3648,7 +3649,7 @@ INSERT INTO items VALUES('Q75077484','tt9139586','movie',560204,'movie',410908,'
 INSERT INTO items VALUES('Q75381712','tt10196390','tv',92807,'show',146524,'umc.cmc.496vr0x8uzgx88vuvuqrnvn9s','tv/the_world_according_to_jeff_goldblum','The World According to Jeff Goldblum',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q75793788','tt9907782','movie',630392,'movie',470524,NULL,'m/eight_for_silver','Eight for Silver',NULL,'Sean Ellis',NULL,76);
 INSERT INTO items VALUES('Q75947080','tt0499097','movie',567189,'movie',416763,'umc.cmc.56pgng0r61e5kkhk40mw4mbpu','m/tom_clancys_without_remorse','Without Remorse',2021,'Stefano Sollima',109,44);
-INSERT INTO items VALUES('Q76448600','tt9362722','movie',569094,'movie',420606,NULL,NULL,'Spider-Man: Across the Spider-Verse (Part One)',2022,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q76448600','tt9362722','movie',569094,'movie',420606,NULL,NULL,'Spider-Man: Across the Spider-Verse - Part One',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q76488910','tt11160650','movie',776512,'movie',613844,NULL,'m/on_the_count_of_three','On the Count of Three',NULL,'Jerrod Carmichael',NULL,86);
 INSERT INTO items VALUES('Q76488932','tt1697800','movie',481879,'movie',328989,NULL,'m/die_in_a_gunfight','Die in a Gunfight',NULL,'Collin Schiffli',NULL,17);
 INSERT INTO items VALUES('Q76547098','tt9615014','tv',94064,'show',153312,'umc.cmc.6vuk9cb02utraxjg12aed84kd','tv/lego_masters_2020','Lego Masters',NULL,NULL,NULL,NULL);
@@ -3883,6 +3884,7 @@ INSERT INTO items VALUES('Q105686521','tt14031338','movie',795530,'movie',631012
 INSERT INTO items VALUES('Q105753321','tt11041132','tv',93716,'show',153528,'umc.cmc.5nghmxp88xe0qxhtlhfiu5r2h','tv/the_mosquito_coast','The Mosquito Coast',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105773126','tt10971064','tv',124897,'show',170595,'umc.cmc.2iams7vr2o0i6mtb6wm6r9q1n','tv/mr_corman','Mr. Corman',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105818526','tt10011302','movie',596028,'movie',441951,'umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p','m/the_emoji_story','The Emoji Story',NULL,'Ian Cheney',79,92);
+INSERT INTO items VALUES('Q105907125','tt4995540','movie',517088,'movie',365183,NULL,NULL,'Being the Ricardos',NULL,'Aaron Sorkin',NULL,NULL);
 INSERT INTO items VALUES('Q105985341','tt11741044','movie',632311,'movie',472014,NULL,NULL,'I Was a Simple Man',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105989074','tt13472984','movie',787428,'movie',623844,NULL,'m/two_distant_strangers','Two Distant Strangers',2020,NULL,32,93);
 INSERT INTO items VALUES('Q106009390','tt11540284','movie',802217,'movie',637209,'umc.cmc.73z3l84b8o1irv4b7rqtjwkgp','m/8_bit_christmas','8-Bit Christmas',2021,'Michael Dowse',NULL,80);
