@@ -3853,6 +3853,7 @@ INSERT INTO items VALUES('Q104870521','tt11394276','movie',653740,'movie',488579
 INSERT INTO items VALUES('Q104872930','tt6060444','movie',731738,'movie',573735,NULL,'m/the_paper_tigers','The Paper Tigers',NULL,NULL,NULL,98);
 INSERT INTO items VALUES('Q104874416','tt13648230','movie',776518,'movie',613903,NULL,'m/in_the_same_breath','In the Same Breath',2021,'Wang Nanfu',NULL,96);
 INSERT INTO items VALUES('Q104875494','tt13646976','movie',776596,'movie',614068,'umc.cmc.6t11r8fucomc6fqm9e26avf29','m/bring_your_own_brigade','Bring Your Own Brigade',2021,'Lucy Walker',NULL,88);
+INSERT INTO items VALUES('Q104876552','tt12800524','movie',728526,'movie',570905,NULL,'m/encounter_2021','Invasion',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104878660','tt11394170','movie',653734,'movie',502395,NULL,'m/coded_bias','Coded Bias',2020,'Shalini Kantayya',NULL,100);
 INSERT INTO items VALUES('Q104881069','tt13648228','movie',776559,'movie',614029,NULL,'m/how_it_ends_2021','How It Ends',NULL,NULL,NULL,66);
 INSERT INTO items VALUES('Q104882631','tt11508438','movie',776545,'movie',613880,NULL,'m/one_for_the_road_2021','One for the Road',NULL,'Nattawut Poonpiriya',NULL,66);
@@ -3869,7 +3870,7 @@ INSERT INTO items VALUES('Q105359560','tt12373414','movie',776514,'movie',613816
 INSERT INTO items VALUES('Q105430529','tt13837672','tv',116989,'show',172256,NULL,'tv/crime_scene_the_vanishing_at_the_cecil_hotel','Crime Scene: The Vanishing at the Cecil Hotel',NULL,'Joe Berlinger',NULL,NULL);
 INSERT INTO items VALUES('Q105438931','tt13087796','movie',795813,'movie',631457,'umc.cmc.5fm0s619rjzalirizf2tfr3q0','m/im_your_man_2021','I''m Your Man',2021,'Maria Schrader',108,96);
 INSERT INTO items VALUES('Q105459622','tt11639952','tv',97754,'show',157540,'umc.cmc.17fo9dhz913tohvvymkmrxtse','tv/young_rock','Young Rock',NULL,NULL,NULL,90);
-INSERT INTO items VALUES('Q105549749','tt11214590','movie',644495,'movie',481862,NULL,'m/house_of_gucci','House of Gucci',2021,'Ridley Scott',NULL,NULL);
+INSERT INTO items VALUES('Q105549749','tt11214590','movie',644495,'movie',481862,NULL,'m/house_of_gucci','House of Gucci',2021,'Ridley Scott',157,NULL);
 INSERT INTO items VALUES('Q105560027','tt14164234','movie',796849,'movie',632012,NULL,'m/ride_or_die','Ride or Die',2021,'Ryūichi Hiroki',142,67);
 INSERT INTO items VALUES('Q105560731','tt11947248','tv',102540,'show',161299,'umc.cmc.jov1gljmqnux0i15rbqsoyfk',NULL,'The Shrink Next Door',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105562834','tt13007904','tv',108303,'show',166076,'umc.cmc.1sid6bqjoez4sxonuulq12af7','tv/tiny_world','Tiny World',NULL,NULL,NULL,NULL);
