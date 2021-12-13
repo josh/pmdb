@@ -3929,6 +3929,7 @@ INSERT INTO items VALUES('Q106608782','tt13356646','tv',119279,'show',173179,'um
 INSERT INTO items VALUES('Q106638959','tt14482570','tv',126397,'show',182804,'umc.cmc.56ka6i8ccv7tsatj6nd1uo808','tv/watch_the_sound_with_mark_ronson','Watch the Sound with Mark Ronson',NULL,NULL,NULL,100);
 INSERT INTO items VALUES('Q106639064','tt11337862','movie',691179,'movie',535487,'umc.cmc.3t4yjbzlzjvfm62c4pwpmgnf4','m/friends_the_reunion','Friends: The Reunion',2021,'Ben Winston',104,66);
 INSERT INTO items VALUES('Q106679014','tt13406094','tv',111803,'show',168471,'umc.cmc.3c8psnhdn9viikje3kvq69fyr','tv/the_white_lotus','The White Lotus',NULL,'Mike White',NULL,88);
+INSERT INTO items VALUES('Q106740037','tt13352968','movie',758330,'movie',597555,NULL,NULL,'Good Luck to You, Leo Grande',NULL,'Sophie Hyde',NULL,NULL);
 INSERT INTO items VALUES('Q106763973','tt14512538','movie',642732,'movie',481586,NULL,'m/roadrunner_a_film_about_anthony_bourdain','Roadrunner: A Film About Anthony Bourdain',NULL,'Morgan Neville',NULL,91);
 INSERT INTO items VALUES('Q106765478','tt14392248','tv',124411,'show',179231,NULL,NULL,'Aspirants',2021,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106819328','tt11815682','tv',124101,'show',179632,'umc.cmc.43wmt3l7kce5o3628tdf1ox0v','tv/hacks','Hacks',NULL,NULL,NULL,NULL);
