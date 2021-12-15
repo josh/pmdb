@@ -3690,6 +3690,7 @@ INSERT INTO items VALUES('Q84203429','tt9620288','movie',614917,'movie',458405,'
 INSERT INTO items VALUES('Q84238429','tt3673480','tv',87523,'show',151015,'umc.cmc.3e2lejw8tcfjkz2nic00vburt','tv/good_lord_bird','The Good Lord Bird',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q84323848','tt8503618','movie',556574,'movie',407854,'umc.cmc.54rv4esv3qomlthreamvbd34v','m/hamilton_2020','Hamilton',2020,'Thomas Kail',160,97);
 INSERT INTO items VALUES('Q84363557','tt7873348','movie',653569,'movie',488442,NULL,'m/save_yourselves','Save Yourselves!',2020,NULL,NULL,89);
+INSERT INTO items VALUES('Q84366178','tt11233960','movie',645886,'movie',490456,NULL,'m/the_unforgivable','The Unforgivable',2021,'Nora Fingscheidt',NULL,NULL);
 INSERT INTO items VALUES('Q84366622','tt11394180','movie',653574,'movie',489827,NULL,'m/dick_johnson_is_dead','Dick Johnson Is Dead',2020,'Kirsten Johnson',89,100);
 INSERT INTO items VALUES('Q84427809','tt11394182','movie',653578,'movie',488542,'umc.cmc.52a3l8rpaz7mn1dwu4ngt6j4a','m/feels_good_man','Feels Good Man',2020,NULL,92,95);
 INSERT INTO items VALUES('Q84693711','tt10095582','movie',591538,'movie',437960,'umc.cmc.4wpfk1xmi22h3zyv4a10lj1tw','m/the_tragedy_of_macbeth_2021','The Tragedy of Macbeth',2021,'Joel Coen',105,98);
@@ -3949,6 +3950,7 @@ INSERT INTO items VALUES('Q107071651','tt14673560','movie',830991,'movie',663244
 INSERT INTO items VALUES('Q107089587','tt10370710','movie',660120,'movie',494289,NULL,'m/the_worst_person_in_the_world','The Worst Person in the World',2021,'Joachim Trier',121,100);
 INSERT INTO items VALUES('Q107105860','tt12042730','movie',687163,'movie',531178,NULL,NULL,'Project Hail Mary',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107105883','tt2914760','movie',413453,'movie',260325,NULL,'m/malibu_road','Malibu Road',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q107107865','tt14039582','movie',758866,'movie',597710,NULL,NULL,'Drive My Car',2021,'Ryusuke Hamaguchi',NULL,NULL);
 INSERT INTO items VALUES('Q107121453','tt14375756','movie',808703,'movie',642902,'umc.cmc.1zuqyrfujuh4ratngp3ncm40s','m/lfg','LFG',NULL,NULL,NULL,94);
 INSERT INTO items VALUES('Q107132222','tt14164730','tv',131927,'show',187026,'umc.cmc.1zzm4893ldk443lyy9xa5839f','tv/dexter_new_blood','Dexter: New Blood',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107202403','tt14731254','movie',834027,'movie',665921,'umc.cmc.pozh1f8s66qulcv10roswf1x','m/val','Val',2021,NULL,NULL,93);
