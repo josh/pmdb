@@ -3541,6 +3541,7 @@ INSERT INTO items VALUES('Q64067920','tt6654210','movie',581726,'movie',430545,'
 INSERT INTO items VALUES('Q64069446','tt6802400','movie',484718,'movie',331914,'umc.cmc.40j10tjb7hg7nikbri52b8ei0','m/coming_2_america','Coming 2 America',2021,'Craig Brewer',110,49);
 INSERT INTO items VALUES('Q64140835','tt10090796','movie',591278,'movie',437974,NULL,'m/game_of_thrones_the_last_watch','Game of Thrones: The Last Watch',2019,'Jeanie Finlay',NULL,100);
 INSERT INTO items VALUES('Q64174928','tt7390588','movie',503125,'movie',350481,'umc.cmc.57ru6s4t0b4boxy1vq89gt5fy','m/little_monsters_2019','Little Monsters',2019,'Abe Forsythe',93,79);
+INSERT INTO items VALUES('Q64211112','tt9419884','movie',453395,'movie',299910,NULL,'m/doctor_strange_in_the_multiverse_of_madness','Doctor Strange in the Multiverse of Madness',2022,'Sam Raimi',NULL,NULL);
 INSERT INTO items VALUES('Q64338076','tt9686708','movie',579583,'movie',429212,'umc.cmc.4lwpfa33gozxsg2ksi2l5zqp','m/the_king_of_staten_island','The King of Staten Island',2020,'Judd Apatow',136,75);
 INSERT INTO items VALUES('Q64338082','tt7737640','movie',556867,'movie',407730,'umc.cmc.249ki9hgr9pzgvyg54o7ojmsf','m/breaking_news_in_yuba_county','Breaking News in Yuba County',2021,'Tate Taylor',NULL,12);
 INSERT INTO items VALUES('Q64338088','tt6992978','movie',473021,'movie',320541,NULL,NULL,'The Souvenir Part II',2021,'Joanna Hogg',107,NULL);
@@ -3643,6 +3644,7 @@ INSERT INTO items VALUES('Q73547335','tt10333426','movie',613911,'movie',457174,
 INSERT INTO items VALUES('Q73549619','tt10243992','movie',643612,'movie',481471,NULL,'m/im_your_woman','I''m Your Woman',NULL,'Julia Hart',NULL,80);
 INSERT INTO items VALUES('Q73549778','tt9601220','movie',624788,'movie',488159,'umc.cmc.3litexk35mgw4j1jcusd9t8hz','m/black_bear','Black Bear',2020,'Lawrence Michael Levine',NULL,89);
 INSERT INTO items VALUES('Q73552408','tt10944596','movie',711475,'movie',554317,NULL,'m/here_today_2021','Here Today',NULL,'Billy Crystal',NULL,48);
+INSERT INTO items VALUES('Q73804850','tt10431500','movie',637920,'movie',476914,'umc.cmc.4qax2z5u0ob0k7wdeaesjqahx',NULL,'Miracle in Cell No. 7',2019,'Mehmet Ada Öztekin',134,NULL);
 INSERT INTO items VALUES('Q73896894','tt9130508','movie',544401,'movie',395091,'umc.cmc.40gvwq6hnbilmnxuutvmejx4r','m/cherry_2021','Cherry',2021,NULL,142,37);
 INSERT INTO items VALUES('Q73897733','tt7737786','movie',524047,'movie',372518,NULL,'m/greenland','Greenland',2020,'Ric Roman Waugh',120,78);
 INSERT INTO items VALUES('Q74190990','tt11083552','movie',637649,'movie',476569,'umc.cmc.1gzck9czlhv4jw6qra2sdvbc6','m/wrath_of_man','Wrath of Man',2021,'Guy Ritchie',118,66);
