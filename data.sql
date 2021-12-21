@@ -179,6 +179,7 @@ INSERT INTO items VALUES('Q80959','tt1535108','movie',68724,'movie',50137,'umc.c
 INSERT INTO items VALUES('Q81205','tt1001526','movie',38055,'movie',24505,'umc.cmc.4u183n7tgl8y9n0o2wk910chx','m/megamind','Megamind',2010,'Tom McGrath',96,72);
 INSERT INTO items VALUES('Q81224','tt0454848','movie',388,'movie',308,'umc.cmc.5vuo0k1iyj1lic6tc9jnfdzm2','m/inside_man','Inside Man',2006,'Spike Lee',129,86);
 INSERT INTO items VALUES('Q82352','tt0316465','movie',13920,'movie',8292,'umc.cmc.4xiid43wjv1xa49pzb9l1kc3p','m/radio','Radio',2003,'Michael Tollin',109,35);
+INSERT INTO items VALUES('Q82617','tt1710308','tv',31132,'show',30997,NULL,NULL,'Regular Show',NULL,NULL,11,NULL);
 INSERT INTO items VALUES('Q83071','tt1606375','tv',33907,'show',33760,NULL,'tv/downton_abbey','Downton Abbey',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q83495','tt0133093','movie',603,'movie',481,'umc.cmc.af8k9kcq9r1s1qmmdxpq4itn','m/matrix','The Matrix',1999,'The Wachowskis',136,88);
 INSERT INTO items VALUES('Q83656','tt0362269','movie',11184,'movie',6310,'umc.cmc.68a41jp07cnjbldv933689lgu','m/kinsey','Kinsey',2004,'Bill Condon',118,90);
@@ -3715,6 +3716,7 @@ INSERT INTO items VALUES('Q85782068','tt12824922','tv',106871,'show',158040,'umc
 INSERT INTO items VALUES('Q85783044','tt7808566','tv',90970,'show',154279,'umc.cmc.6hsbitxcp7hv2s004g8buh4xz','tv/made_for_love','Made for Love',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q85784596','tt9148598','tv',96213,'show',155959,'umc.cmc.4xi3o21wvhl1fe7xape2o482y','tv/mcmillions','McMillions',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q85801170','tt11628854','movie',664574,'movie',498540,NULL,NULL,'Silent Night',2021,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q85803299','tt10574236','tv',90972,'show',153862,NULL,'tv/station_eleven','Station Eleven',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q85806717','tt11196036','movie',643532,'movie',481362,'umc.cmc.1fs249eymi9bqe1tzelsaiisq','m/the_card_counter','The Card Counter',2021,'Paul Schrader',112,86);
 INSERT INTO items VALUES('Q85806732','tt8425310','tv',86598,'show',130988,'umc.cmc.27k6e0572nzcismudgcx7fmef','tv/the_case_against_adnan_syed','The Case Against Adnan Syed',NULL,'Amy J. Berg',NULL,NULL);
 INSERT INTO items VALUES('Q85807149','tt9544034','tv',93352,'show',152467,NULL,NULL,'The Family Man',2019,'Raj Nidimoru and Krishna D.K.',NULL,NULL);
