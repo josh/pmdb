@@ -276,7 +276,7 @@ INSERT INTO items VALUES('Q131390','tt0416449','movie',1271,'movie',884,'umc.cmc
 INSERT INTO items VALUES('Q131864','tt0170016','movie',8871,'movie',4355,'umc.cmc.5ulids6104abycr0xuxju4ee0','m/how_the_grinch_stole_christmas','Dr. Seuss'' How the Grinch Stole Christmas',2000,'Ron Howard',101,49);
 INSERT INTO items VALUES('Q132266','tt0369441','movie',7552,'movie',3949,'umc.cmc.4bjqy3jzk3lejpdn6n51e57la','m/fun_with_dick_and_jane','Fun with Dick and Jane',2005,'Dean Parisot',90,29);
 INSERT INTO items VALUES('Q132351','tt0114814','movie',629,'movie',505,'umc.cmc.w0zax063fwhvr49p0czxmwba','m/usual_suspects','The Usual Suspects',1995,'Bryan Singer',106,88);
-INSERT INTO items VALUES('Q132689','tt0034583','movie',289,'movie',243,'umc.cmc.6i7o1550iyqet6xexqniqyp4k','m/1003707-casablanca','Q132689',1942,'Michael Curtiz',102,99);
+INSERT INTO items VALUES('Q132689','tt0034583','movie',289,'movie',243,'umc.cmc.6i7o1550iyqet6xexqniqyp4k','m/1003707-casablanca','Casablanca',1942,'Michael Curtiz',102,99);
 INSERT INTO items VALUES('Q132863','tt0266543','movie',12,'movie',8,'umc.cmc.6mbogy74hds0btkz7rj83hzhq','m/finding_nemo','Finding Nemo',2003,NULL,100,99);
 INSERT INTO items VALUES('Q133654','tt0102926','movie',274,'movie',230,'umc.cmc.vo1hrvp25kr64fq8irp5jx75','m/silence_of_the_lambs','The Silence of the Lambs',1991,'Jonathan Demme',118,96);
 INSERT INTO items VALUES('Q134430','tt0029583','movie',408,'movie',326,'umc.cmc.5uuypkuso8d8hpir1y348k5n9','m/1048445-snow_white_and_the_seven_dwarfs','Snow White and the Seven Dwarfs',1937,NULL,83,98);
