@@ -3669,7 +3669,7 @@ INSERT INTO items VALUES('Q78224387','tt11327514','movie',634544,'movie',478266,
 INSERT INTO items VALUES('Q79212167','tt11161474','movie',641662,'movie',480082,NULL,'m/pieces_of_a_woman','Pieces of a Woman',2020,'Kornél Mundruczó',128,75);
 INSERT INTO items VALUES('Q79997183','tt12451520','tv',96462,'show',158851,NULL,NULL,'It''s Okay to Not Be Okay',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q80177730','tt10161886','movie',611213,'movie',455894,'umc.cmc.5kx1866wvi9chmhq5oe7zfl25','m/the_prom_2020','The Prom',2020,'Ryan Murphy',131,54);
-INSERT INTO items VALUES('Q80322358','tt10366206','movie',603692,'movie',448646,NULL,NULL,'John Wick: Chapter 4',2022,'Chad Stahelski',NULL,NULL);
+INSERT INTO items VALUES('Q80322358','tt10366206','movie',603692,'movie',448646,NULL,NULL,'John Wick: Chapter 4',2023,'Chad Stahelski',NULL,NULL);
 INSERT INTO items VALUES('Q80322391','tt10838180','movie',624860,'movie',466465,'umc.cmc.1xfut1sq2hvb9faupyabxog7q','m/the_matrix_resurrections','The Matrix Resurrections',2021,'Lana Wachowski',148,NULL);
 INSERT INTO items VALUES('Q81207836','tt3272066','movie',579047,'movie',429258,'umc.cmc.557fgi8p0vty3c53ms4c3rygt','m/reminiscence_2021','Reminiscence',2021,'Lisa Joy',116,37);
 INSERT INTO items VALUES('Q81560766','tt11426660','tv',97401,'show',156697,'umc.cmc.5p8c1trrhux33dnp1kysefd46','tv/cheer','Cheer',NULL,NULL,NULL,NULL);
