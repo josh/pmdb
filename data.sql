@@ -18,6 +18,7 @@ CREATE TABLE items (
 );
 INSERT INTO items VALUES(NULL,'tt0090509','tv',NULL,'show',142212,NULL,NULL,'The Return of Sherlock Holmes',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NULL,'Apocalypse Now: Final Cut',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt11173006','tv',126301,'show',185581,NULL,NULL,'Super Pumped',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12923632','tv',NULL,'show',165790,NULL,NULL,'Dead Ringers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16378396','movie',913852,'movie',731663,NULL,NULL,'Every Day in Kaimuki',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt7927936','tv',76369,'show',127867,NULL,NULL,'FLAMES',NULL,NULL,NULL,NULL);
@@ -3728,6 +3729,7 @@ INSERT INTO items VALUES('Q85811980','tt10059518','movie',625568,'movie',466935,
 INSERT INTO items VALUES('Q85814960','tt9288692','movie',800497,'movie',635572,NULL,'m/werewolves_within','Werewolves Within',NULL,NULL,NULL,85);
 INSERT INTO items VALUES('Q86675328','tt11003218','movie',635731,'movie',474763,'umc.cmc.3rznmosvdai792bibngl5onbr','m/pig_2021','Pig',2021,'Michael Sarnoski',92,96);
 INSERT INTO items VALUES('Q86751099','tt11854694','tv',100612,'show',159317,NULL,NULL,'Special OPS',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q87126244','tt11138512','movie',639933,'movie',478776,NULL,NULL,'The Northman',NULL,'Robert Eggers',NULL,NULL);
 INSERT INTO items VALUES('Q87126473','tt11655202','movie',663870,'movie',497687,'umc.cmc.33ey6th9l5ijmdfaxib5q91rf','m/riders_of_justice','Riders of Justice',2020,'Anders Thomas Jensen',116,96);
 INSERT INTO items VALUES('Q87202931','tt8403664','tv',100052,'show',158896,'umc.cmc.luta35wnn7df3495l50hma92','tv/the_english_game','The English Game',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q87220566','tt11291274','movie',648579,'movie',485187,NULL,NULL,'The Unbearable Weight of Massive Talent',NULL,'Tom Gormican',NULL,NULL);
