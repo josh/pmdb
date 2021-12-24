@@ -3756,6 +3756,7 @@ INSERT INTO items VALUES('Q96079649','tt11204260','tv',102619,'show',154824,'umc
 INSERT INTO items VALUES('Q96314873','tt9735350','movie',653751,'movie',488575,'umc.cmc.5ymb12y0jbgdn5k7kw9v66wzz','m/rebuilding_paradise','Rebuilding Paradise',2020,'Ron Howard',NULL,93);
 INSERT INTO items VALUES('Q96372504','tt11905462','movie',684700,'movie',529080,'umc.cmc.4cr1bhdw9jr6853mq7yij8sae','m/athlete_a','Athlete A',2020,NULL,NULL,100);
 INSERT INTO items VALUES('Q96373878','tt11095742','movie',653723,'movie',489826,'umc.cmc.1aatz9gwjhnpfqqt8noafagq','m/boys_state','Boys State',2020,'Jesse Moss',NULL,94);
+INSERT INTO items VALUES('Q96376192','tt11032374','movie',635302,'movie',474745,NULL,'m/demon_slayer_kimetsu_no_yaiba_the_movie_mugen_train','Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train',2020,'Haruo Sotozaki',NULL,98);
 INSERT INTO items VALUES('Q96376698','tt10122474','tv',89689,'show',153152,NULL,'tv/dummy','Dummy',NULL,'Tricia Brock',NULL,NULL);
 INSERT INTO items VALUES('Q96384692','tt11307724','movie',682532,'movie',527356,NULL,'m/john_and_the_hole','John and the Hole',2021,'Pascual Sisto',98,58);
 INSERT INTO items VALUES('Q96392364','tt11271800','movie',672521,'movie',505872,'umc.cmc.5ej3a3p7s849l9cumyg0nwap9','m/mayday_2021','Mayday',2021,'Karen Cinorre',100,48);
