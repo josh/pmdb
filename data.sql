@@ -216,7 +216,7 @@ INSERT INTO items VALUES('Q106871','tt0112864','movie',1572,'movie',1029,'umc.cm
 INSERT INTO items VALUES('Q107167','tt0108160','movie',858,'movie',701,'umc.cmc.2msd4moghnck6u69qqhswnihh','m/sleepless_in_seattle','Sleepless in Seattle',1993,'Nora Ephron',105,75);
 INSERT INTO items VALUES('Q107226','tt0440963','movie',2503,'movie',1737,'umc.cmc.30j71boyk069em8ik6t7kh34k','m/bourne_ultimatum','The Bourne Ultimatum',2007,'Paul Greengrass',111,92);
 INSERT INTO items VALUES('Q107270','tt0335266','movie',153,'movie',118,'umc.cmc.4e1hhenepzwuv36lgkmm8ns84','m/lost_in_translation','Lost in Translation',2003,'Sofia Coppola',97,95);
-INSERT INTO items VALUES('Q107325','tt0103874','movie',6114,'movie',3489,'umc.cmc.2601qa443m4efb0452g7a0s91','m/bram_stokers_dracula','Dracula caca 450 16890',1993,'Francis Ford Coppola',128,75);
+INSERT INTO items VALUES('Q107325','tt0103874','movie',6114,'movie',3489,'umc.cmc.2601qa443m4efb0452g7a0s91','m/bram_stokers_dracula','Bram Stoker''s Dracula',1993,'Francis Ford Coppola',128,75);
 INSERT INTO items VALUES('Q107724','tt0059800','movie',660,'movie',534,'umc.cmc.v0qdh4ogf0wpaahxeezdh1hd','m/thunderball','Thunderball',1965,'Terence Young',130,87);
 INSERT INTO items VALUES('Q107761','tt0062512','movie',667,'movie',541,'umc.cmc.2dxmows9fkjl0xcleoyitjl0a','m/you_only_live_twice','You Only Live Twice',1967,'Lewis Gilbert',117,73);
 INSERT INTO items VALUES('Q107894','tt0064757','movie',668,'movie',542,'umc.cmc.1y2zq1vkhz6h5h8p85ohbfug7','m/on_her_majestys_secret_service','On Her Majesty''s Secret Service',1969,'Peter R. Hunt',142,81);
@@ -2990,7 +2990,7 @@ INSERT INTO items VALUES('Q23780457','tt4649466','movie',343668,'movie',223444,'
 INSERT INTO items VALUES('Q23780734','tt1825683','movie',284054,'movie',181313,'umc.cmc.53u1tdqk891nlpuvdh8ne00pb','m/black_panther_2018','Black Panther',2018,'Ryan Coogler',134,96);
 INSERT INTO items VALUES('Q23780914','tt4154756','movie',299536,'movie',191797,'umc.cmc.2do0xuo1u4tjmqbfz1p42a0p9','m/avengers_infinity_war','Avengers: Infinity War',2018,'Russo brothers',149,85);
 INSERT INTO items VALUES('Q23781129','tt4154664','movie',299537,'movie',193963,'umc.cmc.3o1o52plk3pxcpvhfhdrzrsun','m/captain_marvel','Captain Marvel',2019,'Anna Boden and Ryan Fleck',124,79);
-INSERT INTO items VALUES('Q23781155','tt4154796','movie',299534,'movie',191798,'umc.cmc.4ao9tm6b6rz4sy7yj5v13ltf8','m/avengers_endgame','Avengers: anbu war',2019,'Russo brothers',181,94);
+INSERT INTO items VALUES('Q23781155','tt4154796','movie',299534,'movie',191798,'umc.cmc.4ao9tm6b6rz4sy7yj5v13ltf8','m/avengers_endgame','Avengers: Endgame',2019,'Russo brothers',181,94);
 INSERT INTO items VALUES('Q23796643','tt3513498','movie',280217,'movie',177700,'umc.cmc.29k0xff3rlziwfsy7bb825klx','m/the_lego_movie_2_the_second_part','The Lego Movie 2: The Second Part',2019,'Mike Mitchell',106,84);
 INSERT INTO items VALUES('Q23796644','tt1959563','movie',390043,'movie',232291,'umc.cmc.5bwi8jsh3cnqc6xjrna4oqtdx','m/the_hitmans_bodyguard','The Hitman''s Bodyguard',2017,'Patrick Hughes',118,43);
 INSERT INTO items VALUES('Q23817035','tt5247022','movie',370755,'movie',224941,'umc.cmc.2l073fk2hdfmcd5uybuiwmrrw','m/paterson','Paterson',2016,'Jim Jarmusch',113,96);
