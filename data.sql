@@ -3591,7 +3591,7 @@ INSERT INTO items VALUES('Q65158549','tt5363618','movie',502033,'movie',348846,'
 INSERT INTO items VALUES('Q65258113','tt10850932','tv',94796,'show',152703,NULL,'tv/crash_landing_on_you','Crash Landing on You',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q65285210','tt4736550','movie',566222,'movie',415873,'umc.cmc.154kwhmbm070q5ario8t239pq','m/the_great_hack','The Great Hack',2019,NULL,113,85);
 INSERT INTO items VALUES('Q65648534','tt0993840','movie',503736,'movie',350970,NULL,'m/army_of_the_dead_2021','Army of the Dead',NULL,'Zack Snyder',148,67);
-INSERT INTO items VALUES('Q65677529','tt3797512','movie',595813,'movie',441782,'umc.cmc.ba6wq5pnixymgcxch791xteb','m/barb_and_star_go_to_vista_del_mar','Barb & Star Go to Vista Del Mar',2020,'Josh Greenbaum',NULL,80);
+INSERT INTO items VALUES('Q65677529','tt3797512','movie',595813,'movie',441782,'umc.cmc.ba6wq5pnixymgcxch791xteb','m/barb_and_star_go_to_vista_del_mar','Barb & Star Go to Vista Del Mar',2020,'Josh Greenbaum',107,80);
 INSERT INTO items VALUES('Q65679599','tt10633456','movie',615643,'movie',459011,'umc.cmc.5u7h6eurfrgcrmullqzj6heow','m/minari','Minari',2020,'Lee Isaac Chung',115,98);
 INSERT INTO items VALUES('Q65768589','tt9376612','movie',566525,'movie',416151,NULL,'m/shang_chi_and_the_legend_of_the_ten_rings','Shang-Chi and the Legend of the Ten Rings',2021,'Destin Daniel Cretton',132,91);
 INSERT INTO items VALUES('Q65972698','tt8923482','movie',566368,'movie',415937,'umc.cmc.5mi1rnjqdqfajsa0jwdmf9k2y','m/one_child_nation','One Child Nation',2019,NULL,NULL,98);
