@@ -20,7 +20,6 @@ INSERT INTO items VALUES(NULL,'tt0090509','tv',NULL,'show',142212,NULL,NULL,'The
 INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NULL,'Apocalypse Now: Final Cut',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11173006','tv',126301,'show',185581,NULL,NULL,'Super Pumped',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12923632','tv',NULL,'show',165790,NULL,NULL,'Dead Ringers',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES(NULL,'tt16378396','movie',913852,'movie',731663,NULL,NULL,'Every Day in Kaimuki',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt7927936','tv',76369,'show',127867,NULL,NULL,'FLAMES',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'movie',21763,NULL,'m/1217389-we_live_in_public','We Live in Public',2009,'Ondi Timoner',90,82);
 INSERT INTO items VALUES('Q595','tt1675434','movie',77338,'movie',57181,NULL,'m/the_intouchables','The Intouchables',2011,NULL,112,75);
@@ -3759,7 +3758,7 @@ INSERT INTO items VALUES('Q96372504','tt11905462','movie',684700,'movie',529080,
 INSERT INTO items VALUES('Q96373878','tt11095742','movie',653723,'movie',489826,'umc.cmc.1aatz9gwjhnpfqqt8noafagq','m/boys_state','Boys State',2020,'Jesse Moss',NULL,94);
 INSERT INTO items VALUES('Q96376192','tt11032374','movie',635302,'movie',474745,NULL,'m/demon_slayer_kimetsu_no_yaiba_the_movie_mugen_train','Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train',2020,'Haruo Sotozaki',NULL,98);
 INSERT INTO items VALUES('Q96376698','tt10122474','tv',89689,'show',153152,NULL,'tv/dummy','Dummy',NULL,'Tricia Brock',NULL,NULL);
-INSERT INTO items VALUES('Q96384692','tt11307724','movie',682532,'movie',527356,NULL,'m/john_and_the_hole','John and the Hole',2021,'Pascual Sisto',98,58);
+INSERT INTO items VALUES('Q96384692','tt11307724','movie',682532,'movie',527356,'umc.cmc.2hagqbdmsazeo9lwxf6p52kjz','m/john_and_the_hole','John and the Hole',2021,'Pascual Sisto',98,58);
 INSERT INTO items VALUES('Q96392364','tt11271800','movie',672521,'movie',505872,'umc.cmc.5ej3a3p7s849l9cumyg0nwap9','m/mayday_2021','Mayday',2021,'Karen Cinorre',100,48);
 INSERT INTO items VALUES('Q96398312','tt12004706','tv',101352,'show',160028,NULL,NULL,'Panchayat',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q96405993','tt11358166','movie',638741,'movie',477681,'umc.cmc.477smw9he6ab027jongqddyqk','m/some_kind_of_heaven','Some Kind of Heaven',NULL,'Lance Oppenheim',NULL,93);
@@ -3998,6 +3997,7 @@ INSERT INTO items VALUES('Q110077806','tt12004038','movie',807356,'movie',641879
 INSERT INTO items VALUES('Q110077813','tt15257116','movie',872516,'movie',698299,NULL,NULL,'Palm Trees and Power Lines',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110077822','tt16378298','movie',913792,'movie',731601,NULL,NULL,'Meet Me in the Bathroom',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110077824','tt9005184','movie',698128,'movie',542000,NULL,NULL,'Dual',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q110279451','tt16378396','movie',913852,'movie',731663,NULL,NULL,'Every Day in Kaimukī',NULL,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
