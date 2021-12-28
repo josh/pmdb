@@ -2532,6 +2532,7 @@ INSERT INTO items VALUES('Q4135309','tt1333631','movie',36432,'movie',23142,'umc
 INSERT INTO items VALUES('Q4142083','tt1951265','movie',131631,'movie',89542,'umc.cmc.mpg70roi67930oo7b35cl39v','m/the_hunger_games_mockingjay_part_1','The Hunger Games: Mockingjay – Part 1',2014,'Francis Lawrence',123,68);
 INSERT INTO items VALUES('Q4160350','tt2382396','movie',157847,'movie',102443,'umc.cmc.vdp5oxhmiwj3gb6amoob85a5','m/joe_2013','Joe',2013,'David Gordon Green',117,86);
 INSERT INTO items VALUES('Q4242745','tt0106233','movie',13064,'movie',7620,NULL,'m/1046035-airborne','Airborne',1993,'Rob Bowman',NULL,21);
+INSERT INTO items VALUES('Q4254026','tt1872181','movie',102382,'movie',73293,'umc.cmc.66rooktnzrc8dnl6k671mxn5z','m/the_amazing_spider_man_2','The Amazing Spider-Man 2',2014,'Marc Webb',142,52);
 INSERT INTO items VALUES('Q4272175','tt1619037','movie',43938,'movie',29684,NULL,'m/nice_guy_johnny_2010','Nice Guy Johnny',2010,'Edward Burns',NULL,NULL);
 INSERT INTO items VALUES('Q4317432','tt0492499','movie',30365,'movie',19244,'umc.cmc.44r95c17tc7soa5b6tlixkku7','m/unreasonable_man','An Unreasonable Man',2006,NULL,NULL,92);
 INSERT INTO items VALUES('Q4341553','tt0032910','movie',10895,'movie',6049,'umc.cmc.4ixknv3558j9uodmwlui4gfy8','m/pinocchio_1940','Pinocchio',1940,NULL,88,100);
