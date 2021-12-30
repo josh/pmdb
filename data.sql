@@ -1650,7 +1650,7 @@ INSERT INTO items VALUES('Q822660','tt0417148','movie',326,'movie',274,'umc.cmc.
 INSERT INTO items VALUES('Q822930','tt0349205','movie',11007,'movie',6145,'umc.cmc.43q80shspgq9qwsn010st51rr','m/cheaper_by_the_dozen','Cheaper by the Dozen',2003,'Shawn Levy',95,24);
 INSERT INTO items VALUES('Q822946','tt0309987','movie',1278,'movie',888,NULL,'m/dreamers','The Dreamers',2003,'Bernardo Bertolucci',115,60);
 INSERT INTO items VALUES('Q824133','tt0115798','movie',9894,'movie',5128,'umc.cmc.61joh41mgrzzsf835kammjq35','m/cable_guy','The Cable Guy',1996,'Ben Stiller',96,54);
-INSERT INTO items VALUES('Q824192','tt0115147','tv',2224,'show',2211,'umc.cmc.1wp3e52ah4t1khqohadjagrei','tv/the_daily_show_with_trevor_noah','The Daily Show with Trevor Noah',NULL,NULL,22,NULL);
+INSERT INTO items VALUES('Q824192','tt0115147','tv',2224,'show',2211,'umc.cmc.1wp3e52ah4t1khqohadjagrei','tv/the_daily_show_with_trevor_noah','The Daily Show',NULL,NULL,22,NULL);
 INSERT INTO items VALUES('Q824389','tt0106582','movie',9350,'movie',4643,'umc.cmc.2hiqev7sacjk9bh11rsvur7om','m/1044214-cliffhanger','Cliffhanger',1993,'Renny Harlin',113,67);
 INSERT INTO items VALUES('Q826840','tt0486946','movie',11199,'movie',6325,'umc.cmc.ngxnbl45z37t01skhfet3o24','m/wild_hogs','Wild Hogs',2007,'Walt Becker',99,14);
 INSERT INTO items VALUES('Q827105','tt0101700','movie',892,'movie',735,'umc.cmc.1adgruehei5qkgwz28dgb5p3e','m/delicatessen','Delicatessen',1991,NULL,95,89);
@@ -3835,7 +3835,7 @@ INSERT INTO items VALUES('Q102036333','tt10310096','movie',675467,'movie',508531
 INSERT INTO items VALUES('Q102509510','tt10696784','movie',618162,'movie',461031,NULL,'m/the_harder_they_fall','The Harder They Fall',2021,'The Bullitts',NULL,NULL);
 INSERT INTO items VALUES('Q103372692','tt2953050','movie',568124,'movie',419442,'umc.cmc.3uji6fbqdcps9k4oxy1ikddrs','m/encanto_2021','Encanto',2021,NULL,109,90);
 INSERT INTO items VALUES('Q103817549','tt1924245','movie',749274,'movie',589379,'umc.cmc.7jymhoidgt81c3kiwyekz115f','m/cry_macho','Cry Macho',2021,'Clint Eastwood',104,59);
-INSERT INTO items VALUES('Q103822078','tt5748448','movie',738652,'movie',580065,NULL,'m/copshop','Copshop',2021,'Joe Carnahan',107,81);
+INSERT INTO items VALUES('Q103822078','tt5748448','movie',738652,'movie',580065,'umc.cmc.4c399o7dlt0nw5tpsn2nv6ts9','m/copshop','Copshop',2021,'Joe Carnahan',107,81);
 INSERT INTO items VALUES('Q103854727','tt6902332','movie',634528,'movie',473773,'umc.cmc.b5i4rpej9me38rw6u8cxuesy','m/the_marksman_2021','The Marksman',2021,'Robert Lorenz',NULL,37);
 INSERT INTO items VALUES('Q103967305','tt10795658','tv',110316,'show',157841,NULL,'tv/alice_in_borderland','Alice in Borderland',NULL,'Shinsuke Sato',NULL,NULL);
 INSERT INTO items VALUES('Q104007235','tt12851524','tv',107113,'show',165314,NULL,'tv/only_murders_in_the_building','Only Murders in the Building',NULL,NULL,NULL,NULL);
@@ -3846,7 +3846,7 @@ INSERT INTO items VALUES('Q104213702','tt11389748','movie',423333,'movie',614144
 INSERT INTO items VALUES('Q104218175','tt13429362','movie',748853,'movie',589040,'umc.cmc.2jyt9mdjmdivmcexrwaz0rok9','m/in_the_earth','In the Earth',NULL,'Ben Wheatley',107,79);
 INSERT INTO items VALUES('Q104241071','tt10451914','movie',775996,'movie',613402,NULL,'m/outside_the_wire','Outside the Wire',2021,'Mikael Håfström',115,36);
 INSERT INTO items VALUES('Q104374134','tt5144174','movie',567797,'movie',419410,'umc.cmc.3jz6wmerbjymi8awhwzkht179','m/the_dry','The Dry',2020,'Robert Connolly',117,89);
-INSERT INTO items VALUES('Q104396610','tt13668894','tv',115036,'show',171129,NULL,'tv/the_book_of_boba_fett','The Book of Boba Fett',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q104396610','tt13668894','tv',115036,'show',171129,'umc.cmc.1xs3rjhar8ecbcvuzmwzrkn9a','tv/the_book_of_boba_fett','The Book of Boba Fett',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104409060','tt10298810','movie',718789,'movie',561241,'umc.cmc.5xveiilyr4awchk239ff6df2p',NULL,'Lightyear',2022,'Angus MacLane',NULL,NULL);
 INSERT INTO items VALUES('Q104528612','tt11466222','movie',656663,'movie',490879,NULL,NULL,'Jackass 4',2021,'Jeff Tremaine',NULL,NULL);
 INSERT INTO items VALUES('Q104630896','tt9140342','tv',116174,'show',156566,NULL,'tv/its_a_sin','It''s a Sin',NULL,'Peter Hoar',NULL,NULL);
