@@ -2,6 +2,7 @@ from wikidata import (
     fetch_items,
     fetch_labels,
     fetch_media_items,
+    fetch_redirects,
     fetch_statements,
     fetch_tomatometer,
     sparql,
@@ -42,6 +43,14 @@ def test_fetch_labels():
     assert items["Q172241"] == "The Shawshank Redemption"
 
 
+def test_fetch_redirects():
+    items = fetch_redirects({"Q172241", "Q110077806"})
+    assert len(items) == 1
+
+    assert "Q172241" not in items
+    assert items["Q110077806"] == "Q106554940"
+
+
 def test_fetch_items():
     items = fetch_items("P345", {"tt0068646", "tt0111161"})
     assert len(items) == 2
@@ -58,8 +67,8 @@ def test_fetch_tomatometer():
 
 
 def test_fetch_media_items():
-    items = fetch_media_items({"Q172241", "Q1079"})
-    assert len(items) == 2
+    items = fetch_media_items({"Q172241", "Q1079", "Q110077806"})
+    assert len(items) == 4
 
     item = items["Q172241"]
     assert item["wikidata_qid"] == "Q172241"
@@ -81,3 +90,11 @@ def test_fetch_media_items():
     assert item["tmdb_id"] == 1396
     assert item["appletv_id"] == "umc.cmc.1v90fu25sgywa1e14jwnrt9uc"
     assert item["title"] == "Breaking Bad"
+
+    item = items["Q110077806"]
+    assert item["wikidata_qid"] == "Q106554940"
+    assert item["title"] == "Watcher"
+
+    item = items["Q106554940"]
+    assert item["wikidata_qid"] == "Q106554940"
+    assert item["title"] == "Watcher"

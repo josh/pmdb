@@ -84,6 +84,25 @@ def fetch_labels(qids):
     return items
 
 
+def fetch_redirects(qids):
+    items = {}
+
+    query = """
+      SELECT ?item ?other WHERE {
+        ?items
+        ?item owl:sameAs ?other
+      }
+    """
+
+    results = sparql_batch_items(query, qids, batch_size=1000)
+    for result in results:
+        qid1 = extract_qid(result["item"]["value"])
+        qid2 = extract_qid(result["other"]["value"])
+        items[qid1] = qid2
+
+    return items
+
+
 def fetch_items(property, values):
     items = {}
     nonunique = set()
@@ -177,6 +196,12 @@ def fetch_media_items(qids):
     items = {}
     for qid in qids:
         items[qid] = {"wikidata_qid": qid}
+
+    redirects = fetch_redirects(qids)
+    for qid in redirects:
+        new_qid = redirects[qid]
+        items[qid] = items[new_qid] = {"wikidata_qid": new_qid}
+        qids.add(new_qid)
 
     directed = {}
     labels_to_fetch = set()
