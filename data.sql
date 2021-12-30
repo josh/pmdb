@@ -3921,7 +3921,7 @@ INSERT INTO items VALUES('Q105773126','tt10971064','tv',124897,'show',170595,'um
 INSERT INTO items VALUES('Q105818526','tt10011302','movie',596028,'movie',441951,'umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p','m/the_emoji_story','The Emoji Story',2020,'Ian Cheney',79,92);
 INSERT INTO items VALUES('Q105907125','tt4995540','movie',517088,'movie',365183,NULL,'m/being_the_ricardos','Being the Ricardos',NULL,'Aaron Sorkin',NULL,NULL);
 INSERT INTO items VALUES('Q105962799','tt14114802','movie',799876,'movie',634914,NULL,NULL,'The Outfit',NULL,'Graham Moore',NULL,NULL);
-INSERT INTO items VALUES('Q105985338','tt14158346','movie',801913,'movie',636847,NULL,NULL,'Sharp Stick',NULL,'Lena Dunham',NULL,NULL);
+INSERT INTO items VALUES('Q105985338','tt14158346','movie',801913,'movie',636847,NULL,NULL,'Sharp Stick',2022,'Lena Dunham',86,NULL);
 INSERT INTO items VALUES('Q105985341','tt11741044','movie',632311,'movie',472014,NULL,NULL,'I Was a Simple Man',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105989074','tt13472984','movie',787428,'movie',623844,NULL,'m/two_distant_strangers','Two Distant Strangers',2020,NULL,32,93);
 INSERT INTO items VALUES('Q106009390','tt11540284','movie',802217,'movie',637209,'umc.cmc.73z3l84b8o1irv4b7rqtjwkgp','m/8_bit_christmas','8-Bit Christmas',2021,'Michael Dowse',NULL,80);
