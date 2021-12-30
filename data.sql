@@ -1133,7 +1133,7 @@ INSERT INTO items VALUES('Q499152','tt0088847','movie',2108,'movie',1457,'umc.cm
 INSERT INTO items VALUES('Q499371','tt0101393','movie',2924,'movie',1940,'umc.cmc.lcnx6x4vfid56ujbqvam6kdz','m/backdraft','Backdraft',1991,'Ron Howard',131,75);
 INSERT INTO items VALUES('Q499535','tt0120873','movie',11808,'movie',6832,'umc.cmc.2fu3a30ijd910seuqqrjnbr5m','m/us_marshals','U.S. Marshals',1998,'Stuart Baird',120,25);
 INSERT INTO items VALUES('Q499633','tt0268695','movie',2135,'movie',1478,'umc.cmc.5vchd74ucexhghb4flzz0323k','m/1112951-time_machine','The Time Machine',2002,'Simon Wells',92,28);
-INSERT INTO items VALUES('Q499639','tt0044079','movie',845,'movie',688,'umc.cmc.2yygrjyeqj3m72vcqxmt67gms','m/strangers_on_a_train','Strangers on a Train',1951,'Alfred Hitchcock',93,98);
+INSERT INTO items VALUES('Q499639','tt0044079','movie',845,'movie',688,'umc.cmc.2yygrjyeqj3m72vcqxmt67gms','m/strangers_on_a_train','Strangers on a Train',1951,'Alfred Hitchcock',101,98);
 INSERT INTO items VALUES('Q499692','tt0115857','movie',12123,'movie',7041,'umc.cmc.95rojsnk81e1o6p4rcgfvrt2','m/1072457-chain_reaction','Chain Reaction',1996,'Andrew Davis',106,18);
 INSERT INTO items VALUES('Q499851','tt1670345','movie',75656,'movie',55786,'umc.cmc.4t7surc7ix0gcj4pk70ss5l1t','m/now_you_see_me','Now You See Me',2013,'Louis Leterrier',116,50);
 INSERT INTO items VALUES('Q499918','tt2229499','movie',138697,'movie',93088,'umc.cmc.5u8s4m2e5mphhc093a5ft4pro','m/don_jon','Don Jon',2013,'Joseph Gordon-Levitt',90,80);
