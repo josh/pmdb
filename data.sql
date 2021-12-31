@@ -1829,7 +1829,7 @@ INSERT INTO items VALUES('Q957894','tt0388419','movie',13673,'movie',8097,'umc.c
 INSERT INTO items VALUES('Q958257','tt1155056','movie',16538,'movie',10177,'umc.cmc.5wjq0wgehl2g5l81xq96dxr3y','m/i_love_you_man','I Love You, Man',2009,'John Hamburg',105,83);
 INSERT INTO items VALUES('Q959051','tt1175491','movie',10523,'movie',5701,'umc.cmc.4zknk6jjq8kztg96qzmzpqrdz','m/w_2008','W.',2008,'Oliver Stone',129,58);
 INSERT INTO items VALUES('Q960125','tt0077975','movie',8469,'movie',4221,'umc.cmc.6xu2tdd0sg4kkc6xeiua1sjf7','m/national_lampoons_animal_house','Animal House',1978,'John Landis',109,90);
-INSERT INTO items VALUES('Q960246','tt0203082','tv',NULL,'show',81008,NULL,NULL,'Rurouni Kenshin: Trust & Betrayal',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q960246','tt0203082','tv',129151,'show',81008,NULL,NULL,'Rurouni Kenshin: Trust & Betrayal',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q962809','tt0112461','movie',10474,'movie',5657,NULL,'m/basketball_diaries','The Basketball Diaries',1995,'Scott Kalvert',90,45);
 INSERT INTO items VALUES('Q963713','tt0098258','movie',2028,'movie',1388,'umc.cmc.2oxzd2e6creo8okxltwmyjnr1','m/say_anything','Say Anything...',1989,'Cameron Crowe',96,98);
 INSERT INTO items VALUES('Q964779','tt0252503','movie',11088,'movie',6223,'umc.cmc.5h5s96lhmmke5ln0qzsvtozm2','m/1109137-heist','Heist',2001,'David Mamet',109,66);
@@ -2563,7 +2563,7 @@ INSERT INTO items VALUES('Q5158112','tt1864288','movie',65058,'movie',47054,'umc
 INSERT INTO items VALUES('Q5167311','tt1694015','movie',47055,'movie',32417,'umc.cmc.5l95dqh2mj58etfu77pipz96j','m/cool_it','Cool It',2010,'Ondi Timoner',NULL,52);
 INSERT INTO items VALUES('Q5174583','tt2395695','tv',58474,'show',71041,NULL,'tv/cosmos_a_spacetime_odyssey','Cosmos: A Spacetime Odyssey',2014,NULL,557,NULL);
 INSERT INTO items VALUES('Q5215795','tt0867149','movie',15501,'movie',9427,'umc.cmc.3xzisjmh5e4llmvaduhwivk89','m/dane-cook-vicious-circle','Dane Cook: Vicious Circle',2006,'Marty Callner',NULL,NULL);
-INSERT INTO items VALUES('Q5255214','tt0954327','movie',108177,'movie',76626,NULL,NULL,'Demetri Martin. Person.',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q5255214','tt0954327','movie',108177,'movie',76626,NULL,NULL,'Demetri Martin. Person.',2007,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q5477105','tt1100089','movie',87492,'movie',65748,'umc.cmc.3bbdr7t0m7rsu3ymgze8odqi9','m/foxcatcher','Foxcatcher',2014,'Bennett Miller',129,87);
 INSERT INTO items VALUES('Q5494257','tt1152822','movie',43942,'movie',29688,'umc.cmc.746tkb6yyzv8pjpjrtm24396c','m/freakonomics','Freakonomics',2010,NULL,NULL,66);
 INSERT INTO items VALUES('Q5507120','tt0463990','movie',13518,'movie',7973,'umc.cmc.3p19f6h9vj6sgi6etft87ymj','m/10010568-fuel','Fuel',2008,NULL,NULL,72);
@@ -3940,7 +3940,7 @@ INSERT INTO items VALUES('Q106359094','tt13648160','movie',776528,'movie',613940
 INSERT INTO items VALUES('Q106359110','tt13652238','movie',776520,'movie',614028,NULL,'m/at_the_ready','At the Ready',NULL,'Maisie Crow',NULL,86);
 INSERT INTO items VALUES('Q106359121','tt1737674','movie',58891,'movie',42165,NULL,'m/presspauseplay','PressPausePlay',2011,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106359134','tt2267554','movie',665824,'movie',499582,'umc.cmc.60jz72zkbbvazzqmppgtdgrbq','m/the_wanting_mare','The Wanting Mare',NULL,NULL,NULL,82);
-INSERT INTO items VALUES('Q106359142','tt3657420','movie',290304,'movie',187225,NULL,'m/21_years_richard_linklater','21 Years: Richard Linklater',NULL,NULL,NULL,40);
+INSERT INTO items VALUES('Q106359142','tt3657420','movie',290304,'movie',187225,'umc.cmc.b5rfuk380uu5x41749g0vgwc','m/21_years_richard_linklater','21 Years: Richard Linklater',2014,NULL,79,40);
 INSERT INTO items VALUES('Q106359152','tt4328666','movie',328840,'movie',209748,'umc.cmc.6uo6v8zkotrdug528iendsxcu','m/the_primary_instinct','The Primary Instinct',2015,'David Chen',73,NULL);
 INSERT INTO items VALUES('Q106359186','tt6290202','movie',430834,'movie',276567,'umc.cmc.4t9jpb0ldw8ji1bfcfejrj42u','m/water_and_power_a_california_heist','Water & Power: A California Heist',2017,'Marina Zenovich',NULL,NULL);
 INSERT INTO items VALUES('Q106359192','tt6849786','movie',514734,'movie',363207,'umc.cmc.68nmgwt1ckm4kj9yo0qlxhh3b','m/general_magic','General Magic',2018,'Sarah Kerruish',NULL,100);
@@ -3991,7 +3991,7 @@ INSERT INTO items VALUES('Q107460063','tt15009428','movie',848538,'movie',678040
 INSERT INTO items VALUES('Q107637143','tt8755836','tv',124510,'show',179853,'umc.cmc.qkbwo24yzf1mexcvdnfaf4ql','tv/from_cradle_to_stage','From Cradle to Stage',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107637168','tt10259078','tv',109332,'show',163675,'umc.cmc.6ps7xifr7019lsk1ufpsbjlba','tv/the_comedy_store','The Comedy Store',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q108086029','tt14230388','movie',747188,'movie',587403,NULL,NULL,'Asteroid City',2022,'Wes Anderson',NULL,NULL);
-INSERT INTO items VALUES('Q108323792','tt6611256','movie',480713,'movie',328137,'umc.cmc.5ivi7eqzq4hfj43cwb3rzngk6','m/the_orange_years_the_nickelodeon_story','The Orange Years: The Nickelodeon Story',NULL,NULL,NULL,88);
+INSERT INTO items VALUES('Q108323792','tt6611256','movie',480713,'movie',328137,'umc.cmc.5ivi7eqzq4hfj43cwb3rzngk6','m/the_orange_years_the_nickelodeon_story','The Orange Years: The Nickelodeon Story',NULL,NULL,102,88);
 INSERT INTO items VALUES('Q108370857','tt15346636','movie',869250,'movie',695565,'umc.cmc.4j4qdb76wzl0ipxdwh6qs109d',NULL,'Being James Bond',2021,'Baillie Walsh',46,NULL);
 INSERT INTO items VALUES('Q108376991','tt15097216','movie',855400,'movie',683437,NULL,NULL,'Jai Bhim',2021,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q108471031','tt11471892','tv',113987,'show',157275,NULL,'tv/landscapers','Landscapers',2021,'Will Sharpe',NULL,NULL);
