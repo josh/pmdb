@@ -3702,7 +3702,7 @@ INSERT INTO items VALUES('Q84203429','tt9620288','movie',614917,'movie',458405,'
 INSERT INTO items VALUES('Q84238429','tt3673480','tv',87523,'show',151015,'umc.cmc.3e2lejw8tcfjkz2nic00vburt','tv/good_lord_bird','The Good Lord Bird',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q84323848','tt8503618','movie',556574,'movie',407854,'umc.cmc.54rv4esv3qomlthreamvbd34v','m/hamilton_2020','Hamilton',2020,'Thomas Kail',160,97);
 INSERT INTO items VALUES('Q84363557','tt7873348','movie',653569,'movie',488442,NULL,'m/save_yourselves','Save Yourselves!',2020,NULL,NULL,89);
-INSERT INTO items VALUES('Q84366178','tt11233960','movie',645886,'movie',490456,NULL,'m/the_unforgivable','The Unforgivable',2021,'Nora Fingscheidt',NULL,NULL);
+INSERT INTO items VALUES('Q84366178','tt11233960','movie',645886,'movie',490456,NULL,'m/the_unforgivable','The Unforgivable',2021,'Nora Fingscheidt',114,NULL);
 INSERT INTO items VALUES('Q84366622','tt11394180','movie',653574,'movie',489827,NULL,'m/dick_johnson_is_dead','Dick Johnson Is Dead',2020,'Kirsten Johnson',89,100);
 INSERT INTO items VALUES('Q84427809','tt11394182','movie',653578,'movie',488542,'umc.cmc.52a3l8rpaz7mn1dwu4ngt6j4a','m/feels_good_man','Feels Good Man',2020,NULL,92,95);
 INSERT INTO items VALUES('Q84693711','tt10095582','movie',591538,'movie',437960,'umc.cmc.4wpfk1xmi22h3zyv4a10lj1tw','m/the_tragedy_of_macbeth_2021','The Tragedy of Macbeth',2021,'Joel Coen',105,98);
@@ -3996,7 +3996,7 @@ INSERT INTO items VALUES('Q107637168','tt10259078','tv',109332,'show',163675,'um
 INSERT INTO items VALUES('Q108086029','tt14230388','movie',747188,'movie',587403,NULL,NULL,'Asteroid City',2022,'Wes Anderson',NULL,NULL);
 INSERT INTO items VALUES('Q108323792','tt6611256','movie',480713,'movie',328137,'umc.cmc.5ivi7eqzq4hfj43cwb3rzngk6','m/the_orange_years_the_nickelodeon_story','The Orange Years: The Nickelodeon Story',NULL,NULL,102,88);
 INSERT INTO items VALUES('Q108370857','tt15346636','movie',869250,'movie',695565,'umc.cmc.4j4qdb76wzl0ipxdwh6qs109d',NULL,'Being James Bond',2021,'Baillie Walsh',46,NULL);
-INSERT INTO items VALUES('Q108376991','tt15097216','movie',855400,'movie',683437,NULL,NULL,'Jai Bhim',2021,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q108376991','tt15097216','movie',855400,'movie',683437,NULL,NULL,'Jai Bhim',2021,'T. J. Gnanavel',164,NULL);
 INSERT INTO items VALUES('Q108471031','tt11471892','tv',113987,'show',157275,NULL,'tv/landscapers','Landscapers',2021,'Will Sharpe',NULL,NULL);
 INSERT INTO items VALUES('Q108493270','tt15010478','movie',848981,'movie',678499,'umc.cmc.4z19ay2w4pmtze6itezwa78w6',NULL,'9/11: Inside the President''s War Room',2021,'Adam Wishart',90,NULL);
 INSERT INTO items VALUES('Q108582045','tt9098872','movie',680058,'movie',524376,NULL,NULL,'The Rescue',NULL,NULL,NULL,NULL);
