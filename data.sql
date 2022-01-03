@@ -2661,7 +2661,7 @@ INSERT INTO items VALUES('Q14774970','tt2910814','movie',242095,'movie',147496,'
 INSERT INTO items VALUES('Q14786561','tt2713180','movie',228150,'movie',139432,'umc.cmc.4wfs3tno6kih50j21qgn1n0m3','m/fury_2015','Fury',2014,'David Ayer',134,76);
 INSERT INTO items VALUES('Q14788814','tt2479800','movie',192132,'movie',120027,'umc.cmc.6j2pgdmztfab1ah03em5mch8t','m/palo_alto','Palo Alto',2013,'Gia Coppola',100,69);
 INSERT INTO items VALUES('Q14802842','tt2004420','movie',195589,'movie',122104,'umc.cmc.14by9zuk57ib4546tqh373iby','m/neighbors_2014','Neighbors',2014,'Nicholas Stoller',97,73);
-INSERT INTO items VALUES('Q14918344','tt2084970','movie',205596,'movie',127828,'umc.cmc.59i1cp4fboyedvyq6zlx3bymd','m/the_imitation_game','The Imitation Game',2014,'Morten Tyldum',NULL,89);
+INSERT INTO items VALUES('Q14918344','tt2084970','movie',205596,'movie',127828,'umc.cmc.59i1cp4fboyedvyq6zlx3bymd','m/the_imitation_game','The Imitation Game',2014,'Morten Tyldum',114,89);
 INSERT INTO items VALUES('Q14920425','tt2267998','movie',210577,'movie',130355,'umc.cmc.60iqscr23rfe93khaawil8edc','m/gone_girl','Gone Girl',2014,'David Fincher',149,87);
 INSERT INTO items VALUES('Q14925221','tt3032476','tv',60059,'show',59660,'umc.cmc.z783dda5nkr23g1jj2kn8x22','tv/better_call_saul','Better Call Saul',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q14944179','tt2442560','tv',60574,'show',60158,'umc.cmc.459oxvwc0a8dbydz8kf7w76xw','tv/peaky_blinders','Peaky Blinders',NULL,'David Caffrey',60,NULL);
