@@ -2997,7 +2997,7 @@ INSERT INTO items VALUES('Q23796643','tt3513498','movie',280217,'movie',177700,'
 INSERT INTO items VALUES('Q23796644','tt1959563','movie',390043,'movie',232291,'umc.cmc.5bwi8jsh3cnqc6xjrna4oqtdx','m/the_hitmans_bodyguard','The Hitman''s Bodyguard',2017,'Patrick Hughes',118,43);
 INSERT INTO items VALUES('Q23817035','tt5247022','movie',370755,'movie',224941,'umc.cmc.2l073fk2hdfmcd5uybuiwmrrw','m/paterson','Paterson',2016,'Jim Jarmusch',113,96);
 INSERT INTO items VALUES('Q23823461','tt4714782','movie',340676,'movie',221112,'umc.cmc.5a9zmabtcoy92wuv78r8ykkwk','m/personal_shopper','Personal Shopper',2016,'Olivier Assayas',105,81);
-INSERT INTO items VALUES('Q23894626','tt3480822','movie',497698,'movie',344686,NULL,'m/black_widow_2021','Black Widow',2021,'Cate Shortland',133,79);
+INSERT INTO items VALUES('Q23894626','tt3480822','movie',497698,'movie',344686,'umc.cmc.3tfe3lm0qa0b29a6r84hc8jjy','m/black_widow_2021','Black Widow',2021,'Cate Shortland',133,79);
 INSERT INTO items VALUES('Q23894629','tt9032400','movie',524434,'movie',372798,NULL,'m/eternals','Eternals',2021,'Chloé Zhao',156,47);
 INSERT INTO items VALUES('Q23925035','tt5323662','movie',378064,'movie',225063,NULL,'m/a_silent_voice','A Silent Voice',2016,'Naoko Yamada',129,94);
 INSERT INTO items VALUES('Q23925037','tt5566790','movie',391710,'movie',234040,'umc.cmc.3580fwtto5qe1bfxniq23msbt','m/a_futile_and_stupid_gesture','A Futile and Stupid Gesture',2018,'David Wain',101,67);
@@ -3610,7 +3610,7 @@ INSERT INTO items VALUES('Q66316924','tt5537002','movie',466420,'movie',313884,N
 INSERT INTO items VALUES('Q66417375','tt10482370','tv',90259,'show',152104,'umc.cmc.3gae2faxo3iif9zti9g761j82','tv/the_third_day','The Third Day',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66688921','tt10451852','movie',607430,'movie',488158,NULL,'m/nine_days','Nine Days',2021,NULL,124,88);
 INSERT INTO items VALUES('Q66688968','tt9893250','movie',601666,'movie',458615,NULL,'m/i_care_a_lot','I Care a Lot',2020,'J Blakeson',118,78);
-INSERT INTO items VALUES('Q66738105','tt5109280','movie',527774,'movie',375905,'umc.cmc.13yhvlcnjgixwpl8hy62kuppp','m/raya_and_the_last_dragon','Raya and the Last Dragon',2021,NULL,107,94);
+INSERT INTO items VALUES('Q66738105','tt5109280','movie',527774,'movie',375905,'umc.cmc.13yhvlcnjgixwpl8hy62kuppp','m/raya_and_the_last_dragon_2021','Raya and the Last Dragon',2021,NULL,107,94);
 INSERT INTO items VALUES('Q66823622','tt1655389','movie',301502,'movie',217958,NULL,NULL,'Blonde',2022,'Andrew Dominik',NULL,NULL);
 INSERT INTO items VALUES('Q66828714','tt9585676','movie',656940,'movie',491503,'umc.cmc.3v7t16p7z0ry7sl9499pemb8b','m/body_brokers','Body Brokers',NULL,'John Swab',NULL,62);
 INSERT INTO items VALUES('Q66828718','tt10887902','movie',664301,'movie',498272,'umc.cmc.7a131w0x93dotrnjnqypb7n29','m/i_used_to_go_here','I Used to Go Here',2020,'Kris Williams',NULL,84);
@@ -4019,7 +4019,7 @@ INSERT INTO items VALUES('Q110077792','tt11540726','movie',872497,'movie',698200
 INSERT INTO items VALUES('Q110077799','tt11818818','movie',879990,'movie',704841,NULL,NULL,'God''s Country',2022,'Julian Higgins',NULL,NULL);
 INSERT INTO items VALUES('Q110077813','tt15257116','movie',872516,'movie',698299,NULL,NULL,'Palm Trees and Power Lines',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110077822','tt16378298','movie',913792,'movie',731601,NULL,NULL,'Meet Me in the Bathroom',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q110207138','tt16116174','movie',899082,'movie',721239,NULL,'m/harry_potter_20th_anniversary_return_to_hogwarts','Harry Potter 20th Anniversary: Return to Hogwarts',2022,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q110207138','tt16116174','movie',899082,'movie',721239,NULL,'m/harry_potter_20th_anniversary_return_to_hogwarts','Harry Potter 20th Anniversary: Return to Hogwarts',2022,'Eran Creevy',NULL,NULL);
 INSERT INTO items VALUES('Q110279451','tt16378396','movie',913852,'movie',731663,NULL,NULL,'Every Day in Kaimukī',NULL,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
