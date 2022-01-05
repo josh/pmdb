@@ -3976,7 +3976,7 @@ INSERT INTO items VALUES('Q107071651','tt14673560','movie',830991,'movie',663244
 INSERT INTO items VALUES('Q107089587','tt10370710','movie',660120,'movie',494289,NULL,'m/the_worst_person_in_the_world','The Worst Person in the World',2021,'Joachim Trier',121,100);
 INSERT INTO items VALUES('Q107105860','tt12042730','movie',687163,'movie',531178,NULL,NULL,'Project Hail Mary',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107105883','tt2914760','movie',413453,'movie',260325,NULL,'m/malibu_road','Malibu Road',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q107107865','tt14039582','movie',758866,'movie',597710,NULL,NULL,'Drive My Car',2021,'Ryusuke Hamaguchi',NULL,NULL);
+INSERT INTO items VALUES('Q107107865','tt14039582','movie',758866,'movie',597710,NULL,NULL,'Drive My Car',2021,'Ryusuke Hamaguchi',179,NULL);
 INSERT INTO items VALUES('Q107119206','tt10640346','movie',615777,'movie',459051,NULL,NULL,'Babylon',2022,'Damien Chazelle',NULL,NULL);
 INSERT INTO items VALUES('Q107121453','tt14375756','movie',808703,'movie',642902,'umc.cmc.1zuqyrfujuh4ratngp3ncm40s','m/lfg','LFG',NULL,NULL,105,94);
 INSERT INTO items VALUES('Q107132222','tt14164730','tv',131927,'show',187026,'umc.cmc.1zzm4893ldk443lyy9xa5839f','tv/dexter_new_blood','Dexter: New Blood',NULL,NULL,NULL,NULL);
