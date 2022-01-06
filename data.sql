@@ -3644,7 +3644,7 @@ INSERT INTO items VALUES('Q73534675','tt10344522','movie',641960,'movie',480176,
 INSERT INTO items VALUES('Q73536446','tt8521876','movie',638597,'movie',477589,NULL,'m/yes_day','Yes Day',2021,'Miguel Arteta',NULL,52);
 INSERT INTO items VALUES('Q73536766','tt9784798','movie',583406,'movie',431527,'umc.cmc.5hcfmcygz9pghfi9sjhyg67p0','m/judas_and_the_black_messiah','Judas and the Black Messiah',2021,'Shaka King',126,96);
 INSERT INTO items VALUES('Q73536996','tt10919380','movie',551804,'movie',401350,'umc.cmc.5lontnoa7kmglg0fpb0nz8fch','m/freaky','Freaky',2020,'Christopher Landon',NULL,83);
-INSERT INTO items VALUES('Q73537113','tt10986222','movie',632617,'movie',472465,'umc.cmc.75ml0pjnp7r3dg5wmub8z4rao','m/cmon_cmon','C''mon, C''mon',2020,'Mike Mills',108,90);
+INSERT INTO items VALUES('Q73537113','tt10986222','movie',632617,'movie',472465,'umc.cmc.75ml0pjnp7r3dg5wmub8z4rao','m/cmon_cmon','C''mon C''mon',2020,'Mike Mills',108,90);
 INSERT INTO items VALUES('Q73537408','tt6878306','movie',581032,'movie',430039,'umc.cmc.134af6zdmb40k43sqlu7k8c90','m/news_of_the_world','News of the World',2020,'Paul Greengrass',118,88);
 INSERT INTO items VALUES('Q73537423','tt9115530','movie',601470,'movie',476541,NULL,'m/the_eyes_of_tammy_faye_2021','The Eyes of Tammy Faye',NULL,'Michael Showalter',126,65);
 INSERT INTO items VALUES('Q73537513','tt2180339','movie',619979,'movie',462892,NULL,NULL,'Deep Water',2022,'Adrian Lyne',NULL,NULL);
@@ -3818,7 +3818,7 @@ INSERT INTO items VALUES('Q99897499','tt13061914','movie',741228,'movie',582099,
 INSERT INTO items VALUES('Q99900595','tt12593682','movie',718930,'movie',561702,NULL,NULL,'Bullet Train',2022,'David Leitch',NULL,NULL);
 INSERT INTO items VALUES('Q99926331','tt9100054','movie',554230,'movie',405234,NULL,'m/the_lost_daughter','The Lost Daughter',2021,'Maggie Gyllenhaal',NULL,100);
 INSERT INTO items VALUES('Q99938119','tt8545482','movie',675319,'movie',508084,NULL,'m/zone_414','Zone 414',2021,NULL,NULL,18);
-INSERT INTO items VALUES('Q100361490','tt11286314','movie',646380,'movie',483617,NULL,'m/dont_look_up_2021','Don’t Look Up',2021,'Adam McKay',138,NULL);
+INSERT INTO items VALUES('Q100361490','tt11286314','movie',646380,'movie',483617,NULL,'m/dont_look_up_2021','Don''t Look Up',2021,'Adam McKay',138,NULL);
 INSERT INTO items VALUES('Q100613366','tt11989890','movie',664280,'movie',497936,NULL,'m/david_attenborough_a_life_on_our_planet','David Attenborough: A Life on Our Planet',2020,'Alastair Fothergill',NULL,95);
 INSERT INTO items VALUES('Q100709273','tt12392504','tv',111188,'show',167958,NULL,NULL,'Scam 1992: The Harshad Metha story',2020,'Hansal Mehta',NULL,NULL);
 INSERT INTO items VALUES('Q100724914','tt12226818','movie',698128,'movie',542000,NULL,NULL,'Dual',2022,'Riley Stearns',95,NULL);
