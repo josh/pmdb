@@ -3850,6 +3850,7 @@ INSERT INTO items VALUES('Q103822078','tt5748448','movie',738652,'movie',580065,
 INSERT INTO items VALUES('Q103854727','tt6902332','movie',634528,'movie',473773,'umc.cmc.b5i4rpej9me38rw6u8cxuesy','m/the_marksman_2021','The Marksman',2021,'Robert Lorenz',108,37);
 INSERT INTO items VALUES('Q103967305','tt10795658','tv',110316,'show',157841,NULL,'tv/alice_in_borderland','Alice in Borderland',NULL,'Shinsuke Sato',NULL,NULL);
 INSERT INTO items VALUES('Q104007235','tt12851524','tv',107113,'show',165314,NULL,'tv/only_murders_in_the_building','Only Murders in the Building',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q104007933','tt7475578','movie',760336,'movie',599425,NULL,NULL,'Munich: The Edge of War',NULL,'Christian Schwochow',123,NULL);
 INSERT INTO items VALUES('Q104018236','tt11808942','tv',98892,'show',170593,'umc.cmc.1tqmf2znhr4oui4vo69ircyui','tv/schmigadoon','Schmigadoon!',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104033835','tt2463208','movie',696806,'movie',540557,NULL,NULL,'The Adam Project',NULL,'Shawn Levy',NULL,NULL);
 INSERT INTO items VALUES('Q104082429','tt2531336','tv',96677,'show',164129,'umc.cmc.2nfzy9iye7lkzh2mcoiekgf92','tv/lupin','Lupin',NULL,NULL,NULL,NULL);
@@ -3928,6 +3929,7 @@ INSERT INTO items VALUES('Q105985341','tt11741044','movie',632311,'movie',472014
 INSERT INTO items VALUES('Q105989074','tt13472984','movie',787428,'movie',623844,NULL,'m/two_distant_strangers','Two Distant Strangers',2020,NULL,32,93);
 INSERT INTO items VALUES('Q106009390','tt11540284','movie',802217,'movie',637209,'umc.cmc.73z3l84b8o1irv4b7rqtjwkgp','m/8_bit_christmas','8-Bit Christmas',2021,'Michael Dowse',NULL,80);
 INSERT INTO items VALUES('Q106067474','tt14111734','movie',799555,'movie',634596,NULL,'m/operation_varsity_blues_the_college_admissions_scandal','Operation Varsity Blues: The College Admissions Scandal',2021,'Chris Smith',NULL,88);
+INSERT INTO items VALUES('Q106103421','tt12618926','movie',766798,'movie',605283,NULL,'m/parallel_mothers','Parallel Mothers',2021,'Pedro Almodóvar',123,100);
 INSERT INTO items VALUES('Q106201720','tt11828492','tv',119181,'show',173303,'umc.cmc.6gdc6v4vwyaab7klocftv2s10','tv/physical','Physical',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106237993','tt10207710','movie',713711,'movie',556593,NULL,'m/the_gateway','The Gateway',NULL,'Michele Civetta',NULL,55);
 INSERT INTO items VALUES('Q106298449','tt8704802','movie',694681,'movie',538591,NULL,'m/the_last_blockbuster','The Last Blockbuster',NULL,NULL,NULL,68);
