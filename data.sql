@@ -3818,6 +3818,7 @@ INSERT INTO items VALUES('Q99897499','tt13061914','movie',741228,'movie',582099,
 INSERT INTO items VALUES('Q99900595','tt12593682','movie',718930,'movie',561702,NULL,NULL,'Bullet Train',2022,'David Leitch',NULL,NULL);
 INSERT INTO items VALUES('Q99926331','tt9100054','movie',554230,'movie',405234,NULL,'m/the_lost_daughter','The Lost Daughter',2021,'Maggie Gyllenhaal',NULL,100);
 INSERT INTO items VALUES('Q99938119','tt8545482','movie',675319,'movie',508084,NULL,'m/zone_414','Zone 414',2021,NULL,NULL,18);
+INSERT INTO items VALUES('Q99955255','tt11337908','tv',111141,'show',166129,NULL,'tv/maid','Maid',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q100361490','tt11286314','movie',646380,'movie',483617,NULL,'m/dont_look_up_2021','Don''t Look Up',2021,'Adam McKay',138,NULL);
 INSERT INTO items VALUES('Q100613366','tt11989890','movie',664280,'movie',497936,NULL,'m/david_attenborough_a_life_on_our_planet','David Attenborough: A Life on Our Planet',2020,'Alastair Fothergill',NULL,95);
 INSERT INTO items VALUES('Q100709273','tt12392504','tv',111188,'show',167958,NULL,NULL,'Scam 1992: The Harshad Metha story',2020,'Hansal Mehta',NULL,NULL);
