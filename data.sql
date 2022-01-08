@@ -2570,6 +2570,7 @@ INSERT INTO items VALUES('Q5507120','tt0463990','movie',13518,'movie',7973,'umc.
 INSERT INTO items VALUES('Q5516100','tt1905041','movie',82992,'movie',62123,'umc.cmc.55f149uoydecap5qfrfysguf9','m/fast_and_furious_6','Fast & Furious 6',2013,'Justin Lin',130,71);
 INSERT INTO items VALUES('Q5550401','tt0120029','movie',36797,'movie',23415,'umc.cmc.77avkhs9smn09xlnrykh53s6o','m/rocketman_1997','RocketMan',1997,'Stuart Gillard',95,21);
 INSERT INTO items VALUES('Q5599060','tt1445683','movie',85963,'movie',64615,NULL,'m/great-directors','Great Directors',2009,'Angela Ismailos',NULL,66);
+INSERT INTO items VALUES('Q5732486','tt0242519','movie',21614,'movie',13231,NULL,'m/hera-pheri','Hera Pheri',2000,'Priyadarshan',145,NULL);
 INSERT INTO items VALUES('Q5815826','tt2380307','movie',354912,'movie',222605,'umc.cmc.5y1554je00oslx5xtkxv9uk7s','m/coco_2017','Coco',2017,NULL,109,97);
 INSERT INTO items VALUES('Q5887360','tt2015381','movie',118340,'movie',82405,'umc.cmc.71igdwen6ko2dlhwaw12vbdh','m/guardians_of_the_galaxy','Guardians of the Galaxy',2014,'James Gunn',121,92);
 INSERT INTO items VALUES('Q5901134','tt0478970','movie',102899,'movie',73582,'umc.cmc.5v0c1mtw53zkyw8a0hf8xglwm','m/antman','Ant-Man',2015,'Peyton Reed',117,83);
@@ -3581,7 +3582,7 @@ INSERT INTO items VALUES('Q65082453','tt9231040','movie',558582,'movie',409198,'
 INSERT INTO items VALUES('Q65084655','tt9484998','movie',587792,'movie',439986,'umc.cmc.7ju9ss7m56yz79xnc7qw03gkk','m/palm_springs_2020','Palm Springs',2020,'Max Barbakow',90,95);
 INSERT INTO items VALUES('Q65084732','tt9143112','movie',554761,'movie',405583,'umc.cmc.4uzxi2icvppt1myvjv0scs1c3','m/falling_2020','Falling',2020,'Viggo Mortensen',112,67);
 INSERT INTO items VALUES('Q65087118','tt10096842','movie',591634,'movie',438259,'umc.cmc.3a74a490oih5cy87imvmdxdlh','m/false_positive','False Positive',2020,'John Lee',NULL,48);
-INSERT INTO items VALUES('Q65090801','tt8356942','movie',522016,'movie',370205,'umc.cmc.1jtuhf9oqf3uk5yk3p7laqnno','m/the_355','The 355',2022,'Simon Kinberg',NULL,NULL);
+INSERT INTO items VALUES('Q65090801','tt8356942','movie',522016,'movie',370205,'umc.cmc.1jtuhf9oqf3uk5yk3p7laqnno','m/the_355','The 355',2022,'Simon Kinberg',124,NULL);
 INSERT INTO items VALUES('Q65090990','tt8879940','tv',94951,'show',146792,'umc.cmc.1nfdfd5zlk05fo1bwwetzldy3','tv/mythic_quest','Mythic Quest',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q65091143','tt9076562','movie',595148,'movie',441045,'umc.cmc.5npe88cxeazy2mmze2nmksaiv','m/irresistible_2020','Irresistible',2020,'Jon Stewart',101,41);
 INSERT INTO items VALUES('Q65091255','tt9243804','movie',559907,'movie',410283,'umc.cmc.74uvhtwyz3dkvjktg2if9fnez','m/the_green_knight','The Green Knight',2021,'David Lowery',130,88);
@@ -3906,7 +3907,7 @@ INSERT INTO items VALUES('Q105438136','tt13204490','movie',749004,'movie',589286
 INSERT INTO items VALUES('Q105438429','tt12121582','movie',691422,'movie',535745,NULL,NULL,'When You Finish Saving the World',2022,'Jesse Eisenberg',88,NULL);
 INSERT INTO items VALUES('Q105438931','tt13087796','movie',795813,'movie',631457,'umc.cmc.5fm0s619rjzalirizf2tfr3q0','m/im_your_man_2021','I''m Your Man',2021,'Maria Schrader',108,96);
 INSERT INTO items VALUES('Q105459622','tt11639952','tv',97754,'show',157540,'umc.cmc.17fo9dhz913tohvvymkmrxtse','tv/young_rock','Young Rock',NULL,NULL,NULL,90);
-INSERT INTO items VALUES('Q105549749','tt11214590','movie',644495,'movie',481862,NULL,'m/house_of_gucci','House of Gucci',2021,'Ridley Scott',157,NULL);
+INSERT INTO items VALUES('Q105549749','tt11214590','movie',644495,'movie',481862,'umc.cmc.5zhbapthrtlgvyyq4a17eqxne','m/house_of_gucci','House of Gucci',2021,'Ridley Scott',157,NULL);
 INSERT INTO items VALUES('Q105560027','tt14164234','movie',796849,'movie',632012,NULL,'m/ride_or_die','Ride or Die',2021,'Ryūichi Hiroki',142,67);
 INSERT INTO items VALUES('Q105560268','tt0995854','movie',501841,'movie',348598,NULL,'m/a_journal_for_jordan','A Journal for Jordan',2021,'Denzel Washington',131,NULL);
 INSERT INTO items VALUES('Q105560731','tt11947248','tv',102540,'show',161299,'umc.cmc.jov1gljmqnux0i15rbqsoyfk','tv/the_shrink_next_door','The Shrink Next Door',NULL,NULL,NULL,NULL);
