@@ -3817,7 +3817,7 @@ INSERT INTO items VALUES('Q99695342','tt11459366','movie',654754,'movie',489442,
 INSERT INTO items VALUES('Q99796333','tt11525644','movie',649409,'movie',485824,'umc.cmc.62dpz67qifa0ynitarpfx41ad','m/no_sudden_move','No Sudden Move',2021,'Steven Soderbergh',115,92);
 INSERT INTO items VALUES('Q99897499','tt13061914','movie',741228,'movie',582099,'umc.cmc.16e9zy5xz7c040xxmjrhy0zvx','m/locked_down_2021','Locked Down',2021,'Doug Liman',118,41);
 INSERT INTO items VALUES('Q99900595','tt12593682','movie',718930,'movie',561702,NULL,NULL,'Bullet Train',2022,'David Leitch',NULL,NULL);
-INSERT INTO items VALUES('Q99926331','tt9100054','movie',554230,'movie',405234,NULL,'m/the_lost_daughter','The Lost Daughter',2021,'Maggie Gyllenhaal',NULL,100);
+INSERT INTO items VALUES('Q99926331','tt9100054','movie',554230,'movie',405234,NULL,'m/the_lost_daughter','The Lost Daughter',2021,'Maggie Gyllenhaal',121,100);
 INSERT INTO items VALUES('Q99938119','tt8545482','movie',675319,'movie',508084,NULL,'m/zone_414','Zone 414',2021,NULL,NULL,18);
 INSERT INTO items VALUES('Q99955255','tt11337908','tv',111141,'show',166129,NULL,'tv/maid','Maid',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q100361490','tt11286314','movie',646380,'movie',483617,NULL,'m/dont_look_up_2021','Don''t Look Up',2021,'Adam McKay',138,NULL);
