@@ -2383,7 +2383,7 @@ INSERT INTO items VALUES('Q2002073','tt0477139','movie',13198,'movie',7744,'umc.
 INSERT INTO items VALUES('Q2004314','tt0093185','movie',12476,'movie',7250,'umc.cmc.xpfv9tdbmpijtg30s9sofdq7','m/hidden','The Hidden',1987,'Jack Sholder',96,73);
 INSERT INTO items VALUES('Q2005019','tt0096101','movie',11966,'movie',6979,'umc.cmc.500uixbj8it8z1sza8ool81fc','m/short_circuit_2','Short Circuit 2',1988,'Kenneth Johnson',106,38);
 INSERT INTO items VALUES('Q2019481','tt1417592','movie',72744,'movie',53449,'umc.cmc.9lxj0mblef0sgems0108x6qy','m/pearl_jam_twenty','Pearl Jam Twenty',2011,'Cameron Crowe',109,68);
-INSERT INTO items VALUES('Q2029180','tt2100976','tv',59186,'show',58794,NULL,NULL,'Impractical Jokers',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q2029180','tt2100976','tv',59186,'show',58794,'umc.cmc.2o2lpweq0suk8b43xb0646cb',NULL,'Impractical Jokers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q2030471','tt0805570','movie',10185,'movie',5399,'umc.cmc.2ew796tn63tu1d15yfewmwqgs','m/10008617-midnight_meat_train','The Midnight Meat Train',2008,'Ryuhei Kitamura',100,73);
 INSERT INTO items VALUES('Q2030903','tt0350448','tv',4419,'show',4395,'umc.cmc.6sjvwi7yc725thueyre0trjpb','tv/real_time_with_bill_maher','Real Time with Bill Maher',NULL,NULL,60,NULL);
 INSERT INTO items VALUES('Q2031752','tt0265651','movie',10955,'movie',6103,'umc.cmc.2vy6i1uwnkovr4mxsi5yyj34a','m/ripleys_game','Ripley''s Game',2002,'Liliana Cavani',110,92);
@@ -2499,7 +2499,7 @@ INSERT INTO items VALUES('Q3345634','tt0268093','tv',1990,'show',1977,NULL,NULL,
 INSERT INTO items VALUES('Q3365474','tt2345112','movie',209262,'movie',129675,'umc.cmc.2wxi33t53aatkwvcmwmn8hg9h','m/parkland','Parkland',2013,'Peter Landesman',94,50);
 INSERT INTO items VALUES('Q3404003','tt1392214','movie',146233,'movie',96797,'umc.cmc.7fxny3aaxgkm020pguu5gmxaw','m/prisoners_2013','Prisoners',2013,'Denis Villeneuve',153,81);
 INSERT INTO items VALUES('Q3429263','tt0120611','movie',36647,'movie',23293,'umc.cmc.34gu5bbztv742211pmsvdhqxq','m/1083484-blade','Blade',1998,'Stephen Norrington',120,56);
-INSERT INTO items VALUES('Q3507578','tt1270277','movie',58884,'movie',42159,NULL,'m/sympathy_for_delicious','Sympathy for Delicious',2010,'Mark Ruffalo',96,33);
+INSERT INTO items VALUES('Q3507578','tt1270277','movie',58884,'movie',42159,NULL,'m/sympathy_for_delicious','Sympathy for Delicious',2010,'ااننا',96,33);
 INSERT INTO items VALUES('Q3512046','tt0369610','movie',135397,'movie',91374,'umc.cmc.6x263wzi05ds2h4oen54w8881','m/jurassic_world','Jurassic World',2015,'Colin Trevorrow',124,71);
 INSERT INTO items VALUES('Q3513517','tt1704619','movie',69480,'movie',50758,'umc.cmc.524786on5h1xht7cfx36dzezf','m/tabloid_2010','Tabloid',2010,'Errol Morris',NULL,92);
 INSERT INTO items VALUES('Q3520133','tt1756791','movie',83728,'movie',62690,'umc.cmc.17nesoyag0ujlmj01j0i736q7','m/broken_tower','The Broken Tower',2011,'James Franco',110,20);
@@ -3603,7 +3603,7 @@ INSERT INTO items VALUES('Q65768604','tt10648342','movie',616037,'movie',459282,
 INSERT INTO items VALUES('Q65972698','tt8923482','movie',566368,'movie',415937,'umc.cmc.5mi1rnjqdqfajsa0jwdmf9k2y','m/one_child_nation','One Child Nation',2019,NULL,NULL,98);
 INSERT INTO items VALUES('Q65979734','tt9208876','tv',88396,'show',146573,'umc.cmc.5r19ka66bi3j736pyndlmz5t2','tv/the_falcon_and_the_winter_soldier','The Falcon and the Winter Soldier',NULL,'Kari Skogland',NULL,NULL);
 INSERT INTO items VALUES('Q65980217','tt9140560','tv',85271,'show',146518,'umc.cmc.76njao041pigwmmpue272zsbh','tv/wandavision','WandaVision',NULL,'Matt Shakman',NULL,91);
-INSERT INTO items VALUES('Q65980671','tt10168312','tv',91363,'show',146522,NULL,'tv/what_if_','What If...?',NULL,NULL,NULL,93);
+INSERT INTO items VALUES('Q65980671','tt10168312','tv',91363,'show',146522,NULL,'tv/what_if_','للخ',NULL,NULL,NULL,93);
 INSERT INTO items VALUES('Q65980843','tt10160804','tv',88329,'show',146415,NULL,'tv/hawkeye','Hawkeye',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66023741','tt8697870','tv',80828,'show',148101,'umc.cmc.79cq7q2fmr3k17x41whgnul93','tv/the_nevers','The Nevers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66313196','tt5897304','tv',67075,'show',105481,NULL,NULL,'Mob Psycho 100',NULL,NULL,NULL,NULL);
