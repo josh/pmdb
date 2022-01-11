@@ -3603,7 +3603,7 @@ INSERT INTO items VALUES('Q65768604','tt10648342','movie',616037,'movie',459282,
 INSERT INTO items VALUES('Q65972698','tt8923482','movie',566368,'movie',415937,'umc.cmc.5mi1rnjqdqfajsa0jwdmf9k2y','m/one_child_nation','One Child Nation',2019,NULL,NULL,98);
 INSERT INTO items VALUES('Q65979734','tt9208876','tv',88396,'show',146573,'umc.cmc.5r19ka66bi3j736pyndlmz5t2','tv/the_falcon_and_the_winter_soldier','The Falcon and the Winter Soldier',NULL,'Kari Skogland',NULL,NULL);
 INSERT INTO items VALUES('Q65980217','tt9140560','tv',85271,'show',146518,'umc.cmc.76njao041pigwmmpue272zsbh','tv/wandavision','WandaVision',NULL,'Matt Shakman',NULL,91);
-INSERT INTO items VALUES('Q65980671','tt10168312','tv',91363,'show',146522,NULL,'tv/what_if_','للخ',NULL,NULL,NULL,93);
+INSERT INTO items VALUES('Q65980671','tt10168312','tv',91363,'show',146522,NULL,'tv/what_if_','What If...?',NULL,NULL,NULL,93);
 INSERT INTO items VALUES('Q65980843','tt10160804','tv',88329,'show',146415,NULL,'tv/hawkeye','Hawkeye',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66023741','tt8697870','tv',80828,'show',148101,'umc.cmc.79cq7q2fmr3k17x41whgnul93','tv/the_nevers','The Nevers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66313196','tt5897304','tv',67075,'show',105481,NULL,NULL,'Mob Psycho 100',NULL,NULL,NULL,NULL);
