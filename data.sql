@@ -3033,7 +3033,7 @@ INSERT INTO items VALUES('Q24859151','tt5994364','tv',67915,'show',111387,NULL,N
 INSERT INTO items VALUES('Q24901880','tt5462602','movie',416477,'movie',264821,'umc.cmc.5z80febrs9qjg5u4ig9rjs26i','m/the_big_sick','The Big Sick',2017,'Michael Showalter',119,98);
 INSERT INTO items VALUES('Q24905490','tt4686844','movie',402897,'movie',247334,'umc.cmc.37s4qbuiypwws5pr1c88qjt99','m/the_death_of_stalin','The Death of Stalin',2017,'Armando Iannucci',106,95);
 INSERT INTO items VALUES('Q24965508','tt5711280','tv',70391,'show',123063,'umc.cmc.4fm4ugckvsu5rcnovg55xr7ij','tv/philip_k_dick_s_electric_dreams','Electric Dreams',2017,NULL,60,NULL);
-INSERT INTO items VALUES('Q25136220','tt2671706','movie',393457,'movie',253125,'umc.cmc.7eh02pcpehidmeyk1uc3qnvkh','m/fences_2016','Fences',2016,'Denzel Washington Padilla Aguiriano',139,92);
+INSERT INTO items VALUES('Q25136220','tt2671706','movie',393457,'movie',253125,'umc.cmc.7eh02pcpehidmeyk1uc3qnvkh','m/fences_2016','Fences',2016,'Denzel Washington',139,92);
 INSERT INTO items VALUES('Q25136228','tt2798920','movie',300668,'movie',220563,'umc.cmc.487py731e7mv3zoikv5elbwlt','m/annihilation','Annihilation',2018,'Alex Garland',115,88);
 INSERT INTO items VALUES('Q25136235','tt5052448','movie',419430,'movie',264623,'umc.cmc.2nh80sbq32nedy9rm09gtv8rb','m/get_out','Get Out',2017,'Jordan Peele',104,98);
 INSERT INTO items VALUES('Q25136465','tt3881784','movie',395993,'movie',238826,'umc.cmc.74s6f6akay4pz09izbx53ilqz','m/stronger_2017','Stronger',2017,'David Gordon Green',119,90);
@@ -3909,7 +3909,7 @@ INSERT INTO items VALUES('Q105438931','tt13087796','movie',795813,'movie',631457
 INSERT INTO items VALUES('Q105459622','tt11639952','tv',97754,'show',157540,'umc.cmc.17fo9dhz913tohvvymkmrxtse','tv/young_rock','Young Rock',NULL,NULL,NULL,90);
 INSERT INTO items VALUES('Q105549749','tt11214590','movie',644495,'movie',481862,'umc.cmc.5zhbapthrtlgvyyq4a17eqxne','m/house_of_gucci','House of Gucci',2021,'Ridley Scott',157,NULL);
 INSERT INTO items VALUES('Q105560027','tt14164234','movie',796849,'movie',632012,NULL,'m/ride_or_die','Ride or Die',2021,'Ryūichi Hiroki',142,67);
-INSERT INTO items VALUES('Q105560268','tt0995854','movie',501841,'movie',348598,NULL,'m/a_journal_for_jordan','A Journal for Jordan',2021,'Denzel Washington Padilla Aguiriano',131,NULL);
+INSERT INTO items VALUES('Q105560268','tt0995854','movie',501841,'movie',348598,NULL,'m/a_journal_for_jordan','A Journal for Jordan',2021,'Denzel Washington',131,NULL);
 INSERT INTO items VALUES('Q105560731','tt11947248','tv',102540,'show',161299,'umc.cmc.jov1gljmqnux0i15rbqsoyfk','tv/the_shrink_next_door','The Shrink Next Door',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105562834','tt13007904','tv',108303,'show',166076,'umc.cmc.1sid6bqjoez4sxonuulq12af7','tv/tiny_world','Tiny World',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105580677','tt11225626','movie',641934,'movie',479959,NULL,NULL,'Am I Ok?',NULL,NULL,NULL,NULL);
