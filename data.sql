@@ -19,6 +19,7 @@ CREATE TABLE items (
 INSERT INTO items VALUES(NULL,'tt0090509','tv',NULL,'show',142212,NULL,NULL,'The Return of Sherlock Holmes',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NULL,'Apocalypse Now: Final Cut',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11145118','movie',677179,'movie',512258,NULL,NULL,'Creed III',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt11284768','movie',913812,'movie',731843,NULL,NULL,'Blood',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12923632','tv',NULL,'show',165790,NULL,NULL,'Dead Ringers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt7927936','tv',76369,'show',127867,NULL,NULL,'FLAMES',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'movie',21763,NULL,'m/1217389-we_live_in_public','We Live in Public',2009,'Ondi Timoner',90,82);
@@ -1506,7 +1507,7 @@ INSERT INTO items VALUES('Q729788','tt0425112','movie',4638,'movie',2724,'umc.cm
 INSERT INTO items VALUES('Q729794','tt0120789','movie',2657,'movie',1793,'umc.cmc.3epiqi01r3ewp5lsol0t0rd01','m/pleasantville','Pleasantville',1998,'Gary Ross',120,85);
 INSERT INTO items VALUES('Q730639','tt0837803','movie',15053,'movie',9123,'umc.cmc.2p82sj45hhuwm9ysf4nocgsce','m/sex_and_breakfast','Sex and Breakfast',2007,'Miles Brandman',81,8);
 INSERT INTO items VALUES('Q730888','tt1598778','movie',39538,'movie',25724,'umc.cmc.2jbdxd0p7kv6s5xj3w2x0wink','m/contagion_2011','Contagion',2011,'Steven Soderbergh',106,85);
-INSERT INTO items VALUES('Q732022','tt0485947','movie',31011,'movie',19769,'umc.cmc.5uvaz25u1qw2b83k69i1jnog2','m/mr_nobody','Adi Skrr',2009,'Jaco Van Dormael',NULL,68);
+INSERT INTO items VALUES('Q732022','tt0485947','movie',31011,'movie',19769,'umc.cmc.5uvaz25u1qw2b83k69i1jnog2','m/mr_nobody','Mr. Nobody',2009,'Jaco Van Dormael',NULL,68);
 INSERT INTO items VALUES('Q732071','tt0140796','movie',21661,'movie',13254,'umc.cmc.8v1ypy3yue90uvzw7qtjfju8','m/air-bud-golden-receiver','Air Bud: Golden Receiver',1998,'Richard Martin',90,21);
 INSERT INTO items VALUES('Q732383','tt0080306','tv',4549,'show',4525,NULL,NULL,'Yes Minister',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q732960','tt0780504','movie',64690,'movie',46736,'umc.cmc.5puemyiaugatt1kjvxzkea57f','m/drive_2011','Drive',2011,'Nicolas Winding Refn',100,93);
@@ -3862,7 +3863,7 @@ INSERT INTO items VALUES('Q104241071','tt10451914','movie',775996,'movie',613402
 INSERT INTO items VALUES('Q104374134','tt5144174','movie',567797,'movie',419410,'umc.cmc.3jz6wmerbjymi8awhwzkht179','m/the_dry','The Dry',2020,'Robert Connolly',117,89);
 INSERT INTO items VALUES('Q104396610','tt13668894','tv',115036,'show',171129,'umc.cmc.1xs3rjhar8ecbcvuzmwzrkn9a','tv/the_book_of_boba_fett','The Book of Boba Fett',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104409060','tt10298810','movie',718789,'movie',561241,'umc.cmc.5xveiilyr4awchk239ff6df2p',NULL,'Lightyear',2022,'Angus MacLane',NULL,NULL);
-INSERT INTO items VALUES('Q104528612','tt11466222','movie',656663,'movie',490879,NULL,NULL,'Jackass 4',2021,'Jeff Tremaine',NULL,NULL);
+INSERT INTO items VALUES('Q104528612','tt11466222','movie',656663,'movie',490879,NULL,NULL,'Jackass Forever',2022,'Jeff Tremaine',96,NULL);
 INSERT INTO items VALUES('Q104630896','tt9140342','tv',116174,'show',156566,NULL,'tv/its_a_sin','It''s a Sin',NULL,'Peter Hoar',NULL,NULL);
 INSERT INTO items VALUES('Q104631095','tt12682218','tv',112077,'show',170324,NULL,'tv/scenes_from_a_marriage','Scenes from a Marriage (American miniseries)',2021,'Hagai Levi',NULL,NULL);
 INSERT INTO items VALUES('Q104681809','tt3758814','movie',646207,'movie',505687,NULL,'m/the_ice_road','The Ice Road',2021,'Jonathan Hensleigh',108,42);
