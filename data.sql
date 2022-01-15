@@ -4026,7 +4026,7 @@ INSERT INTO items VALUES('Q110077813','tt15257116','movie',872516,'movie',698299
 INSERT INTO items VALUES('Q110077822','tt16378298','movie',913792,'movie',731601,NULL,NULL,'Meet Me in the Bathroom',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110207138','tt16116174','movie',899082,'movie',721239,NULL,'m/harry_potter_20th_anniversary_return_to_hogwarts','Harry Potter 20th Anniversary: Return to Hogwarts',2022,'Eran Creevy',NULL,NULL);
 INSERT INTO items VALUES('Q110279451','tt16378396','movie',913852,'movie',731663,NULL,NULL,'Every Day in Kaimukī',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q110535538','tt15374070','movie',895744,'movie',718675,NULL,NULL,'Studio 666',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q110535538','tt15374070','movie',895744,'movie',718675,NULL,'m/studio_666_2022','Studio 666',NULL,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
