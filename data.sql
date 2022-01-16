@@ -3394,7 +3394,7 @@ INSERT INTO items VALUES('Q56281064','tt6821044','tv',80443,'show',143566,'umc.c
 INSERT INTO items VALUES('Q56281252','tt8902948','movie',544415,'movie',395086,'umc.cmc.7625pe7zvmrh6hohnmu0lpvv','m/tigertail','Tigertail',2020,'Alan Yang',91,81);
 INSERT INTO items VALUES('Q56281882','tt2140629','movie',490004,'movie',337052,NULL,'m/arizona_2018','Arizona',2018,NULL,NULL,43);
 INSERT INTO items VALUES('Q56283569','tt9402530','movie',517183,'movie',365553,NULL,'m/first_night_nerves','First Night Nerves',2018,'Stanley Kwan',NULL,NULL);
-INSERT INTO items VALUES('Q56307503','tt5034838','movie',399566,'movie',242869,'umc.cmc.23u7rnwo67x294rg25ucgkafj','m/godzilla_vs_kong','Big Lizard vs Monke',2021,'Adam Wingard',153,75);
+INSERT INTO items VALUES('Q56307503','tt5034838','movie',399566,'movie',242869,'umc.cmc.23u7rnwo67x294rg25ucgkafj','m/godzilla_vs_kong','Godzilla vs. Kong',2021,'Adam Wingard',153,75);
 INSERT INTO items VALUES('Q56312570','tt5727208','movie',473033,'movie',328678,'umc.cmc.6gvajoorjuatgnry10hca2rm2','m/uncut_gems','Uncut Gems',2019,NULL,135,91);
 INSERT INTO items VALUES('Q56411652','tt7278862','tv',78154,'show',133801,NULL,'tv/my_brilliant_friend','My Brilliant Friend',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q56419916','tt4916630','movie',522212,'movie',370437,'umc.cmc.18g6eu15orgsvcbm39ur1dd5d','m/just_mercy','Just Mercy',2019,'Destin Daniel Cretton',NULL,85);
