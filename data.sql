@@ -2882,7 +2882,7 @@ INSERT INTO items VALUES('Q20649227','tt4158096','movie',334521,'movie',215401,'
 INSERT INTO items VALUES('Q20649346','tt1800302','movie',334524,'movie',215404,'umc.cmc.3hs5psqmebwsj1i0eudncdchv','m/gold_2017','Gold',2016,'Stephen Gaghan',121,42);
 INSERT INTO items VALUES('Q20649350','tt2204371','movie',184149,'movie',115517,'umc.cmc.7jggeycbgu8au5i94gf9xsyia','m/somm','SOMM',2013,'Jason Wise',NULL,79);
 INSERT INTO items VALUES('Q20650014','tt4694544','movie',345915,'movie',227456,'umc.cmc.7b9w4glbqp81m4gyj621ez0nu','m/once_upon_a_time_in_venice','Once Upon a Time in Venice',2017,'Mark Cullen',98,21);
-INSERT INTO items VALUES('Q20656755','tt4270492','tv',62852,'show',77692,'umc.cmc.5hwkctbuzc9vvt249poluely9','tv/billions','Billions',NULL,NULL,42,NULL);
+INSERT INTO items VALUES('Q20656755','tt4270492','tv',62852,'show',77692,'umc.cmc.5hwkctbuzc9vvt249poluely9','tv/billions','Billions',NULL,NULL,60,NULL);
 INSERT INTO items VALUES('Q20707362','tt4786824','tv',65494,'show',104578,NULL,'tv/the_crown','The Crown',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q20716882','tt4633690','movie',339692,'movie',220148,'umc.cmc.6zjwkcxpkjiv1wafp1hvuqro7','m/shot_caller','Shot Caller',2017,'Ric Roman Waugh',121,69);
 INSERT INTO items VALUES('Q20729243','tt4029998','movie',291868,'movie',188689,'umc.cmc.18s31g5rsxfv4vbawj3xxgnq6','m/my_life_directed_by_nicolas_winding_refn','My Life Directed by Nicolas Winding Refn',2014,'Liv Corfixen',60,58);
@@ -3001,7 +3001,7 @@ INSERT INTO items VALUES('Q23796644','tt1959563','movie',390043,'movie',232291,'
 INSERT INTO items VALUES('Q23817035','tt5247022','movie',370755,'movie',224941,'umc.cmc.2l073fk2hdfmcd5uybuiwmrrw','m/paterson','Paterson',2016,'Jim Jarmusch',113,96);
 INSERT INTO items VALUES('Q23823461','tt4714782','movie',340676,'movie',221112,'umc.cmc.5a9zmabtcoy92wuv78r8ykkwk','m/personal_shopper','Personal Shopper',2016,'Olivier Assayas',105,81);
 INSERT INTO items VALUES('Q23894626','tt3480822','movie',497698,'movie',344686,'umc.cmc.3tfe3lm0qa0b29a6r84hc8jjy','m/black_widow_2021','Black Widow',2021,'Cate Shortland',133,79);
-INSERT INTO items VALUES('Q23894629','tt9032400','movie',524434,'movie',372798,NULL,'m/eternals','Eternals',2021,'Chloé Zhao',156,47);
+INSERT INTO items VALUES('Q23894629','tt9032400','movie',524434,'movie',372798,NULL,'m/eternals','Eternals',2021,'Chloé Zhao',156,48);
 INSERT INTO items VALUES('Q23925035','tt5323662','movie',378064,'movie',225063,NULL,'m/a_silent_voice','A Silent Voice',2016,'Naoko Yamada',129,94);
 INSERT INTO items VALUES('Q23925037','tt5566790','movie',391710,'movie',234040,'umc.cmc.3580fwtto5qe1bfxniq23msbt','m/a_futile_and_stupid_gesture','A Futile and Stupid Gesture',2018,'David Wain',101,67);
 INSERT INTO items VALUES('Q23932553','tt3967856','movie',387426,'movie',229330,'umc.cmc.7086i3dk23d565gobtnkutwkr','m/okja','Okja',2017,'Bong Joon-ho',121,86);
@@ -3612,7 +3612,7 @@ INSERT INTO items VALUES('Q66313196','tt5897304','tv',67075,'show',105481,NULL,N
 INSERT INTO items VALUES('Q66316924','tt5537002','movie',466420,'movie',313884,NULL,NULL,'Killers of the Flower Moon',2022,'Martin Scorsese',NULL,NULL);
 INSERT INTO items VALUES('Q66417375','tt10482370','tv',90259,'show',152104,'umc.cmc.3gae2faxo3iif9zti9g761j82','tv/the_third_day','The Third Day',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66688921','tt10451852','movie',607430,'movie',488158,NULL,'m/nine_days','Nine Days',2021,NULL,124,88);
-INSERT INTO items VALUES('Q66688968','tt9893250','movie',601666,'movie',458615,NULL,'m/i_care_a_lot','I Care a Lot',2020,'J Blakeson',118,78);
+INSERT INTO items VALUES('Q66688968','tt9893250','movie',601666,'movie',458615,NULL,'m/i_care_a_lot','I Care a Lot',2020,'J Blakeson',118,79);
 INSERT INTO items VALUES('Q66738105','tt5109280','movie',527774,'movie',375905,'umc.cmc.13yhvlcnjgixwpl8hy62kuppp','m/raya_and_the_last_dragon_2021','Raya and the Last Dragon',2021,NULL,107,94);
 INSERT INTO items VALUES('Q66823622','tt1655389','movie',301502,'movie',217958,NULL,NULL,'Blonde',2022,'Andrew Dominik',NULL,NULL);
 INSERT INTO items VALUES('Q66828714','tt9585676','movie',656940,'movie',491503,'umc.cmc.3v7t16p7z0ry7sl9499pemb8b','m/body_brokers','Body Brokers',NULL,'John Swab',NULL,62);
