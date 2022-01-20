@@ -3489,7 +3489,7 @@ INSERT INTO items VALUES('Q60852007','tt8522006','movie',520172,'movie',368679,'
 INSERT INTO items VALUES('Q60991002','tt10530176','movie',575604,'movie',426340,NULL,'m/the_call_2020_kr','The Call',2020,'Lee Chung-hyun',112,100);
 INSERT INTO items VALUES('Q61015555','tt8488126','movie',566228,'movie',415884,'umc.cmc.3n7dzr9gj27ygu3kwjaqbgnh4','m/the_inventor_out_for_blood_in_silicon_valley','The Inventor: Out for Blood in Silicon Valley',2019,'Alex Gibney',NULL,79);
 INSERT INTO items VALUES('Q61040213','tt10155688','tv',115004,'show',153275,'umc.cmc.3dfp0e1k4wjrkfygos5dy53u4','tv/mare_of_easttown','Mare of Easttown',NULL,'Craig Zobel',410,NULL);
-INSERT INTO items VALUES('Q61117344','tt1877830','movie',414906,'movie',259852,'umc.cmc.75o96q32hcm2kzx4ilop1ylmx','m/the_batman','The Batman',2022,'Matt Reeves',NULL,NULL);
+INSERT INTO items VALUES('Q61117344','tt1877830','movie',414906,'movie',259852,'umc.cmc.75o96q32hcm2kzx4ilop1ylmx','m/the_batman','The Batman',2022,'Matt Reeves',175,NULL);
 INSERT INTO items VALUES('Q61209170','tt9425132','tv',85833,'show',141542,NULL,'tv/conversations_with_a_killer_the_ted_bundy_tapes','Conversations with a Killer: The Ted Bundy Tapes',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q61448040','tt6751668','movie',496243,'movie',343180,'umc.cmc.5j8t2blurpxgpnxeqtm15n8i1','m/parasite_2019','Parasite',2019,'Bong Joon-ho',132,98);
 INSERT INTO items VALUES('Q61450818','tt9358052','movie',565312,'movie',415254,'umc.cmc.4261jt6tt0jj25nqm83xwd2yt','m/knock_down_the_house','Knock Down the House',2019,'Rachel Lears',NULL,99);
