@@ -19,7 +19,6 @@ CREATE TABLE items (
 INSERT INTO items VALUES(NULL,'tt0090509','tv',NULL,'show',142212,NULL,NULL,'The Return of Sherlock Holmes',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NULL,'Apocalypse Now: Final Cut',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11145118','movie',677179,'movie',512258,NULL,NULL,'Creed III',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES(NULL,'tt11280740','tv',95396,'show',154997,NULL,NULL,'Severance',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11284768','movie',913812,'movie',731843,NULL,NULL,'Blood',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12005128','tv',117821,'show',170891,NULL,NULL,'WeCrashed',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12923632','tv',NULL,'show',165790,NULL,NULL,'Dead Ringers',NULL,NULL,NULL,NULL);
@@ -3220,7 +3219,7 @@ INSERT INTO items VALUES('Q39073171','tt6794424','movie',450875,'movie',297398,'
 INSERT INTO items VALUES('Q39073804','tt1880399','movie',419635,'movie',264662,NULL,'m/kodachrome_2018','Kodachrome',2017,'Mark Raso',100,71);
 INSERT INTO items VALUES('Q39074054','tt5723286','movie',471014,'movie',318342,'umc.cmc.3qfcsy9s6scmyqj4hsb08s67d','m/wheelman','Wheelman',2017,'Jeremy Rush',92,88);
 INSERT INTO items VALUES('Q39075006','tt6266538','movie',429197,'movie',312722,'umc.cmc.6o8hv9nd2k4luccp8qqk5niju','m/vice_2018','Vice',2018,'Adam McKay',132,65);
-INSERT INTO items VALUES('Q39082126','tt7335184','tv',78191,'show',124764,'umc.cmc.4f1b2amvg9hkpdjzdppnnjl6z','tv/you','You (TV series)',NULL,NULL,NULL,91);
+INSERT INTO items VALUES('Q39082126','tt7335184','tv',78191,'show',124764,'umc.cmc.4f1b2amvg9hkpdjzdppnnjl6z','tv/you','You',NULL,NULL,NULL,91);
 INSERT INTO items VALUES('Q39243484','tt0436992','tv',57243,'show',56872,NULL,NULL,'Doctor Who',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q39659543','tt7008872','movie',472451,'movie',319908,'umc.cmc.3lccm4vt4qlq2x80j98q5lfjl','m/boy_erased','Boy Erased',2018,'Joel Edgerton',114,80);
 INSERT INTO items VALUES('Q40306164','tt7074886','movie',476764,'movie',323949,'umc.cmc.2g0z0txshomt9hhlrqbcsp3b3','m/the_front_runner_2018','The Front Runner',2018,'Jason Reitman',113,58);
@@ -3839,6 +3838,7 @@ INSERT INTO items VALUES('Q100934044','tt12235718','tv',106651,'show',170211,NUL
 INSERT INTO items VALUES('Q100944081','tt0434706','tv',30981,'show',30847,NULL,NULL,'Monster',NULL,'Masayuki Kojima',24,NULL);
 INSERT INTO items VALUES('Q101089777','tt13146488','tv',110492,'show',169009,NULL,'tv/peacemaker_2022','Peacemaker',NULL,'James Gunn',NULL,NULL);
 INSERT INTO items VALUES('Q101091774','tt11671006','movie',667739,'movie',501427,NULL,NULL,'The Man from Toronto',2022,'Patrick Hughes',NULL,NULL);
+INSERT INTO items VALUES('Q101096725','tt11280740','tv',95396,'show',154997,NULL,NULL,'Severance',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q101098258','tt6571548','movie',628534,'movie',469316,NULL,'m/the_white_tiger_2020','The White Tiger',2021,'Ramin Bahrani',125,91);
 INSERT INTO items VALUES('Q101118878','tt4136456','movie',808023,'movie',642299,'umc.cmc.4g9jgufbbrbfdwhym0ksfzjkh','m/the_virtuoso','The Virtuoso',NULL,'Nick Stagliano',NULL,19);
 INSERT INTO items VALUES('Q101244908','tt0213338','tv',30991,'show',30857,NULL,'tv/cowboy_bebop','Cowboy Bebop',NULL,NULL,NULL,NULL);
