@@ -20,7 +20,6 @@ INSERT INTO items VALUES(NULL,'tt0090509','tv',NULL,'show',142212,NULL,NULL,'The
 INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NULL,'Apocalypse Now: Final Cut',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11145118','movie',677179,'movie',512258,NULL,NULL,'Creed III',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11284768','movie',913812,'movie',731843,NULL,NULL,'Blood',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES(NULL,'tt12005128','tv',117821,'show',170891,NULL,NULL,'WeCrashed',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12923632','tv',NULL,'show',165790,NULL,NULL,'Dead Ringers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt15837458','movie',921353,'movie',737744,NULL,NULL,'The Wrong Place',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16282914','movie',901511,'movie',723248,NULL,NULL,'2nd Chance',NULL,NULL,NULL,NULL);
@@ -3408,7 +3407,7 @@ INSERT INTO items VALUES('Q56596747','tt7645780','movie',500899,'movie',347692,'
 INSERT INTO items VALUES('Q56604528','tt7286916','movie',489471,'movie',336490,'umc.cmc.396ocqbzr02tspwj1ft3a0n01','m/the_dawn_wall','The Dawn Wall',2018,NULL,NULL,100);
 INSERT INTO items VALUES('Q56701991','tt7946422','movie',506072,'movie',353213,'umc.cmc.48qskx5tiafnrp1tw0fbwmxgd','m/prospect_2018','Prospect',2018,NULL,NULL,89);
 INSERT INTO items VALUES('Q56703347','tt3224458','movie',501907,'movie',348923,'umc.cmc.7e8l88zja4h2qyn5i8mdwnvsw','m/a_beautiful_day_in_the_neighborhood','A Beautiful Day in the Neighborhood',2019,'Marielle Heller',107,95);
-INSERT INTO items VALUES('Q56816969','tt7657566','movie',505026,'movie',352249,NULL,'m/death_on_the_nile_2022','Death on the Nile',2022,'Kenneth Branagh',NULL,NULL);
+INSERT INTO items VALUES('Q56816969','tt7657566','movie',505026,'movie',352249,NULL,'m/death_on_the_nile_2022','Death on the Nile',2022,'Kenneth Branagh',127,NULL);
 INSERT INTO items VALUES('Q56850065','tt3554046','movie',379686,'movie',277430,'umc.cmc.1t3dw4fhn5k9dcnva1mc9o1bq','m/space_jam_a_new_legacy','Space Jam: A New Legacy',2021,'Malcolm D. Lee',115,26);
 INSERT INTO items VALUES('Q56876444','tt8111088','tv',82856,'show',137178,'umc.cmc.29ma7mt4pkylvupky2kt7cbu3','tv/the_mandalorian','The Mandalorian',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q56881140','tt3281548','movie',331482,'movie',212330,'umc.cmc.2o0marx9k5sgfl9h30cvczea9','m/little_women_2019','Little Women',2019,'Greta Gerwig',134,95);
@@ -3987,6 +3986,7 @@ INSERT INTO items VALUES('Q106830311','tt11041332','tv',117488,'show',176276,'um
 INSERT INTO items VALUES('Q106838911','tt14317880','movie',852438,'movie',680984,NULL,NULL,'Final Cut',2022,'Michel Hazanavicius',110,NULL);
 INSERT INTO items VALUES('Q106846193','tt10944276','movie',735812,'movie',577316,NULL,'m/death_of_a_telemarketer','Death of a Telemarketer',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106867709','tt10530900','tv',90966,'show',149834,NULL,NULL,'Gullak',2019,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q106959099','tt12005128','tv',117821,'show',170891,NULL,NULL,'WeCrashed',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106972163','tt11852724','tv',119033,'show',171855,'umc.cmc.2yiricezxngkbyfosdt8fzq0','tv/stanley_tucci_searching_for_italy','Stanley Tucci: Searching for Italy',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107024491','tt13172796','movie',743599,'movie',584412,'umc.cmc.2n7y7fcg9psqt528urjyovs4x','m/plan_b_2021','Plan B',2021,'Natalie Morales',NULL,96);
 INSERT INTO items VALUES('Q107040798','tt13320622','movie',752623,'movie',592440,NULL,'m/the_lost_city','The Lost City',NULL,NULL,NULL,NULL);
