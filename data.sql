@@ -3054,7 +3054,7 @@ INSERT INTO items VALUES('Q25209034','tt5516154','tv',73467,'show',123112,'umc.c
 INSERT INTO items VALUES('Q25339558','tt5109784','movie',381283,'movie',225490,'umc.cmc.52mh3nmy8s9pp13n3ybn60zvd','m/mother_2017','mother!',2017,'Darren Aronofsky',120,68);
 INSERT INTO items VALUES('Q25339938','tt2396589','movie',414425,'movie',280052,NULL,'m/mudbound','Mudbound',2017,'Dee Rees',120,97);
 INSERT INTO items VALUES('Q25339940','tt5362988','movie',395834,'movie',238651,'umc.cmc.4dta3bgx0g3mym4ukzhjc95rp','m/wind_river_2017','Wind River',2017,'Taylor Sheridan',107,87);
-INSERT INTO items VALUES('Q25340152','tt5290382','tv',67744,'show',116965,'umc.cmc.188232hyxv4ow7k4mbbxsu35p','tv/mindhunter','Mindhunter',NULL,'David Fincher',NULL,NULL);
+INSERT INTO items VALUES('Q25340152','tt5290382','tv',67744,'show',116965,'umc.cmc.188232hyxv4ow7k4mbbxsu35p','tv/mindhunter','Mindhunter',NULL,'David Fincher',53,NULL);
 INSERT INTO items VALUES('Q25397306','tt0371878','movie',48643,'movie',33740,'umc.cmc.170it0banm5e1xwfh128yb1te','m/10008680-piccadilly_jim','Piccadilly Jim',2005,'John McKay',97,NULL);
 INSERT INTO items VALUES('Q25397814','tt4372390','movie',356500,'movie',232808,'umc.cmc.1jmbv7h4b8xl1d7g4ymdfzwpo','m/detour_2017','Detour',2017,'Christopher Smith',97,63);
 INSERT INTO items VALUES('Q25431158','tt5463162','movie',383498,'movie',226108,'umc.cmc.5xr37zz6pqqngmu07q4d0mpsm','m/deadpool_2','Deadpool 2',2018,'David Leitch',119,84);
@@ -3861,7 +3861,7 @@ INSERT INTO items VALUES('Q103822078','tt5748448','movie',738652,'movie',580065,
 INSERT INTO items VALUES('Q103854727','tt6902332','movie',634528,'movie',473773,'umc.cmc.b5i4rpej9me38rw6u8cxuesy','m/the_marksman_2021','The Marksman',2021,'Robert Lorenz',108,37);
 INSERT INTO items VALUES('Q103967305','tt10795658','tv',110316,'show',157841,NULL,'tv/alice_in_borderland','Alice in Borderland',NULL,'Shinsuke Sato',NULL,NULL);
 INSERT INTO items VALUES('Q104007235','tt12851524','tv',107113,'show',165314,NULL,'tv/only_murders_in_the_building','Only Murders in the Building',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q104007933','tt7475578','movie',760336,'movie',599425,NULL,NULL,'Munich: The Edge of War',NULL,'Christian Schwochow',123,NULL);
+INSERT INTO items VALUES('Q104007933','tt7475578','movie',760336,'movie',599425,NULL,'m/munich_the_edge_of_war','Munich: The Edge of War',NULL,'Christian Schwochow',123,NULL);
 INSERT INTO items VALUES('Q104018236','tt11808942','tv',98892,'show',170593,'umc.cmc.1tqmf2znhr4oui4vo69ircyui','tv/schmigadoon','Schmigadoon!',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104033835','tt2463208','movie',696806,'movie',540557,NULL,NULL,'The Adam Project',NULL,'Shawn Levy',NULL,NULL);
 INSERT INTO items VALUES('Q104082429','tt2531336','tv',96677,'show',164129,'umc.cmc.2nfzy9iye7lkzh2mcoiekgf92','tv/lupin','Lupin',NULL,NULL,NULL,NULL);
