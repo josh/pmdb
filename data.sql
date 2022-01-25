@@ -27,6 +27,7 @@ INSERT INTO items VALUES(NULL,'tt15837458','movie',921353,'movie',737744,NULL,NU
 INSERT INTO items VALUES(NULL,'tt16282914','movie',901511,'movie',723248,NULL,NULL,'2nd Chance',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16376512','movie',913824,'movie',731633,NULL,NULL,'Free Chol Soo Lee',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16377496','movie',913742,'movie',731637,NULL,NULL,'TikTok, Boom.',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt16378210','tv',153742,'show',192701,NULL,NULL,'We Need to Talk About Cosby',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'movie',21763,NULL,'m/1217389-we_live_in_public','We Live in Public',2009,'Ondi Timoner',90,82);
 INSERT INTO items VALUES('Q595','tt1675434','movie',77338,'movie',57181,'umc.cmc.al89m4jlt4byjspgrh3c8rvr','m/the_intouchables','The Intouchables',2011,NULL,112,75);
 INSERT INTO items VALUES('Q662','tt0112159','tv',890,'show',885,NULL,NULL,'Neon Genesis Evangelion',NULL,'Hideaki Anno',NULL,NULL);
