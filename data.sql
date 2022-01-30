@@ -17,6 +17,7 @@ CREATE TABLE items (
   CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
 INSERT INTO items VALUES(NULL,'tt0090509','tv',NULL,'show',142212,NULL,NULL,'The Return of Sherlock Holmes',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt10023022','movie',689700,'movie',534135,NULL,NULL,'Clean',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NULL,'Apocalypse Now: Final Cut',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11145118','movie',677179,'movie',512258,NULL,NULL,'Creed III',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11284768','movie',913812,'movie',731843,NULL,NULL,'Blood',NULL,NULL,NULL,NULL);
@@ -27,6 +28,7 @@ INSERT INTO items VALUES(NULL,'tt15837458','movie',921353,'movie',737744,NULL,NU
 INSERT INTO items VALUES(NULL,'tt16282914','movie',901511,'movie',723248,NULL,NULL,'2nd Chance',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16377764','movie',913867,'movie',731862,NULL,NULL,'My Old School',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16378064','movie',913869,'movie',731588,NULL,NULL,'To the End',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt16378482','movie',913850,'movie',731692,NULL,NULL,'We Met in Virtual Reality',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt8773420','tv',95556,'show',171737,NULL,NULL,'Expats',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'movie',21763,NULL,'m/1217389-we_live_in_public','We Live in Public',2009,'Ondi Timoner',90,82);
 INSERT INTO items VALUES('Q595','tt1675434','movie',77338,'movie',57181,'umc.cmc.al89m4jlt4byjspgrh3c8rvr','m/the_intouchables','The Intouchables',2011,NULL,112,75);
@@ -3909,6 +3911,7 @@ INSERT INTO items VALUES('Q104881069','tt13648228','movie',776559,'movie',614029
 INSERT INTO items VALUES('Q104882631','tt11508438','movie',776545,'movie',613880,NULL,'m/one_for_the_road_2021','One for the Road',NULL,'Nattawut Poonpiriya',NULL,66);
 INSERT INTO items VALUES('Q104889029','tt14060094','movie',823625,'movie',656669,NULL,NULL,'Blacklight',NULL,'Mark Williams',NULL,NULL);
 INSERT INTO items VALUES('Q104891260','tt1649418','movie',725201,'movie',567523,NULL,NULL,'The Gray Man',2022,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q105012394','tt11777738','movie',672208,'movie',505713,'umc.cmc.45eo68vr9ommfkl7w8x0hu3fv','m/a_hero','A Hero',2021,'Asghar Farhadi',128,97);
 INSERT INTO items VALUES('Q105044259','tt11285280','movie',776515,'movie',613919,'umc.cmc.33cb4iz6kx88x33mp0dqzdyd8','m/together_together','Together Together',2021,'Nikole Beckwith',90,90);
 INSERT INTO items VALUES('Q105095144','tt4998632','movie',763285,'movie',601849,NULL,'m/ambulance','Ambulance',2022,'Michael Bay',NULL,NULL);
 INSERT INTO items VALUES('Q105100020','tt12536294','movie',716612,'movie',559480,'umc.cmc.19xgkbrkmib700351bek5annz','m/spencer_2021','Spencer',2021,'Pablo Larraín',117,92);
@@ -4043,7 +4046,7 @@ INSERT INTO items VALUES('Q109901438','tt9288030','tv',108978,'show',155536,NULL
 INSERT INTO items VALUES('Q110027782','tt14376344','movie',814340,'movie',647979,NULL,NULL,'Cha Cha Real Smooth',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110027954','tt12655436','movie',848331,'movie',677870,NULL,NULL,'Honk for Jesus, Save Your Soul',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110039575','tt15255876','movie',862965,'movie',689967,NULL,NULL,'Emily the Criminal',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q110040212','tt12311620','movie',801965,'movie',636995,NULL,NULL,'892 (film)',2022,NULL,103,NULL);
+INSERT INTO items VALUES('Q110040212','tt12311620','movie',801965,'movie',636995,NULL,NULL,'892',2022,NULL,103,NULL);
 INSERT INTO items VALUES('Q110077792','tt11540726','movie',872497,'movie',698200,NULL,NULL,'Resurrection',2022,NULL,103,NULL);
 INSERT INTO items VALUES('Q110077799','tt11818818','movie',879990,'movie',704841,NULL,NULL,'God''s Country',2022,'Julian Higgins',NULL,NULL);
 INSERT INTO items VALUES('Q110077813','tt15257116','movie',872516,'movie',698299,NULL,NULL,'Palm Trees and Power Lines',NULL,NULL,NULL,NULL);
