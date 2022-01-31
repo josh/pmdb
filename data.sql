@@ -3802,7 +3802,7 @@ INSERT INTO items VALUES('Q96607484','tt1259574','movie',291081,'movie',187948,'
 INSERT INTO items VALUES('Q96608233','tt1260581','movie',291084,'movie',187951,'umc.cmc.64e0cawd2kyduf1j5y2xrm2zr','m/red_riding_1980','Red Riding: 1980',2009,'James Marsh',NULL,92);
 INSERT INTO items VALUES('Q96608250','tt1259573','movie',291092,'movie',187958,'umc.cmc.33krf9oeg153j4xqq649p9s74','m/red_riding_1983','Red Riding: 1983',2009,'Anand Tucker',NULL,92);
 INSERT INTO items VALUES('Q96749609','tt12398140','tv',104022,'show',158693,'umc.cmc.1h3msl5cfif0fz9my2kgvtk36','tv/losing_alice','Losing Alice',2020,'Sigal Avin',NULL,NULL);
-INSERT INTO items VALUES('Q97182477','tt11365186','movie',698508,'movie',542351,NULL,NULL,'Redeeming Love',NULL,'D.J. Caruso',NULL,NULL);
+INSERT INTO items VALUES('Q97182477','tt11365186','movie',698508,'movie',542351,NULL,NULL,'Redeeming Love',2022,'D.J. Caruso',134,NULL);
 INSERT INTO items VALUES('Q97275472','tt12676326','movie',722913,'movie',565444,NULL,'m/malcolm_and_marie','Malcolm & Marie',2021,'Sam Levinson',106,57);
 INSERT INTO items VALUES('Q97278509','tt12585152','tv',105288,'show',163684,'umc.cmc.2q11lyoi0nfgzu27udoj5qm7u','tv/down_to_earth_with_zac_efron','Down to Earth with Zac Efron',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q97279983','tt8499102','movie',565537,'movie',415258,'umc.cmc.6xv6r7zlde76dvkuzaa8xi3jt','m/jawline','Jawline',2019,'Liza Mandelup',NULL,96);
@@ -3983,6 +3983,7 @@ INSERT INTO items VALUES('Q106363032','tt14128670','movie',800510,'movie',635706
 INSERT INTO items VALUES('Q106371709','tt9812474','movie',788929,'movie',625298,'umc.cmc.4109n5ma9ouz5u23bjv4jwaz6','m/lamb_2021','Lamb',2021,'Valdimar Johannsson',106,86);
 INSERT INTO items VALUES('Q106405587','tt7461272','movie',579496,'movie',429112,NULL,NULL,'Call Jane',2022,'Phyllis Nagy',121,NULL);
 INSERT INTO items VALUES('Q106513312','tt11827628','movie',818397,'movie',651781,NULL,NULL,'Memory',2022,'Martin Campbell',NULL,NULL);
+INSERT INTO items VALUES('Q106537891','tt13650600','movie',819309,'movie',652699,NULL,NULL,'Emergency',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106554940','tt12004038','movie',807356,'movie',641879,NULL,NULL,'Watcher',2022,NULL,91,NULL);
 INSERT INTO items VALUES('Q106555237','tt12615492','tv',104148,'show',162752,'umc.cmc.4xpk6thd1574yu8hy2xdozyz6','tv/greatness_code','Greatness Code',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106578104','tt6462958','movie',680860,'movie',525915,NULL,NULL,'I Want You Back',NULL,NULL,NULL,NULL);
