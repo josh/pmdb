@@ -1523,7 +1523,7 @@ INSERT INTO items VALUES('Q732960','tt0780504','movie',64690,'movie',46736,'umc.
 INSERT INTO items VALUES('Q733570','tt0473705','movie',16995,'movie',10396,'umc.cmc.2pyh8b3cgu0nn50u7gjunr8hi','m/1193230-state_of_play','State of Play',2009,'Kevin Macdonald',127,84);
 INSERT INTO items VALUES('Q733677','tt0416320','movie',116,'movie',85,'umc.cmc.159tv5fg6u5xogkahv64bh9x2','m/match_point','Match Point',2005,'Woody Allen',124,77);
 INSERT INTO items VALUES('Q733722','tt0758752','movie',43347,'movie',29131,'umc.cmc.2k4dijc9xv9kid9p4k5x61nda','m/love-and-other-drugs','Love and Other Drugs',2010,'Edward Zwick',112,49);
-INSERT INTO items VALUES('Q734629','tt1474684','tv',1426,'show',1417,NULL,NULL,'Luther',NULL,NULL,60,NULL);
+INSERT INTO items VALUES('Q734629','tt1474684','tv',1426,'show',1417,NULL,'tv/luther','Luther',NULL,NULL,60,NULL);
 INSERT INTO items VALUES('Q736788','tt0093748','movie',2609,'movie',1765,'umc.cmc.46x29mt1enkbpzq9w7xrv6na6','m/planes_trains_and_automobiles','Planes, Trains and Automobiles',1987,'John Hughes',93,92);
 INSERT INTO items VALUES('Q737055','tt1480656','movie',49014,'movie',34065,'umc.cmc.716lewu8gxup6cc8t62xge80b','m/cosmopolis','Cosmopolis',2012,'David Cronenberg',109,66);
 INSERT INTO items VALUES('Q738052','tt0898367','movie',20766,'movie',12752,'umc.cmc.61hv56z41mrkshnxjmsxffqt9','m/the_road_2009','The Road',2009,'John Hillcoat',112,74);
@@ -3401,6 +3401,7 @@ INSERT INTO items VALUES('Q56275505','tt8772296','tv',85552,'show',144629,'umc.c
 INSERT INTO items VALUES('Q56276177','tt8134186','tv',81349,'show',147971,'umc.cmc.ggsldeofp8msuxqwfw7gevbd','tv/devs','Devs',2020,'Alex Garland',409,NULL);
 INSERT INTO items VALUES('Q56277286','tt8880894','tv',81532,'show',151776,'umc.cmc.6ckhbdbgp545y6tzqquorfap9','tv/living_with_yourself','Living with Yourself',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q56278708','tt8595766','tv',81166,'show',134060,NULL,NULL,'Yeh Meri Family',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q56279881','tt8239946','movie',538858,'movie',390392,NULL,'m/tumbbad','Tumbbad',2018,NULL,NULL,85);
 INSERT INTO items VALUES('Q56281007','tt0804484','tv',93740,'show',150469,'umc.cmc.5983fipzqbicvrve6jdfep4x3','tv/foundation','Foundation',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q56281064','tt6821044','tv',80443,'show',143566,'umc.cmc.r7wtgdpqr72ba01jo70hso3x','tv/the_loudest_voice','The Loudest Voice',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q56281252','tt8902948','movie',544415,'movie',395086,'umc.cmc.7625pe7zvmrh6hohnmu0lpvv','m/tigertail','Tigertail',2020,'Alan Yang',91,81);
@@ -3519,7 +3520,7 @@ INSERT INTO items VALUES('Q61837900','tt9398466','tv',87508,'show',145178,NULL,'
 INSERT INTO items VALUES('Q61876370','tt9603212','movie',575264,'movie',425809,NULL,NULL,'Mission: Impossible 7',2023,'Christopher McQuarrie',NULL,NULL);
 INSERT INTO items VALUES('Q61883088','tt4513678','movie',425909,'movie',270182,'umc.cmc.20w3hl6a3xsh7qf2fiobnkkqd','m/ghostbusters_afterlife','Ghostbusters: Afterlife',2021,'Jason Reitman',NULL,84);
 INSERT INTO items VALUES('Q61927376','tt7395114','movie',499932,'movie',346736,NULL,'m/the_devil_all_the_time','The Devil All the Time',2020,'Antonio Campos',138,64);
-INSERT INTO items VALUES('Q61951885','tt8385148','movie',522931,'movie',371065,'umc.cmc.3txi8fept8g3h7g0xtxr143ve','m/the_hitmans_wifes_bodyguard','Hitman''s Wife''s Bodyguard',2021,'Patrick Hughes',NULL,27);
+INSERT INTO items VALUES('Q61951885','tt8385148','movie',522931,'movie',371065,'umc.cmc.3txi8fept8g3h7g0xtxr143ve','m/the_hitmans_wifes_bodyguard','Hitman''s Wife''s Bodyguard',2021,'Patrick Hughes',100,27);
 INSERT INTO items VALUES('Q61951927','tt8656686','movie',532870,'movie',384793,NULL,'m/run_sweetheart_run','Run Sweetheart Run',2020,'Shana Feste',NULL,73);
 INSERT INTO items VALUES('Q62002541','tt8289930','tv',87083,'show',144377,'umc.cmc.4ym1omzf14f4jwcmb7lnu91o0','tv/formula_1_drive_to_survive','Formula 1: Drive to Survive',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q62083687','tt8816194','movie',586592,'movie',434139,'umc.cmc.5eog97m6jwxqz950utdbnuqfe','m/come_to_daddy','Come to Daddy',2019,'Ant Timpson',NULL,86);
@@ -3784,7 +3785,7 @@ INSERT INTO items VALUES('Q96079649','tt11204260','tv',102619,'show',154824,'umc
 INSERT INTO items VALUES('Q96314873','tt9735350','movie',653751,'movie',488575,'umc.cmc.5ymb12y0jbgdn5k7kw9v66wzz','m/rebuilding_paradise','Rebuilding Paradise',2020,'Ron Howard',NULL,93);
 INSERT INTO items VALUES('Q96372504','tt11905462','movie',684700,'movie',529080,'umc.cmc.4cr1bhdw9jr6853mq7yij8sae','m/athlete_a','Athlete A',2020,NULL,NULL,100);
 INSERT INTO items VALUES('Q96373878','tt11095742','movie',653723,'movie',489826,'umc.cmc.1aatz9gwjhnpfqqt8noafagq','m/boys_state','Boys State',2020,'Jesse Moss',NULL,94);
-INSERT INTO items VALUES('Q96376192','tt11032374','movie',635302,'movie',474745,NULL,'m/demon_slayer_kimetsu_no_yaiba_the_movie_mugen_train','Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train',2020,'Haruo Sotozaki',NULL,98);
+INSERT INTO items VALUES('Q96376192','tt11032374','movie',635302,'movie',474745,NULL,'m/demon_slayer_kimetsu_no_yaiba_the_movie_mugen_train','Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train',2020,'Haruo Sotozaki',117,98);
 INSERT INTO items VALUES('Q96376698','tt10122474','tv',89689,'show',153152,NULL,'tv/dummy','Dummy',NULL,'Tricia Brock',NULL,NULL);
 INSERT INTO items VALUES('Q96384692','tt11307724','movie',682532,'movie',527356,'umc.cmc.2hagqbdmsazeo9lwxf6p52kjz','m/john_and_the_hole','John and the Hole',2021,'Pascual Sisto',98,58);
 INSERT INTO items VALUES('Q96392364','tt11271800','movie',672521,'movie',505872,'umc.cmc.5ej3a3p7s849l9cumyg0nwap9','m/mayday_2021','Mayday',2021,'Karen Cinorre',100,48);
