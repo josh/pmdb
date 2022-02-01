@@ -17,7 +17,6 @@ CREATE TABLE items (
   CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
 INSERT INTO items VALUES(NULL,'tt0090509','tv',NULL,'show',142212,NULL,NULL,'The Return of Sherlock Holmes',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES(NULL,'tt10023022','movie',689700,'movie',534135,NULL,NULL,'Clean',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NULL,'Apocalypse Now: Final Cut',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11145118','movie',677179,'movie',512258,NULL,NULL,'Creed III',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11284768','movie',913812,'movie',731843,NULL,NULL,'Blood',NULL,NULL,NULL,NULL);
@@ -1036,7 +1035,7 @@ INSERT INTO items VALUES('Q466781','tt0074119','movie',891,'movie',734,'umc.cmc.
 INSERT INTO items VALUES('Q466884','tt0113957','movie',1642,'movie',1087,'umc.cmc.4065u9algwu4wns55pepqgfne','m/net','The Net',1995,'Irwin Winkler',109,42);
 INSERT INTO items VALUES('Q466961','tt0305206','movie',2771,'movie',1852,'umc.cmc.32t38r974mqggq6824erryiyw','m/american_splendor','American Splendor',2003,NULL,96,94);
 INSERT INTO items VALUES('Q467076','tt0357413','movie',8699,'movie',4278,'umc.cmc.38gup8z7ry56rjuknjvb20zi1','m/anchorman','Anchorman: The Legend of Ron Burgundy',2004,'Adam McKay',95,66);
-INSERT INTO items VALUES('Q467181','tt0281820','movie',6016,'movie',3442,NULL,'m/good_thief','The Good Thief',2002,'Neil Jordan',108,77);
+INSERT INTO items VALUES('Q467181','tt0281820','movie',6016,'movie',3442,'umc.cmc.20ylo4m968y5on1o1nb63c7vq','m/good_thief','The Good Thief',2002,'Neil Jordan',108,77);
 INSERT INTO items VALUES('Q467248','tt0223897','movie',10647,'movie',5821,'umc.cmc.5n4qcysuw9gtm3r5s5tz5n6vy','m/pay_it_forward','Pay It Forward',2000,'Mimi Leder',123,39);
 INSERT INTO items VALUES('Q467290','tt0082010','movie',814,'movie',657,'umc.cmc.2ixfw4odj17ayvx58m46l8tx5','m/american_werewolf_in_london','An American Werewolf in London',1981,'John Landis',97,88);
 INSERT INTO items VALUES('Q467582','tt0431197','movie',4349,'movie',2548,'umc.cmc.4hj7s57q46mda8ff56ffl9zwu','m/the_kingdom','The Kingdom',2007,'Peter Berg',105,51);
@@ -4061,6 +4060,7 @@ INSERT INTO items VALUES('Q110077813','tt15257116','movie',872516,'movie',698299
 INSERT INTO items VALUES('Q110077822','tt16378298','movie',913792,'movie',731601,NULL,NULL,'Meet Me in the Bathroom',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110124251','tt13991232','tv',118357,'show',173337,NULL,'tv/1883','1883',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110207138','tt16116174','movie',899082,'movie',721239,NULL,'m/harry_potter_20th_anniversary_return_to_hogwarts','Harry Potter 20th Anniversary: Return to Hogwarts',2022,'Eran Creevy',NULL,NULL);
+INSERT INTO items VALUES('Q110208165','tt10023022','movie',689700,'movie',534135,NULL,'m/clean_2022','Clean',2021,'Paul Solet',94,NULL);
 INSERT INTO items VALUES('Q110279451','tt16378396','movie',913852,'movie',731663,NULL,NULL,'Every Day in Kaimukī',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110490199','tt13365348','tv',112314,'show',168808,NULL,'tv/archive_81','Archive 81',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110535538','tt15374070','movie',895744,'movie',718675,NULL,'m/studio_666_2022','Studio 666',NULL,NULL,NULL,NULL);
