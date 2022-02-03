@@ -1109,7 +1109,7 @@ INSERT INTO items VALUES('Q487181','tt0180093','movie',641,'movie',517,'umc.cmc.
 INSERT INTO items VALUES('Q487978','tt0145660','movie',817,'movie',660,'umc.cmc.6fk9zd62b0pe33ik71goamihi','m/austin_powers_the_spy_who_shagged_me','Austin Powers: The Spy Who Shagged Me',1999,'Jay Roach',95,52);
 INSERT INTO items VALUES('Q488041','tt0090329','movie',9281,'movie',4581,'umc.cmc.4mk13hhxh4lamkkira2wjmv9j','m/1023854-witness','Witness',1985,'Peter Weir',112,93);
 INSERT INTO items VALUES('Q488169','tt0353969','movie',11423,'movie',6518,NULL,'m/memories_of_murder_2003','Memories of Murder',2003,'Bong Joon-ho',132,95);
-INSERT INTO items VALUES('Q488655','tt0107048','movie',137,'movie',103,'umc.cmc.1w6jlmh7a3csaxq764zd0b6f0','m/groundhog_day','Groundhog Day',1993,'Harold Ramis',101,96);
+INSERT INTO items VALUES('Q488655','tt0107048','movie',137,'movie',103,'umc.cmc.1w6jlmh7a3csaxq764zd0b6f0','m/groundhog_day','Groundhog Day',1993,'Harold Ramis',101,97);
 INSERT INTO items VALUES('Q490464','tt0461770','movie',4523,'movie',2655,'umc.cmc.6ug8no50qp9u33mabxrnkcfqy','m/enchanted','Enchanted',2007,'Kevin Lima',103,93);
 INSERT INTO items VALUES('Q491800','tt0119177','movie',782,'movie',625,'umc.cmc.5ezqaeo0qqkflzp5ofr6s33ny','m/gattaca','Gattaca',1997,'Andrew Niccol',101,83);
 INSERT INTO items VALUES('Q491871','tt0103905','movie',10086,'movie',5306,'umc.cmc.2wa22gi74ctldr9j4wubo14yx','m/man_bites_dog','Man Bites Dog',1992,NULL,95,74);
@@ -3885,7 +3885,7 @@ INSERT INTO items VALUES('Q104241071','tt10451914','movie',775996,'movie',613402
 INSERT INTO items VALUES('Q104374134','tt5144174','movie',567797,'movie',419410,'umc.cmc.3jz6wmerbjymi8awhwzkht179','m/the_dry','The Dry',2020,'Robert Connolly',117,89);
 INSERT INTO items VALUES('Q104396610','tt13668894','tv',115036,'show',171129,'umc.cmc.1xs3rjhar8ecbcvuzmwzrkn9a','tv/the_book_of_boba_fett','The Book of Boba Fett',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104409060','tt10298810','movie',718789,'movie',561241,'umc.cmc.5xveiilyr4awchk239ff6df2p',NULL,'Lightyear',2022,'Angus MacLane',NULL,NULL);
-INSERT INTO items VALUES('Q104528612','tt11466222','movie',656663,'movie',490879,NULL,NULL,'Jackass Forever',2022,'Jeff Tremaine',96,NULL);
+INSERT INTO items VALUES('Q104528612','tt11466222','movie',656663,'movie',490879,NULL,'m/jackass_forever','Jackass Forever',2022,'Jeff Tremaine',96,NULL);
 INSERT INTO items VALUES('Q104630896','tt9140342','tv',116174,'show',156566,NULL,'tv/its_a_sin','It''s a Sin',NULL,'Peter Hoar',NULL,NULL);
 INSERT INTO items VALUES('Q104631095','tt12682218','tv',112077,'show',170324,NULL,'tv/scenes_from_a_marriage','Scenes from a Marriage (American miniseries)',2021,'Hagai Levi',NULL,NULL);
 INSERT INTO items VALUES('Q104681809','tt3758814','movie',646207,'movie',505687,NULL,'m/the_ice_road','The Ice Road',2021,'Jonathan Hensleigh',108,42);
