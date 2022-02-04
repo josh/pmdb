@@ -3992,7 +3992,8 @@ INSERT INTO items VALUES('Q106582931','tt10919420','tv',93405,'show',162712,'umc
 INSERT INTO items VALUES('Q106590157','tt15084142','tv',123149,'show',179021,'umc.cmc.4fcexvzqezr25p9weks6sxpob','tv/the_problem_with_jon_stewart','The Problem with Jon Stewart',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106602590','tt9569546','tv',99617,'show',158804,NULL,'tv/halston','Halston',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106608782','tt13356646','tv',119279,'show',173179,'umc.cmc.5i31ez1s0m5w9j0yl32rtkk6y','tv/solos','Solos',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q106609934','tt12026710','tv',100414,'show',164704,NULL,NULL,'Suspicion',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q106609866','tt13659418','tv',114925,'show',171029,NULL,NULL,'Pam & Tommy',NULL,'Craig Gillespie',NULL,NULL);
+INSERT INTO items VALUES('Q106609934','tt12026710','tv',100414,'show',164704,NULL,'tv/suspicion','Suspicion',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106638959','tt14482570','tv',126397,'show',182804,'umc.cmc.56ka6i8ccv7tsatj6nd1uo808','tv/watch_the_sound_with_mark_ronson','Watch the Sound with Mark Ronson',NULL,NULL,NULL,100);
 INSERT INTO items VALUES('Q106639064','tt11337862','movie',691179,'movie',535487,'umc.cmc.3t4yjbzlzjvfm62c4pwpmgnf4','m/friends_the_reunion','Friends: The Reunion',2021,'Ben Winston',104,66);
 INSERT INTO items VALUES('Q106679014','tt13406094','tv',111803,'show',168471,'umc.cmc.3c8psnhdn9viikje3kvq69fyr','tv/the_white_lotus','The White Lotus',NULL,'Mike White',NULL,88);
@@ -4066,7 +4067,7 @@ INSERT INTO items VALUES('Q110208165','tt10023022','movie',689700,'movie',534135
 INSERT INTO items VALUES('Q110279451','tt16378396','movie',913852,'movie',731663,NULL,NULL,'Every Day in Kaimukī',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110490199','tt13365348','tv',112314,'show',168808,NULL,'tv/archive_81','Archive 81',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110535538','tt15374070','movie',895744,'movie',718675,NULL,'m/studio_666_2022','Studio 666',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q110613105','tt15264192','tv',155594,'show',192519,NULL,NULL,'Murderville',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q110613105','tt15264192','tv',155594,'show',192519,NULL,'tv/murderville','Murderville',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110652917','tt7927936','tv',76369,'show',127867,NULL,NULL,'FLAMES',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110664384','tt11145118','movie',677179,'movie',512258,NULL,NULL,'Creed III',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110666435','tt11893274','movie',913862,'movie',731657,NULL,NULL,'Downfall: The Case Against Boeing',2022,'Rory Kennedy',89,NULL);
