@@ -21,7 +21,6 @@ INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NU
 INSERT INTO items VALUES(NULL,'tt11284768','movie',913812,'movie',731843,NULL,NULL,'Blood',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12573454','movie',717980,'movie',560894,NULL,NULL,'Sharper',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12923632','tv',NULL,'show',165790,NULL,NULL,'Dead Ringers',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES(NULL,'tt13314558','movie',755566,'movie',595062,NULL,NULL,'Day Shift',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt14507354','tv',134375,'show',188477,NULL,NULL,'The Endgame',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt15837458','movie',921353,'movie',737744,NULL,NULL,'The Wrong Place',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16282914','movie',901511,'movie',723248,NULL,NULL,'2nd Chance',NULL,NULL,NULL,NULL);
@@ -29,6 +28,7 @@ INSERT INTO items VALUES(NULL,'tt16377764','movie',913867,'movie',731862,NULL,NU
 INSERT INTO items VALUES(NULL,'tt16378064','movie',913869,'movie',731588,NULL,NULL,'To the End',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16378482','movie',913850,'movie',731692,NULL,NULL,'We Met in Virtual Reality',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt17200376','movie',929745,'movie',745527,NULL,NULL,'GameStop: Rise of the Players',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt2953250','tv',106388,'show',187254,NULL,NULL,'Shining Girls',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt7798604','movie',852096,'movie',680752,NULL,NULL,'We Have a Ghost',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt8773420','tv',95556,'show',171737,NULL,NULL,'Expats',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'movie',21763,NULL,'m/1217389-we_live_in_public','We Live in Public',2009,'Ondi Timoner',90,82);
@@ -3997,6 +3997,7 @@ INSERT INTO items VALUES('Q106609934','tt12026710','tv',100414,'show',164704,NUL
 INSERT INTO items VALUES('Q106638959','tt14482570','tv',126397,'show',182804,'umc.cmc.56ka6i8ccv7tsatj6nd1uo808','tv/watch_the_sound_with_mark_ronson','Watch the Sound with Mark Ronson',NULL,NULL,NULL,100);
 INSERT INTO items VALUES('Q106639064','tt11337862','movie',691179,'movie',535487,'umc.cmc.3t4yjbzlzjvfm62c4pwpmgnf4','m/friends_the_reunion','Friends: The Reunion',2021,'Ben Winston',104,66);
 INSERT INTO items VALUES('Q106679014','tt13406094','tv',111803,'show',168471,'umc.cmc.3c8psnhdn9viikje3kvq69fyr','tv/the_white_lotus','The White Lotus',NULL,'Mike White',NULL,88);
+INSERT INTO items VALUES('Q106725885','tt13314558','movie',755566,'movie',595062,NULL,NULL,'Day Shift',NULL,'J.J. Perry',NULL,NULL);
 INSERT INTO items VALUES('Q106740037','tt13352968','movie',758330,'movie',597555,NULL,NULL,'Good Luck to You, Leo Grande',NULL,'Sophie Hyde',NULL,NULL);
 INSERT INTO items VALUES('Q106763973','tt14512538','movie',642732,'movie',481586,NULL,'m/roadrunner_a_film_about_anthony_bourdain','Roadrunner: A Film About Anthony Bourdain',NULL,'Morgan Neville',NULL,91);
 INSERT INTO items VALUES('Q106765478','tt14392248','tv',124411,'show',179231,NULL,NULL,'Aspirants',2021,NULL,NULL,NULL);
@@ -4052,7 +4053,7 @@ INSERT INTO items VALUES('Q109284708','tt15523010','movie',879540,'movie',704047
 INSERT INTO items VALUES('Q109284828','tt11127680','movie',807196,'movie',641839,NULL,'m/boiling_point_2021','Boiling Point',NULL,'Philip Barantini',NULL,NULL);
 INSERT INTO items VALUES('Q109285531','tt13622146','movie',819500,'movie',652579,NULL,'m/found_2021','Found',2021,'Amanda Lipitz',NULL,NULL);
 INSERT INTO items VALUES('Q109607643','tt13622958','tv',114466,'show',170646,NULL,NULL,'Baymax!',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q109901438','tt9288030','tv',108978,'show',155536,NULL,NULL,'Reacher',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q109901438','tt9288030','tv',108978,'show',155536,NULL,NULL,'Reacher',NULL,'Thomas Vincent',NULL,NULL);
 INSERT INTO items VALUES('Q110027782','tt14376344','movie',814340,'movie',647979,NULL,NULL,'Cha Cha Real Smooth',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110027954','tt12655436','movie',848331,'movie',677870,NULL,NULL,'Honk for Jesus, Save Your Soul',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110039575','tt15255876','movie',862965,'movie',689967,NULL,NULL,'Emily the Criminal',NULL,NULL,NULL,NULL);
@@ -4076,6 +4077,7 @@ INSERT INTO items VALUES('Q110674124','tt16377496','movie',913742,'movie',731637
 INSERT INTO items VALUES('Q110674397','tt16376512','movie',913824,'movie',731633,NULL,NULL,'Free Chol Soo Lee',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110675690','tt14895716','movie',843621,'movie',673762,NULL,NULL,'Something in the Dirt',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110682675','tt16377380','movie',913826,'movie',731824,NULL,NULL,'Jihad Rehab',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q110795287','tt14992922','movie',923632,'movie',739823,NULL,'m/the_tinder_swindler','The Tinder Swindler',2022,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
