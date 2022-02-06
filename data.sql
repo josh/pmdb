@@ -2767,7 +2767,7 @@ INSERT INTO items VALUES('Q17183934','tt1850457','movie',266294,'movie',164865,'
 INSERT INTO items VALUES('Q17276718','tt1798684','movie',307081,'movie',195642,'umc.cmc.5o9i9qx024gien4ct7xjfhv7k','m/southpaw_2015','Southpaw',2015,'Antoine Fuqua',124,60);
 INSERT INTO items VALUES('Q17337292','tt3397884','movie',273481,'movie',171369,'umc.cmc.2hmfcfgt55co8borra1prueqx','m/sicario_2015','Sicario',2015,'Denis Villeneuve',121,92);
 INSERT INTO items VALUES('Q17376347','tt3021360','movie',243526,'movie',148301,'umc.cmc.4r5186prc2417t8dd4vfq68xi','m/faults','Faults',2014,'Riley Stearns',NULL,91);
-INSERT INTO items VALUES('Q17379618','tt2328678','movie',245842,'movie',149617,NULL,'m/the_kings_daughter_2022','The King''s Daughter',2022,'Sean McNamara',NULL,NULL);
+INSERT INTO items VALUES('Q17379618','tt2328678','movie',245842,'movie',149617,NULL,'m/the_kings_daughter_2022','The King''s Daughter',2022,'Sean McNamara',90,NULL);
 INSERT INTO items VALUES('Q17417520','tt3715320','movie',282984,'movie',180295,'umc.cmc.nom6s5wtaqeetoddr4adkim9','m/irrational_man','Irrational Man',2015,'Woody Allen',95,47);
 INSERT INTO items VALUES('Q17459558','tt3450900','movie',291351,'movie',188189,'umc.cmc.4zo7elfwyexowpi3gwrwdwev8','m/the_sea_of_trees','The Sea of Trees',2015,'Gus Van Sant',110,17);
 INSERT INTO items VALUES('Q17508302','tt1365050','movie',283587,'movie',180865,'umc.cmc.9m75fmup0iiww0vh1d7b3oij','m/beasts_of_no_nation','Beasts of No Nation',2015,'Cary Joji Fukunaga',137,92);
