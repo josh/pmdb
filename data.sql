@@ -3676,7 +3676,7 @@ INSERT INTO items VALUES('Q73896894','tt9130508','movie',544401,'movie',395091,'
 INSERT INTO items VALUES('Q73897733','tt7737786','movie',524047,'movie',372518,'umc.cmc.5nyf1fjedleaqgid5a80pmhgs','m/greenland','Greenland',2020,'Ric Roman Waugh',120,78);
 INSERT INTO items VALUES('Q74190990','tt11083552','movie',637649,'movie',476569,'umc.cmc.1gzck9czlhv4jw6qra2sdvbc6','m/wrath_of_man','Wrath of Man',2021,'Guy Ritchie',118,66);
 INSERT INTO items VALUES('Q74191962','tt10265034','movie',598896,'movie',444869,'umc.cmc.70dqn67bnc76xh0h6wbrtds8','m/land_2021','Land',2021,'Robin Wright',89,70);
-INSERT INTO items VALUES('Q74198352','tt7737528','movie',597891,'movie',443935,NULL,'m/kate_2021','Kate',2021,'Cedric Nicolas-Troyan',NULL,42);
+INSERT INTO items VALUES('Q74198352','tt7737528','movie',597891,'movie',443935,NULL,'m/kate_2021','Kate',2021,'Cedric Nicolas-Troyan',106,42);
 INSERT INTO items VALUES('Q74586939','tt10696896','movie',616651,'movie',459736,'umc.cmc.1lewa1lzhsmnv1aq6dcfxgt1d','m/stillwater_2020','Stillwater',2021,'Tom McCarthy',140,75);
 INSERT INTO items VALUES('Q75034904','tt8893974','movie',541524,'movie',392540,NULL,'m/passing_2021','Passing',2021,'Rebecca Hall',98,86);
 INSERT INTO items VALUES('Q75077484','tt9139586','movie',560204,'movie',410908,'umc.cmc.6qp8765pjp3angrqycqa8iig4','m/arkansas','Arkansas',2020,'Clark Duke',115,47);
@@ -3991,7 +3991,7 @@ INSERT INTO items VALUES('Q106582931','tt10919420','tv',93405,'show',162712,'umc
 INSERT INTO items VALUES('Q106590157','tt15084142','tv',123149,'show',179021,'umc.cmc.4fcexvzqezr25p9weks6sxpob','tv/the_problem_with_jon_stewart','The Problem with Jon Stewart',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106602590','tt9569546','tv',99617,'show',158804,NULL,'tv/halston','Halston',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106608782','tt13356646','tv',119279,'show',173179,'umc.cmc.5i31ez1s0m5w9j0yl32rtkk6y','tv/solos','Solos',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q106609866','tt13659418','tv',114925,'show',171029,NULL,NULL,'Pam & Tommy',NULL,'Craig Gillespie',NULL,NULL);
+INSERT INTO items VALUES('Q106609866','tt13659418','tv',114925,'show',171029,NULL,NULL,'Pam & Tommy',2022,'Craig Gillespie',NULL,NULL);
 INSERT INTO items VALUES('Q106609934','tt12026710','tv',100414,'show',164704,NULL,'tv/suspicion','Suspicion',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106638959','tt14482570','tv',126397,'show',182804,'umc.cmc.56ka6i8ccv7tsatj6nd1uo808','tv/watch_the_sound_with_mark_ronson','Watch the Sound with Mark Ronson',NULL,NULL,NULL,100);
 INSERT INTO items VALUES('Q106639064','tt11337862','movie',691179,'movie',535487,'umc.cmc.3t4yjbzlzjvfm62c4pwpmgnf4','m/friends_the_reunion','Friends: The Reunion',2021,'Ben Winston',104,66);
