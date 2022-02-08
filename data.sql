@@ -3555,7 +3555,7 @@ INSERT INTO items VALUES('Q63862159','tt0293429','movie',460465,'movie',307490,'
 INSERT INTO items VALUES('Q63923744','tt3215824','movie',578701,'movie',428432,'umc.cmc.6raxuim1mlrwnqqbifyvl8opt','m/those_who_wish_me_dead','Those Who Wish Me Dead',2020,'Taylor Sheridan',100,61);
 INSERT INTO items VALUES('Q63927162','tt9735470','movie',586791,'movie',438935,'umc.cmc.3bdt6a5gaod7spbceovtmm7tl','m/little_fish_2021','Little Fish',2020,'Chad Hartigan',101,91);
 INSERT INTO items VALUES('Q63969255','tt9639470','movie',576845,'movie',427235,'umc.cmc.4rbun3ykj26t4lfh3kmemvx18','m/last_night_in_soho','Last Night in Soho',2021,'Edgar Wright',116,75);
-INSERT INTO items VALUES('Q63985561','tt6723592','movie',577922,'movie',427989,'umc.cmc.198i48vdau0mtd8gtsdxjtz9w','m/tenet','Tenet',2020,'Christopher Nolan',150,70);
+INSERT INTO items VALUES('Q63985561','tt6723592','movie',577922,'movie',427989,'umc.cmc.198i48vdau0mtd8gtsdxjtz9w','m/tenet','Tenet',2020,'Christopher Nolan',150,69);
 INSERT INTO items VALUES('Q64004122','tt1051906','movie',570670,'movie',428130,'umc.cmc.1h37616f3p8vezgas1pt59r0y','m/the_invisible_man_2020','The Invisible Man',2020,'Leigh Whannell',124,91);
 INSERT INTO items VALUES('Q64015161','tt9398640','movie',584962,'movie',449595,'umc.cmc.337lnplf7kjnqopeeuvixdh2o','m/between_two_ferns_the_movie','Between Two Ferns: The Movie',2019,'Scott Aukerman',83,75);
 INSERT INTO items VALUES('Q64027609','tt8404256','movie',568620,'movie',420170,'umc.cmc.3330bb9t1olyqp1f9fvtlf7e','m/snake_eyes_gi_joe_origins','Snake Eyes: G.I. Joe Origins',2021,'Robert Schwentke',121,36);
@@ -4063,7 +4063,7 @@ INSERT INTO items VALUES('Q110077799','tt11818818','movie',879990,'movie',704841
 INSERT INTO items VALUES('Q110077813','tt15257116','movie',872516,'movie',698299,NULL,NULL,'Palm Trees and Power Lines',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110077822','tt16378298','movie',913792,'movie',731601,NULL,NULL,'Meet Me in the Bathroom',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110124251','tt13991232','tv',118357,'show',173337,NULL,'tv/1883','1883',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q110207138','tt16116174','movie',899082,'movie',721239,NULL,'m/harry_potter_20th_anniversary_return_to_hogwarts','Harry Potter 20th Anniversary: Return to Hogwarts',2022,'Eran Creevy',NULL,NULL);
+INSERT INTO items VALUES('Q110207138','tt16116174','movie',899082,'movie',721239,NULL,'m/harry_potter_20th_anniversary_return_to_hogwarts','Harry Potter 20th Anniversary: Return to Hogwarts',2022,'Eran Creevy',120,NULL);
 INSERT INTO items VALUES('Q110208165','tt10023022','movie',689700,'movie',534135,NULL,'m/clean_2022','Clean',2021,'Paul Solet',94,NULL);
 INSERT INTO items VALUES('Q110279451','tt16378396','movie',913852,'movie',731663,NULL,NULL,'Every Day in Kaimukī',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110490199','tt13365348','tv',112314,'show',168808,NULL,'tv/archive_81','Archive 81',NULL,NULL,NULL,NULL);
