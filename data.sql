@@ -3589,7 +3589,7 @@ INSERT INTO items VALUES('Q65064146','tt9000224','movie',627463,'movie',468816,'
 INSERT INTO items VALUES('Q65065068','tt8368408','movie',574060,'movie',427910,NULL,'m/gunpowder_milkshake','Gunpowder Milkshake',2021,'Navot Papushado',114,58);
 INSERT INTO items VALUES('Q65065595','tt7556122','movie',547016,'movie',432086,'umc.cmc.4bklpl90z8phci4cd9kogqtbn','m/the_old_guard','The Old Guard',2020,'Gina Prince-Bythewood',125,81);
 INSERT INTO items VALUES('Q65066669','tt10272386','movie',600354,'movie',445922,'umc.cmc.1737b9sd7muinc2as10iz1w0p','m/the_father_2021','The Father',2020,'Florian Zeller',97,98);
-INSERT INTO items VALUES('Q65067029','tt10279362','movie',599960,'movie',445828,NULL,'m/french_exit_2021','French Exit',NULL,'Azazel Jacobs',110,63);
+INSERT INTO items VALUES('Q65067029','tt10279362','movie',599960,'movie',445828,NULL,'m/french_exit_2021','French Exit',2020,'Azazel Jacobs',110,63);
 INSERT INTO items VALUES('Q65069001','tt5420210','movie',650783,'movie',488950,NULL,'m/the_comeback_trail_2020','The Comeback Trail',2020,'George Gallo',104,33);
 INSERT INTO items VALUES('Q65070116','tt9224288','movie',557950,'movie',408578,NULL,'m/mainstream','Mainstream',NULL,'Gia Coppola',94,33);
 INSERT INTO items VALUES('Q65080260','tt9849004','movie',673319,'movie',506532,'umc.cmc.4so4775j0i53dyhi9lfc4lysi','m/happily','Happily',NULL,'BenDavid Grabinski',NULL,69);
@@ -3701,7 +3701,7 @@ INSERT INTO items VALUES('Q81207836','tt3272066','movie',579047,'movie',429258,'
 INSERT INTO items VALUES('Q81560766','tt11426660','tv',97401,'show',156697,'umc.cmc.5p8c1trrhux33dnp1kysefd46','tv/cheer','Cheer',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q81562219','tt11390530','tv',96815,'show',156517,'umc.cmc.2w8bbd0kz3ax5eyv4a612o04x','tv/sex_explained','Sex, Explained',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q81672757','tt9059760','tv',89905,'show',154829,NULL,'tv/normal_people','Normal People',2020,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q82430214','tt7740496','movie',597208,'movie',443066,NULL,'m/nightmare_alley_2021','Nightmare Alley',2021,'Guillermo del Toro',150,NULL);
+INSERT INTO items VALUES('Q82430214','tt7740496','movie',597208,'movie',443066,'umc.cmc.5q95gyt98ah83vbi386esu6t6','m/nightmare_alley_2021','Nightmare Alley',2021,'Guillermo del Toro',150,NULL);
 INSERT INTO items VALUES('Q83295128','tt4329810','movie',631143,'movie',471502,'umc.cmc.5b6l5pqf6uatkukkvpl6a5i9x','m/qt8_the_first_eight','QT8: The First Eight',2019,NULL,NULL,91);
 INSERT INTO items VALUES('Q83430460','tt10671440','movie',617127,'movie',460195,NULL,NULL,'Blade',NULL,'Bassam Tariq',NULL,NULL);
 INSERT INTO items VALUES('Q83437242','tt11388406','movie',653601,'movie',488452,'umc.cmc.3c2o2l3bxh8jo4t29poay69sh','m/horse_girl','Horse Girl',2020,'Jeff Baena',103,71);
