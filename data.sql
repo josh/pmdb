@@ -3879,7 +3879,7 @@ INSERT INTO items VALUES('Q103967305','tt10795658','tv',110316,'show',157841,NUL
 INSERT INTO items VALUES('Q104007235','tt12851524','tv',107113,'show',165314,NULL,'tv/only_murders_in_the_building','Only Murders in the Building',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104007933','tt7475578','movie',760336,'movie',599425,NULL,'m/munich_the_edge_of_war','Munich: The Edge of War',2021,'Christian Schwochow',123,NULL);
 INSERT INTO items VALUES('Q104018236','tt11808942','tv',98892,'show',170593,'umc.cmc.1tqmf2znhr4oui4vo69ircyui','tv/schmigadoon','Schmigadoon!',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q104033835','tt2463208','movie',696806,'movie',540557,NULL,NULL,'The Adam Project',2022,'Shawn Levy',NULL,NULL);
+INSERT INTO items VALUES('Q104033835','tt2463208','movie',696806,'movie',540557,NULL,'m/the_adam_project','The Adam Project',2022,'Shawn Levy',106,NULL);
 INSERT INTO items VALUES('Q104082429','tt2531336','tv',96677,'show',164129,'umc.cmc.2nfzy9iye7lkzh2mcoiekgf92','tv/lupin','Lupin',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104094034','tt9783600','movie',615469,'movie',458866,NULL,NULL,'Escape from Spiderhead',2021,'Joseph Kosinski',NULL,NULL);
 INSERT INTO items VALUES('Q104187039','tt12261776','movie',700391,'movie',543972,NULL,NULL,'65',NULL,NULL,NULL,NULL);
