@@ -689,7 +689,7 @@ INSERT INTO items VALUES('Q228186','tt0056172','movie',947,'movie',787,'umc.cmc.
 INSERT INTO items VALUES('Q229599','tt0160127','movie',4327,'movie',2541,'umc.cmc.2t96xu6xmry84y36ci2bk2ivd','m/charlies_angels','Charlie''s Angels (2000 film)',2000,'McG',98,69);
 INSERT INTO items VALUES('Q229603','tt0305357','movie',9471,'movie',4757,'umc.cmc.2849peiwuqs5ma6uz5bor3ehi','m/charlies_angels_full_throttle','Charlie''s Angels: Full Throttle',2003,'McG',106,42);
 INSERT INTO items VALUES('Q229633','tt1187043','movie',20453,'movie',12561,'umc.cmc.7c2srvr0qpnqcxrdf23lhl9gi','m/3_idiots','3 Idiots',2009,'Rajkumar Hirani',164,100);
-INSERT INTO items VALUES('Q229808','tt0948470','movie',1930,'movie',1302,'umc.cmc.1jielpphrkfkqh3zfll0un7iz','m/the_amazing_spider_man','The Amazing Spider-Man (film)',2012,'Marc Webb',136,72);
+INSERT INTO items VALUES('Q229808','tt0948470','movie',1930,'movie',1302,'umc.cmc.1jielpphrkfkqh3zfll0un7iz','m/the_amazing_spider_man','The Amazing Spider-Man',2012,'Marc Webb',136,72);
 INSERT INTO items VALUES('Q230552','tt0099088','movie',196,'movie',159,'umc.cmc.4d7ojms7zga4x1xifz9o02je9','m/back_to_the_future_3','Back to the Future Part III',1990,'Robert Zemeckis',118,80);
 INSERT INTO items VALUES('Q230558','tt0107131','movie',6878,'movie',3753,'umc.cmc.qtsc50kb7iyr90syqw31ttu','m/homeward_bound_the_incredible_journey','Homeward Bound: The Incredible Journey',1993,'Duwayne Dunham',84,87);
 INSERT INTO items VALUES('Q232000','tt0064115','movie',642,'movie',518,'umc.cmc.1ryvbaoxnde2c7tjxk75d5upc','m/1003318-butch_cassidy_and_the_sundance_kid','Butch Cassidy and the Sundance Kid',1969,'George Roy Hill',105,89);
@@ -3012,7 +3012,7 @@ INSERT INTO items VALUES('Q23796644','tt1959563','movie',390043,'movie',232291,'
 INSERT INTO items VALUES('Q23817035','tt5247022','movie',370755,'movie',224941,'umc.cmc.2l073fk2hdfmcd5uybuiwmrrw','m/paterson','Paterson',2016,'Jim Jarmusch',113,96);
 INSERT INTO items VALUES('Q23823461','tt4714782','movie',340676,'movie',221112,'umc.cmc.5a9zmabtcoy92wuv78r8ykkwk','m/personal_shopper','Personal Shopper',2016,'Olivier Assayas',105,81);
 INSERT INTO items VALUES('Q23894626','tt3480822','movie',497698,'movie',344686,'umc.cmc.3tfe3lm0qa0b29a6r84hc8jjy','m/black_widow_2021','Black Widow',2021,'Cate Shortland',133,79);
-INSERT INTO items VALUES('Q23894629','tt9032400','movie',524434,'movie',372798,NULL,'m/eternals','Eternals',2021,'Chloé Zhao',156,48);
+INSERT INTO items VALUES('Q23894629','tt9032400','movie',524434,'movie',372798,NULL,'m/eternals','Eternals',2021,'Chloé Zhao',156,47);
 INSERT INTO items VALUES('Q23925035','tt5323662','movie',378064,'movie',225063,NULL,'m/a_silent_voice','A Silent Voice',2016,'Naoko Yamada',129,94);
 INSERT INTO items VALUES('Q23925037','tt5566790','movie',391710,'movie',234040,'umc.cmc.3580fwtto5qe1bfxniq23msbt','m/a_futile_and_stupid_gesture','A Futile and Stupid Gesture',2018,'David Wain',101,67);
 INSERT INTO items VALUES('Q23932553','tt3967856','movie',387426,'movie',229330,'umc.cmc.7086i3dk23d565gobtnkutwkr','m/okja','Okja',2017,'Bong Joon-ho',121,86);
