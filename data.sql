@@ -3609,7 +3609,7 @@ INSERT INTO items VALUES('Q65091727','tt9203694','movie',559581,'movie',409976,N
 INSERT INTO items VALUES('Q65118359','tt9608818','movie',583903,'movie',432634,'umc.cmc.hqnyr6awwyvupurmbqinllqn','m/our_friend','Our Friend',2019,'Gabriela Cowperthwaite',NULL,85);
 INSERT INTO items VALUES('Q65118624','tt7440726','tv',86430,'show',144121,'umc.cmc.1dmuuj2ejlx54k7nr5uvhos4a','tv/your_honor_2020','Your Honor',NULL,NULL,NULL,50);
 INSERT INTO items VALUES('Q65119650','tt9731682','movie',580532,'movie',429756,'umc.cmc.9mxe5l0fctuazk4rh4uifgzh','m/crisis_2021','Crisis',2021,'Nicholas Jarecki',NULL,67);
-INSERT INTO items VALUES('Q65121393','tt4876134','movie',581644,'movie',430413,'umc.cmc.2p8zp42jrkrjkv2qslcgckkdg','m/the_misfits','The Misfits',2021,'Renny Harlin',NULL,19);
+INSERT INTO items VALUES('Q65121393','tt4876134','movie',581644,'movie',430413,'umc.cmc.2p8zp42jrkrjkv2qslcgckkdg','m/the_misfits','The Misfits',2021,'Renny Harlin',94,19);
 INSERT INTO items VALUES('Q65158549','tt5363618','movie',502033,'movie',348846,'umc.cmc.tq9fx7eigyh5vrzx484vbtvf','m/sound_of_metal','Sound of Metal',2019,'Darius Marder',120,97);
 INSERT INTO items VALUES('Q65258113','tt10850932','tv',94796,'show',152703,NULL,'tv/crash_landing_on_you','Crash Landing on You',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q65285210','tt4736550','movie',566222,'movie',415873,'umc.cmc.154kwhmbm070q5ario8t239pq','m/the_great_hack','The Great Hack',2019,NULL,113,85);
