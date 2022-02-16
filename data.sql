@@ -3948,7 +3948,7 @@ INSERT INTO items VALUES('Q105584511','tt7144666','movie',756999,'movie',596179,
 INSERT INTO items VALUES('Q105599130','tt11738830','movie',749645,'movie',589554,NULL,'m/the_beta_test','The Beta Test',NULL,NULL,NULL,95);
 INSERT INTO items VALUES('Q105605250','tt13560574','movie',760104,'movie',599217,NULL,NULL,'X',NULL,'Ti West',NULL,NULL);
 INSERT INTO items VALUES('Q105612382','tt9847360','movie',696109,'movie',539907,'umc.cmc.6orum26nnhmi34prlyvquec2l','m/a_glitch_in_the_matrix','A Glitch in the Matrix',2021,'Rodney Ascher',NULL,67);
-INSERT INTO items VALUES('Q105657351','tt13453006','movie',763329,'movie',601906,'umc.cmc.66a7q10ezt21isapaf3ravb9p','m/red_rocket','Red Rocket',2021,'Sean Baker',NULL,91);
+INSERT INTO items VALUES('Q105657351','tt13453006','movie',763329,'movie',601906,'umc.cmc.66a7q10ezt21isapaf3ravb9p','m/red_rocket','Red Rocket',2021,'Sean Baker',130,91);
 INSERT INTO items VALUES('Q105657922','tt13622118','movie',776660,'movie',614246,'umc.cmc.771tuqt4kn6d7dldffryrekp0','m/cryptozoo','Cryptozoo',2021,'Dash Shaw',NULL,70);
 INSERT INTO items VALUES('Q105658212','tt3108894','movie',727293,'movie',569479,'umc.cmc.69da9rm8j18sys5fx0i1f77nr','m/the_tender_bar','The Tender Bar',2021,'George Clooney',106,NULL);
 INSERT INTO items VALUES('Q105686499','tt11188154','movie',795622,'movie',630998,NULL,'m/wework_or_the_making_and_breaking_of_a_47_billion_unicorn','WeWork: Or the Making and Breaking of a $47 Billion Unicorn',2021,'Jed Rothstein',NULL,77);
@@ -3957,7 +3957,7 @@ INSERT INTO items VALUES('Q105753321','tt11041132','tv',93716,'show',153528,'umc
 INSERT INTO items VALUES('Q105773126','tt10971064','tv',124897,'show',170595,'umc.cmc.2iams7vr2o0i6mtb6wm6r9q1n','tv/mr_corman','Mr. Corman',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105818526','tt10011302','movie',596028,'movie',441951,'umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p','m/the_emoji_story','The Emoji Story',2020,'Ian Cheney',79,92);
 INSERT INTO items VALUES('Q105907125','tt4995540','movie',517088,'movie',365183,NULL,'m/being_the_ricardos','Being the Ricardos',2021,'Aaron Sorkin',NULL,NULL);
-INSERT INTO items VALUES('Q105962799','tt14114802','movie',799876,'movie',634914,NULL,NULL,'The Outfit',NULL,'Graham Moore',NULL,NULL);
+INSERT INTO items VALUES('Q105962799','tt14114802','movie',799876,'movie',634914,NULL,'m/the_outfit_2022','The Outfit',NULL,'Graham Moore',NULL,NULL);
 INSERT INTO items VALUES('Q105985338','tt14158346','movie',801913,'movie',636847,NULL,NULL,'Sharp Stick',2022,'Lena Dunham',86,NULL);
 INSERT INTO items VALUES('Q105985341','tt11741044','movie',632311,'movie',472014,NULL,NULL,'I Was a Simple Man',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105989074','tt13472984','movie',787428,'movie',623844,NULL,'m/two_distant_strangers','Two Distant Strangers',2020,NULL,32,93);
