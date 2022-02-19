@@ -3853,7 +3853,7 @@ INSERT INTO items VALUES('Q100934044','tt12235718','tv',106651,'show',170211,NUL
 INSERT INTO items VALUES('Q100944081','tt0434706','tv',30981,'show',30847,NULL,NULL,'Monster',NULL,'Masayuki Kojima',24,NULL);
 INSERT INTO items VALUES('Q101089777','tt13146488','tv',110492,'show',169009,NULL,'tv/peacemaker_2022','Peacemaker',NULL,'James Gunn',NULL,NULL);
 INSERT INTO items VALUES('Q101091774','tt11671006','movie',667739,'movie',501427,NULL,NULL,'The Man from Toronto',2022,'Patrick Hughes',NULL,NULL);
-INSERT INTO items VALUES('Q101096725','tt11280740','tv',95396,'show',154997,NULL,NULL,'Severance',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q101096725','tt11280740','tv',95396,'show',154997,NULL,NULL,'Severance',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q101098258','tt6571548','movie',628534,'movie',469316,NULL,'m/the_white_tiger_2020','The White Tiger',2021,'Ramin Bahrani',125,91);
 INSERT INTO items VALUES('Q101112656','tt8999762','movie',549509,'movie',399330,NULL,NULL,'The Brutalist',2021,'Brady Corbet',NULL,NULL);
 INSERT INTO items VALUES('Q101118878','tt4136456','movie',808023,'movie',642299,'umc.cmc.4g9jgufbbrbfdwhym0ksfzjkh','m/the_virtuoso','The Virtuoso',NULL,'Nick Stagliano',NULL,19);
