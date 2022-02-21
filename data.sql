@@ -3665,7 +3665,7 @@ INSERT INTO items VALUES('Q73536996','tt10919380','movie',551804,'movie',401350,
 INSERT INTO items VALUES('Q73537113','tt10986222','movie',632617,'movie',472465,'umc.cmc.75ml0pjnp7r3dg5wmub8z4rao','m/cmon_cmon','C''mon C''mon',2021,'Mike Mills',108,90);
 INSERT INTO items VALUES('Q73537408','tt6878306','movie',581032,'movie',430039,'umc.cmc.134af6zdmb40k43sqlu7k8c90','m/news_of_the_world','News of the World',2020,'Paul Greengrass',118,88);
 INSERT INTO items VALUES('Q73537423','tt9115530','movie',601470,'movie',476541,NULL,'m/the_eyes_of_tammy_faye_2021','The Eyes of Tammy Faye',NULL,'Michael Showalter',126,65);
-INSERT INTO items VALUES('Q73537513','tt2180339','movie',619979,'movie',462892,NULL,NULL,'Deep Water',2022,'Adrian Lyne',NULL,NULL);
+INSERT INTO items VALUES('Q73537513','tt2180339','movie',619979,'movie',462892,NULL,'m/deep_water_2020','Deep Water',2022,'Adrian Lyne',153,NULL);
 INSERT INTO items VALUES('Q73541610','tt10121392','movie',615678,'movie',458708,NULL,'m/thunder_force','Thunder Force',2021,'Ben Falcone',105,21);
 INSERT INTO items VALUES('Q73543375','tt10223460','movie',615904,'movie',458914,'umc.cmc.35ojt327mp4a6am885q08sn5t','m/marry_me_2022','Marry Me',2022,'Kat Coiro',112,NULL);
 INSERT INTO items VALUES('Q73543906','tt6432466','movie',583689,'movie',448285,'umc.cmc.6jn3sbsts5v46n8nqop9jbzej','m/moxie','Moxie',2021,'Amy Poehler',NULL,69);
