@@ -27,6 +27,7 @@ INSERT INTO items VALUES(NULL,'tt16282914','movie',901511,'movie',723248,NULL,NU
 INSERT INTO items VALUES(NULL,'tt16377764','movie',913867,'movie',731862,NULL,NULL,'My Old School',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16378064','movie',913869,'movie',731588,NULL,NULL,'To the End',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt8773420','tv',95556,'show',171737,NULL,NULL,'Expats',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt8888462','tv',110382,'show',153532,NULL,NULL,'Pachinko',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt9873892','movie',736769,'movie',752194,NULL,NULL,'They Cloned Tyrone',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'movie',21763,NULL,'m/1217389-we_live_in_public','We Live in Public',2009,'Ondi Timoner',90,82);
 INSERT INTO items VALUES('Q595','tt1675434','movie',77338,'movie',57181,'umc.cmc.al89m4jlt4byjspgrh3c8rvr','m/the_intouchables','The Intouchables',2011,NULL,112,75);
