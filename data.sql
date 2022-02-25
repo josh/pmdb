@@ -3534,7 +3534,7 @@ INSERT INTO items VALUES('Q62721520','tt8579674','movie',530915,'movie',382862,'
 INSERT INTO items VALUES('Q62761126','tt2222042','movie',590223,'movie',436962,'umc.cmc.54jmhmruh4egio5l76vhxlosv','m/love_and_monsters','Love and Monsters',2020,'Michael Matthews',109,94);
 INSERT INTO items VALUES('Q62901895','tt8009744','movie',649394,'movie',485599,NULL,'m/worth','Worth',2020,'Sara Colangelo',NULL,80);
 INSERT INTO items VALUES('Q63135778','tt10189514','movie',595228,'movie',441382,NULL,NULL,'Soorarai Pottru',2020,'Sudha Kongara Prasad',NULL,NULL);
-INSERT INTO items VALUES('Q63183574','tt4651466','movie',552269,'movie',401864,'umc.cmc.w8z1tu3pw0npcvexu193bzu5','m/joe_bell','Joe Bell',2020,'Reinaldo Marcus Green',NULL,39);
+INSERT INTO items VALUES('Q63183574','tt4651466','movie',552269,'movie',401864,'umc.cmc.w8z1tu3pw0npcvexu193bzu5','m/joe_bell','Joe Bell',2020,'Reinaldo Marcus Green',94,39);
 INSERT INTO items VALUES('Q63183583','tt7772582','movie',595671,'movie',441486,'umc.cmc.3fyh42bt126mwn2uqk9ckq6qe','m/never_rarely_sometimes_always','Never Rarely Sometimes Always',2020,'Eliza Hittman',101,99);
 INSERT INTO items VALUES('Q63226470','tt7939766','movie',500840,'movie',348052,NULL,'m/im_thinking_of_ending_things','I''m Thinking of Ending Things',2020,'Charlie Kaufman',134,82);
 INSERT INTO items VALUES('Q63246555','tt2762506','movie',446159,'movie',303721,'umc.cmc.ikfsyuxi1ocdzh6dps888y3u','m/bacurau','Bacurau',2019,'Kleber Mendonça Filho',131,93);
