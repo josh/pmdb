@@ -3605,7 +3605,7 @@ INSERT INTO items VALUES('Q65067029','tt10279362','movie',599960,'movie',445828,
 INSERT INTO items VALUES('Q65069001','tt5420210','movie',650783,'movie',488950,NULL,'m/the_comeback_trail_2020','The Comeback Trail',2020,'George Gallo',104,33);
 INSERT INTO items VALUES('Q65070116','tt9224288','movie',557950,'movie',408578,NULL,'m/mainstream','Mainstream',NULL,'Gia Coppola',94,33);
 INSERT INTO items VALUES('Q65080260','tt9849004','movie',673319,'movie',506532,'umc.cmc.4so4775j0i53dyhi9lfc4lysi','m/happily','Happily',NULL,'BenDavid Grabinski',NULL,69);
-INSERT INTO items VALUES('Q65082453','tt9231040','movie',558582,'movie',409198,'umc.cmc.3mxjynj5qs69ya80w1e85iveu','m/first_cow','First Cow',2019,'Kelly Reichardt',NULL,96);
+INSERT INTO items VALUES('Q65082453','tt9231040','movie',558582,'movie',409198,'umc.cmc.3mxjynj5qs69ya80w1e85iveu','m/first_cow','First Cow',2019,'Kelly Reichardt',121,96);
 INSERT INTO items VALUES('Q65084655','tt9484998','movie',587792,'movie',439986,'umc.cmc.7ju9ss7m56yz79xnc7qw03gkk','m/palm_springs_2020','Palm Springs',2020,'Max Barbakow',90,95);
 INSERT INTO items VALUES('Q65084732','tt9143112','movie',554761,'movie',405583,'umc.cmc.4uzxi2icvppt1myvjv0scs1c3','m/falling_2020','Falling',2020,'Viggo Mortensen',112,67);
 INSERT INTO items VALUES('Q65087118','tt10096842','movie',591634,'movie',438259,'umc.cmc.3a74a490oih5cy87imvmdxdlh','m/false_positive','False Positive',2020,'John Lee',NULL,48);
