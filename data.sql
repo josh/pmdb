@@ -3912,7 +3912,7 @@ INSERT INTO items VALUES('Q104815523','tt8527842','tv',107333,'show',159817,'umc
 INSERT INTO items VALUES('Q104822312','tt7985704','movie',739405,'movie',580591,NULL,NULL,'Operation Fortune: Ruse de guerre',2022,'Guy Ritchie',NULL,NULL);
 INSERT INTO items VALUES('Q104843787','tt11252248','movie',626735,'movie',505231,'umc.cmc.51yz4jskp4axo0wjpi3ex9vm8',NULL,'Dog',2022,NULL,101,NULL);
 INSERT INTO items VALUES('Q104845027','tt8097030','movie',508947,'movie',356441,NULL,'m/turning_red','Turning Red',2022,'Domee Shi',NULL,NULL);
-INSERT INTO items VALUES('Q104845082','tt12614214','tv',106454,'show',163677,NULL,NULL,'The Afterparty',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q104845082','tt12614214','tv',106454,'show',163677,NULL,'tv/the_afterparty','The Afterparty',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104845839','tt12889404','movie',730047,'movie',572143,NULL,'m/cyrano','Cyrano',2021,'Joe Wright',124,NULL);
 INSERT INTO items VALUES('Q104846899','tt12762002','movie',725239,'movie',567611,'umc.cmc.p8f31geoloyr74lu9c62jzi8','m/the_swamp_2020','The Swamp',NULL,NULL,NULL,67);
 INSERT INTO items VALUES('Q104848117','tt5807330','movie',576560,'movie',427044,'umc.cmc.3t2kfbumwyv352b6wxitapz6d','m/tread','Tread',NULL,'Paul Solet',NULL,90);
@@ -4034,6 +4034,7 @@ INSERT INTO items VALUES('Q107040798','tt13320622','movie',752623,'movie',592440
 INSERT INTO items VALUES('Q107069381','tt14544192','movie',823754,'movie',656566,NULL,'m/bo_burnham_inside','Bo Burnham: Inside',2021,'Bo Burnham',87,93);
 INSERT INTO items VALUES('Q107071651','tt14673560','movie',830991,'movie',663244,'umc.cmc.ryvo8kqy3813nnbetgg1nfjf','m/ride_the_eagle','Ride the Eagle',2021,'Trent O''Donnell',88,81);
 INSERT INTO items VALUES('Q107089587','tt10370710','movie',660120,'movie',494289,'umc.cmc.2hnkifuob5arwcg23hx1khztd','m/the_worst_person_in_the_world','The Worst Person in the World',2021,'Joachim Trier',121,100);
+INSERT INTO items VALUES('Q107104310','tt11847842','tv',120909,'show',172867,NULL,'tv/the_tourist','The Tourist',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107105860','tt12042730','movie',687163,'movie',531178,NULL,NULL,'Project Hail Mary',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107105883','tt2914760','movie',413453,'movie',260325,NULL,'m/malibu_road','Malibu Road',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107107865','tt14039582','movie',758866,'movie',597710,NULL,'m/drive_my_car','Drive My Car',2021,'Ryusuke Hamaguchi',179,NULL);
