@@ -2910,7 +2910,7 @@ INSERT INTO items VALUES('Q20762668','tt5074352','movie',360814,'movie',235890,N
 INSERT INTO items VALUES('Q20762680','tt2283362','movie',353486,'movie',222254,'umc.cmc.22pzqgm05wrmj696913rtlfs5','m/jumanji_welcome_to_the_jungle','Jumanji: Welcome to the Jungle',2017,'Jake Kasdan',119,76);
 INSERT INTO items VALUES('Q20814623','tt1212428','movie',314095,'movie',193776,'umc.cmc.dso1xwf4wkfbyi027df8cmw7','m/the_lost_city_of_z','The Lost City of Z',2016,'James Gray',141,86);
 INSERT INTO items VALUES('Q20814798','tt4334266','movie',316154,'movie',197051,'umc.cmc.3x4fmfcwpyymxras2diedocvh','m/the_bad_batch','The Bad Batch',2016,'Ana Lily Amirpour',118,46);
-INSERT INTO items VALUES('Q20856802','tt3783958','movie',313369,'movie',192932,'umc.cmc.2ls5rdvvy1t038my1urkcjt94','m/la_la_land','La La Land',2016,'Damien Chazelle',128,91);
+INSERT INTO items VALUES('Q20856802','tt3783958','movie',313369,'movie',192932,'umc.cmc.2ls5rdvvy1t038my1urkcjt94','m/la_la_land','La ciudad de las ESTRELLAS',2016,'Damien Chazelle',128,91);
 INSERT INTO items VALUES('Q20856971','tt4635276','tv',64254,'show',100817,'umc.cmc.36s7av7m05wp8mwyvbfphzqes','tv/master-of-none','Master of None',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q20856973','tt2545428','movie',318279,'movie',201675,'umc.cmc.2awnemhi8yz2fvd10qhpnkcnk','m/meru_2015','Meru',2015,NULL,90,88);
 INSERT INTO items VALUES('Q20875660','tt3416536','movie',347866,'movie',257501,'umc.cmc.4uz4kzg5tfrisyrbh2egs3xk5','m/hot_summer_nights','Hot Summer Nights',2017,'Elijah Bynum',120,43);
@@ -3932,7 +3932,7 @@ INSERT INTO items VALUES('Q104878660','tt11394170','movie',653734,'movie',502395
 INSERT INTO items VALUES('Q104880088','tt8296030','movie',883083,'movie',707166,'umc.cmc.34f24ebaf1b4ft46wtrbbcfsz',NULL,'You Won''t Be Alone',2022,'Goran Stolevski',NULL,NULL);
 INSERT INTO items VALUES('Q104881069','tt13648228','movie',776559,'movie',614029,NULL,'m/how_it_ends_2021','How It Ends',NULL,NULL,NULL,66);
 INSERT INTO items VALUES('Q104882631','tt11508438','movie',776545,'movie',613880,NULL,'m/one_for_the_road_2021','One for the Road',NULL,'Nattawut Poonpiriya',NULL,66);
-INSERT INTO items VALUES('Q104889029','tt14060094','movie',823625,'movie',656669,NULL,'m/blacklight_2022','Blacklight',2022,'Mark Williams',108,NULL);
+INSERT INTO items VALUES('Q104889029','tt14060094','movie',823625,'movie',656669,'umc.cmc.5dsg33dgny9n6sd1cgb43rq5c','m/blacklight_2022','Blacklight',2022,'Mark Williams',108,NULL);
 INSERT INTO items VALUES('Q104891260','tt1649418','movie',725201,'movie',567523,NULL,NULL,'The Gray Man',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105012394','tt11777738','movie',672208,'movie',505713,'umc.cmc.45eo68vr9ommfkl7w8x0hu3fv','m/a_hero','A Hero',2021,'Asghar Farhadi',128,97);
 INSERT INTO items VALUES('Q105044259','tt11285280','movie',776515,'movie',613919,'umc.cmc.33cb4iz6kx88x33mp0dqzdyd8','m/together_together','Together Together',2021,'Nikole Beckwith',90,90);
