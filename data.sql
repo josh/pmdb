@@ -851,7 +851,7 @@ INSERT INTO items VALUES('Q309086','tt0097742','movie',709,'movie',581,'umc.cmc.
 INSERT INTO items VALUES('Q309153','tt0045152','movie',872,'movie',715,'umc.cmc.4y40uv6tngxx1wfrh78p8yzft','m/singin_in_the_rain','Singin'' in the Rain',1952,NULL,103,100);
 INSERT INTO items VALUES('Q309289','tt0071807','movie',682,'movie',556,'umc.cmc.4shbyw0fstfkw1fk4nari26ok','m/man_with_the_golden_gun','The Man with the Golden Gun',1974,'Guy Hamilton',125,39);
 INSERT INTO items VALUES('Q309366','tt0368891','movie',2059,'movie',1413,'umc.cmc.107ha7q79qm6lc9ldm81o9cz9','m/national_treasure','National Treasure',2004,'Jon Turteltaub',126,46);
-INSERT INTO items VALUES('Q309545','tt0055031','movie',821,'movie',664,NULL,'m/judgment_at_nuremburg','Judgment at Nuremberg',1961,'Stanley Kramer',188,92);
+INSERT INTO items VALUES('Q309545','tt0055031','movie',821,'movie',664,'umc.cmc.581rrem8qg9bo9f920qxj30xa','m/judgment_at_nuremburg','Judgment at Nuremberg',1961,'Stanley Kramer',188,92);
 INSERT INTO items VALUES('Q309621','tt0120746','movie',9342,'movie',4635,'umc.cmc.3gibt2z03k1lejvlcn48ee1b','m/mask_of_zorro','The Mask of Zorro',1998,'Martin Campbell',132,83);
 INSERT INTO items VALUES('Q310617','tt0401711','movie',2266,'movie',1595,'umc.cmc.4w9f0oltmnjx283a870lk817u','m/paris_je_taime','Paris, je t''aime',2006,NULL,120,86);
 INSERT INTO items VALUES('Q311525','tt0780516','movie',13195,'movie',7741,'umc.cmc.knzs9p8f73zk8z1pg2lw2b5p','m/10008754-flawless','Flawless',2007,'Michael Radford',108,55);
@@ -3980,7 +3980,7 @@ INSERT INTO items VALUES('Q106103421','tt12618926','movie',766798,'movie',605283
 INSERT INTO items VALUES('Q106201720','tt11828492','tv',119181,'show',173303,'umc.cmc.6gdc6v4vwyaab7klocftv2s10','tv/physical','Physical',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106237993','tt10207710','movie',713711,'movie',556593,NULL,'m/the_gateway','The Gateway',NULL,'Michele Civetta',NULL,55);
 INSERT INTO items VALUES('Q106298449','tt8704802','movie',694681,'movie',538591,NULL,'m/the_last_blockbuster','The Last Blockbuster',NULL,NULL,NULL,68);
-INSERT INTO items VALUES('Q106322463','tt10244600','tv',124067,'show',176451,NULL,NULL,'Winning Time: The Rise of the Lakers Dynasty',NULL,'Adam McKay',NULL,NULL);
+INSERT INTO items VALUES('Q106322463','tt10244600','tv',124067,'show',176451,NULL,'tv/winning_time_the_rise_of_the_lakers_dynasty','Winning Time: The Rise of the Lakers Dynasty',NULL,'Adam McKay',NULL,NULL);
 INSERT INTO items VALUES('Q106350657','tt12483708','movie',798141,'movie',633646,NULL,'m/doors_2021','Doors',2021,NULL,NULL,42);
 INSERT INTO items VALUES('Q106358952','tt8080556','movie',510714,'movie',358120,NULL,NULL,'The Director and the Jedi',2018,'Anthony Wonke',95,NULL);
 INSERT INTO items VALUES('Q106358975','tt0903660','movie',37312,'movie',23860,NULL,'m/killer_at_large','Killer at Large',2008,'Steven Greenstreet',NULL,NULL);
