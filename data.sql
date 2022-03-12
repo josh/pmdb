@@ -4009,7 +4009,7 @@ INSERT INTO items VALUES('Q106555237','tt12615492','tv',104148,'show',162752,'um
 INSERT INTO items VALUES('Q106578104','tt6462958','movie',680860,'movie',525915,NULL,NULL,'I Want You Back',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106582931','tt10919420','tv',93405,'show',162712,'umc.cmc.3qvhpqcspdkzmwmwyptyj9v0m','tv/squid_game','Squid Game',NULL,'Hwang Dong-hyeok',NULL,NULL);
 INSERT INTO items VALUES('Q106590157','tt15084142','tv',123149,'show',179021,'umc.cmc.4fcexvzqezr25p9weks6sxpob','tv/the_problem_with_jon_stewart','The Problem with Jon Stewart',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q106602590','tt9569546','tv',99617,'show',158804,NULL,'tv/halston','Halston',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q106602590','tt9569546','tv',99617,'show',158804,NULL,'tv/halston','Halston',NULL,'Daniel Minahan',NULL,NULL);
 INSERT INTO items VALUES('Q106608782','tt13356646','tv',119279,'show',173179,'umc.cmc.5i31ez1s0m5w9j0yl32rtkk6y','tv/solos','Solos',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106609866','tt13659418','tv',114925,'show',171029,NULL,'tv/pam_and_tommy','Pam & Tommy',2022,'Craig Gillespie',NULL,NULL);
 INSERT INTO items VALUES('Q106609934','tt12026710','tv',100414,'show',164704,NULL,'tv/suspicion','Suspicion',NULL,NULL,NULL,NULL);
