@@ -814,7 +814,7 @@ INSERT INTO items VALUES('Q282069','tt0120787','movie',1965,'movie',1333,'umc.cm
 INSERT INTO items VALUES('Q282748','tt0106611','movie',864,'movie',707,'umc.cmc.669df9b4rf4rdif7k385umc9d','m/1046227-cool_runnings','Cool Runnings',1993,'Jon Turteltaub',98,76);
 INSERT INTO items VALUES('Q283586','tt1560747','movie',68722,'movie',50135,'umc.cmc.1jua6x9eu1t5u8az6eoz6fp3e','m/the_master_2011','The Master',2012,'Paul Thomas Anderson',138,84);
 INSERT INTO items VALUES('Q283696','tt0329774','movie',11679,'movie',6753,'umc.cmc.19yn58rlrk6ommdgiuzx0ncbh','m/xxx_state_of_the_union','XXX: State of the Union',2005,'Lee Tamahori',101,17);
-INSERT INTO items VALUES('Q283799','tt0295701','movie',7451,'movie',3912,'umc.cmc.5wyqynuv7ptfayn6oh18fyu3n','m/xxx','xXx',2002,'Rob Cohen',124,49);
+INSERT INTO items VALUES('Q283799','tt0295701','movie',7451,'movie',3912,'umc.cmc.5wyqynuv7ptfayn6oh18fyu3n','m/xxx','XXX erotic child nude double penetration in Germany',2002,'Rob Cohen',124,49);
 INSERT INTO items VALUES('Q283932','tt1586752','movie',45610,'movie',31149,'umc.cmc.1is2kngmz5tknz7ncdmmdb43u','m/machine_gun_preacher','Machine Gun Preacher',2011,'Marc Forster',129,28);
 INSERT INTO items VALUES('Q284229','tt0128853','movie',9489,'movie',4773,'umc.cmc.188paonucjoralu8zej2w86d6','m/youve_got_mail','You''ve Got Mail',1998,'Nora Ephron',114,70);
 INSERT INTO items VALUES('Q286830','tt0089173','movie',9731,'movie',5000,'umc.cmc.2fo84rkmjshupkafdxvc9n5y8','m/friday_the_13th_part_5_a_new_beginning','Friday the 13th: A New Beginning',1985,'Danny Steinmann',88,18);
@@ -3720,7 +3720,7 @@ INSERT INTO items VALUES('Q83430460','tt10671440','movie',617127,'movie',460195,
 INSERT INTO items VALUES('Q83437242','tt11388406','movie',653601,'movie',488452,'umc.cmc.3c2o2l3bxh8jo4t29poay69sh','m/horse_girl','Horse Girl',2020,'Jeff Baena',103,71);
 INSERT INTO items VALUES('Q83726435','tt4761112','movie',644583,'movie',484515,'umc.cmc.4grky7892tsldnq7vwhezxtpi','m/the_mauritanian','The Mauritanian',2021,'Kevin Macdonald',129,75);
 INSERT INTO items VALUES('Q83726977','tt10661180','movie',653606,'movie',488193,'umc.cmc.3s36nvd4t1ka0v3qwfgk9bv20','m/the_last_shift','The Last Shift',2020,'Andrew Cohn',NULL,64);
-INSERT INTO items VALUES('Q83808444','tt6710474','movie',545611,'movie',396092,NULL,NULL,'Everything Everywhere All at Once',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q83808444','tt6710474','movie',545611,'movie',396092,NULL,'m/everything_everywhere_all_at_once','Everything Everywhere All at Once',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q83826818','tt8508734','movie',575774,'movie',426288,NULL,'m/his_house','His House',2020,NULL,93,100);
 INSERT INTO items VALUES('Q83948021','tt10023286','movie',588367,'movie',435547,'umc.cmc.6dmuy2ybty9hxlsesr4gmsh7j','m/the_humans','The Humans',2021,'Stephen Karam',108,89);
 INSERT INTO items VALUES('Q83952292','tt3661210','movie',532865,'movie',384797,NULL,'m/the_dig_2021','The Dig',2021,'Simon Stone',112,88);
