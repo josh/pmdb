@@ -2625,6 +2625,7 @@ INSERT INTO items VALUES('Q7900236','tt1701976','movie',77269,'movie',57131,'umc
 INSERT INTO items VALUES('Q7903650','tt1883092','tv',46849,'show',69969,NULL,'m/771363367','Generation War',2013,'Philipp Kadelbach',270,NULL);
 INSERT INTO items VALUES('Q7980708','tt1247703','movie',14981,'movie',9076,'umc.cmc.30bviw7r3ogn32mj1vkny27tt','m/welcome_to_macintosh','Welcome to Macintosh',2008,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q7983000','tt2433738','tv',44856,'show',44608,NULL,NULL,'Wentworth',NULL,NULL,45,NULL);
+INSERT INTO items VALUES('Q7997671','tt0163507','tv',61018,'show',60544,NULL,NULL,'Whose Line Is It Anyway?',NULL,'Bruce Gowers',NULL,NULL);
 INSERT INTO items VALUES('Q8031851','tt0857275','movie',27735,'movie',17126,NULL,'m/10011946-wonderful_world','Wonderful World',2009,NULL,NULL,42);
 INSERT INTO items VALUES('Q8561227','tt1840309','movie',157350,'movie',102162,'umc.cmc.3kgk1of72vppm0v2y6f0sh4xb','m/divergent','Divergent',2014,'Neil Burger',139,41);
 INSERT INTO items VALUES('Q8885676','tt0087544','movie',81,'movie',51,'umc.cmc.5a19fikldgwe4cnl8smazz6tx','m/nausicaa_of_the_valley_of_the_wind','Nausicaä of the Valley of the Wind',1983,'Hayao Miyazaki',117,89);
@@ -3412,7 +3413,7 @@ INSERT INTO items VALUES('Q56276177','tt8134186','tv',81349,'show',147971,'umc.c
 INSERT INTO items VALUES('Q56277286','tt8880894','tv',81532,'show',151776,'umc.cmc.6ckhbdbgp545y6tzqquorfap9','tv/living_with_yourself','Living with Yourself',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q56278708','tt8595766','tv',81166,'show',134060,NULL,NULL,'Yeh Meri Family',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q56279881','tt8239946','movie',538858,'movie',390392,NULL,'m/tumbbad','Tumbbad',2018,NULL,NULL,85);
-INSERT INTO items VALUES('Q56281007','tt0804484','tv',93740,'show',150469,'umc.cmc.5983fipzqbicvrve6jdfep4x3','tv/foundation','Foundation',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q56281007','tt0804484','tv',93740,'show',150469,'umc.cmc.5983fipzqbicvrve6jdfep4x3','tv/foundation','Foundation',NULL,'Rupert Sanders',NULL,NULL);
 INSERT INTO items VALUES('Q56281064','tt6821044','tv',80443,'show',143566,'umc.cmc.r7wtgdpqr72ba01jo70hso3x','tv/the_loudest_voice','The Loudest Voice',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q56281252','tt8902948','movie',544415,'movie',395086,'umc.cmc.7625pe7zvmrh6hohnmu0lpvv','m/tigertail','Tigertail',2020,'Alan Yang',91,81);
 INSERT INTO items VALUES('Q56281882','tt2140629','movie',490004,'movie',337052,NULL,'m/arizona_2018','Arizona',2018,NULL,NULL,43);
