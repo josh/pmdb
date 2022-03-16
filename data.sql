@@ -4080,7 +4080,7 @@ INSERT INTO items VALUES('Q109051190','tt11001074','movie',710258,'movie',553090
 INSERT INTO items VALUES('Q109269311','tt15239678','movie',693134,'movie',537449,NULL,NULL,'Dune: Part Two',2023,'Denis Villeneuve',NULL,NULL);
 INSERT INTO items VALUES('Q109284173','tt11909878','movie',642885,'movie',480709,NULL,NULL,'Hocus Pocus 2',2022,'Anne Fletcher',NULL,NULL);
 INSERT INTO items VALUES('Q109284708','tt15523010','movie',879540,'movie',704047,NULL,NULL,'The Closer',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q109284828','tt11127680','movie',807196,'movie',641839,NULL,'m/boiling_point_2021','Boiling Point',NULL,'Philip Barantini',NULL,NULL);
+INSERT INTO items VALUES('Q109284828','tt11127680','movie',807196,'movie',641839,NULL,'m/boiling_point_2021','Boiling Point',2021,'Philip Barantini',92,NULL);
 INSERT INTO items VALUES('Q109285531','tt13622146','movie',819500,'movie',652579,NULL,'m/found_2021','Found',2021,'Amanda Lipitz',NULL,NULL);
 INSERT INTO items VALUES('Q109607643','tt13622958','tv',114466,'show',170646,NULL,NULL,'Baymax!',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q109901438','tt9288030','tv',108978,'show',155536,NULL,'tv/reacher','Reacher',NULL,'Thomas Vincent',NULL,NULL);
