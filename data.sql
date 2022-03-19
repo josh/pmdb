@@ -4075,7 +4075,7 @@ INSERT INTO items VALUES('Q108582045','tt9098872','movie',680058,'movie',524376,
 INSERT INTO items VALUES('Q108673183','tt11173006','tv',126301,'show',185581,NULL,'tv/super_pumped_the_battle_for_uber','Super Pumped',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q108689571','tt10731840','tv',6850,'show',170659,NULL,NULL,'The Premise',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q108690659','tt12263384','movie',697843,'movie',541747,NULL,NULL,'Extraction 2',NULL,'Sam Hargrave',NULL,NULL);
-INSERT INTO items VALUES('Q108695969','tt11131464','movie',821427,'movie',654400,NULL,NULL,'The Novice',NULL,'Lauren Hadaway',NULL,NULL);
+INSERT INTO items VALUES('Q108695969','tt11131464','movie',821427,'movie',654400,NULL,NULL,'The Novice',2021,'Lauren Hadaway',97,NULL);
 INSERT INTO items VALUES('Q108764447','tt14641788','movie',829280,'movie',661649,NULL,NULL,'Enola Holmes 2',2022,'Harry Bradbeer',NULL,NULL);
 INSERT INTO items VALUES('Q108881587','tt11247158','tv',135934,'show',154904,NULL,'tv/the_legend_of_vox_machina','The Legend of Vox Machina',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q109051190','tt11001074','movie',710258,'movie',553090,NULL,NULL,'Rust',NULL,'Joel Souza',NULL,NULL);
