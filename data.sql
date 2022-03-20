@@ -1734,7 +1734,7 @@ INSERT INTO items VALUES('Q858508','tt0405325','movie',11459,'movie',6547,'umc.c
 INSERT INTO items VALUES('Q858724','tt0365748','movie',747,'movie',592,'umc.cmc.2zrq753s5mz97rym6p7i3zhdm','m/shaun_of_the_dead','Shaun of the Dead',2004,'Edgar Wright',95,92);
 INSERT INTO items VALUES('Q858840','tt0107362','movie',9593,'movie',4869,'umc.cmc.4vzx52uf4xb0zpuybqfjjf118','m/last_action_hero','Last Action Hero',1993,'John McTiernan',130,40);
 INSERT INTO items VALUES('Q858842','tt1245526','movie',39514,'movie',25704,'umc.cmc.3nzyjpfs5vible3mve63v13jw','m/red','RED',2010,'Robert Schwentke',111,72);
-INSERT INTO items VALUES('Q858976','tt1144884','movie',19912,'movie',12223,'umc.cmc.3gxzetugrmvc7vwljus7zlcdg','m/final_destination_final_death_trip_3d','The Final Destination',2009,'David R. Ellis',78,28);
+INSERT INTO items VALUES('Q858976','tt1144884','movie',19912,'movie',12223,'umc.cmc.3gxzetugrmvc7vwljus7zlcdg','m/final_destination_final_death_trip_3d','The Final Destination',2009,'David R. Ellis',82,28);
 INSERT INTO items VALUES('Q859019','tt1886493','movie',75736,'movie',55855,'umc.cmc.74of3ingcrol5fp0ynqs3nqrc','m/catch_44_2011','Catch .44',2011,'Aaron Harvey',94,NULL);
 INSERT INTO items VALUES('Q859084','tt0421729','movie',11565,'movie',6645,'umc.cmc.6woqsg20agg5uquqkwoh5icxi','m/1154157-big_mommas_house_2','Big Momma''s House 2',2005,'John Whitesell',99,5);
 INSERT INTO items VALUES('Q859494','tt0090728','movie',6978,'movie',3799,'umc.cmc.6vu2e5x2sn7j7ubkfqikcv5wl','m/big_trouble_in_little_china','Big Trouble in Little China',1986,'John Carpenter',99,74);
