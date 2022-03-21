@@ -3351,7 +3351,7 @@ INSERT INTO items VALUES('Q55081822','tt1950186','movie',359724,'movie',324762,'
 INSERT INTO items VALUES('Q55178974','tt8041270','movie',507086,'movie',354191,'umc.cmc.4bjj3kj10p3h3pih1hi308rdc','m/jurassic_world_3','Jurassic World Dominion',2022,'Colin Trevorrow',NULL,NULL);
 INSERT INTO items VALUES('Q55223237','tt7914416','movie',513434,'movie',361003,'umc.cmc.267wkkqgv6n0f2cz1mlip02u0','m/one_cut_of_the_dead','One Cut of the Dead',2017,'Shinichiro Ueda',96,100);
 INSERT INTO items VALUES('Q55258972','tt6521876','movie',440762,'movie',286484,'umc.cmc.3nfvgl6t0k25h5w1cj9943w44','m/jay_and_silent_bob_reboot','Jay and Silent Bob Reboot',2019,'Kevin Smith',NULL,67);
-INSERT INTO items VALUES('Q55279915','tt2934286','tv',52814,'show',150109,NULL,NULL,'Halo',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q55279915','tt2934286','tv',52814,'show',150109,NULL,'tv/halo','Halo',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q55284752','tt6566768','movie',512199,'movie',359853,'umc.cmc.6raq02dug07j1js2z9zeb2ccd','m/native_son_2019','Native Son',2019,'Rashid Johnson',104,60);
 INSERT INTO items VALUES('Q55360440','tt7186588','tv',81239,'show',133887,'umc.cmc.4flhqk2pl0qp50xpqsl80c5dk','tv/i_am_the_night','I Am the Night',NULL,'Patty Jenkins',NULL,NULL);
 INSERT INTO items VALUES('Q55392278','tt2639336','movie',471506,'movie',318851,'umc.cmc.7h7pnlkpzise01qjfwm5yfqd1','m/greta_2019','Greta',2018,'Neil Jordan',98,60);
