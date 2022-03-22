@@ -3213,7 +3213,7 @@ INSERT INTO items VALUES('Q33256053','tt6491178','movie',438674,'movie',316437,'
 INSERT INTO items VALUES('Q33256085','tt6212478','movie',489931,'movie',337055,'umc.cmc.531v0hw3o5sfbjg2celp5b783','m/american_animals','American Animals',2018,'Bart Layton',116,88);
 INSERT INTO items VALUES('Q33408623','tt7126948','movie',464052,'movie',311212,'umc.cmc.1pq7jxkjbskjmlbiskxlydtef','m/wonder_woman_1984','Wonder Woman 1984',2020,'Patty Jenkins',151,58);
 INSERT INTO items VALUES('Q33730633','tt6469960','movie',468291,'movie',315511,'umc.cmc.1m43cscr3n8jwyjksh1gp4hgb','m/an_imperfect_murder','The Private Life of a Modern Woman',2017,'James Toback',NULL,40);
-INSERT INTO items VALUES('Q34779365','tt6476140','movie',452832,'movie',316199,'umc.cmc.37myjg92hxswg0i58lbbngjju','m/serenity_2019','Serenity',2018,'Steven Knight',106,21);
+INSERT INTO items VALUES('Q34779365','tt6476140','movie',452832,'movie',316199,'umc.cmc.37myjg92hxswg0i58lbbngjju','m/serenity_2019','Serenity',2019,'Steven Knight',106,21);
 INSERT INTO items VALUES('Q34905518','tt6333060','movie',432976,'movie',283960,'umc.cmc.6jx1zigherr2etnfbdu2vrcu1','m/icarus_2017','Icarus',2017,'Bryan Fogel',121,92);
 INSERT INTO items VALUES('Q35712909','tt1785635','movie',416160,'movie',260973,'umc.cmc.3er5mepd15fyh2ug7n0te85nu','m/the_vault_2017','The Vault',2017,'Dan Bush',91,27);
 INSERT INTO items VALUES('Q35783117','tt3846674','movie',466282,'movie',313472,'umc.cmc.2e7ufs6cru897yjgu7xuqizqj','m/to_all_the_boys_ive_loved_before','To All the Boys I''ve Loved Before',2018,'Susan Johnson',99,96);
