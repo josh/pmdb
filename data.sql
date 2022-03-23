@@ -3125,7 +3125,7 @@ INSERT INTO items VALUES('Q27958298','tt4555426','movie',399404,'movie',242684,'
 INSERT INTO items VALUES('Q27958468','tt3893280','movie',334535,'movie',225993,'umc.cmc.1hrx3p1n25hax834jvrvn7xml','m/the_ticket_2017','The Ticket',2016,'Ido Fluk',NULL,51);
 INSERT INTO items VALUES('Q27959455','tt6155172','movie',426426,'movie',270740,'umc.cmc.rqs3gxufy5jwcjqqy0jzzedh','m/roma_2018','Roma',2018,'Alfonso Cuarón',135,96);
 INSERT INTO items VALUES('Q27961908','tt5932728','movie',411728,'movie',257281,'umc.cmc.17z307ljsrls07nj52r5wc2dm','m/the_professor_and_the_madman','The Professor and the Madman',2019,'Farhad Safinia',124,41);
-INSERT INTO items VALUES('Q27964345','tt5929754','movie',417812,'movie',261815,'umc.cmc.150ijqg1269nad3pbysie73dm','m/wildlife_2018','Wildlife',2018,'Paul Dano',104,94);
+INSERT INTO items VALUES('Q27964345','tt5929754','movie',417812,'movie',261815,'umc.cmc.150ijqg1269nad3pbysie73dm','m/wildlife_2018','Wildlife',2018,'Luciano Monetta',104,94);
 INSERT INTO items VALUES('Q27964354','tt7282468','movie',491584,'movie',338552,'umc.cmc.2tk6930hx41blpqwgk9o5hqvs','m/burning_2018','Burning',2018,'Lee Chang-dong',148,95);
 INSERT INTO items VALUES('Q27964497','tt6265828','movie',428449,'movie',272554,'umc.cmc.23bz8g1jbad22chdrqarf6kk7','m/a_ghost_story','A Ghost Story',2017,'David Lowery',92,91);
 INSERT INTO items VALUES('Q27964590','tt4218696','movie',405775,'movie',273058,'umc.cmc.6si66ljnflsuop1yzfs7fdfqy','m/the_wall_2017','The Wall',2017,'Doug Liman',81,65);
@@ -3985,6 +3985,7 @@ INSERT INTO items VALUES('Q106103421','tt12618926','movie',766798,'movie',605283
 INSERT INTO items VALUES('Q106201720','tt11828492','tv',119181,'show',173303,'umc.cmc.6gdc6v4vwyaab7klocftv2s10','tv/physical','Physical',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106237993','tt10207710','movie',713711,'movie',556593,NULL,'m/the_gateway','The Gateway',NULL,'Michele Civetta',NULL,55);
 INSERT INTO items VALUES('Q106298449','tt8704802','movie',694681,'movie',538591,NULL,'m/the_last_blockbuster','The Last Blockbuster',NULL,NULL,NULL,68);
+INSERT INTO items VALUES('Q106311043','tt9411972','movie',682507,'movie',527265,NULL,NULL,'Where the Crawdads Sing',NULL,'Olivia Newman',NULL,NULL);
 INSERT INTO items VALUES('Q106322463','tt10244600','tv',124067,'show',176451,NULL,'tv/winning_time_the_rise_of_the_lakers_dynasty','Winning Time: The Rise of the Lakers Dynasty',NULL,'Adam McKay',NULL,NULL);
 INSERT INTO items VALUES('Q106350657','tt12483708','movie',798141,'movie',633646,NULL,'m/doors_2021','Doors',2021,NULL,NULL,42);
 INSERT INTO items VALUES('Q106358952','tt8080556','movie',510714,'movie',358120,NULL,NULL,'The Director and the Jedi',2018,'Anthony Wonke',95,NULL);
