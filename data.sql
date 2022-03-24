@@ -3125,7 +3125,7 @@ INSERT INTO items VALUES('Q27958298','tt4555426','movie',399404,'movie',242684,'
 INSERT INTO items VALUES('Q27958468','tt3893280','movie',334535,'movie',225993,'umc.cmc.1hrx3p1n25hax834jvrvn7xml','m/the_ticket_2017','The Ticket',2016,'Ido Fluk',NULL,51);
 INSERT INTO items VALUES('Q27959455','tt6155172','movie',426426,'movie',270740,'umc.cmc.rqs3gxufy5jwcjqqy0jzzedh','m/roma_2018','Roma',2018,'Alfonso Cuarón',135,96);
 INSERT INTO items VALUES('Q27961908','tt5932728','movie',411728,'movie',257281,'umc.cmc.17z307ljsrls07nj52r5wc2dm','m/the_professor_and_the_madman','The Professor and the Madman',2019,'Farhad Safinia',124,41);
-INSERT INTO items VALUES('Q27964345','tt5929754','movie',417812,'movie',261815,'umc.cmc.150ijqg1269nad3pbysie73dm','m/wildlife_2018','Wildlife',2018,'Luciano Monetta',104,94);
+INSERT INTO items VALUES('Q27964345','tt5929754','movie',417812,'movie',261815,'umc.cmc.150ijqg1269nad3pbysie73dm','m/wildlife_2018','Wildlife',2018,'Paul Dano',104,94);
 INSERT INTO items VALUES('Q27964354','tt7282468','movie',491584,'movie',338552,'umc.cmc.2tk6930hx41blpqwgk9o5hqvs','m/burning_2018','Burning',2018,'Lee Chang-dong',148,95);
 INSERT INTO items VALUES('Q27964497','tt6265828','movie',428449,'movie',272554,'umc.cmc.23bz8g1jbad22chdrqarf6kk7','m/a_ghost_story','A Ghost Story',2017,'David Lowery',92,91);
 INSERT INTO items VALUES('Q27964590','tt4218696','movie',405775,'movie',273058,'umc.cmc.6si66ljnflsuop1yzfs7fdfqy','m/the_wall_2017','The Wall',2017,'Doug Liman',81,65);
