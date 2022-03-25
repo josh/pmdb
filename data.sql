@@ -1091,7 +1091,7 @@ INSERT INTO items VALUES('Q478748','tt0457939','movie',1581,'movie',1037,'umc.cm
 INSERT INTO items VALUES('Q482436','tt1174732','movie',24684,'movie',14881,'umc.cmc.xccf74gs9fdlqglsdh3httph','m/an_education','An Education',2009,'Lone Scherfig',95,93);
 INSERT INTO items VALUES('Q482626','tt0099871','movie',2291,'movie',1612,'umc.cmc.451sbhehkam337n6lfrjge5ov','m/jacobs_ladder','Jacob''s Ladder',1990,'Adrian Lyne',108,73);
 INSERT INTO items VALUES('Q482662','tt0146838','movie',9563,'movie',4841,'umc.cmc.39kdx86eu67g7e3e2e2pos81s','m/any_given_sunday','Any Given Sunday',1999,'Oliver Stone',162,52);
-INSERT INTO items VALUES('Q483815','tt0126029','movie',808,'movie',651,'umc.cmc.1xebq6b6acn6az49exa5ybl1c','m/shrek','Shrekno blade',2001,NULL,90,88);
+INSERT INTO items VALUES('Q483815','tt0126029','movie',808,'movie',651,'umc.cmc.1xebq6b6acn6az49exa5ybl1c','m/shrek','Shrek',2001,NULL,90,88);
 INSERT INTO items VALUES('Q483852','tt0107614','movie',788,'movie',631,'umc.cmc.2ng39gw879r6alz17osou1sfc','m/mrs_doubtfire','Mrs. Doubtfire',1993,'Chris Columbus',125,72);
 INSERT INTO items VALUES('Q483941','tt0108052','movie',424,'movie',336,'umc.cmc.53hzoo3z0ufjb6wsxgspp2jlf','m/schindlers_list','Schindler''s List',1993,NULL,195,98);
 INSERT INTO items VALUES('Q484020','tt0096657','tv',4327,'show',4303,NULL,NULL,'Mr. Bean',NULL,NULL,NULL,NULL);
