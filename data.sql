@@ -682,7 +682,7 @@ INSERT INTO items VALUES('Q223977','tt0804503','tv',1104,'show',1099,'umc.cmc.26
 INSERT INTO items VALUES('Q224004','tt0065112','movie',2370,'movie',1662,'umc.cmc.4vhz93y4w77i4un976aj468ym','m/topaz','Topaz',1969,'Alfred Hitchcock',120,69);
 INSERT INTO items VALUES('Q224069','tt0399201','movie',1635,'movie',1081,'umc.cmc.zsdn6gfy1mpn2lkd6ok4a35d','m/island','The Island',2005,'Michael Bay',130,40);
 INSERT INTO items VALUES('Q224117','tt0389722','movie',4513,'movie',2648,'umc.cmc.546alx30qmowexxbzooiv49fm','m/30_days_of_night','30 Days of Night',2007,'David Slade',113,51);
-INSERT INTO items VALUES('Q224130','tt0120667','movie',9738,'movie',5004,'umc.cmc.1ypfiyxmfz2luig1x55zzt074','m/fantastic_four','Fantastic Four',2005,'Tim Story',102,28);
+INSERT INTO items VALUES('Q224130','tt0120667','movie',9738,'movie',5004,'umc.cmc.1ypfiyxmfz2luig1x55zzt074','m/fantastic_four','Fantastic Four',2005,'Tim Story',102,27);
 INSERT INTO items VALUES('Q224133','tt1622547','movie',62206,'movie',44675,'umc.cmc.1tbj8gi7k2w26srz6zwln9p1n','m/30_minutes_or_less','30 Minutes or Less',2011,'Ruben Fleischer',83,45);
 INSERT INTO items VALUES('Q224647','tt0118971','movie',1813,'movie',1199,'umc.cmc.6xlnc88ukwbgt8lxv6hwn24eh','m/devils_advocate','The Devil''s Advocate',1997,'Taylor Hackford',143,63);
 INSERT INTO items VALUES('Q225260','tt0119190','movie',10603,'movie',5778,'umc.cmc.w6ffhmet2odbu3o1k0st1w69','m/1077847-george_of_the_jungle','George of the Jungle',1997,'Sam Weisman',92,56);
@@ -793,7 +793,7 @@ INSERT INTO items VALUES('Q274529','tt1037705','movie',20504,'movie',12589,'umc.
 INSERT INTO items VALUES('Q274748','tt1411697','movie',45243,'movie',30842,'umc.cmc.574kv54fo07kjiffxvk518kig','m/the_hangover_2','The Hangover Part II',2011,'Todd Phillips',102,34);
 INSERT INTO items VALUES('Q274887','tt0443274','movie',7461,'movie',3921,'umc.cmc.54lzcm89defeei6nqisml8a24','m/vantage_point','Vantage Point',2008,'Pete Travis',90,34);
 INSERT INTO items VALUES('Q274973','tt0134273','movie',8224,'movie',4087,'umc.cmc.5knguaj1lmqgt3deqfv1bgibi','m/8mm','8mm',1999,'Joel Schumacher',123,23);
-INSERT INTO items VALUES('Q275120','tt0458339','movie',1771,'movie',1170,'umc.cmc.621ts42h8b35wrzkmdlqiozsw','m/captain_america_the_first_avenger','Captain America: The First Avenger',2011,'Joe Johnston',124,79);
+INSERT INTO items VALUES('Q275120','tt0458339','movie',1771,'movie',1170,'umc.cmc.621ts42h8b35wrzkmdlqiozsw','m/captain_america_the_first_avenger','Captain America: The First Avenger',2011,'Joe Johnston',124,80);
 INSERT INTO items VALUES('Q275180','tt0455824','movie',6972,'movie',3793,'umc.cmc.76lfyo8n36tscrclxy9u8zmx6','m/australia','Australia',2008,'Baz Luhrmann',166,55);
 INSERT INTO items VALUES('Q275187','tt0498380','movie',1251,'movie',867,'umc.cmc.33vhuqzlo0zdx2mmed8my442o','m/letters_from_iwo_jima','Letters from Iwo Jima',2006,'Clint Eastwood',141,91);
 INSERT INTO items VALUES('Q275432','tt1192628','movie',44896,'movie',30533,'umc.cmc.6z42651b0p9ihuz2s8w3yrky5','m/rango','Rango',2011,'Gore Verbinski',107,88);
