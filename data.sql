@@ -4005,7 +4005,7 @@ INSERT INTO items VALUES('Q106359152','tt4328666','movie',328840,'movie',209748,
 INSERT INTO items VALUES('Q106359186','tt6290202','movie',430834,'movie',276567,'umc.cmc.4t9jpb0ldw8ji1bfcfejrj42u','m/water_and_power_a_california_heist','Water & Power: A California Heist',2017,'Marina Zenovich',NULL,NULL);
 INSERT INTO items VALUES('Q106359192','tt6849786','movie',514734,'movie',363207,'umc.cmc.68nmgwt1ckm4kj9yo0qlxhh3b','m/general_magic','General Magic',2018,'Sarah Kerruish',NULL,100);
 INSERT INTO items VALUES('Q106359199','tt8792630','movie',638393,'movie',477287,'umc.cmc.1hnhtq0ir994a3e0nr49lni31',NULL,'APEX: The Secret Race Across America',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q106363032','tt14128670','movie',800510,'movie',635706,NULL,'m/kimi','KIMI',NULL,'Steven Soderbergh',NULL,NULL);
+INSERT INTO items VALUES('Q106363032','tt14128670','movie',800510,'movie',635706,NULL,'m/kimi','KIMI',2022,'Steven Soderbergh',NULL,NULL);
 INSERT INTO items VALUES('Q106371709','tt9812474','movie',788929,'movie',625298,'umc.cmc.4109n5ma9ouz5u23bjv4jwaz6','m/lamb_2021','Lamb',2021,'Valdimar Johannsson',106,86);
 INSERT INTO items VALUES('Q106405587','tt7461272','movie',579496,'movie',429112,NULL,'m/call_jane','Call Jane',2022,'Phyllis Nagy',121,NULL);
 INSERT INTO items VALUES('Q106513312','tt11827628','movie',818397,'movie',651781,NULL,NULL,'Memory',2022,'Martin Campbell',NULL,NULL);
@@ -4025,7 +4025,7 @@ INSERT INTO items VALUES('Q106639064','tt11337862','movie',691179,'movie',535487
 INSERT INTO items VALUES('Q106652253','tt13820498','tv',155493,'show',179861,NULL,NULL,'The Last Days of Ptolemy Grey',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106679014','tt13406094','tv',111803,'show',168471,'umc.cmc.3c8psnhdn9viikje3kvq69fyr','tv/the_white_lotus','The White Lotus',NULL,'Mike White',NULL,88);
 INSERT INTO items VALUES('Q106725885','tt13314558','movie',755566,'movie',595062,NULL,NULL,'Day Shift',NULL,'J.J. Perry',NULL,NULL);
-INSERT INTO items VALUES('Q106740037','tt13352968','movie',758330,'movie',597555,NULL,'m/good_luck_to_you_leo_grande','Good Luck to You, Leo Grande',NULL,'Sophie Hyde',NULL,NULL);
+INSERT INTO items VALUES('Q106740037','tt13352968','movie',758330,'movie',597555,NULL,'m/good_luck_to_you_leo_grande','Good Luck to You, Leo Grande',2022,'Sophie Hyde',NULL,NULL);
 INSERT INTO items VALUES('Q106742079','tt11947418','tv',118303,'show',178543,NULL,NULL,'Minx',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106763973','tt14512538','movie',642732,'movie',481586,NULL,'m/roadrunner_a_film_about_anthony_bourdain','Roadrunner: A Film About Anthony Bourdain',NULL,'Morgan Neville',NULL,91);
 INSERT INTO items VALUES('Q106765478','tt14392248','tv',124411,'show',179231,NULL,NULL,'Aspirants',2021,NULL,NULL,NULL);
@@ -4059,7 +4059,7 @@ INSERT INTO items VALUES('Q107297371','tt11921386','tv',101426,'show',160046,NUL
 INSERT INTO items VALUES('Q107297376','tt12001410','tv',101540,'show',159075,NULL,'tv/i_promise','I Promise',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107297380','tt11916302','movie',681459,'movie',526250,'umc.cmc.7e4mmc403au2zi7kgxcgej60k','m/derek_delgaudios_in_and_of_itself','In & Of Itself',NULL,'Frank Oz',NULL,100);
 INSERT INTO items VALUES('Q107297389','tt12162902','tv',101978,'show',160568,'umc.cmc.7a7kbu9wop3tl57yq34a2malf','tv/disney_gallery_star_wars_the_mandalorian','Disney Gallery: The Mandalorian',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q107324490','tt11000902','tv',109939,'show',168238,NULL,NULL,'Our Flag Means Death',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q107324490','tt11000902','tv',109939,'show',168238,NULL,NULL,'Our Flag Means Death',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107389143','tt10931784','movie',843932,'movie',674141,NULL,'m/nanny','Nanny',2022,'Nikyatu Jusu',NULL,NULL);
 INSERT INTO items VALUES('Q107460063','tt15009428','movie',848538,'movie',678040,NULL,NULL,'Argylle',2022,'Matthew Vaughn',NULL,NULL);
 INSERT INTO items VALUES('Q107637143','tt8755836','tv',124510,'show',179853,'umc.cmc.qkbwo24yzf1mexcvdnfaf4ql','tv/from_cradle_to_stage','From Cradle to Stage',NULL,NULL,NULL,NULL);
