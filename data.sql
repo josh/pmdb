@@ -82,7 +82,7 @@ INSERT INTO items VALUES('Q23567','tt0411008','tv',4607,'show',4583,'umc.cmc.224
 INSERT INTO items VALUES('Q23572','tt0944947','tv',1399,'show',1390,'umc.cmc.7htjb4sh74ynzxavta5boxuzq','tv/game_of_thrones','Game of Thrones',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q23577','tt0773262','tv',1405,'show',1396,'umc.cmc.2w8cp3aur89y8id4cfk2engfu','tv/dexter','Dexter',2007,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q23594','tt1796960','tv',1407,'show',1398,'umc.cmc.1n193s6qu86552u7opuewg19d','tv/homeland','Homeland',NULL,NULL,55,NULL);
-INSERT INTO items VALUES('Q23599','tt1586680','tv',34307,'show',34160,NULL,'tv/shameless','Shameless',NULL,'John Wells',NULL,NULL);
+INSERT INTO items VALUES('Q23599','tt1586680','tv',34307,'show',34160,NULL,'tv/shameless','Shameless',NULL,'John Wells',57,NULL);
 INSERT INTO items VALUES('Q23628','tt0141842','tv',1398,'show',1389,'umc.cmc.7fvpbc4pqotnxhpx36c739tyd','tv/the-sopranos','The Sopranos',NULL,'Tim Van Patten',NULL,NULL);
 INSERT INTO items VALUES('Q23670','tt0472954','tv',2710,'show',2692,'umc.cmc.ukor9ll2s04re94sh7689z5y','tv/it_s_always_sunny_in_philadelphia','It''s Always Sunny in Philadelphia',NULL,NULL,23,NULL);
 INSERT INTO items VALUES('Q23722','tt0264235','tv',4546,'show',4522,'umc.cmc.4koxxcdkbia1pne6zkt72mhva','tv/curb_your_enthusiasm','Curb Your Enthusiasm',NULL,NULL,30,NULL);
@@ -4039,7 +4039,7 @@ INSERT INTO items VALUES('Q106959099','tt12005128','tv',117821,'show',170891,NUL
 INSERT INTO items VALUES('Q106972163','tt11852724','tv',119033,'show',171855,'umc.cmc.2yiricezxngkbyfosdt8fzq0','tv/stanley_tucci_searching_for_italy','Stanley Tucci: Searching for Italy',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106982407','tt2953250','tv',106388,'show',187254,NULL,NULL,'Shining Girls',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107024491','tt13172796','movie',743599,'movie',584412,'umc.cmc.2n7y7fcg9psqt528urjyovs4x','m/plan_b_2021','Plan B',2021,'Natalie Morales',NULL,96);
-INSERT INTO items VALUES('Q107040798','tt13320622','movie',752623,'movie',592440,NULL,'m/the_lost_city','The Lost City',2022,NULL,120,76);
+INSERT INTO items VALUES('Q107040798','tt13320622','movie',752623,'movie',592440,NULL,'m/the_lost_city','The Lost City',2022,NULL,120,75);
 INSERT INTO items VALUES('Q107069381','tt14544192','movie',823754,'movie',656566,NULL,'m/bo_burnham_inside','Bo Burnham: Inside',2021,'Bo Burnham',87,93);
 INSERT INTO items VALUES('Q107071651','tt14673560','movie',830991,'movie',663244,'umc.cmc.ryvo8kqy3813nnbetgg1nfjf','m/ride_the_eagle','Ride the Eagle',2021,'Trent O''Donnell',88,81);
 INSERT INTO items VALUES('Q107089587','tt10370710','movie',660120,'movie',494289,'umc.cmc.2hnkifuob5arwcg23hx1khztd','m/the_worst_person_in_the_world','The Worst Person in the World',2021,'Joachim Trier',121,100);
