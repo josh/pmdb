@@ -22,7 +22,6 @@ INSERT INTO items VALUES(NULL,'tt11284768','movie',913812,'movie',731843,NULL,NU
 INSERT INTO items VALUES(NULL,'tt12573454','movie',717980,'movie',560894,NULL,NULL,'Sharper',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12923632','tv',NULL,'show',165790,NULL,NULL,'Dead Ringers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt14161704','tv',136741,'show',175015,NULL,NULL,'Roar',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES(NULL,'tt14507354','tv',134375,'show',188477,NULL,NULL,'The Endgame',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt15837458','movie',921353,'movie',737744,NULL,NULL,'The Wrong Place',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16282914','movie',901511,'movie',723248,NULL,NULL,'2nd Chance',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16377764','movie',913867,'movie',731862,NULL,NULL,'My Old School',NULL,NULL,NULL,NULL);
@@ -3978,7 +3977,7 @@ INSERT INTO items VALUES('Q105773177','tt8888462','tv',110382,'show',153532,'umc
 INSERT INTO items VALUES('Q105818526','tt10011302','movie',596028,'movie',441951,'umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p','m/the_emoji_story','The Emoji Story',2020,'Ian Cheney',79,92);
 INSERT INTO items VALUES('Q105907125','tt4995540','movie',517088,'movie',365183,'umc.cmc.4q5gtqro3nhigvscxgxd6tukr','m/being_the_ricardos','Being the Ricardos',2021,'Aaron Sorkin',131,NULL);
 INSERT INTO items VALUES('Q105962799','tt14114802','movie',799876,'movie',634914,NULL,'m/the_outfit_2022','The Outfit',NULL,'Graham Moore',NULL,NULL);
-INSERT INTO items VALUES('Q105970894','tt12412888','movie',675353,'movie',508640,'umc.cmc.36we37m2yhrpib29b0o40s4z4','m/sonic_the_hedgehog_2','Sonic the Hedgehog 2',2022,'Jeff Fowler',110,62);
+INSERT INTO items VALUES('Q105970894','tt12412888','movie',675353,'movie',508640,'umc.cmc.36we37m2yhrpib29b0o40s4z4','m/sonic_the_hedgehog_2','Sonic the Hedgehog 2',2022,'Jeff Fowler',110,63);
 INSERT INTO items VALUES('Q105985338','tt14158346','movie',801913,'movie',636847,NULL,'m/sharp_stick','Sharp Stick',2022,'Lena Dunham',86,NULL);
 INSERT INTO items VALUES('Q105985341','tt11741044','movie',632311,'movie',472014,NULL,NULL,'I Was a Simple Man',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105989074','tt13472984','movie',787428,'movie',623844,NULL,'m/two_distant_strangers','Two Distant Strangers',2020,NULL,32,93);
@@ -4121,6 +4120,7 @@ INSERT INTO items VALUES('Q110903952','tt17200376','movie',929745,'movie',745527
 INSERT INTO items VALUES('Q110942892','tt16378482','movie',913850,'movie',731692,NULL,NULL,'We Met in Virtual Reality',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110982644','tt7798604','movie',852096,'movie',680752,NULL,NULL,'We Have a Ghost',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110982649','tt17542000','movie',933738,'movie',748758,NULL,NULL,'Ali Wong: Don Wong',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q111463577','tt14507354','tv',134375,'show',188477,NULL,NULL,'Q111463577',NULL,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
