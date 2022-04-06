@@ -3377,7 +3377,7 @@ INSERT INTO items VALUES('Q55621513','tt8337320','movie',622977,'movie',465173,'
 INSERT INTO items VALUES('Q55623517','tt8543390','tv',91602,'show',142049,'umc.cmc.73t52lof9yg0ssydgcwr8up28','tv/modern_love','Modern Love',NULL,'John Carney',NULL,NULL);
 INSERT INTO items VALUES('Q55629993','tt6516314','movie',440444,'movie',286221,'umc.cmc.55www85o7ny0afatxv0d14hnd','m/piercing','Piercing',2018,'Nicolas Pesce',NULL,72);
 INSERT INTO items VALUES('Q55632122','tt7520794','tv',84977,'show',141548,'umc.cmc.2lwp1qsno1stmnymppen6jppd','tv/russian_doll','Russian Doll',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q55632932','tt7767422','tv',81356,'show',140590,'umc.cmc.37n7wl1b2onhbzz8ixvmktgdw','tv/sex_education','اخت ابو عدي لنيك واخت محمد عادل لنيكم',2019,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q55632932','tt7767422','tv',81356,'show',140590,'umc.cmc.37n7wl1b2onhbzz8ixvmktgdw','tv/sex_education','Sex Education',2019,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q55634470','tt8372298','movie',586461,'movie',433827,'umc.cmc.3x3zftaicri7myevqlatv8tth','m/swallow','Swallow',2019,'Carlo Mirabella-Davis',94,87);
 INSERT INTO items VALUES('Q55635187','tt8178486','movie',513409,'movie',361121,'umc.cmc.dl52xlolbqp9u1haof6lz9x','m/earthquake_bird','Earthquake Bird',2019,'Wash Westmoreland',108,50);
 INSERT INTO items VALUES('Q55635222','tt7569576','tv',93287,'show',153823,'umc.cmc.39xnunex9rqudlhd9lkglozgr','tv/the_flight_attendant','The Flight Attendant',NULL,NULL,NULL,NULL);
