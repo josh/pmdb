@@ -3630,10 +3630,10 @@ INSERT INTO items VALUES('Q65679599','tt10633456','movie',615643,'movie',459011,
 INSERT INTO items VALUES('Q65768589','tt9376612','movie',566525,'movie',416151,'umc.cmc.1r6h2ku90p1e6jaznhnk0m5hd','m/shang_chi_and_the_legend_of_the_ten_rings','Shang-Chi and the Legend of the Ten Rings',2021,'Destin Daniel Cretton',132,91);
 INSERT INTO items VALUES('Q65768604','tt10648342','movie',616037,'movie',459282,NULL,'m/thor_love_and_thunder','Thor: Love and Thunder',2022,'Taika Waititi',NULL,NULL);
 INSERT INTO items VALUES('Q65972698','tt8923482','movie',566368,'movie',415937,'umc.cmc.5mi1rnjqdqfajsa0jwdmf9k2y','m/one_child_nation','One Child Nation',2019,NULL,NULL,98);
-INSERT INTO items VALUES('Q65979734','tt9208876','tv',88396,'show',146573,'umc.cmc.5r19ka66bi3j736pyndlmz5t2','tv/the_falcon_and_the_winter_soldier','The Falcon and the Winter Soldier',NULL,'Kari Skogland',NULL,NULL);
-INSERT INTO items VALUES('Q65980217','tt9140560','tv',85271,'show',146518,'umc.cmc.76njao041pigwmmpue272zsbh','tv/wandavision','WandaVision',NULL,'Matt Shakman',NULL,91);
+INSERT INTO items VALUES('Q65979734','tt9208876','tv',88396,'show',146573,'umc.cmc.5r19ka66bi3j736pyndlmz5t2','tv/the_falcon_and_the_winter_soldier','The Falcon and the Winter Soldier',NULL,'Kari Skogland',54,NULL);
+INSERT INTO items VALUES('Q65980217','tt9140560','tv',85271,'show',146518,'umc.cmc.76njao041pigwmmpue272zsbh','tv/wandavision','WandaVision',NULL,'Matt Shakman',40,91);
 INSERT INTO items VALUES('Q65980671','tt10168312','tv',91363,'show',146522,NULL,'tv/what_if_','What If...?',NULL,NULL,NULL,93);
-INSERT INTO items VALUES('Q65980843','tt10160804','tv',88329,'show',146415,NULL,'tv/hawkeye','Hawkeye',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q65980843','tt10160804','tv',88329,'show',146415,NULL,'tv/hawkeye','Hawkeye',NULL,NULL,50,NULL);
 INSERT INTO items VALUES('Q66023741','tt8697870','tv',80828,'show',148101,'umc.cmc.79cq7q2fmr3k17x41whgnul93','tv/the_nevers','The Nevers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66313196','tt5897304','tv',67075,'show',105481,NULL,NULL,'Mob Psycho 100',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66316924','tt5537002','movie',466420,'movie',313884,NULL,NULL,'Killers of the Flower Moon',2022,'Martin Scorsese',NULL,NULL);
@@ -3742,7 +3742,7 @@ INSERT INTO items VALUES('Q84366622','tt11394180','movie',653574,'movie',489827,
 INSERT INTO items VALUES('Q84427809','tt11394182','movie',653578,'movie',488542,'umc.cmc.52a3l8rpaz7mn1dwu4ngt6j4a','m/feels_good_man','Feels Good Man',2020,NULL,92,95);
 INSERT INTO items VALUES('Q84693711','tt10095582','movie',591538,'movie',437960,'umc.cmc.4wpfk1xmi22h3zyv4a10lj1tw','m/the_tragedy_of_macbeth_2021','The Tragedy of Macbeth',2021,'Joel Coen',105,98);
 INSERT INTO items VALUES('Q84712797','tt11564570','movie',661374,'movie',495668,NULL,NULL,'Knives Out 2',2022,'Rian Johnson',NULL,NULL);
-INSERT INTO items VALUES('Q84712802','tt10234724','tv',92749,'show',151840,NULL,'tv/moon_knight','Moon Knight',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q84712802','tt10234724','tv',92749,'show',151840,NULL,'tv/moon_knight','Moon Knight',NULL,NULL,45,NULL);
 INSERT INTO items VALUES('Q84712813','tt10857164','tv',92782,'show',151853,NULL,NULL,'Ms. Marvel',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q85000980','tt4244994','movie',617653,'movie',460727,'umc.cmc.5pn94vkq8936chiiqsyo52bc1','m/the_last_duel_2021','The Last Duel',2021,'Ridley Scott',152,77);
 INSERT INTO items VALUES('Q85115721','tt9848536','tv',88713,'show',161186,'umc.cmc.3pdjm6cmv5i298tyrodxwomd7','tv/we_are_who_we_are','We Are Who We Are',NULL,'Luca Guadagnino',NULL,NULL);
