@@ -3935,7 +3935,7 @@ INSERT INTO items VALUES('Q104875494','tt13646976','movie',776596,'movie',614068
 INSERT INTO items VALUES('Q104876552','tt12800524','movie',728526,'movie',570905,NULL,'m/encounter_2021','Encounter',2021,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104878660','tt11394170','movie',653734,'movie',502395,NULL,'m/coded_bias','Coded Bias',2020,'Shalini Kantayya',NULL,100);
 INSERT INTO items VALUES('Q104880088','tt8296030','movie',883083,'movie',707166,'umc.cmc.34f24ebaf1b4ft46wtrbbcfsz','m/you_wont_be_alone','You Won''t Be Alone',2022,'Goran Stolevski',NULL,NULL);
-INSERT INTO items VALUES('Q104880809','tt5875444','tv',95480,'show',155534,NULL,NULL,'Slow Horses',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q104880809','tt5875444','tv',95480,'show',155534,NULL,'tv/slow_horses','Slow Horses',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104881069','tt13648228','movie',776559,'movie',614029,NULL,'m/how_it_ends_2021','How It Ends',NULL,NULL,NULL,66);
 INSERT INTO items VALUES('Q104882631','tt11508438','movie',776545,'movie',613880,NULL,'m/one_for_the_road_2021','One for the Road',NULL,'Nattawut Poonpiriya',NULL,66);
 INSERT INTO items VALUES('Q104889029','tt14060094','movie',823625,'movie',656669,'umc.cmc.5dsg33dgny9n6sd1cgb43rq5c','m/blacklight_2022','Blacklight',2022,'Mark Williams',108,NULL);
@@ -4037,7 +4037,7 @@ INSERT INTO items VALUES('Q106830311','tt11041332','tv',117488,'show',176276,'um
 INSERT INTO items VALUES('Q106838911','tt14317880','movie',852438,'movie',680984,NULL,NULL,'Final Cut',2022,'Michel Hazanavicius',110,NULL);
 INSERT INTO items VALUES('Q106846193','tt10944276','movie',735812,'movie',577316,NULL,'m/death_of_a_telemarketer','Death of a Telemarketer',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106867709','tt10530900','tv',90966,'show',149834,NULL,NULL,'Gullak',2019,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q106959099','tt12005128','tv',117821,'show',170891,NULL,NULL,'WeCrashed',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q106959099','tt12005128','tv',117821,'show',170891,NULL,'tv/wecrashed','WeCrashed',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106972163','tt11852724','tv',119033,'show',171855,'umc.cmc.2yiricezxngkbyfosdt8fzq0','tv/stanley_tucci_searching_for_italy','Stanley Tucci: Searching for Italy',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106982407','tt2953250','tv',106388,'show',187254,NULL,NULL,'Shining Girls',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107024491','tt13172796','movie',743599,'movie',584412,'umc.cmc.2n7y7fcg9psqt528urjyovs4x','m/plan_b_2021','Plan B',2021,'Natalie Morales',NULL,96);
