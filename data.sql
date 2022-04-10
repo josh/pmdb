@@ -2807,7 +2807,7 @@ INSERT INTO items VALUES('Q18170461','tt2554648','movie',173488,'movie',110189,'
 INSERT INTO items VALUES('Q18198599','tt2494362','movie',294963,'movie',195457,'umc.cmc.5efnxt8u3qfe4qe0nqtv66ltl','m/bone_tomahawk','Bone Tomahawk',2015,'Steven Craig Zahler',132,91);
 INSERT INTO items VALUES('Q18199330','tt3183660','movie',259316,'movie',158661,'umc.cmc.60w160x6m11tx1ygyn54hsxn9','m/fantastic_beasts_and_where_to_find_them','Fantastic Beasts and Where to Find Them',2016,'David Yates',133,74);
 INSERT INTO items VALUES('Q18199331','tt4123430','movie',338952,'movie',219417,'umc.cmc.17gzytl325ditzggpp5aaso4f','m/fantastic_beasts_the_crimes_of_grindelwald','Fantastic Beasts: The Crimes of Grindelwald',2018,'David Yates',134,36);
-INSERT INTO items VALUES('Q18199332','tt4123432','movie',338953,'movie',219418,'umc.cmc.7047tkwu9l3iub33hqtkb6p3l','m/fantastic_beasts_and_where_to_find_them_3','Fantastic Beasts: The Secrets of Dumbledore',2022,'David Yates',NULL,NULL);
+INSERT INTO items VALUES('Q18199332','tt4123432','movie',338953,'movie',219418,'umc.cmc.7047tkwu9l3iub33hqtkb6p3l','m/fantastic_beasts_and_where_to_find_them_3','Fantastic Beasts: The Secrets of Dumbledore',2022,'David Yates',142,NULL);
 INSERT INTO items VALUES('Q18209262','tt2788432','tv',64513,'show',93939,'umc.cmc.1vynpt72f6ydi7v7w7uwwp6ov','tv/american_crime_story','American Crime Story',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q18218448','tt4044364','movie',293310,'movie',190089,'umc.cmc.3qfbs2q07d0if6b574qdg2ebl','m/citizenfour','Citizenfour',2014,'Laura Poitras',114,96);
 INSERT INTO items VALUES('Q18225084','tt3460252','movie',273248,'movie',171149,'umc.cmc.1t2k0vp0w0w0ayfvezfym9s1e','m/the_hateful_eight','The Hateful Eight',2015,'Quentin Tarantino',167,74);
