@@ -3650,7 +3650,7 @@ INSERT INTO items VALUES('Q66828800','tt10808832','movie',623856,'movie',465965,
 INSERT INTO items VALUES('Q67144604','tt3398540','tv',60863,'show',60417,NULL,'tv/haikyu','Haikyu!!',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q67171072','tt9777666','movie',588228,'movie',435403,'umc.cmc.mm53lqx19p9il0b292z7fj5x','m/the_tomorrow_war','The Tomorrow War',2021,'Chris McKay',140,52);
 INSERT INTO items VALUES('Q67171095','tt10687506','movie',617762,'movie',460903,NULL,'m/the_electrical_life_of_louis_wain','The Electrical Life of Louis Wain',NULL,'Will Sharpe',111,76);
-INSERT INTO items VALUES('Q67171881','tt1464335','movie',335787,'movie',223139,'umc.cmc.2d64rftybltx15kuj14hiss8q','m/uncharted_2022','Uncharted',2022,'Ruben Fleischer',116,40);
+INSERT INTO items VALUES('Q67171881','tt1464335','movie',335787,'movie',223139,'umc.cmc.2d64rftybltx15kuj14hiss8q','m/uncharted_2022','Uncharted',2022,'Ruben Fleischer',116,41);
 INSERT INTO items VALUES('Q67208596','tt4729430','movie',508965,'movie',356482,'umc.cmc.180ns3n9ahzliijlzvaykyfrp','m/klaus','Klaus',2019,'Sergio Pablos',96,94);
 INSERT INTO items VALUES('Q67367560','tt5723056','movie',603106,'movie',452065,'umc.cmc.67bds4h74qj7jibu975adi8h7','m/capital_in_the_twenty_first_century','Capital in the Twenty-First Century',2019,'Justin Pemberton',103,93);
 INSERT INTO items VALUES('Q67628998','tt8228288','movie',619264,'movie',464098,NULL,'m/the_platform','The Platform',2019,'Galder Gaztelu-Urrutiatxe',94,79);
