@@ -3722,7 +3722,7 @@ INSERT INTO items VALUES('Q83430460','tt10671440','movie',617127,'movie',460195,
 INSERT INTO items VALUES('Q83437242','tt11388406','movie',653601,'movie',488452,'umc.cmc.3c2o2l3bxh8jo4t29poay69sh','m/horse_girl','Horse Girl',2020,'Jeff Baena',103,71);
 INSERT INTO items VALUES('Q83726435','tt4761112','movie',644583,'movie',484515,'umc.cmc.4grky7892tsldnq7vwhezxtpi','m/the_mauritanian','The Mauritanian',2021,'Kevin Macdonald',129,75);
 INSERT INTO items VALUES('Q83726977','tt10661180','movie',653606,'movie',488193,'umc.cmc.3s36nvd4t1ka0v3qwfgk9bv20','m/the_last_shift','The Last Shift',2020,'Andrew Cohn',NULL,64);
-INSERT INTO items VALUES('Q83808444','tt6710474','movie',545611,'movie',396092,NULL,'m/everything_everywhere_all_at_once','Everything Everywhere All at Once',2022,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q83808444','tt6710474','movie',545611,'movie',396092,NULL,'m/everything_everywhere_all_at_once','Everything Everywhere All at Once',2022,NULL,139,NULL);
 INSERT INTO items VALUES('Q83826818','tt8508734','movie',575774,'movie',426288,NULL,'m/his_house','His House',2020,NULL,93,100);
 INSERT INTO items VALUES('Q83948021','tt10023286','movie',588367,'movie',435547,'umc.cmc.6dmuy2ybty9hxlsesr4gmsh7j','m/the_humans','The Humans',2021,'Stephen Karam',108,89);
 INSERT INTO items VALUES('Q83952292','tt3661210','movie',532865,'movie',384797,NULL,'m/the_dig_2021','The Dig',2021,'Simon Stone',112,88);
@@ -3977,7 +3977,7 @@ INSERT INTO items VALUES('Q105773177','tt8888462','tv',110382,'show',153532,'umc
 INSERT INTO items VALUES('Q105818526','tt10011302','movie',596028,'movie',441951,'umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p','m/the_emoji_story','The Emoji Story',2020,'Ian Cheney',79,92);
 INSERT INTO items VALUES('Q105907125','tt4995540','movie',517088,'movie',365183,'umc.cmc.4q5gtqro3nhigvscxgxd6tukr','m/being_the_ricardos','Being the Ricardos',2021,'Aaron Sorkin',131,NULL);
 INSERT INTO items VALUES('Q105962799','tt14114802','movie',799876,'movie',634914,NULL,'m/the_outfit_2022','The Outfit',NULL,'Graham Moore',NULL,NULL);
-INSERT INTO items VALUES('Q105970894','tt12412888','movie',675353,'movie',508640,'umc.cmc.36we37m2yhrpib29b0o40s4z4','m/sonic_the_hedgehog_2','Sonic the Hedgehog 2',2022,'Jeff Fowler',110,68);
+INSERT INTO items VALUES('Q105970894','tt12412888','movie',675353,'movie',508640,'umc.cmc.36we37m2yhrpib29b0o40s4z4','m/sonic_the_hedgehog_2','Sonic the Hedgehog 2',2022,'Jeff Fowler',110,66);
 INSERT INTO items VALUES('Q105985338','tt14158346','movie',801913,'movie',636847,NULL,'m/sharp_stick','Sharp Stick',2022,'Lena Dunham',86,NULL);
 INSERT INTO items VALUES('Q105985341','tt11741044','movie',632311,'movie',472014,NULL,NULL,'I Was a Simple Man',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105989074','tt13472984','movie',787428,'movie',623844,NULL,'m/two_distant_strangers','Two Distant Strangers',2020,NULL,32,93);
