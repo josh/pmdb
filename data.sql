@@ -989,7 +989,7 @@ INSERT INTO items VALUES('Q430535','tt0117039','movie',1770,'movie',1169,'umc.cm
 INSERT INTO items VALUES('Q431140','tt0107120','movie',10439,'movie',5631,'umc.cmc.bse02yxtv1oix30bbl0nn5h6','m/hocus_pocus','Hocus Pocus',1993,'Kenny Ortega',92,38);
 INSERT INTO items VALUES('Q431252','tt0119396','movie',184,'movie',148,'umc.cmc.11yfk6h312ngfjslqmophn6a0','m/jackie_brown','Jackie Brown',1997,'Quentin Tarantino',154,87);
 INSERT INTO items VALUES('Q432582','tt1067583','movie',55787,'movie',39719,'umc.cmc.5hbl5vhkstotolq3l8091n638','m/water_for_elephants','Water for Elephants',2011,'Francis Lawrence',120,60);
-INSERT INTO items VALUES('Q437808','tt1355642','tv',31911,'show',31771,NULL,NULL,'Fullmetal Alchemist: Brotherhood',NULL,'Yasuhiro Irie',NULL,NULL);
+INSERT INTO items VALUES('Q437808','tt1355642','tv',31911,'show',31771,NULL,'tv/fullmetal_alchemist_brotherhood','Fullmetal Alchemist: Brotherhood',NULL,'Yasuhiro Irie',NULL,NULL);
 INSERT INTO items VALUES('Q451272','tt1194263','movie',44718,'movie',30388,'umc.cmc.23xeel3e98fkl5ud0m4psswj5','m/get_low','Get Low',2009,'Aaron Schneider',100,85);
 INSERT INTO items VALUES('Q458033','tt0073802','movie',11963,'movie',6976,'umc.cmc.6cia5o6b8obyc3qeods7gxcrt','m/three_days_of_the_condor','Three Days of the Condor',1975,'Sydney Pollack',113,87);
 INSERT INTO items VALUES('Q458314','tt0118583','movie',8078,'movie',4045,'umc.cmc.51v8hxlb2ko0sly3w2t48vxg','m/alien_resurrection','Alien Resurrection',1997,'Jean-Pierre Jeunet',108,54);
@@ -1079,7 +1079,7 @@ INSERT INTO items VALUES('Q477070','tt1222817','movie',38317,'movie',24730,'umc.
 INSERT INTO items VALUES('Q477523','tt0098966','movie',11630,'movie',6706,'umc.cmc.4lqc11e3xyofa911zyrep3wlt','m/three_men_and_a_little_lady','Three Men and a Little Lady',1990,'Emile Ardolino',104,35);
 INSERT INTO items VALUES('Q477624','tt1034331','movie',13389,'movie',7870,'umc.cmc.19olz1kfnszy2ar8p4hietae2','m/righteous_kill','Righteous Kill',2008,'Jon Avnet',100,18);
 INSERT INTO items VALUES('Q477865','tt0963966','movie',27022,'movie',16529,'umc.cmc.7d9ksmdschr5ad892cvylqcse','m/sorcerers_apprentice','The Sorcerer''s Apprentice',2010,'Jon Turteltaub',109,40);
-INSERT INTO items VALUES('Q477916','tt0121220','tv',12971,'show',12915,NULL,NULL,'Dragon Ball Z',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q477916','tt0121220','tv',12971,'show',12915,NULL,'tv/dragon_ball_z','Dragon Ball Z',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q477965','tt0808417','movie',2011,'movie',1372,'umc.cmc.15u4lfprs13l2hont2ud6dwn1','m/persepolis','Persepolis',2007,NULL,95,96);
 INSERT INTO items VALUES('Q478209','tt0036775','movie',996,'movie',826,'umc.cmc.3joointkchb96eldsm3xu0hlo','m/double_indemnity','Double Indemnity',1944,'Billy Wilder',107,97);
 INSERT INTO items VALUES('Q478212','tt0448134','movie',1272,'movie',885,'umc.cmc.kjbya937j82mxlexdhbh3rg1','m/sunshine','Sunshine',2007,'Danny Boyle',107,77);
@@ -2651,7 +2651,7 @@ INSERT INTO items VALUES('Q12127509','tt1790834','movie',84338,'movie',63219,'um
 INSERT INTO items VALUES('Q12128775','tt1151410','movie',71866,'movie',52745,'umc.cmc.dl6zi6i7j47998nddo8gvyhc','m/tanner-hall','Tanner Hall',2009,NULL,96,16);
 INSERT INTO items VALUES('Q12129690','tt1117394','movie',58261,'movie',41675,'umc.cmc.3y0qikgk3ah3nhlzqdtoagkf','m/transcendent_man','Transcendent Man',2009,'Barry Ptolemy',NULL,NULL);
 INSERT INTO items VALUES('Q12130601','tt2062700','movie',330947,'movie',211839,'umc.cmc.4ks8m8bd4fga8ddxu2yuufjkt','m/song_to_song','Song to Song',2017,'Terrence Malick',129,44);
-INSERT INTO items VALUES('Q12500134','tt0988824','tv',31910,'show',31770,NULL,NULL,'Naruto: Shippūden',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q12500134','tt0988824','tv',31910,'show',31770,NULL,'tv/naruto_shippuden','Naruto: Shippūden',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q13091172','tt2245084','movie',177572,'movie',112404,'umc.cmc.3x3ioa5prp4cjp9nnccadzdrx','m/big_hero_6','Big Hero 6',2014,NULL,102,90);
 INSERT INTO items VALUES('Q13099455','tt1790864','movie',198663,'movie',124008,'umc.cmc.4ljr4z86mfhtbdouv5ml5h693','m/the_maze_runner','The Maze Runner',2014,'Wes Ball',113,65);
 INSERT INTO items VALUES('Q13255497','tt2562232','movie',194662,'movie',121489,'umc.cmc.3cge2pjb3p8t8585d8s5eves8','m/birdman_2014','Birdman',2014,'Alejandro González Iñárritu',119,91);
