@@ -2104,7 +2104,7 @@ INSERT INTO items VALUES('Q1243029','tt0080761','movie',4488,'movie',2636,'umc.c
 INSERT INTO items VALUES('Q1247158','tt0106028','tv',4464,'show',4440,NULL,NULL,'Homicide: Life on the Street',NULL,NULL,44,NULL);
 INSERT INTO items VALUES('Q1247206','tt0047708','tv',5273,'show',5246,'umc.cmc.10jcgk8ixkiq4dy2gdufbp82o',NULL,'Alfred Hitchcock Presents',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q1247858','tt0081912','tv',72,'show',71,NULL,NULL,'Only Fools and Horses',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q1249642','tt1442449','tv',46296,'show',46038,NULL,NULL,'Spartacus',NULL,NULL,50,NULL);
+INSERT INTO items VALUES('Q1249642','tt1442449','tv',46296,'show',46038,NULL,'tv/spartacus','Spartacus',NULL,NULL,50,NULL);
 INSERT INTO items VALUES('Q1253887','tt0240462','movie',10808,'movie',5968,'umc.cmc.1lup76ef8wn9hyjfxfjjotchw','m/dr_dolittle_2','Dr. Dolittle 2',2001,'Steve Carr',87,42);
 INSERT INTO items VALUES('Q1255499','tt0873886','movie',48572,'movie',33678,NULL,'m/red_state','Red State',2011,'Kevin Smith',88,61);
 INSERT INTO items VALUES('Q1256208','tt1401143','movie',48395,'movie',33523,'umc.cmc.6n699e26vn2uvg304an1ajpul','m/rare_exports','Rare Exports: A Christmas Tale',2010,'Jalmari Helander',85,90);
@@ -2556,7 +2556,7 @@ INSERT INTO items VALUES('Q4272175','tt1619037','movie',43938,'movie',29684,NULL
 INSERT INTO items VALUES('Q4317432','tt0492499','movie',30365,'movie',19244,'umc.cmc.44r95c17tc7soa5b6tlixkku7','m/unreasonable_man','An Unreasonable Man',2006,NULL,NULL,92);
 INSERT INTO items VALUES('Q4341553','tt0032910','movie',10895,'movie',6049,'umc.cmc.4ixknv3558j9uodmwlui4gfy8','m/pinocchio_1940','Pinocchio',1940,NULL,88,100);
 INSERT INTO items VALUES('Q4348539','tt0273982','movie',14293,'movie',8584,NULL,'m/poolhall_junkies','Poolhall Junkies',2002,'Mars Callahan',NULL,33);
-INSERT INTO items VALUES('Q4366287','tt1441395','movie',97370,'movie',70756,'umc.cmc.1zykdmts3zoih21i9apfdwjp7','m/under_the_skin_2013','WhiteHorse-Man',2013,'Jonathan Glazer',107,84);
+INSERT INTO items VALUES('Q4366287','tt1441395','movie',97370,'movie',70756,'umc.cmc.1zykdmts3zoih21i9apfdwjp7','m/under_the_skin_2013','Under the Skin',2013,'Jonathan Glazer',107,84);
 INSERT INTO items VALUES('Q4384067','tt0994314','tv',31724,'show',31586,NULL,NULL,'Code Geass',2006,'Gorō Taniguchi',NULL,NULL);
 INSERT INTO items VALUES('Q4407383','tt2177771','movie',152760,'movie',99984,'umc.cmc.5eonspxawdewue1wxlft98tax','m/the_monuments_men','Monuments Men',2014,'George Clooney',118,30);
 INSERT INTO items VALUES('Q4456167','tt1687281','movie',51993,'movie',36548,'umc.cmc.6b9p1cvc3q5ee0i6x77u25ly','m/terri_2011','Terri',2011,'Azazel Jacobs',NULL,87);
