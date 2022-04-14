@@ -27,6 +27,8 @@ INSERT INTO items VALUES(NULL,'tt16282914','movie',901511,'movie',723248,NULL,NU
 INSERT INTO items VALUES(NULL,'tt16377764','movie',913867,'movie',731862,NULL,NULL,'My Old School',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt16378064','movie',913869,'movie',731588,NULL,NULL,'To the End',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt18332840','tv',158534,'show',193675,NULL,NULL,'Gaming Wall St',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt3671754','tv',61516,'show',76036,NULL,NULL,'Kardeş Payı',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt6111552','tv',71786,'show',124355,NULL,NULL,'Content Cop',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt8773420','tv',95556,'show',171737,NULL,NULL,'Expats',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt9873892','movie',736769,'movie',752194,NULL,NULL,'They Cloned Tyrone',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q372','tt0498329','movie',34015,'movie',21763,NULL,'m/1217389-we_live_in_public','We Live in Public',2009,'Ondi Timoner',90,82);
@@ -2384,6 +2386,7 @@ INSERT INTO items VALUES('Q1840670','tt2014338','movie',110354,'movie',77846,'um
 INSERT INTO items VALUES('Q1850622','tt0455596','movie',14208,'movie',8514,'umc.cmc.5th6hi23n9nvspx852q62xfrj','m/librarian_return_to_king_solomons_mines','The Librarian: Return to King Solomon''s Mines',2006,'Jonathan Frakes',95,NULL);
 INSERT INTO items VALUES('Q1850866','tt0112857','movie',8512,'movie',4230,'umc.cmc.3x5xr3ymgbykiitb91dsz1olc','m/devil_in_a_blue_dress','Devil in a Blue Dress',1995,'Carl Franklin',97,89);
 INSERT INTO items VALUES('Q1851378','tt0119695','movie',9416,'movie',4705,'umc.cmc.4g8hp3hazp8g8yd6n94cv0741','m/money_talks','Money Talks',1997,'Brett Ratner',91,16);
+INSERT INTO items VALUES('Q1856418','tt0048021','movie',934,'movie',776,NULL,'m/rififi','Rififi',1955,'Jules Dassin',115,92);
 INSERT INTO items VALUES('Q1862218','tt1477837','movie',52067,'movie',36611,'umc.cmc.6le9w01rq4gcpyz0v4peq4m2w','m/cedar_rapids_2010','Cedar Rapids',2011,'Miguel Arteta',86,86);
 INSERT INTO items VALUES('Q1888138','tt0087597','movie',11884,'movie',6903,'umc.cmc.1mqqyfb4fymgaumkz24onfl1v','m/the_last_starfighter','The Last Starfighter',1984,'Nick Castle',101,76);
 INSERT INTO items VALUES('Q1889123','tt1529572','movie',44945,'movie',30575,'umc.cmc.1xgcij8uyef5c8y3q8hecau6r','m/trust_2010','Trust',2010,'David Schwimmer',106,79);
@@ -3942,6 +3945,7 @@ INSERT INTO items VALUES('Q104889029','tt14060094','movie',823625,'movie',656669
 INSERT INTO items VALUES('Q104891260','tt1649418','movie',725201,'movie',567523,NULL,NULL,'The Gray Man',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105012394','tt11777738','movie',672208,'movie',505713,'umc.cmc.45eo68vr9ommfkl7w8x0hu3fv','m/a_hero','A Hero',2021,'Asghar Farhadi',128,97);
 INSERT INTO items VALUES('Q105044259','tt11285280','movie',776515,'movie',613919,'umc.cmc.33cb4iz6kx88x33mp0dqzdyd8','m/together_together','Together Together',2021,'Nikole Beckwith',90,90);
+INSERT INTO items VALUES('Q105085590','tt11685912','tv',113985,'show',170118,NULL,NULL,'Outer Range',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105095144','tt4998632','movie',763285,'movie',601849,NULL,'m/ambulance','Ambulance',2022,'Michael Bay',136,NULL);
 INSERT INTO items VALUES('Q105100020','tt12536294','movie',716612,'movie',559480,'umc.cmc.19xgkbrkmib700351bek5annz','m/spencer_2021','Spencer',2021,'Pablo Larraín',117,92);
 INSERT INTO items VALUES('Q105102395','tt12731980','movie',785663,'movie',622177,NULL,'m/old_henry','Old Henry',2021,NULL,NULL,96);
@@ -3977,7 +3981,7 @@ INSERT INTO items VALUES('Q105773177','tt8888462','tv',110382,'show',153532,'umc
 INSERT INTO items VALUES('Q105818526','tt10011302','movie',596028,'movie',441951,'umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p','m/the_emoji_story','The Emoji Story',2020,'Ian Cheney',79,92);
 INSERT INTO items VALUES('Q105907125','tt4995540','movie',517088,'movie',365183,'umc.cmc.4q5gtqro3nhigvscxgxd6tukr','m/being_the_ricardos','Being the Ricardos',2021,'Aaron Sorkin',131,NULL);
 INSERT INTO items VALUES('Q105962799','tt14114802','movie',799876,'movie',634914,NULL,'m/the_outfit_2022','The Outfit',NULL,'Graham Moore',NULL,NULL);
-INSERT INTO items VALUES('Q105970894','tt12412888','movie',675353,'movie',508640,'umc.cmc.36we37m2yhrpib29b0o40s4z4','m/sonic_the_hedgehog_2','Sonic the Hedgehog 2',2022,'Jeff Fowler',110,66);
+INSERT INTO items VALUES('Q105970894','tt12412888','movie',675353,'movie',508640,'umc.cmc.36we37m2yhrpib29b0o40s4z4','m/sonic_the_hedgehog_2','Sonic the Hedgehog 2',2022,'Jeff Fowler',122,66);
 INSERT INTO items VALUES('Q105985338','tt14158346','movie',801913,'movie',636847,NULL,'m/sharp_stick','Sharp Stick',2022,'Lena Dunham',86,NULL);
 INSERT INTO items VALUES('Q105985341','tt11741044','movie',632311,'movie',472014,NULL,NULL,'I Was a Simple Man',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105989074','tt13472984','movie',787428,'movie',623844,NULL,'m/two_distant_strangers','Two Distant Strangers',2020,NULL,32,93);
@@ -4068,6 +4072,7 @@ INSERT INTO items VALUES('Q107460063','tt15009428','movie',848538,'movie',678040
 INSERT INTO items VALUES('Q107637143','tt8755836','tv',124510,'show',179853,'umc.cmc.qkbwo24yzf1mexcvdnfaf4ql','tv/from_cradle_to_stage','From Cradle to Stage',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107637168','tt10259078','tv',109332,'show',163675,'umc.cmc.6ps7xifr7019lsk1ufpsbjlba','tv/the_comedy_store','The Comedy Store',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107650846','tt15115280','movie',854359,'movie',682999,'umc.cmc.g1fkbsyaruu1w8iywlp14033','m/sundown_2022','Sundown',2021,'Michel Franco',83,81);
+INSERT INTO items VALUES('Q107883998','tt14549466','movie',819876,'movie',653224,NULL,NULL,'Crimes of the Future',NULL,'David Cronenberg',NULL,NULL);
 INSERT INTO items VALUES('Q108031233','tt14439896','movie',809140,'movie',643196,NULL,NULL,'Father Stu',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q108086029','tt14230388','movie',747188,'movie',587403,NULL,NULL,'Asteroid City',2022,'Wes Anderson',NULL,NULL);
 INSERT INTO items VALUES('Q108323792','tt6611256','movie',480713,'movie',328137,'umc.cmc.5ivi7eqzq4hfj43cwb3rzngk6','m/the_orange_years_the_nickelodeon_story','The Orange Years: The Nickelodeon Story',NULL,NULL,102,88);
