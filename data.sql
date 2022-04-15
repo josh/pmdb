@@ -421,7 +421,7 @@ INSERT INTO items VALUES('Q174811','tt1049413','movie',14160,'movie',8476,'umc.c
 INSERT INTO items VALUES('Q175038','tt0114746','movie',63,'movie',34,'umc.cmc.49nuxpa3uc9ezls951h0ra32r','m/12_monkeys','12 Monkeys',1995,'Terry Gilliam',131,89);
 INSERT INTO items VALUES('Q176826','tt0455590','movie',1523,'movie',994,'umc.cmc.3ngnwecyi443n7mugqw1pbunp','m/the_last_king_of_scotland','The Last King of Scotland',2006,'Kevin Macdonald',121,87);
 INSERT INTO items VALUES('Q177374','tt0129387','movie',544,'movie',427,'umc.cmc.2k3y81ody9wqxl5yzv4xfztrn','m/theres_something_about_mary','There''s Something About Mary',1998,NULL,114,83);
-INSERT INTO items VALUES('Q177922','tt0056592','movie',595,'movie',473,'umc.cmc.4gv4yhd3qrt6e4vdg7whlq3n4','m/to_kill_a_mockingbird','To Kill a Mockingbird',1962,'Robert Mulligan',129,92);
+INSERT INTO items VALUES('Q177922','tt0056592','movie',595,'movie',473,'umc.cmc.4gv4yhd3qrt6e4vdg7whlq3n4','m/to_kill_a_mockingbird','To Kill a Mockingbird',1962,'Robert Mulligan',129,93);
 INSERT INTO items VALUES('Q177930','tt0120660','movie',9798,'movie',5057,'umc.cmc.6j3uy79soum6r9ttd91f8nsa9','m/enemy_of_the_state','Enemy of the State',1998,'Tony Scott',132,72);
 INSERT INTO items VALUES('Q178966','tt1058017','movie',23082,'movie',13983,'umc.cmc.15nklclwdqs83kxgg1xkz3w1z','m/invention_of_lying','The Invention of Lying',2009,NULL,100,56);
 INSERT INTO items VALUES('Q179215','tt0087469','movie',87,'movie',56,'umc.cmc.70ynzq7gw8xjusasgf874liwd','m/indiana_jones_and_the_temple_of_doom','Indiana Jones and the Temple of Doom',1984,'Steven Spielberg',114,84);
