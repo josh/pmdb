@@ -242,7 +242,7 @@ INSERT INTO items VALUES('Q109331','tt0096874','movie',165,'movie',130,'umc.cmc.
 INSERT INTO items VALUES('Q109564','tt0040746','movie',1580,'movie',1036,'umc.cmc.5dt7y8k801ipk90eid69e407y','m/rope','Rope',1948,'Alfred Hitchcock',80,94);
 INSERT INTO items VALUES('Q109767','tt0080455','movie',525,'movie',410,'umc.cmc.5v0o6ggug8vyxmnqlp47r0kvh','m/blues_brothers','The Blues Brothers',1980,'John Landis',148,73);
 INSERT INTO items VALUES('Q110043','tt0056869','movie',571,'movie',450,'umc.cmc.1e8uz5uqtuioqav6hocb44lm','m/1002448-birds','The Birds',1963,'Alfred Hitchcock',115,95);
-INSERT INTO items VALUES('Q110138','tt0092099','movie',744,'movie',589,'umc.cmc.1w0a2d5hpuxqksy2uvvhkrc42','m/top_gun','Top Gun',1986,'Tony Scott',NULL,58);
+INSERT INTO items VALUES('Q110138','tt0092099','movie',744,'movie',589,'umc.cmc.1w0a2d5hpuxqksy2uvvhkrc42','m/top_gun','Top Gun',1986,'Tony Scott',NULL,57);
 INSERT INTO items VALUES('Q110203','tt0369339','movie',1538,'movie',998,'umc.cmc.78jh6hepzapdc5t0zq0ozujpl','m/collateral','Collateral',2004,'Michael Mann',120,86);
 INSERT INTO items VALUES('Q110206','tt0066999','movie',984,'movie',814,'umc.cmc.2puj9eap25v0rpnf1c7jqjk8s','m/dirty_harry','Dirty Harry',1971,'Don Siegel',102,87);
 INSERT INTO items VALUES('Q110278','tt0259711','movie',1903,'movie',1277,'umc.cmc.7h93cjxyeb5jwyj4s50hnmyb1','m/vanilla_sky','Vanilla Sky',2001,'Cameron Crowe',136,42);
@@ -1003,7 +1003,7 @@ INSERT INTO items VALUES('Q460379','tt0112442','movie',9737,'movie',5003,'umc.cm
 INSERT INTO items VALUES('Q461447','tt1129445','movie',8915,'movie',4396,'umc.cmc.3gmshsw4e2s2efsiksfq7clfk','m/amelia_2009','Amelia',2009,'Mira Nair',112,20);
 INSERT INTO items VALUES('Q461540','tt0167190','movie',1487,'movie',981,'umc.cmc.4h1bsz13dlzn1khu2sfct215r','m/hellboy','Hellboy',2004,'Guillermo del Toro',132,81);
 INSERT INTO items VALUES('Q461682','tt0277296','movie',9334,'movie',4628,'umc.cmc.61ya923u6txvl2s6szok3umgv','m/scorpion_king','The Scorpion King',2002,'Chuck Russell',92,41);
-INSERT INTO items VALUES('Q462418','tt0109686','movie',8467,'movie',4219,'umc.cmc.3g40pskx0la7t8wmm8t97w9md','m/dumb_and_dumber','Dumb and Dumber',1994,NULL,109,68);
+INSERT INTO items VALUES('Q462418','tt0109686','movie',8467,'movie',4219,'umc.cmc.3g40pskx0la7t8wmm8t97w9md','m/dumb_and_dumber','Dumb and Dumber',1994,NULL,109,67);
 INSERT INTO items VALUES('Q462447','tt0093409','movie',941,'movie',782,'umc.cmc.3zifg9pkdpdhuixgprpbs9vd7','m/lethal_weapon','Lethal Weapon',1987,'Richard Donner',112,80);
 INSERT INTO items VALUES('Q463101','tt0172493','movie',3558,'movie',2271,'umc.cmc.4syk9nfbngjf3u8mgj0tinznn','m/girl_interrupted','Girl, Interrupted',1999,'James Mangold',122,53);
 INSERT INTO items VALUES('Q463313','tt0117509','movie',454,'movie',359,'umc.cmc.5r8rmcofeadk3q3ydh3iudp2l','m/william_shakespeares_romeo_and_juliet','Romeo + Juliet',1996,'Baz Luhrmann',113,72);
@@ -2432,7 +2432,7 @@ INSERT INTO items VALUES('Q2244246','tt1059955','movie',15302,'movie',9289,'umc.
 INSERT INTO items VALUES('Q2264347','tt0117666','movie',12498,'movie',7271,'umc.cmc.7epdboyo9217zgaidd39mfrbm','m/sling_blade','Sling Blade',1996,'Billy Bob Thornton',136,96);
 INSERT INTO items VALUES('Q2268296','tt0112688','movie',20649,'movie',12686,'umc.cmc.6mfj2991jgcy9qggung2ydtkf','m/clockers','Clockers',1995,'Spike Lee',128,72);
 INSERT INTO items VALUES('Q2293972','tt0089791','movie',5683,'movie',3210,'umc.cmc.fwjfv3jg4ad2i9aou3t11deh','m/peewees_big_adventure','Pee-Wee''s Big Adventure',1985,'Tim Burton',91,87);
-INSERT INTO items VALUES('Q2294292','tt0243655','movie',2171,'movie',1509,'umc.cmc.5hhid196hhp6wlkr7favrp0cn','m/wet_hot_american_summer','Wet Hot American Summer',2001,'David Wain',97,38);
+INSERT INTO items VALUES('Q2294292','tt0243655','movie',2171,'movie',1509,'umc.cmc.5hhid196hhp6wlkr7favrp0cn','m/wet_hot_american_summer','Wet Hot American Summer',2001,'David Wain',97,37);
 INSERT INTO items VALUES('Q2296427','tt0360009','movie',11169,'movie',6297,'umc.cmc.58my5e7qsxolvb11lz8vvnazo','m/spartan','Spartan',2004,'David Mamet',106,65);
 INSERT INTO items VALUES('Q2300940','tt0318374','movie',10744,'movie',5908,'umc.cmc.r3zgbiynrd83t8bmmacti4yb','m/cooler','The Cooler',2003,'Wayne Kramer',98,77);
 INSERT INTO items VALUES('Q2309964','tt0964185','movie',11928,'movie',6943,'umc.cmc.2w69hu61vqpa691ce8j270kf3','m/tetro','Tetro',2009,'Francis Ford Coppola',127,71);
@@ -2810,7 +2810,7 @@ INSERT INTO items VALUES('Q18170461','tt2554648','movie',173488,'movie',110189,'
 INSERT INTO items VALUES('Q18198599','tt2494362','movie',294963,'movie',195457,'umc.cmc.5efnxt8u3qfe4qe0nqtv66ltl','m/bone_tomahawk','Bone Tomahawk',2015,'Steven Craig Zahler',132,91);
 INSERT INTO items VALUES('Q18199330','tt3183660','movie',259316,'movie',158661,'umc.cmc.60w160x6m11tx1ygyn54hsxn9','m/fantastic_beasts_and_where_to_find_them','Fantastic Beasts and Where to Find Them',2016,'David Yates',133,74);
 INSERT INTO items VALUES('Q18199331','tt4123430','movie',338952,'movie',219417,'umc.cmc.17gzytl325ditzggpp5aaso4f','m/fantastic_beasts_the_crimes_of_grindelwald','Fantastic Beasts: The Crimes of Grindelwald',2018,'David Yates',134,36);
-INSERT INTO items VALUES('Q18199332','tt4123432','movie',338953,'movie',219418,'umc.cmc.7047tkwu9l3iub33hqtkb6p3l','m/fantastic_beasts_and_where_to_find_them_3','Fantastic Beasts: The Secrets of Dumbledore',2022,'David Yates',142,NULL);
+INSERT INTO items VALUES('Q18199332','tt4123432','movie',338953,'movie',219418,'umc.cmc.7047tkwu9l3iub33hqtkb6p3l','m/fantastic_beasts_the_secrets_of_dumbledore','Fantastic Beasts: The Secrets of Dumbledore',2022,'David Yates',142,NULL);
 INSERT INTO items VALUES('Q18209262','tt2788432','tv',64513,'show',93939,'umc.cmc.1vynpt72f6ydi7v7w7uwwp6ov','tv/american_crime_story','American Crime Story',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q18218448','tt4044364','movie',293310,'movie',190089,'umc.cmc.3qfbs2q07d0if6b574qdg2ebl','m/citizenfour','Citizenfour',2014,'Laura Poitras',114,96);
 INSERT INTO items VALUES('Q18225084','tt3460252','movie',273248,'movie',171149,'umc.cmc.1t2k0vp0w0w0ayfvezfym9s1e','m/the_hateful_eight','The Hateful Eight',2015,'Quentin Tarantino',167,74);
