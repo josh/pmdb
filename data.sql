@@ -3764,7 +3764,7 @@ INSERT INTO items VALUES('Q85767522','tt10801534','tv',110971,'show',166645,'umc
 INSERT INTO items VALUES('Q85782068','tt12824922','tv',106871,'show',158040,'umc.cmc.1nv0tluok21c2f8549mdjqdnh','tv/long_way_up','Long Way Up',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q85783044','tt7808566','tv',90970,'show',154279,'umc.cmc.6hsbitxcp7hv2s004g8buh4xz','tv/made_for_love','Made for Love',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q85784596','tt9148598','tv',96213,'show',155959,'umc.cmc.4xi3o21wvhl1fe7xape2o482y','tv/mcmillions','McMillions',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q85801170','tt11628854','movie',664574,'movie',498540,NULL,'m/silent_night_2021_2','Silent Night',2021,NULL,NULL,65);
+INSERT INTO items VALUES('Q85801170','tt11628854','movie',664574,'movie',498540,NULL,'m/silent_night_2021_2','Silent Night',2021,'Camille Griffin',NULL,65);
 INSERT INTO items VALUES('Q85803299','tt10574236','tv',90972,'show',153862,NULL,'tv/station_eleven','Station Eleven',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q85806717','tt11196036','movie',643532,'movie',481362,'umc.cmc.1fs249eymi9bqe1tzelsaiisq','m/the_card_counter','The Card Counter',2021,'Paul Schrader',112,86);
 INSERT INTO items VALUES('Q85806732','tt8425310','tv',86598,'show',130988,'umc.cmc.27k6e0572nzcismudgcx7fmef','tv/the_case_against_adnan_syed','The Case Against Adnan Syed',NULL,'Amy J. Berg',NULL,NULL);
@@ -3955,7 +3955,7 @@ INSERT INTO items VALUES('Q105274105','tt8897874','movie',776583,'movie',614058,
 INSERT INTO items VALUES('Q105319043','tt13622074','movie',574086,'movie',424986,'umc.cmc.306gqjxec3id2qwigly4t3nxn','m/all_light_everywhere','All Light, Everywhere',2021,'Theo Anthony',NULL,93);
 INSERT INTO items VALUES('Q105326306','tt13975458','movie',792678,'movie',628365,NULL,NULL,'Cube',2021,'Yasuhiko Shimizu',NULL,NULL);
 INSERT INTO items VALUES('Q105359560','tt12373414','movie',776514,'movie',613816,NULL,'m/superior_2021','Superior',NULL,NULL,NULL,57);
-INSERT INTO items VALUES('Q105393880','tt13403046','movie',787752,'movie',624213,NULL,'m/fresh_2022','Fresh',2022,'Mimi Cave',117,NULL);
+INSERT INTO items VALUES('Q105393880','tt13403046','movie',787752,'movie',624213,NULL,'m/fresh_2022','Fresh',2022,'Mimi Cave',114,NULL);
 INSERT INTO items VALUES('Q105430529','tt13837672','tv',116989,'show',172256,NULL,'tv/crime_scene_the_vanishing_at_the_cecil_hotel','Crime Scene: The Vanishing at the Cecil Hotel',NULL,'Joe Berlinger',NULL,NULL);
 INSERT INTO items VALUES('Q105438136','tt13204490','movie',749004,'movie',589286,NULL,'m/petite_maman','Petite Maman',2021,'Céline Sciamma',72,97);
 INSERT INTO items VALUES('Q105438429','tt12121582','movie',691422,'movie',535745,NULL,'m/when_you_finish_saving_the_world','When You Finish Saving the World',2022,'Jesse Eisenberg',88,NULL);
