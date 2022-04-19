@@ -3641,7 +3641,7 @@ INSERT INTO items VALUES('Q66023741','tt8697870','tv',80828,'show',148101,'umc.c
 INSERT INTO items VALUES('Q66313196','tt5897304','tv',67075,'show',105481,NULL,NULL,'Mob Psycho 100',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q66316924','tt5537002','movie',466420,'movie',313884,NULL,NULL,'Killers of the Flower Moon',2022,'Martin Scorsese',NULL,NULL);
 INSERT INTO items VALUES('Q66417375','tt10482370','tv',90259,'show',152104,'umc.cmc.3gae2faxo3iif9zti9g761j82','tv/the_third_day','The Third Day',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q66688921','tt10451852','movie',607430,'movie',488158,NULL,'m/nine_days','Nine Days',2021,NULL,124,88);
+INSERT INTO items VALUES('Q66688921','tt10451852','movie',607430,'movie',488158,NULL,'m/nine_days','Nine Days',2021,NULL,124,89);
 INSERT INTO items VALUES('Q66688968','tt9893250','movie',601666,'movie',458615,NULL,'m/i_care_a_lot','I Care a Lot',2020,'J Blakeson',118,79);
 INSERT INTO items VALUES('Q66738105','tt5109280','movie',527774,'movie',375905,'umc.cmc.13yhvlcnjgixwpl8hy62kuppp','m/raya_and_the_last_dragon_2021','Raya and the Last Dragon',2021,NULL,107,94);
 INSERT INTO items VALUES('Q66823622','tt1655389','movie',301502,'movie',217958,NULL,NULL,'Blonde',2022,'Andrew Dominik',NULL,NULL);
@@ -3830,7 +3830,7 @@ INSERT INTO items VALUES('Q97278509','tt12585152','tv',105288,'show',163684,'umc
 INSERT INTO items VALUES('Q97279983','tt8499102','movie',565537,'movie',415258,'umc.cmc.6xv6r7zlde76dvkuzaa8xi3jt','m/jawline','Jawline',2019,'Liza Mandelup',NULL,96);
 INSERT INTO items VALUES('Q97354742','tt9792884','movie',582218,'movie',430848,'umc.cmc.2snjd4kpe4syiaom2swg6j4f7','m/psych_2_lassie_come_home','Psych 2: Lassie Come Home',2020,'Steve Franks',NULL,83);
 INSERT INTO items VALUES('Q97365172','tt12708542','tv',105971,'show',164423,'umc.cmc.jzpcwzmyd6h9eaadrakph6ta','tv/star_wars_the_bad_batch','Star Wars: The Bad Batch',NULL,'Brad Rau',NULL,NULL);
-INSERT INTO items VALUES('Q97473243','tt7978758','movie',664996,'movie',350954,NULL,NULL,'Apollo 10½',NULL,'Richard Linklater',98,NULL);
+INSERT INTO items VALUES('Q97473243','tt7978758','movie',664996,'movie',350954,NULL,'m/apollo_10_1_2_a_space_age_childhood','Apollo 10½',NULL,'Richard Linklater',98,NULL);
 INSERT INTO items VALUES('Q97474347','tt12580168','tv',105689,'show',163663,'umc.cmc.3eq51p7nzd8nhahz29i1czc97','tv/indian_matchmaking','Indian Matchmaking',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q97495263','tt12038300','movie',720748,'movie',563408,NULL,'m/the_speed_cubers','The Speed Cubers',2020,NULL,40,100);
 INSERT INTO items VALUES('Q97628048','tt11904786','tv',95730,'show',155448,'umc.cmc.4njl70r2jtbic4okhsbq15w2k','tv/love_on_the_spectrum','Love on the Spectrum',NULL,NULL,NULL,NULL);
