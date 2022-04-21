@@ -4046,7 +4046,7 @@ INSERT INTO items VALUES('Q106959099','tt12005128','tv',117821,'show',170891,NUL
 INSERT INTO items VALUES('Q106972163','tt11852724','tv',119033,'show',171855,'umc.cmc.2yiricezxngkbyfosdt8fzq0','tv/stanley_tucci_searching_for_italy','Stanley Tucci: Searching for Italy',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106982407','tt2953250','tv',106388,'show',187254,NULL,NULL,'Shining Girls',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107024491','tt13172796','movie',743599,'movie',584412,'umc.cmc.2n7y7fcg9psqt528urjyovs4x','m/plan_b_2021','Plan B',2021,'Natalie Morales',NULL,96);
-INSERT INTO items VALUES('Q107040798','tt13320622','movie',752623,'movie',592440,'umc.cmc.2rp6m7x5q4915249cwn7hw0es','m/the_lost_city','The Lost City',2022,NULL,120,77);
+INSERT INTO items VALUES('Q107040798','tt13320622','movie',752623,'movie',592440,'umc.cmc.2rp6m7x5q4915249cwn7hw0es','m/the_lost_city','The Lost City',2022,NULL,120,78);
 INSERT INTO items VALUES('Q107069381','tt14544192','movie',823754,'movie',656566,NULL,'m/bo_burnham_inside','Bo Burnham: Inside',2021,'Bo Burnham',87,93);
 INSERT INTO items VALUES('Q107071651','tt14673560','movie',830991,'movie',663244,'umc.cmc.ryvo8kqy3813nnbetgg1nfjf','m/ride_the_eagle','Ride the Eagle',2021,'Trent O''Donnell',88,81);
 INSERT INTO items VALUES('Q107089587','tt10370710','movie',660120,'movie',494289,'umc.cmc.2hnkifuob5arwcg23hx1khztd','m/the_worst_person_in_the_world','The Worst Person in the World',2021,'Joachim Trier',121,100);
@@ -4058,7 +4058,7 @@ INSERT INTO items VALUES('Q107119206','tt10640346','movie',615777,'movie',459051
 INSERT INTO items VALUES('Q107121453','tt14375756','movie',808703,'movie',642902,'umc.cmc.1zuqyrfujuh4ratngp3ncm40s','m/lfg','LFG',NULL,NULL,105,94);
 INSERT INTO items VALUES('Q107132222','tt14164730','tv',131927,'show',187026,'umc.cmc.1zzm4893ldk443lyy9xa5839f','tv/dexter_new_blood','Dexter: New Blood',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107132551','tt14161704','tv',136741,'show',175015,NULL,NULL,'Roar',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q107176162','tt10954984','movie',762504,'movie',601018,NULL,'m/nope','Nope',2022,'Jordan Peele',NULL,NULL);
+INSERT INTO items VALUES('Q107176162','tt10954984','movie',762504,'movie',601018,'umc.cmc.5wgdm57j2x5ikq82v129dvx9k','m/nope','Nope',2022,'Jordan Peele',NULL,NULL);
 INSERT INTO items VALUES('Q107202403','tt14731254','movie',834027,'movie',665921,'umc.cmc.pozh1f8s66qulcv10roswf1x','m/val','Val',2021,NULL,108,93);
 INSERT INTO items VALUES('Q107203482','tt9257258','tv',99652,'show',153556,'umc.cmc.1zcw5qvtqaplltm533oeemyd7','tv/kevin_can_f_k_himself','Kevin Can F**k Himself',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107233698','tt10541088','tv',117648,'show',159013,NULL,NULL,'Clarkson''s Farm',NULL,NULL,NULL,NULL);
