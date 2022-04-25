@@ -16,6 +16,7 @@ CREATE TABLE items (
   tomatometer integer CHECK (tomatometer >= 0 AND tomatometer <= 100),
   CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
+INSERT INTO items VALUES('Q85790963','tt1879016','movie',661231,'movie',495296,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt0090509','tv',103344,'show',142212,NULL,NULL,'The Return of Sherlock Holmes',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt10643608','movie',623078,'movie',465254,NULL,NULL,'Apocalypse Now: Final Cut',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt11284768','movie',913812,'movie',731843,NULL,NULL,'Blood',NULL,NULL,NULL,NULL);
