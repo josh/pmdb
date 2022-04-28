@@ -1848,7 +1848,7 @@ INSERT INTO items VALUES('Q958257','tt1155056','movie',16538,'movie',10177,'umc.
 INSERT INTO items VALUES('Q959051','tt1175491','movie',10523,'movie',5701,'umc.cmc.4zknk6jjq8kztg96qzmzpqrdz','m/w_2008','W.',2008,'Oliver Stone',129,58);
 INSERT INTO items VALUES('Q960125','tt0077975','movie',8469,'movie',4221,'umc.cmc.6xu2tdd0sg4kkc6xeiua1sjf7','m/national_lampoons_animal_house','Animal House',1978,'John Landis',109,90);
 INSERT INTO items VALUES('Q960246','tt0203082','tv',129151,'show',81008,NULL,NULL,'Rurouni Kenshin: Trust & Betrayal',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q962809','tt0112461','movie',10474,'movie',5657,NULL,'m/basketball_diaries','The Basketball Diaries',1995,'Scott Kalvert',90,45);
+INSERT INTO items VALUES('Q962809','tt0112461','movie',10474,'movie',5657,'umc.cmc.1ijt0ulc2r4ebusipak0hnss4','m/basketball_diaries','The Basketball Diaries',1995,'Scott Kalvert',90,45);
 INSERT INTO items VALUES('Q963713','tt0098258','movie',2028,'movie',1388,'umc.cmc.2oxzd2e6creo8okxltwmyjnr1','m/say_anything','Say Anything...',1989,'Cameron Crowe',96,98);
 INSERT INTO items VALUES('Q964779','tt0252503','movie',11088,'movie',6223,'umc.cmc.5h5s96lhmmke5ln0qzsvtozm2','m/1109137-heist','Heist',2001,'David Mamet',109,66);
 INSERT INTO items VALUES('Q964909','tt1540133','movie',67913,'movie',49441,'umc.cmc.cb8adrmdldn8tao6akb06m7s','m/the_guard_2011','The Guard',2011,'John Michael McDonagh',96,94);
@@ -3535,7 +3535,7 @@ INSERT INTO items VALUES('Q61782859','tt2235759','tv',93812,'show',152469,NULL,'
 INSERT INTO items VALUES('Q61837900','tt9398466','tv',87508,'show',145178,NULL,'tv/delhi_crime','Delhi Crime Story',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q61876370','tt9603212','movie',575264,'movie',425809,NULL,NULL,'Mission: Impossible 7',2023,'Christopher McQuarrie',NULL,NULL);
 INSERT INTO items VALUES('Q61883088','tt4513678','movie',425909,'movie',270182,'umc.cmc.20w3hl6a3xsh7qf2fiobnkkqd','m/ghostbusters_afterlife','Ghostbusters: Afterlife',2021,'Jason Reitman',NULL,63);
-INSERT INTO items VALUES('Q61883109','tt1798632','movie',532710,'movie',384662,NULL,NULL,'Firestarter',2022,'Keith Thomas',NULL,NULL);
+INSERT INTO items VALUES('Q61883109','tt1798632','movie',532710,'movie',384662,NULL,NULL,'Firestarter',2022,'Keith Thomas',110,NULL);
 INSERT INTO items VALUES('Q61927376','tt7395114','movie',499932,'movie',346736,NULL,'m/the_devil_all_the_time','The Devil All the Time',2020,'Antonio Campos',138,64);
 INSERT INTO items VALUES('Q61951885','tt8385148','movie',522931,'movie',371065,'umc.cmc.3txi8fept8g3h7g0xtxr143ve','m/the_hitmans_wifes_bodyguard','Hitman''s Wife''s Bodyguard',2021,'Patrick Hughes',100,27);
 INSERT INTO items VALUES('Q61951927','tt8656686','movie',532870,'movie',384793,NULL,'m/run_sweetheart_run','Run Sweetheart Run',2020,'Shana Feste',NULL,73);
@@ -3992,6 +3992,7 @@ INSERT INTO items VALUES('Q105985341','tt11741044','movie',632311,'movie',472014
 INSERT INTO items VALUES('Q105989074','tt13472984','movie',787428,'movie',623844,NULL,'m/two_distant_strangers','Two Distant Strangers',2020,NULL,32,93);
 INSERT INTO items VALUES('Q106009390','tt11540284','movie',802217,'movie',637209,'umc.cmc.73z3l84b8o1irv4b7rqtjwkgp','m/8_bit_christmas','8-Bit Christmas',2021,'Michael Dowse',NULL,82);
 INSERT INTO items VALUES('Q106010283','tt13610562','movie',765119,'movie',603437,NULL,'m/the_bubble_2022','The Bubble',2022,'Judd Apatow',NULL,NULL);
+INSERT INTO items VALUES('Q106040462','tt14176542','movie',685691,'movie',529714,NULL,NULL,'Bardo',NULL,'Alejandro González Iñárritu',NULL,NULL);
 INSERT INTO items VALUES('Q106067474','tt14111734','movie',799555,'movie',634596,NULL,'m/operation_varsity_blues_the_college_admissions_scandal','Operation Varsity Blues: The College Admissions Scandal',2021,'Chris Smith',NULL,88);
 INSERT INTO items VALUES('Q106103421','tt12618926','movie',766798,'movie',605283,'umc.cmc.2mw42e8fbdvanv6n9mg55n6p3','m/parallel_mothers','Parallel Mothers',2021,'Pedro Almodóvar',123,100);
 INSERT INTO items VALUES('Q106201720','tt11828492','tv',119181,'show',173303,'umc.cmc.6gdc6v4vwyaab7klocftv2s10','tv/physical','Physical',NULL,NULL,NULL,NULL);
