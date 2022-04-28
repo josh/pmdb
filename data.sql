@@ -2539,7 +2539,7 @@ INSERT INTO items VALUES('Q3577037','tt0200276','tv',688,'show',686,'umc.cmc.6hf
 INSERT INTO items VALUES('Q3598715','tt1272878','movie',136400,'movie',91859,'umc.cmc.765yuh8u1qtpvq53n89trzykt','m/2_guns','2 Guns',2013,'Baltasar Kormákur',109,65);
 INSERT INTO items VALUES('Q3599091','tt0453562','movie',109410,'movie',77323,'umc.cmc.2mud5xputvdzmd2revxzmkajt','m/42_2013','42',2013,'Brian Helgeland',128,81);
 INSERT INTO items VALUES('Q3602431','tt0342275','movie',38868,'movie',25177,NULL,'m/decade_under_the_influence','A Decade Under the Influence',2003,NULL,NULL,77);
-INSERT INTO items VALUES('Q3604746','tt1630029','movie',76600,'movie',56580,NULL,'m/avatar_2','Avatar 2',2022,'James Cameron',NULL,NULL);
+INSERT INTO items VALUES('Q3604746','tt1630029','movie',76600,'movie',56580,NULL,'m/avatar_2','Avatar: The Way of Water',2022,'James Cameron',NULL,NULL);
 INSERT INTO items VALUES('Q3639019','tt1144539','movie',40819,'movie',26888,'umc.cmc.v14c96sziwlyxnufh4cnyw60','m/best_worst_movie','Best Worst Movie',2009,'Michael Stephenson',93,94);
 INSERT INTO items VALUES('Q3877624','tt1907731','movie',84317,'movie',63198,'umc.cmc.2vpuhkkyf13m5vr9fj5u1k1b7','m/nobody_walks','Nobody Walks',2012,'Ry Russo-Young',83,41);
 INSERT INTO items VALUES('Q3922579','tt1381505','movie',35221,'movie',22454,'umc.cmc.1xrkm38m8uebhjp9iz5b0rgkf','m/father-of-invention','Father of Invention',2010,'Trent Cooper',94,0);
@@ -4135,6 +4135,7 @@ INSERT INTO items VALUES('Q110903952','tt17200376','movie',929745,'movie',745527
 INSERT INTO items VALUES('Q110942892','tt16378482','movie',913850,'movie',731692,NULL,NULL,'We Met in Virtual Reality',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110982644','tt7798604','movie',852096,'movie',680752,NULL,NULL,'We Have a Ghost',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110982649','tt17542000','movie',933738,'movie',748758,NULL,NULL,'Ali Wong: Don Wong',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q111379124','tt1517268','movie',346698,'movie',242104,NULL,NULL,'Barbie',2023,'Greta Gerwig',NULL,NULL);
 INSERT INTO items VALUES('Q111463577','tt14507354','tv',134375,'show',188477,NULL,NULL,'Q111463577',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q111686870','tt18332840','tv',158534,'show',193675,NULL,NULL,'Gaming Wall Street',NULL,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
