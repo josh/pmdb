@@ -3378,7 +3378,7 @@ INSERT INTO items VALUES('Q55609803','tt8291806','movie',519010,'movie',367976,'
 INSERT INTO items VALUES('Q55613884','tt8068900','tv',98730,'show',159939,'umc.cmc.5xjrgoblr5l5i1ypamtayuhe9','tv/home_2020','Home',NULL,'Matt Tyrnauer',NULL,NULL);
 INSERT INTO items VALUES('Q55613905','tt8151874','movie',512263,'movie',359694,'umc.cmc.4ao14s7a5dhs3cffd9nlnl8ln','m/honey_boy','Honey Boy',2019,'Alma Har''el',94,94);
 INSERT INTO items VALUES('Q55614382','tt8110640','movie',530382,'movie',380096,'umc.cmc.4a8p4j85roxdsrmob8vid6xkt','m/in_the_shadow_of_the_moon_2019','In the Shadow of the Moon',2019,'Jim Mickle',NULL,58);
-INSERT INTO items VALUES('Q55614601','tt6741278','tv',95557,'show',172648,NULL,'tv/invincible','Invincible',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q55614601','tt6741278','tv',95557,'show',172648,NULL,'tv/invincible','Invincible',NULL,'Robert Valley',NULL,NULL);
 INSERT INTO items VALUES('Q55616601','tt6107548','movie',523172,'movie',371243,'umc.cmc.1fjn0a1zj7sh8odrw5wqk7ood','m/late_night_2019','Late Night',2019,'Nisha Ganatra',102,79);
 INSERT INTO items VALUES('Q55621513','tt8337320','movie',622977,'movie',465173,'umc.cmc.4ljc9xps9v7o2u6b0lkdsyclh','m/the_last_vermeer','The Last Vermeer',2019,'Dan Friedkin',117,70);
 INSERT INTO items VALUES('Q55623517','tt8543390','tv',91602,'show',142049,'umc.cmc.73t52lof9yg0ssydgcwr8up28','tv/modern_love','Modern Love',NULL,'John Carney',NULL,NULL);
