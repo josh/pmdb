@@ -1369,7 +1369,7 @@ INSERT INTO items VALUES('Q630289','tt0139809','movie',1090,'movie',842,'umc.cmc
 INSERT INTO items VALUES('Q631103','tt0377092','movie',10625,'movie',5799,'umc.cmc.1jd9t7iyrhdoyso79puncvc1i','m/mean_girls','Mean Girls',2004,'Mark Waters',97,84);
 INSERT INTO items VALUES('Q631515','tt0221027','movie',4133,'movie',2434,'umc.cmc.23bqhavqzs2gh3zfwxc67lfbc','m/blow','Blow',2001,'Ted Demme',124,55);
 INSERT INTO items VALUES('Q632328','tt0947810','movie',22972,'movie',13939,'umc.cmc.6q22y2gw6lbh3q1zdfrp9x54q','m/1202804-green_zone','Green Zone',2010,'Paul Greengrass',115,53);
-INSERT INTO items VALUES('Q632668','tt0327597','movie',14836,'movie',8984,'umc.cmc.17hvodr5b8uuq3z45cs23akbd','m/coraline','Coraline y la puerta secreta',2009,'Henry Selick',101,90);
+INSERT INTO items VALUES('Q632668','tt0327597','movie',14836,'movie',8984,'umc.cmc.17hvodr5b8uuq3z45cs23akbd','m/coraline','Coraline',2009,'Henry Selick',101,90);
 INSERT INTO items VALUES('Q632670','tt1486217','tv',10283,'show',10234,NULL,'tv/archer','Archer',NULL,'Adam Reed',22,NULL);
 INSERT INTO items VALUES('Q632737','tt1127180','movie',16871,'movie',10323,'umc.cmc.40u9ef7d7yhvump9mhlamznac','m/drag_me_to_hell','Drag Me to Hell',2009,'Sam Raimi',99,92);
 INSERT INTO items VALUES('Q633133','tt0216216','movie',8452,'movie',4209,'umc.cmc.2p8nrz9hmgtncev5acd7l5g0m','m/sixth_day','The 6th Day',2000,'Roger Spottiswoode',118,40);
@@ -3788,7 +3788,7 @@ INSERT INTO items VALUES('Q85811980','tt10059518','movie',625568,'movie',466935,
 INSERT INTO items VALUES('Q85814960','tt9288692','movie',800497,'movie',635572,NULL,'m/werewolves_within','Werewolves Within',NULL,NULL,NULL,85);
 INSERT INTO items VALUES('Q86675328','tt11003218','movie',635731,'movie',474763,'umc.cmc.3rznmosvdai792bibngl5onbr','m/pig_2021','Pig',2021,'Michael Sarnoski',92,96);
 INSERT INTO items VALUES('Q86751099','tt11854694','tv',100612,'show',159317,NULL,NULL,'Special OPS',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q87126244','tt11138512','movie',639933,'movie',478776,'umc.cmc.6pv6f3gbz0vuh4zr3or1wdth4','m/the_northman','The Northman',2022,'Robert Eggers',136,NULL);
+INSERT INTO items VALUES('Q87126244','tt11138512','movie',639933,'movie',478776,'umc.cmc.6pv6f3gbz0vuh4zr3or1wdth4','m/the_northman','The Northman',2022,'Robert Eggers',137,NULL);
 INSERT INTO items VALUES('Q87126473','tt11655202','movie',663870,'movie',497687,'umc.cmc.33ey6th9l5ijmdfaxib5q91rf','m/riders_of_justice','Riders of Justice',2020,'Anders Thomas Jensen',116,96);
 INSERT INTO items VALUES('Q87202931','tt8403664','tv',100052,'show',158896,'umc.cmc.luta35wnn7df3495l50hma92','tv/the_english_game','The English Game',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q87220566','tt11291274','movie',648579,'movie',485187,NULL,'m/the_unbearable_weight_of_massive_talent','The Unbearable Weight of Massive Talent',2022,'Tom Gormican',NULL,NULL);
