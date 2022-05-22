@@ -3173,7 +3173,7 @@ INSERT INTO items VALUES('Q28840386','tt5776858','movie',400617,'movie',244389,'
 INSERT INTO items VALUES('Q28840480','tt5665256','movie',438500,'movie',284655,NULL,'m/infinity_baby','Infinity Baby',2017,'Bob Byington',NULL,76);
 INSERT INTO items VALUES('Q28860129','tt4595882','movie',401847,'movie',246669,'umc.cmc.2hcsgbwmxl7wykhdvl7es3a7c','m/can_you_ever_forgive_me','Can You Ever Forgive Me?',2018,'Marielle Heller',107,98);
 INSERT INTO items VALUES('Q28860130','tt1259528','movie',449443,'movie',296164,'umc.cmc.4c48zcgrkqkhm14yjrjt8kawn','m/den_of_thieves','Den of Thieves',2018,'Christian Gudegast',140,42);
-INSERT INTO items VALUES('Q28912376','tt4682266','movie',340102,'movie',233766,'umc.cmc.4quchf5g9n9760swwd39hsri0','m/the_new_mutants','The New Mutants',2020,'Josh Boone',94,36);
+INSERT INTO items VALUES('Q28912376','tt4682266','movie',340102,'movie',233766,'umc.cmc.4quchf5g9n9760swwd39hsri0','m/the_new_mutants','The New Mutants',2020,'Josh Boone',94,35);
 INSERT INTO items VALUES('Q28912377','tt6288124','movie',443009,'movie',288496,'umc.cmc.2q1lhbvg9mi946hy8akkvmiur','m/dont_worry_he_wont_get_far_on_foot','Don''t Worry, He Won''t Get Far on Foot',2018,'Gus Van Sant',113,77);
 INSERT INTO items VALUES('Q28912877','tt5719748','movie',438650,'movie',284803,'umc.cmc.7jinkxvzn5um932n18yq7qoba','m/cold_pursuit','Cold Pursuit',2019,'Hans Petter Moland',118,68);
 INSERT INTO items VALUES('Q28943852','tt4537896','movie',438808,'movie',284950,'umc.cmc.5ptdv9ly32rhcjiydj9m4o4uk','m/white_boy_rick','White Boy Rick',2018,'Yann Demange',111,57);
@@ -4040,7 +4040,7 @@ INSERT INTO items VALUES('Q106363032','tt14128670','movie',800510,'movie',635706
 INSERT INTO items VALUES('Q106371709','tt9812474','movie',788929,'movie',625298,'umc.cmc.4109n5ma9ouz5u23bjv4jwaz6','m/lamb_2021','Lamb',2021,'Valdimar Johannsson',106,86);
 INSERT INTO items VALUES('Q106405587','tt7461272','movie',579496,'movie',429112,NULL,'m/call_jane','Call Jane',2022,'Phyllis Nagy',121,NULL);
 INSERT INTO items VALUES('Q106513312','tt11827628','movie',818397,'movie',651781,NULL,NULL,'Memory',2022,'Martin Campbell',NULL,NULL);
-INSERT INTO items VALUES('Q106514711','tt13841850','movie',780609,'movie',617534,NULL,NULL,'Men',2022,'Alex Garland',NULL,NULL);
+INSERT INTO items VALUES('Q106514711','tt13841850','movie',780609,'movie',617534,NULL,'m/men_2022','Men',2022,'Alex Garland',NULL,NULL);
 INSERT INTO items VALUES('Q106537891','tt13650600','movie',819309,'movie',652699,NULL,NULL,'Emergency',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106554940','tt12004038','movie',807356,'movie',641879,NULL,'m/watcher_2022','Watcher',2022,'Chloe Okuno',91,NULL);
 INSERT INTO items VALUES('Q106555237','tt12615492','tv',104148,'show',162752,'umc.cmc.4xpk6thd1574yu8hy2xdozyz6','tv/greatness_code','Greatness Code',NULL,NULL,NULL,NULL);
