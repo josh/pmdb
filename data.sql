@@ -489,7 +489,7 @@ INSERT INTO items VALUES('Q188845','tt0095953','movie',380,'movie',304,'umc.cmc.
 INSERT INTO items VALUES('Q189054','tt0103776','movie',364,'movie',300,'umc.cmc.zebdhe8v15m7ey865c0kmgf1','m/batman_returns','Batman Returns',1992,'Tim Burton',126,80);
 INSERT INTO items VALUES('Q189330','tt1345836','movie',49026,'movie',34073,'umc.cmc.4chkhft26y3bhfxrtfjemtp2c','m/the_dark_knight_rises','The Dark Knight Rises',2012,'Christopher Nolan',164,87);
 INSERT INTO items VALUES('Q189350','tt0496424','tv',4608,'show',4584,'umc.cmc.31dfio7kfl6ddrjnfk2r2i2rm','tv/30_rock','30 Rock',NULL,NULL,21,NULL);
-INSERT INTO items VALUES('Q189505','tt0073195','movie',578,'movie',457,'umc.cmc.2bz6csnv519zyivpg4qb9cgbn','m/jaws','Jaws',1975,'Steven Spielberg',124,98);
+INSERT INTO items VALUES('Q189505','tt0073195','movie',578,'movie',457,'umc.cmc.2bz6csnv519zyivpg4qb9cgbn','m/jaws','Jatttt',1975,'Steven Spielberg',124,98);
 INSERT INTO items VALUES('Q189540','tt0047478','movie',346,'movie',293,'umc.cmc.3j1e4hzd95tf9vtnjot79gwbp','m/seven_samurai_1956','Seven Samurai',1954,'Akira Kurosawa',207,100);
 INSERT INTO items VALUES('Q189600','tt0234215','movie',604,'movie',482,'umc.cmc.5b3qv27alugfj95rrag186slh','m/matrix_reloaded','The Matrix Reloaded',2003,'The Wachowskis',138,73);
 INSERT INTO items VALUES('Q189875','tt0043274','movie',12092,'movie',7010,'umc.cmc.60xt9qc8qcbh9vooo01ln8jtz','m/1029112-alice_in_wonderland','Alice in Wonderland',1951,NULL,75,81);
