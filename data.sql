@@ -3540,7 +3540,7 @@ INSERT INTO items VALUES('Q61774261','tt1831804','tv',86382,'show',144126,'umc.c
 INSERT INTO items VALUES('Q61782227','tt8851668','movie',576156,'movie',426690,'umc.cmc.mjxbx23kc7f2qqvyuu8yikze','m/the_lovebirds_2020','The Lovebirds',2020,'Michael Showalter',86,66);
 INSERT INTO items VALUES('Q61782859','tt2235759','tv',93812,'show',152469,NULL,'tv/the_great','The Great',NULL,NULL,50,NULL);
 INSERT INTO items VALUES('Q61837900','tt9398466','tv',87508,'show',145178,NULL,'tv/delhi_crime','Delhi Crime Story',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q61876370','tt9603212','movie',575264,'movie',425809,NULL,NULL,'Mission: Impossible – Dead Reckoning Part One',2023,'Christopher McQuarrie',NULL,NULL);
+INSERT INTO items VALUES('Q61876370','tt9603212','movie',575264,'movie',425809,NULL,'m/mission_impossible_dead_reckoning_part_one','Mission: Impossible – Dead Reckoning Part One',2023,'Christopher McQuarrie',NULL,NULL);
 INSERT INTO items VALUES('Q61883088','tt4513678','movie',425909,'movie',270182,'umc.cmc.20w3hl6a3xsh7qf2fiobnkkqd','m/ghostbusters_afterlife','Ghostbusters: Afterlife',2021,'Jason Reitman',NULL,63);
 INSERT INTO items VALUES('Q61883109','tt1798632','movie',532710,'movie',384662,'umc.cmc.1imb41gj2q9clpk2nefnx60mc','m/firestarter_2022','Firestarter',2022,'Keith Thomas',110,NULL);
 INSERT INTO items VALUES('Q61927376','tt7395114','movie',499932,'movie',346736,NULL,'m/the_devil_all_the_time','The Devil All the Time',2020,'Antonio Campos',138,64);
@@ -3825,7 +3825,7 @@ INSERT INTO items VALUES('Q96376192','tt11032374','movie',635302,'movie',474745,
 INSERT INTO items VALUES('Q96376698','tt10122474','tv',89689,'show',153152,NULL,'tv/dummy','Dummy',NULL,'Tricia Brock',NULL,NULL);
 INSERT INTO items VALUES('Q96384692','tt11307724','movie',682532,'movie',527356,'umc.cmc.2hagqbdmsazeo9lwxf6p52kjz','m/john_and_the_hole','John and the Hole',2021,'Pascual Sisto',98,58);
 INSERT INTO items VALUES('Q96392364','tt11271800','movie',672521,'movie',505872,'umc.cmc.5ej3a3p7s849l9cumyg0nwap9','m/mayday_2021','Mayday',2021,'Karen Cinorre',100,48);
-INSERT INTO items VALUES('Q96398312','tt12004706','tv',101352,'show',160028,NULL,NULL,'Panchayat',2020,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q96398312','tt12004706','tv',101352,'show',160028,NULL,NULL,'Panchayat',2020,'Deepak Kumar Mishra',NULL,NULL);
 INSERT INTO items VALUES('Q96405993','tt11358166','movie',638741,'movie',477681,'umc.cmc.477smw9he6ab027jongqddyqk','m/some_kind_of_heaven','Some Kind of Heaven',NULL,'Lance Oppenheim',NULL,93);
 INSERT INTO items VALUES('Q96407897','tt10986410','tv',97546,'show',162639,'umc.cmc.vtoh0mn0xn7t3c643xqonfzy','tv/ted_lasso','Ted Lasso',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q96408682','tt11394184','movie',653727,'movie',489828,NULL,'m/the_fight_2020','The Fight',NULL,NULL,NULL,99);
