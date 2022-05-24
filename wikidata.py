@@ -229,7 +229,9 @@ def fetch_media_items(qids):
             items[qid]["imdb_id"] = item["P345"][0]
 
         if exists_once(item, "P1258"):
-            items[qid]["rottentomatoes_id"] = item["P1258"][0]
+            id = item["P1258"][0]
+            if id.startswith("m/") or id.startswith("tv/"):
+                items[qid]["rottentomatoes_id"] = id
 
         if exists_once(item, "P2047"):
             items[qid]["duration"] = int(float(item["P2047"][0]))
