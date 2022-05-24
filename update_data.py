@@ -1,6 +1,7 @@
 import argparse
 import logging
 import sqlite3
+from random import shuffle
 
 from db import items_upsert
 from plex import lookup_plex_guid
@@ -58,9 +59,11 @@ def find_missing_wikidata_qids(con):
 
 
 def find_missing_plex_ids(con):
-    rows = con.execute(
-        "SELECT imdb_id, title FROM items WHERE plex_id IS NULL LIMIT 25"
-    )
+    rows = con.execute("SELECT imdb_id, title FROM items WHERE plex_id IS NULL")
+
+    rows = list(rows)
+    shuffle(rows)
+    rows = rows[0:25]
 
     for (imdb_id, title) in rows:
         plex_guid = lookup_plex_guid(imdb_id=imdb_id, title=title)
