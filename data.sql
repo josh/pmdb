@@ -102,7 +102,7 @@ INSERT INTO items VALUES('Q24871','tt0499549','movie',19995,'movie',12269,'movie
 INSERT INTO items VALUES('Q24953','tt0079470','movie',583,'movie',462,NULL,NULL,'umc.cmc.3gr8pnn3t310ng2zjr9gr79ni','m/monty_pythons_life_of_brian','Monty Python’s Life of Brian',1979,'Terry Jones',94,95);
 INSERT INTO items VALUES('Q25043','tt0071853','movie',762,'movie',605,'movie','5d7768282ec6b5001f6ba4d7','umc.cmc.5re6h6rrzwtaub8i4bc3udwm6','m/monty_python_and_the_holy_grail','Monty Python and the Holy Grail',1975,NULL,91,97);
 INSERT INTO items VALUES('Q25057','tt0088846','movie',68,'movie',39,NULL,NULL,'umc.cmc.25tn9231aa7mzrvk4y5ssijqj','m/1003033-brazil','Brazil',1985,'Terry Gilliam',142,98);
-INSERT INTO items VALUES('Q25139','tt0169547','movie',14,'movie',10,NULL,NULL,'umc.cmc.16daqxpennfm6jm9nkrmtscp','m/american_beauty','American Beauty',1999,'Sam Mendes',121,87);
+INSERT INTO items VALUES('Q25139','tt0169547','movie',14,'movie',10,'movie','5d77682461141d001fb13340','umc.cmc.16daqxpennfm6jm9nkrmtscp','m/american_beauty','American Beauty',1999,'Sam Mendes',121,87);
 INSERT INTO items VALUES('Q25182','tt1235099','tv',8358,'show',8312,'show','5d9c07f62192ba001f3036b4','umc.cmc.4d21df8rd05b1bi9ir6s6ddyu','tv/lie-to-me','Lie to Me',NULL,NULL,42,89);
 INSERT INTO items VALUES('Q25188','tt1375666','movie',27205,'movie',16662,'movie','5d77685333f255001e852e11','umc.cmc.6loas01ow0w4lkatxxloz7a6e','m/inception','Inception',2010,'Christopher Nolan',148,87);
 INSERT INTO items VALUES('Q26060','tt0046438','movie',18148,'movie',11093,NULL,NULL,'umc.cmc.2uou0pg9gyn4tc895xtxwpmxs','m/tokyo_story','Tokyo Story',1953,'Yasujirō Ozu',136,100);
@@ -146,7 +146,7 @@ INSERT INTO items VALUES('Q44578','tt0120338','movie',597,'movie',475,'movie','5
 INSERT INTO items VALUES('Q44935','tt0808399','movie',12572,'movie',7340,NULL,NULL,'umc.cmc.5rn1qfu5k3j36t0ty2g0olb0z','m/new_york_i_love_you','New York, I Love You',2009,NULL,103,37);
 INSERT INTO items VALUES('Q45394','tt1259521','movie',22970,'movie',13937,'movie','5d77684a85719b001f3a77d2','umc.cmc.6sjabj6xhuvkreckrjmwyvers','m/the_cabin_in_the_woods','The Cabin in the Woods',2012,'Drew Goddard',95,92);
 INSERT INTO items VALUES('Q45602','tt0027977','movie',3082,'movie',2058,'movie','5d77682cf54112001f5bc793','umc.cmc.3tcp1o8pfpodim7m9r2bjk3t3','m/modern_times','Modern Times',1936,'Charlie Chaplin',99,98);
-INSERT INTO items VALUES('Q46551','tt0482571','movie',1124,'movie',851,NULL,NULL,'umc.cmc.xafhh76eamlmtgprndbgiq71','m/prestige','The Prestige',2006,'Christopher Nolan',125,76);
+INSERT INTO items VALUES('Q46551','tt0482571','movie',1124,'movie',851,'movie','5d776828999c64001ec2ce66','umc.cmc.xafhh76eamlmtgprndbgiq71','m/prestige','The Prestige',2006,'Christopher Nolan',125,76);
 INSERT INTO items VALUES('Q46717','tt0325980','movie',22,'movie',18,NULL,NULL,'umc.cmc.1wsvf8g54wi5yhum7spxmh470','m/pirates_of_the_caribbean_the_curse_of_the_black_pearl','Pirates of the Caribbean: The Curse of the Black Pearl',2003,'Gore Verbinski',137,79);
 INSERT INTO items VALUES('Q47075','tt0086250','movie',111,'movie',80,NULL,NULL,'umc.cmc.5s65ef1j9sxh2wrizh9v6mvf8','m/scarface','Scarface',1983,'Brian De Palma',170,82);
 INSERT INTO items VALUES('Q47221','tt0075314','movie',103,'movie',72,NULL,NULL,'umc.cmc.3dnsidxjodrqqk4eqg8i5wg8r','m/taxi_driver','Taxi Driver',1976,'Martin Scorsese',114,96);
@@ -249,7 +249,7 @@ INSERT INTO items VALUES('Q109331','tt0096874','movie',165,'movie',130,NULL,NULL
 INSERT INTO items VALUES('Q109564','tt0040746','movie',1580,'movie',1036,'movie','5d776829103a2d001f564e38','umc.cmc.5dt7y8k801ipk90eid69e407y','m/rope','Rope',1948,'Alfred Hitchcock',80,94);
 INSERT INTO items VALUES('Q109767','tt0080455','movie',525,'movie',410,'movie','5d776826961905001eb90fd2','umc.cmc.5v0o6ggug8vyxmnqlp47r0kvh','m/blues_brothers','The Blues Brothers',1980,'John Landis',148,73);
 INSERT INTO items VALUES('Q110043','tt0056869','movie',571,'movie',450,NULL,NULL,'umc.cmc.1e8uz5uqtuioqav6hocb44lm','m/1002448-birds','The Birds',1963,'Alfred Hitchcock',115,95);
-INSERT INTO items VALUES('Q110138','tt0092099','movie',744,'movie',589,NULL,NULL,'umc.cmc.1w0a2d5hpuxqksy2uvvhkrc42','m/top_gun','Top Gun',1986,'Tony Scott',NULL,57);
+INSERT INTO items VALUES('Q110138','tt0092099','movie',744,'movie',589,'movie','5d7768282e80df001ebdcebb','umc.cmc.1w0a2d5hpuxqksy2uvvhkrc42','m/top_gun','Top Gun',1986,'Tony Scott',NULL,57);
 INSERT INTO items VALUES('Q110203','tt0369339','movie',1538,'movie',998,'movie','5d77682985719b001f3a14c7','umc.cmc.78jh6hepzapdc5t0zq0ozujpl','m/collateral','Collateral',2004,'Michael Mann',120,86);
 INSERT INTO items VALUES('Q110206','tt0066999','movie',984,'movie',814,NULL,NULL,'umc.cmc.2puj9eap25v0rpnf1c7jqjk8s','m/dirty_harry','Dirty Harry',1971,'Don Siegel',102,87);
 INSERT INTO items VALUES('Q110278','tt0259711','movie',1903,'movie',1277,NULL,NULL,'umc.cmc.7h93cjxyeb5jwyj4s50hnmyb1','m/vanilla_sky','Vanilla Sky',2001,'Cameron Crowe',136,42);
@@ -934,7 +934,7 @@ INSERT INTO items VALUES('Q373096','tt0892769','movie',10191,'movie',5405,NULL,N
 INSERT INTO items VALUES('Q373267','tt0133751','movie',9276,'movie',4576,'movie','5d776832103a2d001f5670dc','umc.cmc.6wspvqjciuqj80tbv84z54sty','m/faculty','The Faculty',1998,'Robert Rodriguez',100,55);
 INSERT INTO items VALUES('Q374172','tt0012349','movie',10098,'movie',5318,NULL,NULL,'umc.cmc.6vgfphm37ilad09k68fv8y51a','m/1052609-kid','The Kid',1921,'Charlie Chaplin',68,100);
 INSERT INTO items VALUES('Q375186','tt0100514','movie',6723,'movie',3744,'movie','5d776830961905001eb930fc','umc.cmc.6vjz6a1pdgszuhv63glvxjasc','m/1031635-rookie','The Rookie',1990,'Clint Eastwood',121,29);
-INSERT INTO items VALUES('Q375855','tt0069704','movie',838,'movie',681,NULL,NULL,'umc.cmc.3wens990cjsqja9p6dkd8j67u','m/american_graffiti','American Graffiti',1973,'George Lucas',108,96);
+INSERT INTO items VALUES('Q375855','tt0069704','movie',838,'movie',681,'movie','5d776828999c64001ec2cbc1','umc.cmc.3wens990cjsqja9p6dkd8j67u','m/american_graffiti','American Graffiti',1973,'George Lucas',108,96);
 INSERT INTO items VALUES('Q376723','tt1582248','movie',72432,'movie',53206,NULL,NULL,'umc.cmc.2eo9aqdv9xpqwcx4zcg31eg5e','m/puncture','Puncture',2011,NULL,100,52);
 INSERT INTO items VALUES('Q376807','tt1386588','movie',27581,'movie',16984,NULL,NULL,'umc.cmc.1cwrv8hdstk7qnlb74otjzscv','m/other_guys','The Other Guys',2010,'Adam McKay',107,78);
 INSERT INTO items VALUES('Q377043','tt1017460','movie',37707,'movie',24204,NULL,NULL,'umc.cmc.6dru57ac4686sk3gnujd4wcxz','m/1208173-splice','Splice',2009,'Vincenzo Natali',103,75);
@@ -1036,7 +1036,7 @@ INSERT INTO items VALUES('Q465910','tt0183649','movie',1817,'movie',1203,NULL,NU
 INSERT INTO items VALUES('Q465979','tt0036342','movie',21734,'movie',13280,NULL,NULL,'umc.cmc.6b3ib7xn5pdzrj4w6fpx4dkds','m/1018688-shadow_of_a_doubt','Shadow of a Doubt',1943,'Alfred Hitchcock',108,100);
 INSERT INTO items VALUES('Q466101','tt0113247','movie',406,'movie',324,NULL,NULL,'umc.cmc.4ye70p2ar9z1mddihwi5540dc','m/la_haine','La Haine',1995,'Mathieu Kassovitz',96,100);
 INSERT INTO items VALUES('Q466297','tt0101889','movie',177,'movie',142,NULL,NULL,'umc.cmc.1r0vvhalrn17csb5b7aojginx','m/fisher_king','The Fisher King',1991,'Terry Gilliam',137,84);
-INSERT INTO items VALUES('Q466329','tt0974959','movie',8277,'movie',4101,NULL,NULL,'umc.cmc.1m14l1c7zfh7y6h429krrpfol','m/american_pie_presents_beta_house','American Pie Presents: Beta House',2007,'Andrew Waller',85,NULL);
+INSERT INTO items VALUES('Q466329','tt0974959','movie',8277,'movie',4101,'movie','5d776831151a60001f24cfa1','umc.cmc.1m14l1c7zfh7y6h429krrpfol','m/american_pie_presents_beta_house','American Pie Presents: Beta House',2007,'Andrew Waller',85,NULL);
 INSERT INTO items VALUES('Q466348','tt0160009','movie',11398,'movie',6494,NULL,NULL,'umc.cmc.5xebf48cj72mknlpdybjazb8p','m/1099604-art_of_war','The Art of War',2000,'Christian Duguay',117,16);
 INSERT INTO items VALUES('Q466358','tt0790712','movie',28089,'movie',17431,NULL,NULL,'umc.cmc.17b1bhyh9nualmbcqz8qhmkte','m/10011016-messenger','The Messenger',2009,'Oren Moverman',113,90);
 INSERT INTO items VALUES('Q466423','tt0328828','movie',8273,'movie',4097,NULL,NULL,'umc.cmc.5opm2bnf133rcxedwrzm0diir','m/american_wedding','American Wedding',2003,'Jesse Dylan',96,54);
@@ -1457,7 +1457,7 @@ INSERT INTO items VALUES('Q676039','tt0032551','movie',596,'movie',474,'movie','
 INSERT INTO items VALUES('Q676047','tt1120985','movie',46705,'movie',32086,'movie','5d9f35809dd5f4001e8450b5','umc.cmc.1s50v69dtld6u8329cfiuthnr','m/blue_valentine','Blue Valentine',2010,'Derek Cianfrance',112,86);
 INSERT INTO items VALUES('Q676284','tt1477076','movie',41439,'movie',27417,NULL,NULL,'umc.cmc.2gj71ybwa55h8kt8ryw7mim8q','m/saw3d','Saw 3D',2010,'Kevin Greutert',90,10);
 INSERT INTO items VALUES('Q676513','tt0119643','movie',297,'movie',250,NULL,NULL,'umc.cmc.170f1fuaoftr90dd9phfzur4x','m/meet_joe_black','Meet Joe Black',1998,'Martin Brest',173,45);
-INSERT INTO items VALUES('Q676939','tt0184858','movie',2155,'movie',1496,NULL,NULL,'umc.cmc.463cltcox3o2j29pmnow0tebx','m/reindeer_games','Reindeer Games',2000,'John Frankenheimer',104,26);
+INSERT INTO items VALUES('Q676939','tt0184858','movie',2155,'movie',1496,'movie','5d776d15ad5437001f7cc8d3','umc.cmc.463cltcox3o2j29pmnow0tebx','m/reindeer_games','Reindeer Games',2000,'John Frankenheimer',104,26);
 INSERT INTO items VALUES('Q678306','tt0124298','movie',11622,'movie',6698,NULL,NULL,'umc.cmc.3kud86szm0a9ag73suyksorq0','m/blast_from_the_past','Blast from the Past',1999,'Hugh Wilson',112,58);
 INSERT INTO items VALUES('Q678775','tt0257076','movie',9257,'movie',4557,'movie','5d776832103a2d001f5670a0','umc.cmc.63pypqsonf9fgblh8lcruvicl','m/swat','S.W.A.T.',2003,'Clark Johnson',112,48);
 INSERT INTO items VALUES('Q679023','tt0462322','movie',285923,'movie',183108,NULL,NULL,NULL,'m/grindhouse','Grindhouse',2007,NULL,191,84);
@@ -1504,13 +1504,13 @@ INSERT INTO items VALUES('Q705343','tt0364343','movie',11099,'movie',6234,'movie
 INSERT INTO items VALUES('Q705669','tt0294357','movie',9839,'movie',5094,'movie','5d776833961905001eb938ad',NULL,'m/beyond_borders','Beyond Borders',2003,'Martin Campbell',121,14);
 INSERT INTO items VALUES('Q707880','tt0355295','movie',4442,'movie',2602,'movie','5d77682ef59e580021897cfe','umc.cmc.49z1k55rgaogucz94zkw4k4fy','m/brothers_grimm','The Brothers Grimm',2005,'Terry Gilliam',119,38);
 INSERT INTO items VALUES('Q710324','tt0388629','tv',37854,'show',37696,'show','5d9c084fec357c001f9ab4d8',NULL,NULL,'One Piece',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q711257','tt0421357','tv',37863,'show',37705,NULL,NULL,NULL,NULL,'Fullmetal Alchemist',NULL,'Seiji Mizushima',NULL,NULL);
+INSERT INTO items VALUES('Q711257','tt0421357','tv',37863,'show',37705,'show','5d9c0850e264b7001fc41055',NULL,NULL,'Fullmetal Alchemist',NULL,'Seiji Mizushima',NULL,NULL);
 INSERT INTO items VALUES('Q714057','tt0338564','movie',10775,'movie',5937,'movie','5d9f34fb4441b1001fa0d653','umc.cmc.6o4bhx0oco9jrzkppz4wm7l01','m/infernal_affairs','Infernal Affairs',2002,NULL,97,94);
 INSERT INTO items VALUES('Q714753','tt0061287','tv',894,'show',889,'show','5d9c081b4eefaa001f5d5e02',NULL,'tv/the_prisoner_1967','The Prisoner',NULL,NULL,48,NULL);
 INSERT INTO items VALUES('Q718624','tt0877057','tv',13916,'show',13855,'show','5d9c086b02391c001f588f11',NULL,'tv/death_note','Death Note',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q719915','tt1170358','movie',57158,'movie',40808,NULL,NULL,'umc.cmc.1wsf8n10goksr9rdjh87vnfje','m/the_hobbit_the_desolation_of_smaug','The Hobbit: The Desolation of Smaug',2013,'Peter Jackson',161,74);
 INSERT INTO items VALUES('Q720357','tt0100403','movie',169,'movie',134,NULL,NULL,'umc.cmc.3aw22dasz5t7zjht4lbbdyciz','m/predator_2','Predator 2',1990,'Stephen Hopkins',107,30);
-INSERT INTO items VALUES('Q720724','tt0112431','movie',9598,'movie',4874,NULL,NULL,'umc.cmc.2f9aiwdhwb610cgsyj2mfrzfi','m/1065598-babe','Babe',1995,'Chris Noonan',92,97);
+INSERT INTO items VALUES('Q720724','tt0112431','movie',9598,'movie',4874,'movie','5d776d1951dd69001fe3fe86','umc.cmc.2f9aiwdhwb610cgsyj2mfrzfi','m/1065598-babe','Babe',1995,'Chris Noonan',92,97);
 INSERT INTO items VALUES('Q722267','tt0086960','movie',90,'movie',59,'movie','5d7768248a7581001f12bc74','umc.cmc.3o222zbl1vh6cgj0vqbzjte04','m/beverly_hills_cop','Beverly Hills Cop',1984,'Martin Brest',105,83);
 INSERT INTO items VALUES('Q722682','tt0212985','movie',9740,'movie',5006,NULL,NULL,'umc.cmc.1bb7s521cm9j2giqzozlab6bp','m/1104385-hannibal','Hannibal',2001,'Ridley Scott',131,40);
 INSERT INTO items VALUES('Q723187','tt0119174','movie',2649,'movie',1789,NULL,NULL,'umc.cmc.4qsoncn3e1vwwz692g01rqw5d','m/the_game','The Game',1997,'David Fincher',129,76);
@@ -1557,7 +1557,7 @@ INSERT INTO items VALUES('Q741823','tt0102138','movie',820,'movie',663,'movie','
 INSERT INTO items VALUES('Q741878','tt0093105','movie',801,'movie',644,NULL,NULL,'umc.cmc.71kit5z4trm6zoy8uw3b2e4rg','m/good_morning_vietnam','Good Morning, Vietnam',1987,'Barry Levinson',121,90);
 INSERT INTO items VALUES('Q742103','tt0052520','tv',6357,'show',6318,'show','5d9c08732df347001e3b32d0',NULL,NULL,'The Twilight Zone',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q743258','tt0398017','movie',8999,'movie',4462,NULL,NULL,'umc.cmc.5y2gf8u9hj2sjho0ldcahkfiu','m/derailed','Derailed',2005,'Mikael Håfström',107,21);
-INSERT INTO items VALUES('Q744500','tt0120184','movie',10153,'movie',5369,NULL,NULL,'umc.cmc.5xm3tdcyfqiwbermazl6g89f1','m/sphere','Sphere',1998,'Barry Levinson',129,11);
+INSERT INTO items VALUES('Q744500','tt0120184','movie',10153,'movie',5369,'movie','5d776834a091de001f2e7d0c','umc.cmc.5xm3tdcyfqiwbermazl6g89f1','m/sphere','Sphere',1998,'Barry Levinson',129,11);
 INSERT INTO items VALUES('Q746029','tt0381849','movie',5176,'movie',3015,'movie','5d77682e2ec6b5001f6bb048','umc.cmc.3kf3ekyubb4apqy71917ywcsk','m/310_to_yuma','3:10 to Yuma',2007,'James Mangold',117,89);
 INSERT INTO items VALUES('Q746240','tt0314979','tv',71365,'show',173344,'show','5d9c08cdba6eb9001fbaa78e',NULL,NULL,'Battlestar Galactica',NULL,'Michael Rymer',NULL,NULL);
 INSERT INTO items VALUES('Q746574','tt0097937','movie',10161,'movie',5377,'movie','5d9f34f9e4fc29001eb64ec7','umc.cmc.503pmgtthwk980mf2jzofvedc','m/my_left_foot','My Left Foot',1989,'Jim Sheridan',103,98);
@@ -1692,7 +1692,7 @@ INSERT INTO items VALUES('Q836821','tt0371724','movie',7453,'movie',3914,NULL,NU
 INSERT INTO items VALUES('Q837264','tt1478338','movie',55721,'movie',39659,'movie','5d77689751dd69001fe0e828','umc.cmc.3ua1x18o0su2929xsb7ecclkq','m/bridesmaids_2011','Bridesmaids',2011,'Paul Feig',125,90);
 INSERT INTO items VALUES('Q838405','tt0861689','movie',8338,'movie',4132,'movie','5d776831151a60001f24cfa2','umc.cmc.41sex8prfo0k8pj3anw7o49','m/1188215-blindness','Blindness',2008,'Fernando Meirelles',121,43);
 INSERT INTO items VALUES('Q839123','tt0380510','movie',7980,'movie',3992,NULL,NULL,'umc.cmc.3gae5yxxd2i36t9hvfim8ntr2','m/1189344-lovely_bones','The Lovely Bones',2009,'Peter Jackson',135,32);
-INSERT INTO items VALUES('Q839133','tt0115964','movie',884,'movie',727,NULL,NULL,NULL,'m/crash_1996','Crash',1996,'David Cronenberg',100,63);
+INSERT INTO items VALUES('Q839133','tt0115964','movie',884,'movie',727,'movie','5d776d1447dd6e001f6efbb8',NULL,'m/crash_1996','Crash',1996,'David Cronenberg',100,63);
 INSERT INTO items VALUES('Q839596','tt0245844','movie',11362,'movie',6458,'movie','5d7768365af944001f1fa520','umc.cmc.5grlyxyaz353w3v9g8aa69zk2','m/1110288-count_of_monte_cristo','The Count of Monte Cristo',2002,'Kevin Reynolds',125,73);
 INSERT INTO items VALUES('Q840297','tt0104815','movie',9367,'movie',4658,'movie','5d9f34f7dfd128002089f8c3','umc.cmc.7izfmvsg6wc8iorn1xjm43aer','m/el_mariachi','El Mariachi',1992,'Robert Rodriguez',81,91);
 INSERT INTO items VALUES('Q840495','tt0430357','movie',82,'movie',52,'movie','5d77682485719b001f3a041f','umc.cmc.4d2yg5wnbbnappz3rcan45riz','m/miami_vice','Miami Vice',2006,'Michael Mann',134,46);
@@ -1957,7 +1957,7 @@ INSERT INTO items VALUES('Q1125451','tt0102494','movie',468,'movie',370,'movie',
 INSERT INTO items VALUES('Q1127281','tt0118929','movie',2666,'movie',1797,NULL,NULL,'umc.cmc.p6nniounug6r9t45gu4210pj','m/dark_city','Dark City',1998,'Alex Proyas',100,76);
 INSERT INTO items VALUES('Q1127709','tt0108399','movie',319,'movie',270,'movie','5d776825151a60001f24a5d9','umc.cmc.3vh47uqbjaogzof2erqy1w27r','m/true_romance','True Romance',1993,'Tony Scott',120,93);
 INSERT INTO items VALUES('Q1128499','tt0433362','movie',19901,'movie',12219,'movie','5d77684485719b001f3a69ba','umc.cmc.1i5408ohpxnjl7mik65zn5frl','m/daybreakers','Daybreakers',2009,NULL,94,69);
-INSERT INTO items VALUES('Q1128745','tt0480687','movie',48988,'movie',34041,NULL,NULL,'umc.cmc.4k6ujz7e07kn649rap7yrc9j','m/hall_pass','Hall Pass',2011,NULL,105,33);
+INSERT INTO items VALUES('Q1128745','tt0480687','movie',48988,'movie',34041,'movie','5d77688833f255001e858e71','umc.cmc.4k6ujz7e07kn649rap7yrc9j','m/hall_pass','Hall Pass',2011,NULL,105,33);
 INSERT INTO items VALUES('Q1128750','tt1263670','movie',25196,'movie',15221,NULL,NULL,'umc.cmc.1tmlb0zpspaepjdplxgz096xs','m/crazy_heart','Crazy Heart',2009,'Scott Cooper',112,90);
 INSERT INTO items VALUES('Q1128756','tt0978762','movie',24238,'movie',14573,'movie','5d77684d85719b001f3a7dcf','umc.cmc.2q9pep4o8z3ydetwl1k52qxwu','m/1209767-mary_and_max','Mary and Max',2009,'Adam Elliot',90,95);
 INSERT INTO items VALUES('Q1128867','tt1045772','movie',8952,'movie',4424,'movie','5d9f34f6dfd128002089f81f','umc.cmc.1klxkvlpmyhkr5rbn0ok2bbyc','m/i_love_you_phillip_morris','I Love You Phillip Morris',2009,NULL,102,71);
@@ -2098,9 +2098,9 @@ INSERT INTO items VALUES('Q1213829','tt0138510','movie',6552,'movie',3678,NULL,N
 INSERT INTO items VALUES('Q1214594','tt1020773','movie',48303,'movie',33438,NULL,NULL,'umc.cmc.1nqaociqwo0z2uc9ggs8irun5','m/certified_copy','Certified Copy',2010,'Abbas Kiarostami',106,89);
 INSERT INTO items VALUES('Q1214605','tt0968264','movie',60309,'movie',43155,'movie','5d9f359badeb7a0021ce2aad','umc.cmc.3ekzqq9xl7cle9kpoq39bjcad','m/the_conspirator','The Conspirator',2010,'Robert Redford',122,56);
 INSERT INTO items VALUES('Q1214896','tt0265349','movie',2637,'movie',1779,'movie','5d77682b151a60001f24bb25','umc.cmc.5n269cttihuzosy93e9jyyu3o','m/mothman_prophecies','The Mothman Prophecies',2002,'Mark Pellington',119,52);
-INSERT INTO items VALUES('Q1215169','tt0120769','movie',42807,'movie',28668,NULL,NULL,'umc.cmc.16t1x21hpnvlgok1kfa5v0pi9','m/newton_boys','The Newton Boys',1998,'Richard Linklater',117,64);
+INSERT INTO items VALUES('Q1215169','tt0120769','movie',42807,'movie',28668,'movie','5d776879fb0d55001f5117a1','umc.cmc.16t1x21hpnvlgok1kfa5v0pi9','m/newton_boys','The Newton Boys',1998,'Richard Linklater',117,64);
 INSERT INTO items VALUES('Q1216770','tt0155267','movie',913,'movie',756,'movie','5d78b9a781ba41001fb65784','umc.cmc.58vf8sr6i7anowfy72pvteh28','m/thomas_crown_affair_the','The Thomas Crown Affair',1999,'John McTiernan',109,70);
-INSERT INTO items VALUES('Q1217573','tt0107969','movie',7007,'movie',3807,NULL,NULL,'umc.cmc.2lujj3771odzxucjbr926lcn3','m/rising_sun','Rising Sun',1993,'Philip Kaufman',124,33);
+INSERT INTO items VALUES('Q1217573','tt0107969','movie',7007,'movie',3807,'movie','5d7768315af944001f1f8db6','umc.cmc.2lujj3771odzxucjbr926lcn3','m/rising_sun','Rising Sun',1993,'Philip Kaufman',124,33);
 INSERT INTO items VALUES('Q1218655','tt0073453','movie',32042,'movie',20568,NULL,NULL,'umc.cmc.6caewyorivye5p8tna2zunxn4','m/night_moves','Night Moves',1975,'Arthur Penn',99,84);
 INSERT INTO items VALUES('Q1218847','tt0272020','movie',2100,'movie',1449,'movie','5d77682af54112001f5bc43a','umc.cmc.fsl92fonhktkh8r5v9ulrtwz','m/last_castle','The Last Castle',2001,'Rod Lurie',126,53);
 INSERT INTO items VALUES('Q1219310','tt0085995','movie',11153,'movie',6282,'movie','5d776836103a2d001f567ea4','umc.cmc.13khsrurteqmaumf8k0hih10m','m/national_lampoons_vacation','National Lampoon''s Vacation',1983,'Harold Ramis',98,93);
@@ -2167,7 +2167,7 @@ INSERT INTO items VALUES('Q1338368','tt1421051','movie',39210,'movie',25446,NULL
 INSERT INTO items VALUES('Q1339178','tt0108188','movie',7500,'movie',3926,NULL,NULL,'umc.cmc.3qiqh97x77cd21na3xd56cfql','m/sonatine','Sonatine',1993,'Takeshi Kitano',94,92);
 INSERT INTO items VALUES('Q1339386','tt0424993','movie',9794,'movie',5053,NULL,NULL,'umc.cmc.33dy8kksxdzxruwride01b8m9','m/employee_of_the_month','Employee of the Month',2006,'Greg Coolidge',103,20);
 INSERT INTO items VALUES('Q1339523','tt0115956','movie',10684,'movie',5855,'movie','5d7768356f4521001ea9c12b','umc.cmc.4xa00tjboqicuuqeyxi90asba','m/courage_under_fire','Courage Under Fire',1996,'Edward Zwick',116,85);
-INSERT INTO items VALUES('Q1340065','tt0103584','tv',4574,'show',4550,NULL,NULL,NULL,NULL,'X-Men',NULL,NULL,22,NULL);
+INSERT INTO items VALUES('Q1340065','tt0103584','tv',4574,'show',4550,'show','5d9c086ee98e47001eb0fccb',NULL,NULL,'X-Men',NULL,NULL,22,NULL);
 INSERT INTO items VALUES('Q1343478','tt0817177','movie',43949,'movie',29695,NULL,NULL,'umc.cmc.6fjsqzr5utpf3j7a1qf6iaip5','m/flipped','Flipped',2010,'Rob Reiner',86,54);
 INSERT INTO items VALUES('Q1344940','tt0082783','movie',25468,'movie',15381,'movie','5d9f3553b0262f001f6eaaa3','umc.cmc.1s4tgcio0fadigjlspbnvdhem','m/my_dinner_with_andre','My Dinner with Andre',1981,'Louis Malle',111,92);
 INSERT INTO items VALUES('Q1345077','tt0838283','movie',12133,'movie',7051,'movie','5d9f35016fc551001ef800b3','umc.cmc.62my0s1tfb2q3qoe089pk1oxo','m/1193743-step_brothers','Step Brothers',2008,'Adam McKay',105,55);
@@ -2426,7 +2426,7 @@ INSERT INTO items VALUES('Q2067539','tt0115683','movie',9536,'movie',4814,'movie
 INSERT INTO items VALUES('Q2075458','tt1687247','movie',66150,'movie',47931,NULL,NULL,NULL,'m/life_in_a_day_2011','Life in a Day',2011,'Kevin Macdonald',94,80);
 INSERT INTO items VALUES('Q2078287','tt0976246','movie',25927,'movie',15721,NULL,NULL,'umc.cmc.6a2xfznsnaqq8igosveznqjg0','m/1217459-staten_island','Staten Island',2009,'James DeMonaco',92,25);
 INSERT INTO items VALUES('Q2090488','tt0374853','movie',32407,'movie',20813,'movie','5d7768608718ba001e31a39d','umc.cmc.5tj44lz92x08ptnr0xhuifffl','m/malice_in_wonderland-2009','Malice in Wonderland',2009,'Simon Fellows',NULL,10);
-INSERT INTO items VALUES('Q2092528','tt0119210','movie',10871,'movie',6028,NULL,NULL,'umc.cmc.2i0mubmv63musy8z7ftem1y43','m/switchback','Switchback',1997,'Jeb Stuart',118,32);
+INSERT INTO items VALUES('Q2092528','tt0119210','movie',10871,'movie',6028,'movie','5d77683561141d001fb15905','umc.cmc.2i0mubmv63musy8z7ftem1y43','m/switchback','Switchback',1997,'Jeb Stuart',118,32);
 INSERT INTO items VALUES('Q2093090','tt0117128','movie',3065,'movie',2041,NULL,NULL,'umc.cmc.1kpwjffnakk92xta5zqu4jsst','m/mystery_science_theater_3000_the_movie','Mystery Science Theater 3000: The Movie',1996,'Jim Mallon',75,80);
 INSERT INTO items VALUES('Q2095178','tt1318517','movie',297725,'movie',215398,NULL,NULL,'umc.cmc.3b3w61hwx7wbaryl1frowkkp7','m/the_man_who_killed_don_quixote','The Man Who Killed Don Quixote',2018,'Terry Gilliam',132,65);
 INSERT INTO items VALUES('Q2110480','tt1862079','movie',84332,'movie',63213,NULL,NULL,'umc.cmc.561dc8bkiexjqiwz12ylh7l6s','m/safety_not_guaranteed','Safety Not Guaranteed',2012,'Colin Trevorrow',86,91);
@@ -2680,7 +2680,7 @@ INSERT INTO items VALUES('Q14036428','tt1663207','movie',209189,'movie',129632,N
 INSERT INTO items VALUES('Q14117444','tt2402157','movie',254904,'movie',155240,NULL,NULL,'umc.cmc.5rg13e3y3q9pzmpbme2xsidce','m/the_november_man','November Man',2014,'Roger Donaldson',108,36);
 INSERT INTO items VALUES('Q14171368','tt2395427','movie',99861,'movie',71938,'movie','5d77690623d5a3001f4f4ab6','umc.cmc.scq1juwtw6cfpo92aot2c5qx','m/avengers_age_of_ultron','Avengers: Age of Ultron',2015,'Joss Whedon',141,76);
 INSERT INTO items VALUES('Q14317024','tt2273657','movie',245706,'movie',149558,NULL,NULL,'umc.cmc.3jukhoxi5cz47t1yjm8ajglh7','m/true_story_2014','True Story',2014,'Rupert Goold',100,45);
-INSERT INTO items VALUES('Q14339915','tt2692904','movie',210479,'movie',130301,NULL,NULL,'umc.cmc.2pc6f6yflq949sz8uqconamat','m/locke','Locke',2013,'Steven Knight',85,91);
+INSERT INTO items VALUES('Q14339915','tt2692904','movie',210479,'movie',130301,'movie','5d776a3e96b655001fde825e','umc.cmc.2pc6f6yflq949sz8uqconamat','m/locke','Locke',2013,'Steven Knight',85,91);
 INSERT INTO items VALUES('Q14369911','tt2172584','movie',157851,'movie',102445,NULL,NULL,'umc.cmc.4i8nm1j30r1q9dhkw2xlbcpd','m/maps_to_the_stars','Maps to the Stars',2014,'David Cronenberg',112,61);
 INSERT INTO items VALUES('Q14370516','tt2333784','movie',138103,'movie',92802,NULL,NULL,'umc.cmc.5d94s0y9ik9ocrq632petllau','m/the_expendables_3','The Expendables 3',2014,'Patrick Hughes',126,32);
 INSERT INTO items VALUES('Q14488725','tt1638355','movie',203801,'movie',126852,NULL,NULL,'umc.cmc.njbz2bdnkx8jesp3wby932gg','m/the_man_from_uncle','The Man from U.N.C.L.E.',2015,'Guy Ritchie',116,68);
@@ -2871,7 +2871,7 @@ INSERT INTO items VALUES('Q19569225','tt1972591','movie',274857,'movie',172687,N
 INSERT INTO items VALUES('Q19590955','tt3748528','movie',330459,'movie',211396,'movie','5d776b85594b2b001e6dc647','umc.cmc.5ydra856u0y2hc1ur13qd4xxx','m/rogue_one_a_star_wars_story','Rogue One',2016,'Gareth Edwards',133,84);
 INSERT INTO items VALUES('Q19593743','tt4063800','tv',62476,'show',98427,'show','5d9c0852705e7a001e6d8f16',NULL,'tv/the_bureau','The Bureau',NULL,'Éric Rochant',NULL,NULL);
 INSERT INTO items VALUES('Q19602027','tt4299972','tv',61929,'show',94066,NULL,NULL,'umc.cmc.4k8pjyga6j2zl7f7gca7e9h4g','tv/the_jinx_the_life_and_deaths_of_robert_durst','The Jinx',2015,'Andrew Jarecki',NULL,NULL);
-INSERT INTO items VALUES('Q19605486','tt4973548','tv',65315,'show',104878,NULL,NULL,'umc.cmc.6xowibn53gye7xbb2leevwtoq','tv/flaked','Flaked',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q19605486','tt4973548','tv',65315,'show',104878,'show','5d9c08160aaccd001f8ed443','umc.cmc.6xowibn53gye7xbb2leevwtoq','tv/flaked','Flaked',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q19627585','tt2400463','movie',306947,'movie',195334,NULL,NULL,'umc.cmc.nybymbb4rxqw7vu0cdwg2jz','m/the_invitation','The Invitation',2015,'Karyn Kusama',99,89);
 INSERT INTO items VALUES('Q19750433','tt4178092','movie',328425,'movie',209322,NULL,NULL,'umc.cmc.58xu8l3mpl4slcyf8qwvt90qn','m/the_gift_2015','The Gift',2015,'Joel Edgerton',108,91);
 INSERT INTO items VALUES('Q19750881','tt1974419','movie',301365,'movie',195866,NULL,NULL,'umc.cmc.34y94wuttq9lyfdlgz6xgzq4q','m/the_neon_demon','The Neon Demon',2016,'Nicolas Winding Refn',118,59);
@@ -3273,7 +3273,7 @@ INSERT INTO items VALUES('Q44491815','tt2139881','movie',459992,'movie',307062,'
 INSERT INTO items VALUES('Q44535025','tt1312171','tv',75006,'show',137198,NULL,NULL,'umc.cmc.p5xaei8bv4ilvmtuhmgp9yq1','tv/the_umbrella_academy','The Umbrella Academy',NULL,NULL,57,NULL);
 INSERT INTO items VALUES('Q44612834','tt8108198','movie',534780,'movie',386658,NULL,NULL,'umc.cmc.4j7zw48zujb15dd0ljho1kan8','m/andhadhun','Andhadhun',2018,'Sriram Raghavan',139,100);
 INSERT INTO items VALUES('Q44613088','tt7339248','movie',480001,'movie',327388,NULL,NULL,'umc.cmc.4hyj7in6nyhho4apdf1nvk6th','m/the_art_of_self_defense_2019','The Art of Self-Defense',2019,'Riley Stearns',104,84);
-INSERT INTO items VALUES('Q44727126','tt6902696','movie',491473,'movie',338530,NULL,NULL,'umc.cmc.62ir2467gg761ct376ebw7lmv','m/gloria_bell','Gloria Bell',2018,'Sebastián Lelio',102,91);
+INSERT INTO items VALUES('Q44727126','tt6902696','movie',491473,'movie',338530,'movie','5d776f1afb0d55001f5d7f63','umc.cmc.62ir2467gg761ct376ebw7lmv','m/gloria_bell','Gloria Bell',2018,'Sebastián Lelio',102,91);
 INSERT INTO items VALUES('Q45318824','tt5033790','movie',427451,'movie',280637,'movie','5d776c8ff617c90020182e03','umc.cmc.61gus6jq1w8py6echnpktyjan','m/banking_on_bitcoin','Banking on Bitcoin',2016,NULL,90,NULL);
 INSERT INTO items VALUES('Q45710377','tt6729000','movie',454312,'movie',300769,NULL,NULL,'umc.cmc.3nlouppse169g7rbzty1pd9ga','m/tyrel','Tyrel',2018,'Sebastián Silva',86,60);
 INSERT INTO items VALUES('Q46861802','tt6108262','tv',74647,'show',124715,NULL,NULL,NULL,NULL,'Shadow Over Balkans',2017,NULL,NULL,NULL);
@@ -3609,7 +3609,7 @@ INSERT INTO items VALUES('Q65045900','tt7937254','movie',579051,'movie',455960,'
 INSERT INTO items VALUES('Q65047848','tt10334148','movie',644831,'movie',482663,'movie','5d7770eb81ba41001fafad65','umc.cmc.4l8wd8t21xy8b1qrx5f9nvbhh','m/blithe_spirit_2021','Blithe Spirit',2020,'Edward Hall',95,29);
 INSERT INTO items VALUES('Q65049470','tt10514222','movie',615667,'movie',459039,'movie','5e1632ffcd0850003b75c30b',NULL,'m/ma_raineys_black_bottom','Ma Rainey''s Black Bottom',2020,'George C. Wolfe',93,98);
 INSERT INTO items VALUES('Q65056901','tt10166622','tv',122066,'show',156449,NULL,NULL,NULL,NULL,'The Dropout',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q65058737','tt3513548','movie',292011,'movie',188825,NULL,NULL,'umc.cmc.4aqs72y5xenk37ojzc5snfzvc','m/richard_jewell','Richard Jewell',2019,'Clint Eastwood',129,77);
+INSERT INTO items VALUES('Q65058737','tt3513548','movie',292011,'movie',188825,'movie','5d776b20594b2b001e6d0220','umc.cmc.4aqs72y5xenk37ojzc5snfzvc','m/richard_jewell','Richard Jewell',2019,'Clint Eastwood',129,77);
 INSERT INTO items VALUES('Q65060813','tt9432978','tv',89113,'show',146663,NULL,NULL,NULL,NULL,'Kota Factory',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q65061274','tt10230994','movie',597433,'movie',443368,'movie','5d7770d99ab5440021538043',NULL,'m/beckett','Beckett',2021,'Ferdinando Cito Filomarino',108,45);
 INSERT INTO items VALUES('Q65061643','tt8850222','movie',581392,'movie',455571,NULL,NULL,'umc.cmc.6825ltzbghuj3zok8xz4pn12p','m/train_to_busan_presents_peninsula','Peninsula',2020,'Yeon Sang-ho',116,54);
@@ -3736,7 +3736,7 @@ INSERT INTO items VALUES('Q82396632','tt8740976','tv',95665,'show',154957,NULL,N
 INSERT INTO items VALUES('Q82430214','tt7740496','movie',597208,'movie',443066,'movie','5d7770d96afb3d0020623475','umc.cmc.5q95gyt98ah83vbi386esu6t6','m/nightmare_alley_2021','Nightmare Alley',2021,'Guillermo del Toro',150,NULL);
 INSERT INTO items VALUES('Q83295128','tt4329810','movie',631143,'movie',471502,NULL,NULL,'umc.cmc.5b6l5pqf6uatkukkvpl6a5i9x','m/qt8_the_first_eight','QT8: The First Eight',2019,NULL,NULL,91);
 INSERT INTO items VALUES('Q83430460','tt10671440','movie',617127,'movie',460195,NULL,NULL,NULL,NULL,'Blade',NULL,'Bassam Tariq',NULL,NULL);
-INSERT INTO items VALUES('Q83437242','tt11388406','movie',653601,'movie',488452,NULL,NULL,'umc.cmc.3c2o2l3bxh8jo4t29poay69sh','m/horse_girl','Horse Girl',2020,'Jeff Baena',103,71);
+INSERT INTO items VALUES('Q83437242','tt11388406','movie',653601,'movie',488452,'movie','5e162561fef2d4003e88a892','umc.cmc.3c2o2l3bxh8jo4t29poay69sh','m/horse_girl','Horse Girl',2020,'Jeff Baena',103,71);
 INSERT INTO items VALUES('Q83726435','tt4761112','movie',644583,'movie',484515,NULL,NULL,'umc.cmc.4grky7892tsldnq7vwhezxtpi','m/the_mauritanian','The Mauritanian',2021,'Kevin Macdonald',129,75);
 INSERT INTO items VALUES('Q83726977','tt10661180','movie',653606,'movie',488193,'movie','5e162561025089003f48d5c4','umc.cmc.3s36nvd4t1ka0v3qwfgk9bv20','m/the_last_shift','The Last Shift',2020,'Andrew Cohn',NULL,64);
 INSERT INTO items VALUES('Q83808444','tt6710474','movie',545611,'movie',396092,NULL,NULL,'umc.cmc.5cxq4yswbsp3apykshwrcb890','m/everything_everywhere_all_at_once','Everything Everywhere All at Once',2022,NULL,139,NULL);
@@ -3798,7 +3798,7 @@ INSERT INTO items VALUES('Q87126473','tt11655202','movie',663870,'movie',497687,
 INSERT INTO items VALUES('Q87202931','tt8403664','tv',100052,'show',158896,NULL,NULL,'umc.cmc.luta35wnn7df3495l50hma92','tv/the_english_game','The English Game',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q87220566','tt11291274','movie',648579,'movie',485187,NULL,NULL,NULL,'m/the_unbearable_weight_of_massive_talent','The Unbearable Weight of Massive Talent',2022,'Tom Gormican',NULL,NULL);
 INSERT INTO items VALUES('Q87220906','tt8114980','movie',643586,'movie',481333,NULL,NULL,'umc.cmc.46asbtrm1jjg0hsrqw0z8zwiw','m/willys_wonderland','Willy''s Wonderland',2021,'Kevin Lewis',NULL,62);
-INSERT INTO items VALUES('Q88053410','tt5259822','movie',517412,'movie',365657,NULL,NULL,'umc.cmc.6cmxgh0jvkr5pi33w1bw9phtp','m/tesla','Tesla',2020,'Michael Almereyda',96,58);
+INSERT INTO items VALUES('Q88053410','tt5259822','movie',517412,'movie',365657,'movie','5d776e92fb0d55001f5c6662','umc.cmc.6cmxgh0jvkr5pi33w1bw9phtp','m/tesla','Tesla',2020,'Michael Almereyda',96,58);
 INSERT INTO items VALUES('Q88306935','tt11823076','tv',100698,'show',158420,'show','5e7e3e5e5d5a5f0042d8959e','umc.cmc.eupzmd4udgn6wbybq3dx9ax','tv/tiger_king','Tiger King: Murder, Mayhem and Madness',2020,NULL,NULL,36);
 INSERT INTO items VALUES('Q88532913','tt9735318','tv',128876,'show',182510,NULL,NULL,NULL,'tv/the_beatles_get_back','The Beatles: Get Back',2021,'Peter Jackson',468,NULL);
 INSERT INTO items VALUES('Q88563268','tt11245972','movie',646385,'movie',483615,'movie','5ee71917432dd70042dcb353','umc.cmc.2nvat51ou1gv5nny14iwofv5k','m/scream_2022','Scream',2022,NULL,114,NULL);
@@ -3819,7 +3819,7 @@ INSERT INTO items VALUES('Q94578366','tt6079772','movie',645788,'movie',500617,'
 INSERT INTO items VALUES('Q94998134','tt12361974','movie',791373,'movie',627088,'movie','5ea7e10926c8340042921960','umc.cmc.4oixl6d9ypqrjqnyo8vbcptdw','m/zack_snyders_justice_league','Zack Snyder''s Justice League',2021,'Zack Snyder',242,71);
 INSERT INTO items VALUES('Q95483883','tt7703924','movie',703134,'movie',546888,'movie','5ec632ee4ae16f0040da2dfd','umc.cmc.5plkpikr8g6anea3gorlse9kd','m/infamous_2020','Infamous',2020,'Joshua Caldwell',NULL,21);
 INSERT INTO items VALUES('Q95569503','tt10580064','tv',90795,'show',157613,NULL,NULL,NULL,'tv/most_dangerous_game','Most Dangerous Game',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q96079649','tt11204260','tv',102619,'show',154824,NULL,NULL,'umc.cmc.4k6uuey0ypktc03mi9wmxh8zi','tv/i_may_destroy_you','I May Destroy You',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q96079649','tt11204260','tv',102619,'show',154824,'show','5ea533cc0f75ff00428a4ea7','umc.cmc.4k6uuey0ypktc03mi9wmxh8zi','tv/i_may_destroy_you','I May Destroy You',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q96314873','tt9735350','movie',653751,'movie',488575,NULL,NULL,'umc.cmc.5ymb12y0jbgdn5k7kw9v66wzz','m/rebuilding_paradise','Rebuilding Paradise',2020,'Ron Howard',NULL,93);
 INSERT INTO items VALUES('Q96372504','tt11905462','movie',684700,'movie',529080,'movie','5e91841ee72911003f7e29e4','umc.cmc.4cr1bhdw9jr6853mq7yij8sae','m/athlete_a','Athlete A',2020,NULL,NULL,100);
 INSERT INTO items VALUES('Q96373878','tt11095742','movie',653723,'movie',489826,'movie','5e162562b6f1fe003e442fab','umc.cmc.1aatz9gwjhnpfqqt8noafagq','m/boys_state','Boys State',2020,'Jesse Moss',NULL,94);
@@ -3852,7 +3852,7 @@ INSERT INTO items VALUES('Q97473243','tt7978758','movie',664996,'movie',350954,N
 INSERT INTO items VALUES('Q97474347','tt12580168','tv',105689,'show',163663,NULL,NULL,'umc.cmc.3eq51p7nzd8nhahz29i1czc97','tv/indian_matchmaking','Indian Matchmaking',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q97495263','tt12038300','movie',720748,'movie',563408,NULL,NULL,NULL,'m/the_speed_cubers','The Speed Cubers',2020,NULL,40,100);
 INSERT INTO items VALUES('Q97628048','tt11904786','tv',95730,'show',155448,NULL,NULL,'umc.cmc.4njl70r2jtbic4okhsbq15w2k','tv/love_on_the_spectrum','Love on the Spectrum',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q97766123','tt12792418','movie',606523,'movie',450982,NULL,NULL,NULL,'m/night_in_paradise','Night in Paradise',2020,'Park Hoon-jung',131,72);
+INSERT INTO items VALUES('Q97766123','tt12792418','movie',606523,'movie',450982,'movie','5d7770ebad5437001f82dd23',NULL,'m/night_in_paradise','Night in Paradise',2020,'Park Hoon-jung',131,72);
 INSERT INTO items VALUES('Q97925221','tt10584608','tv',90766,'show',164715,NULL,NULL,'umc.cmc.254f4foofx8jwbke5aembvzt1','tv/teenage_bounty_hunters','Teenage Bounty Hunters',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q97925311','tt12801262','movie',508943,'movie',356328,NULL,NULL,'umc.cmc.4iiqngoc22wuohtan4eyl0qvq','m/luca_2021','Luca',2021,'Enrico Casarosa',95,91);
 INSERT INTO items VALUES('Q98077754','tt12759384','tv',106530,'show',164792,NULL,NULL,NULL,'tv/unwell','(Un)well',NULL,NULL,NULL,86);
@@ -4148,7 +4148,7 @@ INSERT INTO items VALUES('Q110208165','tt10023022','movie',689700,'movie',534135
 INSERT INTO items VALUES('Q110279451','tt16378396','movie',913852,'movie',731663,NULL,NULL,NULL,NULL,'Every Day in Kaimukī',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110490199','tt13365348','tv',112314,'show',168808,NULL,NULL,NULL,'tv/archive_81','Archive 81',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110535538','tt15374070','movie',895744,'movie',718675,'movie','613c7a93b557befd602d1a39',NULL,'m/studio_666_2022','Studio 666',2022,NULL,106,NULL);
-INSERT INTO items VALUES('Q110566794','tt15033192','movie',850018,'movie',679241,NULL,NULL,NULL,'m/windfall_2022','Windfall',2022,'Charlie McDowell',NULL,NULL);
+INSERT INTO items VALUES('Q110566794','tt15033192','movie',850018,'movie',679241,'movie','60f143250921d2002c50af96',NULL,'m/windfall_2022','Windfall',2022,'Charlie McDowell',NULL,NULL);
 INSERT INTO items VALUES('Q110613105','tt15264192','tv',155594,'show',192519,'show','61e165498dcdde1f4208bd2c',NULL,'tv/murderville','Murderville',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110652917','tt7927936','tv',76369,'show',127867,'show','5d9c08f14eefaa001f5e5823',NULL,NULL,'FLAMES',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110664384','tt11145118','movie',677179,'movie',512258,NULL,NULL,NULL,NULL,'Creed III',NULL,'Michael B. Jordan',NULL,NULL);
