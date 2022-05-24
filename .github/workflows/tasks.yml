@@ -36,6 +36,9 @@ jobs:
         run: python3 script/discover_items.py -vv --database data.db
         env:
           TRAKT_CLIENT_ID: ${{ secrets.TRAKT_CLIENT_ID }}
+          PLEX_USERNAME: ${{ secrets.PLEX_USERNAME }}
+          PLEX_PASSWORD: ${{ secrets.PLEX_PASSWORD }}
+          PLEX_TOKEN: ${{ secrets.PLEX_TOKEN }}
 
       - name: Update database
         run: python3 script/update_data.py -vv --database data.db
