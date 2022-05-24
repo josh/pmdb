@@ -3,6 +3,7 @@ import logging
 import sqlite3
 
 from db import items_upsert
+from plex import lookup_plex_guid
 from wikidata import fetch_items, fetch_media_items
 
 
@@ -27,6 +28,7 @@ def main():
 
     find_missing_wikidata_qids(con)
     update_wikidata_items(con)
+    find_missing_plex_ids(con)
 
 
 def update_wikidata_items(con):
@@ -51,6 +53,22 @@ def find_missing_wikidata_qids(con):
     for qid in items:
         imdb_id = items[qid]
         items_upsert(con, {"wikidata_qid": qid, "imdb_id": imdb_id})
+
+    con.commit()
+
+
+def find_missing_plex_ids(con):
+    rows = con.execute(
+        "SELECT imdb_id, title FROM items WHERE plex_id IS NULL LIMIT 25"
+    )
+
+    for (imdb_id, title) in rows:
+        plex_guid = lookup_plex_guid(imdb_id=imdb_id, title=title)
+        if plex_guid:
+            (plex_type, plex_id) = plex_guid
+            items_upsert(
+                con, {"imdb_id": imdb_id, "plex_type": plex_type, "plex_id": plex_id}
+            )
 
     con.commit()
 
