@@ -407,7 +407,7 @@ INSERT INTO items VALUES('Q170035','tt0382932','movie',2062,'movie',1416,'movie'
 INSERT INTO items VALUES('Q170268','tt0993842','movie',50456,'movie',35279,'movie','5d77688b47dd6e001f6bb61a','umc.cmc.177hbwellqfsytftj1yk35j3l','m/hanna','Hanna',2011,'Joe Wright',111,71);
 INSERT INTO items VALUES('Q170564','tt0103064','movie',280,'movie',236,'movie','5d7768258718ba001e311845','umc.cmc.1zt8xklrl4a6zim4n4iq2qyp2','m/terminator_2_judgment_day','Terminator 2: Judgment Day',1991,'James Cameron',137,93);
 INSERT INTO items VALUES('Q171048','tt0114709','movie',862,'movie',705,'movie','5d776828880197001ec90d44','umc.cmc.qrdx9s4xrk47f4taowt4tx82','m/toy_story','Toy Story',1995,'John Lasseter',81,100);
-INSERT INTO items VALUES('Q171254','tt1124373','tv',1409,'show',1400,NULL,NULL,NULL,NULL,'Sons of Anarchy',NULL,NULL,45,NULL);
+INSERT INTO items VALUES('Q171254','tt1124373','tv',1409,'show',1400,'show','5d9c086c02391c001f5891d3',NULL,NULL,'Sons of Anarchy',NULL,NULL,45,NULL);
 INSERT INTO items VALUES('Q171453','tt0418279','movie',1858,'movie',1237,'movie','5d77682a2ec6b5001f6ba928','umc.cmc.3fcj93vxd6o4wdku85sawi7in','m/transformers_the_movie','Transformers',2007,'Michael Bay',143,58);
 INSERT INTO items VALUES('Q171582','tt0331811','movie',9282,'movie',4582,'movie','5d776d17fb0d55001f59742b','umc.cmc.5c3tsq24k0yzygtkh3xi9wkck','m/1114','11:14',2003,'Greg Marcks',86,92);
 INSERT INTO items VALUES('Q171669','tt0073486','movie',510,'movie',402,'movie','5d776826961905001eb90fd0','umc.cmc.4hu7kevesky7vaq64ldw3ebvs','m/one_flew_over_the_cuckoos_nest','One Flew Over the Cuckoo''s Nest',1975,'Miloš Forman',133,94);
