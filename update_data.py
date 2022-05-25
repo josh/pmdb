@@ -63,7 +63,7 @@ def find_missing_plex_ids(con):
 
     rows = list(rows)
     shuffle(rows)
-    rows = rows[0:25]
+    rows = rows[0:100]
 
     for (imdb_id, title) in rows:
         plex_guid = lookup_plex_guid(imdb_id=imdb_id, title=title)
