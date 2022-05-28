@@ -3486,7 +3486,7 @@ INSERT INTO items VALUES('Q60040460','tt4332232','movie',568091,'movie',419493,'
 INSERT INTO items VALUES('Q60178661','tt9495224','movie',569547,'movie',421031,'movie','5d7770ac96b655001fe9c06e','umc.cmc.213ca6kkj2z449bj4pwsifrbq','tv/black_mirror/s52530','Black Mirror: Bandersnatch',2018,'David Slade',NULL,NULL);
 INSERT INTO items VALUES('Q60197053','tt7772580','movie',529962,'movie',398357,'movie','5d77705bfb0d55001f5ee4db','umc.cmc.59lpzfgnpx6n2arxastue2vqw','m/the_perfection','The Perfection',2018,'Richard Shepard',90,71);
 INSERT INTO items VALUES('Q60324083','tt8115560','tv',85202,'show',141918,'show','5d9c09167d06d9001ffd7410','umc.cmc.2d8ubel7ftkdgtjm14841kooo','tv/tidying_up_with_marie_kondo','Tidying Up with Marie Kondo',NULL,NULL,NULL,81);
-INSERT INTO items VALUES('Q60462338','tt9253284','tv',83867,'show',170649,NULL,NULL,NULL,NULL,'Andor',NULL,'Toby Haynes',NULL,NULL);
+INSERT INTO items VALUES('Q60462338','tt9253284','tv',83867,'show',170649,'show','5d9c09123c3f87001f35b9ca',NULL,NULL,'Andor',NULL,'Toby Haynes',NULL,NULL);
 INSERT INTO items VALUES('Q60486916','tt8310612','tv',85519,'show',138630,'show','5d9c0910ba6eb9001fbaf38c',NULL,NULL,'The Other Two',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q60498064','tt7097896','movie',580489,'movie',429764,'movie','5d7770b66afb3d0020620324','umc.cmc.2s9m38fifjsags9h5ghygfilr','m/venom_let_there_be_carnage','Venom: Let There Be Carnage',2021,'Andy Serkis',120,59);
 INSERT INTO items VALUES('Q60499539','tt8425058','movie',536176,'movie',420043,NULL,NULL,'umc.cmc.7k1yh19jw6wm8phqrbvhehrcg','m/brexit','Brexit: The Uncivil War',2019,'Toby Haynes',92,80);
