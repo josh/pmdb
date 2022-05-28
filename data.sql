@@ -3925,7 +3925,7 @@ INSERT INTO items VALUES('Q104018236','tt11808942','tv',98892,'show',170593,'sho
 INSERT INTO items VALUES('Q104033835','tt2463208','movie',696806,'movie',540557,'movie','5eb8f26137ccbe0041724471',NULL,'m/the_adam_project','The Adam Project',2022,'Shawn Levy',106,NULL);
 INSERT INTO items VALUES('Q104082429','tt2531336','tv',96677,'show',164129,'show','5e165ad63d4bbb00375a4a3a','umc.cmc.2nfzy9iye7lkzh2mcoiekgf92','tv/lupin','Lupin',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104094034','tt9783600','movie',615469,'movie',458866,NULL,NULL,NULL,NULL,'Spiderhead',2022,'Joseph Kosinski',NULL,NULL);
-INSERT INTO items VALUES('Q104154217','tt8466564','tv',92830,'show',169967,NULL,NULL,NULL,'tv/obi_wan_kenobi','Star Wars: Obi-Wan Kenobi',NULL,'Deborah Chow',NULL,NULL);
+INSERT INTO items VALUES('Q104154217','tt8466564','tv',92830,'show',169967,'show','5e16168fc2a81f001ed39012',NULL,'tv/obi_wan_kenobi','Star Wars: Obi-Wan Kenobi',NULL,'Deborah Chow',NULL,NULL);
 INSERT INTO items VALUES('Q104187039','tt12261776','movie',700391,'movie',543972,NULL,NULL,NULL,NULL,'65',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104213702','tt11389748','movie',423333,'movie',614144,NULL,NULL,'umc.cmc.31izlfcdsr7fxdtuaz9gs8bkp','m/mass_2021','Mass',2021,'Fran Kranz',NULL,95);
 INSERT INTO items VALUES('Q104218175','tt13429362','movie',748853,'movie',589040,'movie','5f775808212d06003fd4d3d8','umc.cmc.2jyt9mdjmdivmcexrwaz0rok9','m/in_the_earth','In the Earth',NULL,'Ben Wheatley',107,79);
