@@ -50,8 +50,14 @@ jobs:
       - name: Sort table row ids
         run: python3 script/reinsert_database_table.py --database data.db --table items --order-by 'CAST(LTRIM(wikidata_qid,"Q") AS INTEGER), imdb_id'
 
-      - name: Dump SQLite database
-        run: sqlite3 data.db '.dump'>data.sql
+      - name: Dump SQLite schema to SQL
+        run: sqlite3 data.db '.schema' >schema.sql
+
+      - name: Dump SQLite database to SQL
+        run: sqlite3 data.db '.dump' >data.sql
+
+      - name: Dump SQLite database to CSV
+        run: sqlite3 -header -csv data.db 'SELECT * FROM items' >data.csv
 
       - name: Clean SQLite database
         run: rm data.db
@@ -60,7 +66,7 @@ jobs:
         run: |
           git config user.name 'GitHub Actions'
           git config user.email 'actions@users.noreply.github.com'
-          git add data.sql
+          git add schema.sql data.sql data.csv
           git commit --message "Update data" || true
 
       - name: Push changes
