@@ -19,7 +19,7 @@ wikidata_qid,imdb_id,tmdb_type,tmdb_id,trakt_type,trakt_id,plex_type,plex_id,app
 ,tt9883832,movie,957457,movie,769499,,,,,"Moonage Daydream",,,,
 Q372,tt0498329,movie,34015,movie,21763,movie,5d77686454c0f0001f307921,,m/1217389-we_live_in_public,"We Live in Public",2009,"Ondi Timoner",90,82
 Q595,tt1675434,movie,77338,movie,57181,movie,5d7768bcebdf2200209c79ae,umc.cmc.al89m4jlt4byjspgrh3c8rvr,m/the_intouchables,"The Intouchables",2011,,112,75
-Q662,tt0112159,tv,890,show,885,show,5d9c081a4eefaa001f5d5df6,,,"Neon Genesis Evangelion",,"Hideaki Anno",,
+Q662,tt0112159,tv,890,show,885,show,5d9c081a4eefaa001f5d5df6,,tv/neon_genesis_evangelion,"Neon Genesis Evangelion",,"Hideaki Anno",,
 Q886,tt0096697,tv,456,show,455,show,5d9c080d3c3f87001f3460e8,,tv/the_simpsons,"The Simpsons",,"Matt Groening",22,
 Q1079,tt0903747,tv,1396,show,1388,show,5d9c083402391c001f583d09,umc.cmc.1v90fu25sgywa1e14jwnrt9uc,tv/breaking-bad,"Breaking Bad",,,,
 Q2201,tt1250777,movie,23483,movie,14160,movie,5d77684c85719b001f3a7a88,umc.cmc.4uq7djrr388nw9ixykllrvasl,m/1217700-kick_ass,Kick-Ass,2010,"Matthew Vaughn",117,76
@@ -1647,7 +1647,7 @@ Q819972,tt0293662,movie,4108,movie,2427,movie,5d77682d103a2d001f565c58,umc.cmc.3
 Q820009,tt0309593,movie,9358,movie,4650,movie,5d776832999c64001ec2ebdf,umc.cmc.7az5dwvqcctwebxpw01p0nh55,m/final_destination_2,"Final Destination 2",2003,"David R. Ellis",90,48
 Q820753,tt0332379,movie,1584,movie,1039,movie,5d7768293c3c2a001fbcbc8f,umc.cmc.im6cmmj5czmu1lrpj820whud,m/school_of_rock,"School of Rock",2003,"Richard Linklater",108,92
 Q820811,tt0414982,movie,9286,movie,4586,movie,5d77683285719b001f3a31e0,umc.cmc.6iriaetoae4oxbnc6pyoa7sni,m/final_destination_3,"Final Destination 3",2006,"James Wong",93,44
-Q821692,tt0106918,movie,37233,movie,23795,,,umc.cmc.7ah7wh83n5m6kclj3n4mmyyn6,m/1044522-firm,"The Firm",1993,"Sydney Pollack",148,75
+Q821692,tt0106918,movie,37233,movie,23795,movie,5d77686aeb5d26001f1ea63b,umc.cmc.7ah7wh83n5m6kclj3n4mmyyn6,m/1044522-firm,"The Firm",1993,"Sydney Pollack",148,75
 Q821753,tt0477078,movie,13068,movie,7624,movie,5d776839f59e5800218992b7,umc.cmc.716k1s6j5zvxeyegcg6jyqg31,m/rocket_science,"Rocket Science",2007,"Jeffrey Blitz",,84
 Q822057,tt0117381,movie,1592,movie,1047,movie,5d9f34eb68e4c8001fb5d495,umc.cmc.2jveng0veq5hwf8ske7ci478z,m/1070992-primal_fear,"Primal Fear",1996,"Gregory Hoblit",129,76
 Q822660,tt0417148,movie,326,movie,274,movie,5d7768254de0ee001fcc83a7,umc.cmc.5tcpapokxyomtl1wl1zjwzwpz,m/snakes_on_a_plane,"Snakes on a Plane",2006,"David R. Ellis",105,69
@@ -2973,7 +2973,7 @@ Q22350752,tt4846232,movie,429200,movie,298542,movie,5d776c94fb0d55001f58bede,umc
 Q22350785,tt4540710,movie,376290,movie,239768,movie,5d776c0951dd69001fe36edb,umc.cmc.5y8r8g76ff77yfqo1nnuuwp06,m/miss_sloane,"Miss Sloane",2016,"John Madden",132,76
 Q22477459,tt5425186,tv,65454,show,105241,show,5d9c08162192ba001f3070d6,,,"Horace and Pete",,"Louis C.K.",,
 Q22575835,tt1219827,movie,315837,movie,196549,movie,5d776b5ffb0d55001f565ae0,umc.cmc.5odwj6ubmk2huwuof5wia96ar,m/ghost_in_the_shell_2017,"Ghost in the Shell",2017,"Rupert Sanders",107,43
-Q22665878,tt3501632,movie,284053,movie,181312,movie,5d776b0547dd6e001f6da17c,umc.cmc.5f4fq6k3njmustywcg5jld7im,m/thor_ragnarok_2017,"Thor: Ragnarok",2017,"Taika Waititi",130,93
+Q22665878,tt3501632,movie,284053,movie,181312,movie,5d776b0547dd6e001f6da17c,umc.cmc.5f4fq6k3njmustywcg5jld7im,m/thor_ragnarok_2017,"Thor: Ragnarok",2017,ricky,130,93
 Q22906308,tt2261227,tv,68421,show,122265,show,5d9c08d9ef619b00204823cb,umc.cmc.1sv5ef3w57l8psbncu4xh2ssm,tv/altered_carbon,"Altered Carbon",,,,
 Q22908690,tt4955642,tv,66573,show,107700,show,5d9c08190aaccd001f8ed6c9,umc.cmc.361pp6dpt0jsmj9sxywuiw665,tv/good_place,"The Good Place",,,22,
 Q22957393,tt5095030,movie,363088,movie,223262,movie,5d776be596b655001fe1f7fa,umc.cmc.14uirj9rqpjg8prk3joqzfaif,m/ant_man_and_the_wasp,"Ant-Man and the Wasp",2018,"Peyton Reed",118,87
@@ -3018,7 +3018,7 @@ Q23925035,tt5323662,movie,378064,movie,225063,movie,5d776c0ead5437001f7b25d6,,m/
 Q23925037,tt5566790,movie,391710,movie,234040,movie,5d776c32f617c9002017eb7d,umc.cmc.3580fwtto5qe1bfxniq23msbt,m/a_futile_and_stupid_gesture,"A Futile and Stupid Gesture",2018,"David Wain",101,67
 Q23932553,tt3967856,movie,387426,movie,229330,movie,5d776c26594b2b001e6ec3ac,umc.cmc.7086i3dk23d565gobtnkutwkr,m/okja,Okja,2017,"Bong Joon-ho",121,86
 Q23971551,tt4093826,tv,1920,show,134095,,,umc.cmc.1n2apxyl1chm6vcebyfefmqdk,tv/twin_peaks/s03,"Twin Peaks",,"David Lynch",,
-Q23994919,tt13056052,movie,736732,movie,578049,,,,,Broker,2022,"Hirokazu Koreeda",,
+Q23994919,tt13056052,movie,736732,movie,578049,,,,,Broker,2022,"Hirokazu Koreeda",129,
 Q24034578,tt5491994,tv,68595,show,112332,show,5d9c080fcb3ffa001f1b1bd2,,tv/planet_earth_ii,"Planet Earth II",2016,,,
 Q24034591,tt5704928,tv,68290,show,108040,show,5d9c080dffd9ef001e98b984,umc.cmc.73ijoz91r1389jmg04ofu54ul,,"Extra Gear",,,,
 Q24042656,tt5278506,movie,373072,movie,233859,movie,5d776c029ab5440021511d40,umc.cmc.4mwldk5y56nhyfq7yhpsegwqd,m/tickled,Tickled,2016,,92,94
@@ -3330,7 +3330,7 @@ Q54801155,tt7984766,movie,504949,movie,352738,movie,5d776f09ad5437001f808ce1,umc
 Q54812267,tt7959026,movie,504172,movie,351319,movie,5d7770a16afb3d002061e6f5,umc.cmc.33pni96nkhi2bab5pnvyt0ult,m/the_mule_2018,"The Mule",2018,"Clint Eastwood",116,71
 Q54828317,tt8005374,tv,79746,show,131051,show,5d9c09002df347001e3bb545,umc.cmc.q8ssbjmfsz0xfocnta2gbryk,tv/explained,Explained,,,,
 Q54860489,tt9114286,movie,505642,movie,352796,movie,5d77702e6afb3d0020613fd1,,m/black_panther_wakanda_forever,"Black Panther: Wakanda Forever",2022,"Ryan Coogler",,
-Q54862508,tt2584384,movie,515001,movie,363514,movie,5d777037f617c9002019c63b,umc.cmc.6naly42l9km85z10glajfnn7u,m/jojo_rabbit,"Jojo Rabbit",2019,"Taika Waititi",108,80
+Q54862508,tt2584384,movie,515001,movie,363514,movie,5d777037f617c9002019c63b,umc.cmc.6naly42l9km85z10glajfnn7u,m/jojo_rabbit,"Jojo Rabbit",2019,ricky,108,80
 Q54868299,tt8143990,movie,541305,movie,392334,movie,5d77707381ba41001faf0afb,umc.cmc.6980ec5t2pv807xqe4wpk6asq,m/kajillionaire,Kajillionaire,2020,"Miranda July",104,90
 Q54868300,tt4353250,movie,522039,movie,370419,movie,5d7770496afb3d0020616b00,umc.cmc.2wediwezcm5yahtn9utq0uw57,m/the_last_black_man_in_san_francisco,"The Last Black Man in San Francisco",2019,"Joe Talbott",120,92
 Q54894945,tt7638348,movie,513310,movie,360807,movie,5d777033fb0d55001f5ea92b,umc.cmc.3hkq9pcwa96f6yrn0u698ux8c,m/boss_level,"Boss Level",2020,"Joe Carnahan",104,74
@@ -3624,7 +3624,7 @@ Q65648534,tt0993840,movie,503736,movie,350970,movie,5d776e9ffb0d55001f5c84ef,,m/
 Q65677529,tt3797512,movie,595813,movie,441782,movie,5d7770d6ad5437001f82c108,umc.cmc.ba6wq5pnixymgcxch791xteb,m/barb_and_star_go_to_vista_del_mar,"Barb & Star Go to Vista Del Mar",2020,"Josh Greenbaum",107,80
 Q65679599,tt10633456,movie,615643,movie,459011,movie,5e16255bbc1372003ea5c790,umc.cmc.5u7h6eurfrgcrmullqzj6heow,m/minari,Minari,2020,"Lee Isaac Chung",115,98
 Q65768589,tt9376612,movie,566525,movie,416151,movie,5d7770a7fb0d55001f5f5c83,umc.cmc.1r6h2ku90p1e6jaznhnk0m5hd,m/shang_chi_and_the_legend_of_the_ten_rings,"Shang-Chi and the Legend of the Ten Rings",2021,"Destin Daniel Cretton",132,91
-Q65768604,tt10648342,movie,616037,movie,459282,,,,m/thor_love_and_thunder,"Thor: Love and Thunder",2022,"Taika Waititi",,
+Q65768604,tt10648342,movie,616037,movie,459282,,,,m/thor_love_and_thunder,"Thor: Love and Thunder",2022,ricky,,
 Q65972698,tt8923482,movie,566368,movie,415937,movie,5d7770a7f617c9002019f7c2,umc.cmc.5mi1rnjqdqfajsa0jwdmf9k2y,m/one_child_nation,"One Child Nation",2019,,,98
 Q65979734,tt9208876,tv,88396,show,146573,show,5d9c0916ffd9ef001e99f6cb,umc.cmc.5r19ka66bi3j736pyndlmz5t2,tv/the_falcon_and_the_winter_soldier,"The Falcon and the Winter Soldier",,"Kari Skogland",54,
 Q65980217,tt9140560,tv,85271,show,146518,show,5d9c0918e264b7001fc4eea6,umc.cmc.76njao041pigwmmpue272zsbh,tv/wandavision,WandaVision,,"Matt Shakman",40,91
@@ -3766,7 +3766,7 @@ Q85803299,tt10574236,tv,90972,show,153862,show,5e160e5c9de8d9001fd8d8e5,,tv/stat
 Q85806717,tt11196036,movie,643532,movie,481362,movie,5e16138f6e7aa5001e12a343,umc.cmc.1fs249eymi9bqe1tzelsaiisq,m/the_card_counter,"The Card Counter",2021,"Paul Schrader",112,86
 Q85806732,tt8425310,tv,86598,show,130988,show,5d9c09004eefaa001f5e6765,umc.cmc.27k6e0572nzcismudgcx7fmef,tv/the_case_against_adnan_syed,"The Case Against Adnan Syed",,"Amy J. Berg",,
 Q85807149,tt9544034,tv,93352,show,152467,show,5e1612d56e7aa5001e129ba6,,,"The Family Man",2019,"Raj Nidimoru and Krishna D.K.",,
-Q85807206,tt3696180,movie,522927,movie,371135,,,,,"The Forgiven",2021,"John Michael McDonagh",,
+Q85807206,tt3696180,movie,522927,movie,371135,movie,5d77704bfb0d55001f5ece80,,,"The Forgiven",2021,"John Michael McDonagh",,
 Q85807230,tt10623550,tv,98950,show,157922,,,,tv/the_fugitive_2020,"The Fugitive",,"Stephen Hopkins",,
 Q85807688,tt8420184,tv,79525,show,153780,show,5d9c08ffba6eb9001fbae1fa,umc.cmc.1crzdh2ju2ri5bxx0xvzz0mra,tv/the_last_dance,"The Last Dance",,,,
 Q85808226,tt10048342,tv,87739,show,165792,show,5d9c092608fddd001f2a89f4,umc.cmc.51tonxqwh6310w384ht2y3772,tv/the_queens_gambit,"The Queen's Gambit",,"Scott Frank",,
