@@ -2129,7 +2129,7 @@ INSERT INTO items VALUES('Q1286698','tt0380136','tv',1554,'show',1543,'show','5d
 INSERT INTO items VALUES('Q1292187','tt0433400','movie',10033,'movie',5258,'movie','5d776834e6d55c002040cc6f','umc.cmc.3bc2p64dthh5v2r3u92uektpj','m/just_friends','Just Friends',2005,'Roger Kumble',96,42);
 INSERT INTO items VALUES('Q1300148','tt1286537','movie',18570,'movie',11391,'movie','5d776842103a2d001f56ae21','umc.cmc.4lxpv0xrbvjpnjds3sfjxz0ru','m/food_inc','Food, Inc.',2008,'Robert Kenner',93,95);
 INSERT INTO items VALUES('Q1302846','tt0083929','movie',13342,'movie',7831,'movie','5d9f3503adeb7a0021ce0c03','umc.cmc.3bzlqmi5tjfxsfwkj1v4ge7js','m/fast_times_at_ridgemont_high','Fast Times at Ridgemont High',1982,'Amy Heckerling',86,77);
-INSERT INTO items VALUES('Q1304483','tt0118755','movie',9449,'movie',4736,NULL,NULL,'umc.cmc.1jzfcwo9lbkrgvxs8vbm9jca5','m/1081203-borrowers','The Borrowers',1997,'Peter Hewitt',86,73);
+INSERT INTO items VALUES('Q1304483','tt0118755','movie',9449,'movie',4736,'movie','5d7768335af944001f1f94c9','umc.cmc.1jzfcwo9lbkrgvxs8vbm9jca5','m/1081203-borrowers','The Borrowers',1997,'Peter Hewitt',86,73);
 INSERT INTO items VALUES('Q1304902','tt0332047','movie',11431,'movie',6526,'movie','5d7768378718ba001e3150d7','umc.cmc.2dt0z9juph3wnurs4nbpym110','m/fever_pitch','Fever Pitch',2005,NULL,103,65);
 INSERT INTO items VALUES('Q1305799','tt0139668','movie',10354,'movie',5550,'movie','5d776834151a60001f24d9b8','umc.cmc.3g9vxffa2x2hlgmfh5qfibw9h','m/1084928-true_crime','True Crime',1999,'Clint Eastwood',122,54);
 INSERT INTO items VALUES('Q1306317','tt0106375','movie',10438,'movie',5630,'movie','5d9f34fad74e670020020015','umc.cmc.6ihasst71mo5gy034j6dn8i4m','m/beethovens_2nd','Beethoven''s 2nd',1993,'Rod Daniel',85,23);
