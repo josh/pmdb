@@ -4067,11 +4067,11 @@ INSERT INTO items VALUES('Q106639064','tt11337862','movie',691179,'movie',535487
 INSERT INTO items VALUES('Q106652253','tt13820498','tv',155493,'show',179861,'show','61e00c9368d905b60cd6a6f2',NULL,NULL,'The Last Days of Ptolemy Grey',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106679014','tt13406094','tv',111803,'show',168471,'show','5f9075bb583581002d739d91','umc.cmc.3c8psnhdn9viikje3kvq69fyr','tv/the_white_lotus','The White Lotus',NULL,'Mike White',NULL,88);
 INSERT INTO items VALUES('Q106707442','tt10278918','tv',111837,'show',170270,'show','5f9075bce418e5002ec263ac',NULL,NULL,'Willow',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q106725885','tt13314558','movie',755566,'movie',595062,NULL,NULL,NULL,NULL,'Day Shift',NULL,'J.J. Perry',NULL,NULL);
+INSERT INTO items VALUES('Q106725885','tt13314558','movie',755566,'movie',595062,'movie','5f90753550bfe7002d765f7e',NULL,NULL,'Day Shift',NULL,'J.J. Perry',NULL,NULL);
 INSERT INTO items VALUES('Q106740037','tt13352968','movie',758330,'movie',597555,'movie','5f9ae7521d01cd002da36be0',NULL,'m/good_luck_to_you_leo_grande','Good Luck to You, Leo Grande',2022,'Sophie Hyde',NULL,NULL);
 INSERT INTO items VALUES('Q106742079','tt11947418','tv',118303,'show',178543,'show','60217f27c585ba002cfaabb1',NULL,NULL,'Minx',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106763973','tt14512538','movie',642732,'movie',481586,'movie','5e16138e168f3f001e4494bf',NULL,'m/roadrunner_a_film_about_anthony_bourdain','Roadrunner: A Film About Anthony Bourdain',NULL,'Morgan Neville',NULL,91);
-INSERT INTO items VALUES('Q106765478','tt14392248','tv',124411,'show',179231,NULL,NULL,NULL,NULL,'Aspirants',2021,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q106765478','tt14392248','tv',124411,'show',179231,'show','60798c4a9d222700360e23cb',NULL,NULL,'Aspirants',2021,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106817801','tt13521006','movie',798286,'movie',633435,NULL,NULL,NULL,NULL,'Disappointment Blvd.',NULL,'Ari Aster',NULL,NULL);
 INSERT INTO items VALUES('Q106819328','tt11815682','tv',124101,'show',179632,'show','608599a4ac0818002c5e0de3','umc.cmc.43wmt3l7kce5o3628tdf1ox0v','tv/hacks','Hacks',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106830311','tt11041332','tv',117488,'show',176276,'show','5f59a265388a680042616b11','umc.cmc.3r0gi7bohabc183116w6r7t0z','tv/yellowjackets','Yellowjackets',NULL,'Karyn Kusama',NULL,100);
