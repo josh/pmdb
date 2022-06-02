@@ -3800,7 +3800,7 @@ INSERT INTO items VALUES('Q86675328','tt11003218','movie',635731,'movie',474763,
 INSERT INTO items VALUES('Q86751099','tt11854694','tv',100612,'show',159317,'show','5e7362fd4a62f90040e898ae',NULL,NULL,'Special OPS',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q87126244','tt11138512','movie',639933,'movie',478776,'movie','5e16598c61c6140040d9245d','umc.cmc.6pv6f3gbz0vuh4zr3or1wdth4','m/the_northman','The Northman',2022,'Robert Eggers',137,NULL);
 INSERT INTO items VALUES('Q87126473','tt11655202','movie',663870,'movie',497687,'movie','5e23e64ba85af200409e4595','umc.cmc.33ey6th9l5ijmdfaxib5q91rf','m/riders_of_justice','Riders of Justice',2020,'Anders Thomas Jensen',116,96);
-INSERT INTO items VALUES('Q87192572','tt11700260','movie',668640,'movie',502461,NULL,NULL,NULL,'m/official_competition','Official Competition',2021,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q87192572','tt11700260','movie',668640,'movie',502461,'movie','5e40c3d09e3e2d003e1d986a',NULL,'m/official_competition','Official Competition',2021,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q87202931','tt8403664','tv',100052,'show',158896,'show','5e69c6f54a9324003e31893b','umc.cmc.luta35wnn7df3495l50hma92','tv/the_english_game','The English Game',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q87220566','tt11291274','movie',648579,'movie',485187,'movie','5ddbaa0b70c0b60021f6729a',NULL,'m/the_unbearable_weight_of_massive_talent','The Unbearable Weight of Massive Talent',2022,'Tom Gormican',NULL,NULL);
 INSERT INTO items VALUES('Q87220906','tt8114980','movie',643586,'movie',481333,'movie','5ddba96360a97e001f5d04ad','umc.cmc.46asbtrm1jjg0hsrqw0z8zwiw','m/willys_wonderland','Willy''s Wonderland',2021,'Kevin Lewis',NULL,62);
