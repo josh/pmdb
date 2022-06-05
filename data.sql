@@ -246,7 +246,7 @@ INSERT INTO items VALUES('Q108745','tt0087332','movie',620,'movie',496,'movie','
 INSERT INTO items VALUES('Q108946','tt0104257','movie',881,'movie',724,'movie','5d7768288718ba001e3120b3','umc.cmc.6wszxwcjuswfe0u5s0uw6v4fi','m/few_good_men','A Few Good Men',1992,'Rob Reiner',138,83);
 INSERT INTO items VALUES('Q109116','tt0032553','movie',914,'movie',757,'movie','5d7768297228e5001f1dd171','umc.cmc.2yvsoykjd3lnh2c1n3hrs3p1s','m/great_dictator','The Great Dictator',1940,'Charlie Chaplin',125,93);
 INSERT INTO items VALUES('Q109135','tt0117951','movie',627,'movie',503,'movie','5d7768276f4521001ea98f74','umc.cmc.7h6dams52clx8k350g3qhw1et','m/trainspotting','Trainspotting',1996,'Danny Boyle',94,91);
-INSERT INTO items VALUES('Q109331','tt0096874','movie',165,'movie',130,'movie','5d776d1023d5a3001f52001d','umc.cmc.5voem26uknighvs9ac01dku4y','m/back_to_the_future_2','Back to the Future Part II',1989,'Robert Zemeckis',108,64);
+INSERT INTO items VALUES('Q109331','tt0096874','movie',165,'movie',130,'movie','5d776d1023d5a3001f52001d','umc.cmc.5voem26uknighvs9ac01dku4y','m/back_to_the_future_2','Back to the Future Part II',1989,'Robert Zemeckis',108,65);
 INSERT INTO items VALUES('Q109564','tt0040746','movie',1580,'movie',1036,'movie','5d776829103a2d001f564e38','umc.cmc.5dt7y8k801ipk90eid69e407y','m/rope','Rope',1948,'Alfred Hitchcock',80,94);
 INSERT INTO items VALUES('Q109767','tt0080455','movie',525,'movie',410,'movie','5d776826961905001eb90fd2','umc.cmc.5v0o6ggug8vyxmnqlp47r0kvh','m/blues_brothers','The Blues Brothers',1980,'John Landis',148,73);
 INSERT INTO items VALUES('Q110043','tt0056869','movie',571,'movie',450,'movie','5d776d1a594b2b001e7015f1','umc.cmc.1e8uz5uqtuioqav6hocb44lm','m/1002448-birds','The Birds',1963,'Alfred Hitchcock',115,95);
@@ -4173,7 +4173,7 @@ INSERT INTO items VALUES('Q110674124','tt16377496','movie',913742,'movie',731637
 INSERT INTO items VALUES('Q110674397','tt16376512','movie',913824,'movie',731633,'movie','61b5e9177eca5f90ad609858',NULL,NULL,'Free Chol Soo Lee',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110675690','tt14895716','movie',843621,'movie',673762,NULL,NULL,NULL,NULL,'Something in the Dirt',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110682675','tt16377380','movie',913826,'movie',731824,NULL,NULL,NULL,NULL,'Jihad Rehab',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q110700676','tt8595016','movie',913867,'movie',731862,NULL,NULL,NULL,NULL,'My Old School',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q110700676','tt8595016','movie',913867,'movie',731862,'movie','5f40d89902101b004011d227',NULL,NULL,'My Old School',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110795287','tt14992922','movie',923632,'movie',739823,'movie','60e57400e9a099002c3560a7',NULL,'m/the_tinder_swindler','The Tinder Swindler',2022,'Felicity Morris',NULL,NULL);
 INSERT INTO items VALUES('Q110811753','tt11358390','movie',649609,'movie',485769,'movie','5e16339cdf4678003f51f580',NULL,NULL,'Renfield',2022,'Chris McKay',NULL,NULL);
 INSERT INTO items VALUES('Q110878443','tt13868972','tv',138211,'show',186633,'show','613345ff3a368785a4b08980',NULL,NULL,'Rocket Boys',2022,NULL,NULL,NULL);
