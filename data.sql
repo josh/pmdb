@@ -4056,7 +4056,7 @@ INSERT INTO items VALUES('Q106405587','tt7461272','movie',579496,'movie',429112,
 INSERT INTO items VALUES('Q106513312','tt11827628','movie',818397,'movie',651781,'movie','5f409aeec63b480040eece8b',NULL,NULL,'Memory',2022,'Martin Campbell',NULL,NULL);
 INSERT INTO items VALUES('Q106514711','tt13841850','movie',780609,'movie',617534,NULL,NULL,'umc.cmc.7bey2967z2h2bujtkqu556v0u','m/men_2022','Men',2022,'Alex Garland',NULL,NULL);
 INSERT INTO items VALUES('Q106537891','tt13650600','movie',819309,'movie',652699,'movie','6064329e5c9112002cedbde8',NULL,'m/emergency_2022','Emergency',2022,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q106554940','tt12004038','movie',807356,'movie',641879,'movie','5f409c1ecc4920003b38250b',NULL,'m/watcher_2022','Watcher',2022,'Chloe Okuno',91,NULL);
+INSERT INTO items VALUES('Q106554940','tt12004038','movie',807356,'movie',641879,'movie','5f409c1ecc4920003b38250b','umc.cmc.5q7114q768sjxcguwyy82sw49','m/watcher_2022','Watcher',2022,'Chloe Okuno',91,NULL);
 INSERT INTO items VALUES('Q106555237','tt12615492','tv',104148,'show',162752,'show','5ed3f1dbae59b6004162d7fd','umc.cmc.4xpk6thd1574yu8hy2xdozyz6','tv/greatness_code','Greatness Code',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106578104','tt6462958','movie',680860,'movie',525915,'movie','5e9183f87c662e0040cca243',NULL,'m/i_want_you_back','I Want You Back',2022,NULL,NULL,87);
 INSERT INTO items VALUES('Q106582931','tt10919420','tv',93405,'show',162712,'show','5e1612d6c2a81f001ed363b3','umc.cmc.3qvhpqcspdkzmwmwyptyj9v0m','tv/squid_game','Squid Game',NULL,'Hwang Dong-hyeok',NULL,NULL);
@@ -4085,7 +4085,7 @@ INSERT INTO items VALUES('Q106846717','tt12028614','movie',692962,'movie',537074
 INSERT INTO items VALUES('Q106867709','tt10530900','tv',90966,'show',149834,'show','5e1612962764d5001e175441',NULL,NULL,'Gullak',2019,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106959099','tt12005128','tv',117821,'show',170891,'show','5f6c8d7c5882ed0044adfa69',NULL,'tv/wecrashed','WeCrashed',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106972163','tt11852724','tv',119033,'show',171855,'show','5f6c8c7c72b269004001b5a7','umc.cmc.2yiricezxngkbyfosdt8fzq0','tv/stanley_tucci_searching_for_italy','Stanley Tucci: Searching for Italy',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q106982407','tt2953250','tv',106388,'show',187254,'show','61b8ce4db4f4a18c3095fbf4',NULL,NULL,'Shining Girls',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q106982407','tt2953250','tv',106388,'show',187254,'show','61b8ce4db4f4a18c3095fbf4',NULL,'tv/shining_girls','Shining Girls',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107024491','tt13172796','movie',743599,'movie',584412,'movie','5f638852bc4ec10041da7a8b','umc.cmc.2n7y7fcg9psqt528urjyovs4x','m/plan_b_2021','Plan B',2021,'Natalie Morales',NULL,96);
 INSERT INTO items VALUES('Q107040798','tt13320622','movie',752623,'movie',592440,'movie','5f87221bed251d003f0d46aa','umc.cmc.2rp6m7x5q4915249cwn7hw0es','m/the_lost_city','The Lost City',2022,NULL,112,78);
 INSERT INTO items VALUES('Q107069381','tt14544192','movie',823754,'movie',656566,NULL,NULL,NULL,'m/bo_burnham_inside','Bo Burnham: Inside',2021,'Bo Burnham',87,93);
