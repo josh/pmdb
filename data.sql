@@ -3854,7 +3854,7 @@ INSERT INTO items VALUES('Q97182477','tt11365186','movie',698508,'movie',542351,
 INSERT INTO items VALUES('Q97275472','tt12676326','movie',722913,'movie',565444,'movie','5f07203a819d4d004087d66e',NULL,'m/malcolm_and_marie','Malcolm & Marie',2021,'Sam Levinson',106,57);
 INSERT INTO items VALUES('Q97278509','tt12585152','tv',105288,'show',163684,'show','5ef74ba0f9555a0041419221','umc.cmc.2q11lyoi0nfgzu27udoj5qm7u','tv/down_to_earth_with_zac_efron','Down to Earth with Zac Efron',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q97279983','tt8499102','movie',565537,'movie',415258,'movie','5d7770a535102a0020ed895c','umc.cmc.6xv6r7zlde76dvkuzaa8xi3jt','m/jawline','Jawline',2019,'Liza Mandelup',NULL,96);
-INSERT INTO items VALUES('Q97288428','tt8115900','movie',629542,'movie',469856,NULL,NULL,'umc.cmc.6l0nbkdiji7k55epc7lph672x','m/the_bad_guys_2022','The Bad Guys',2022,'Pierre Perifel',NULL,88);
+INSERT INTO items VALUES('Q97288428','tt8115900','movie',629542,'movie',469856,'movie','5e16334ecd0850003b75c854','umc.cmc.6l0nbkdiji7k55epc7lph672x','m/the_bad_guys_2022','The Bad Guys',2022,'Pierre Perifel',NULL,88);
 INSERT INTO items VALUES('Q97304180','tt7322224','movie',497828,'movie',344829,NULL,NULL,NULL,'m/triangle_of_sadness','Triangle of Sadness',2022,'Ruben Östlund',NULL,NULL);
 INSERT INTO items VALUES('Q97354742','tt9792884','movie',582218,'movie',430848,'movie','5d7770ba51dd69001fe5a24a','umc.cmc.2snjd4kpe4syiaom2swg6j4f7','m/psych_2_lassie_come_home','Psych 2: Lassie Come Home',2020,'Steve Franks',NULL,83);
 INSERT INTO items VALUES('Q97359775','tt7214954','movie',585511,'movie',432995,NULL,NULL,NULL,NULL,'Luck',2022,'Peggy Holmes',NULL,NULL);
