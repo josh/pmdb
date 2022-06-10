@@ -3767,7 +3767,7 @@ INSERT INTO items VALUES('Q84693711','tt10095582','movie',591538,'movie',437960,
 INSERT INTO items VALUES('Q84712797','tt11564570','movie',661374,'movie',495668,NULL,NULL,NULL,NULL,'Knives Out 2',2022,'Rian Johnson',NULL,NULL);
 INSERT INTO items VALUES('Q84712802','tt10234724','tv',92749,'show',151840,'show','5ea63e621452720042c4641d',NULL,'tv/moon_knight','Moon Knight',NULL,NULL,45,NULL);
 INSERT INTO items VALUES('Q84712806','tt10857160','tv',92783,'show',151854,'show','5e160e70168f3f001e445cd6',NULL,NULL,'She-Hulk: Attorney at Law',2022,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q84712813','tt10857164','tv',92782,'show',151853,'show','5eaba106dc7e2d00439da002',NULL,'tv/ms_marvel','Ms. Marvel',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q84712813','tt10857164','tv',92782,'show',151853,'show','5eaba106dc7e2d00439da002',NULL,'tv/ms_marvel','Ms. Marvel',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q85000980','tt4244994','movie',617653,'movie',460727,'movie','5e161923dedb97003d113e48','umc.cmc.5pn94vkq8936chiiqsyo52bc1','m/the_last_duel_2021','The Last Duel',2021,'Ridley Scott',152,77);
 INSERT INTO items VALUES('Q85115721','tt9848536','tv',88713,'show',161186,'show','5d9c09283c3f87001f35cf0f','umc.cmc.3pdjm6cmv5i298tyrodxwomd7','tv/we_are_who_we_are','We Are Who We Are',NULL,'Luca Guadagnino',NULL,NULL);
 INSERT INTO items VALUES('Q85323337','tt10293406','movie',600583,'movie',446376,'movie','5d776eaead5437001f7fd5ce','umc.cmc.h8kvu6x2gr9aqyioib38gfst','m/the_power_of_the_dog','The Power of the Dog',2021,'Jane Campion',126,92);
