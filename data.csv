@@ -8,6 +8,7 @@ wikidata_qid,imdb_id,tmdb_type,tmdb_id,trakt_type,trakt_id,plex_type,plex_id,app
 ,tt14417718,tv,123192,show,178915,,,,,"The Crowded Room",,,,
 ,tt15364972,movie,870518,movie,696464,,,,,Sanctuary,,,,
 ,tt15837458,movie,921353,movie,737744,,,,,"The Wrong Place",,,,
+,tt16418808,tv,203744,show,196180,,,,,Sugar,,,,
 ,tt18115856,movie,937087,movie,751974,,,,,"Fear is the Rider",,,,
 ,tt18303004,movie,942245,movie,756651,,,,,"Being Mortal",,,,
 ,tt19843600,movie,967598,movie,777660,,,,,"The Trashers",,,,
@@ -4034,7 +4035,7 @@ Q106359199,tt8792630,movie,638393,movie,477287,movie,5e1622d6bea6ac00412783d2,um
 Q106363032,tt14128670,movie,800510,movie,635706,movie,60391bda07dfa9002c5cef03,,m/kimi,KIMI,2022,"Steven Soderbergh",,
 Q106371709,tt9812474,movie,788929,movie,625298,movie,5f40de8fce2564003fabc407,umc.cmc.4109n5ma9ouz5u23bjv4jwaz6,m/lamb_2021,Lamb,2021,"Valdimar Johannsson",106,86
 Q106405587,tt7461272,movie,579496,movie,429112,movie,5d7770b381ba41001faf6111,,m/call_jane,"Call Jane",2022,"Phyllis Nagy",121,
-Q106513312,tt11827628,movie,818397,movie,651781,movie,5f409aeec63b480040eece8b,,,Memory,2022,"Martin Campbell",,
+Q106513312,tt11827628,movie,818397,movie,651781,movie,5f409aeec63b480040eece8b,,m/memory_2022,Memory,2022,"Martin Campbell",114,
 Q106514711,tt13841850,movie,780609,movie,617534,,,umc.cmc.7bey2967z2h2bujtkqu556v0u,m/men_2022,Men,2022,"Alex Garland",,
 Q106537891,tt13650600,movie,819309,movie,652699,movie,6064329e5c9112002cedbde8,,m/emergency_2022,Emergency,2022,,,
 Q106554940,tt12004038,movie,807356,movie,641879,movie,5f409c1ecc4920003b38250b,umc.cmc.5q7114q768sjxcguwyy82sw49,m/watcher_2022,Watcher,2022,"Chloe Okuno",91,
