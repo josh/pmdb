@@ -19,6 +19,7 @@ CREATE TABLE items (
   CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
 INSERT INTO items VALUES(NULL,'tt0090509','tv',103344,'show',189861,'show','62602bfa71c4628779a931d8',NULL,NULL,'The Return of Sherlock Holmes',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt10954600','movie',640146,'movie',478761,NULL,NULL,NULL,NULL,'Ant-Man and the Wasp: Quantumania',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12573454','movie',717980,'movie',560894,NULL,NULL,NULL,NULL,'Sharper',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt12923632','tv',NULL,'show',165790,NULL,NULL,NULL,NULL,'Dead Ringers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt1340094','movie',474592,'movie',322297,NULL,NULL,NULL,NULL,'The Crow',NULL,NULL,NULL,NULL);
@@ -4018,6 +4019,7 @@ INSERT INTO items VALUES('Q105773126','tt10971064','tv',124897,'show',170595,'sh
 INSERT INTO items VALUES('Q105773177','tt8888462','tv',110382,'show',153532,'show','5f6b8866f340340042d80b41','umc.cmc.17vf6g68dy89kk1l1nnb6min4',NULL,'Pachinko',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105818526','tt10011302','movie',596028,'movie',441951,'movie','5d7770d66afb3d0020623065','umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p','m/the_emoji_story','The Emoji Story',2020,'Ian Cheney',79,92);
 INSERT INTO items VALUES('Q105907125','tt4995540','movie',517088,'movie',365183,'movie','5d77703e594b2b001e747670','umc.cmc.4q5gtqro3nhigvscxgxd6tukr','m/being_the_ricardos','Being the Ricardos',2021,'Aaron Sorkin',131,NULL);
+INSERT INTO items VALUES('Q105962551','tt7693316','movie',653851,'movie',488476,NULL,NULL,NULL,NULL,'Devotion',2022,'J. D. Dillard',NULL,NULL);
 INSERT INTO items VALUES('Q105962799','tt14114802','movie',799876,'movie',634914,'movie','603697b6e04267002cf4e3d4','umc.cmc.63kcri5ub4i3cze314rpep3h3','m/the_outfit_2022','The Outfit',2022,'Graham Moore',106,NULL);
 INSERT INTO items VALUES('Q105970894','tt12412888','movie',675353,'movie',508640,'movie','5e5d3afb85f2ec003fd73c4c','umc.cmc.36we37m2yhrpib29b0o40s4z4','m/sonic_the_hedgehog_2','Sonic the Hedgehog 2',2022,'Jeff Fowler',122,66);
 INSERT INTO items VALUES('Q105985338','tt14158346','movie',801913,'movie',636847,'movie','604203de910098002c768d0b',NULL,'m/sharp_stick','Sharp Stick',2022,'Lena Dunham',86,NULL);
