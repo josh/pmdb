@@ -3067,7 +3067,7 @@ INSERT INTO items VALUES('Q24641200','tt4632316','movie',373446,'movie',247970,'
 INSERT INTO items VALUES('Q24661115','tt3762912','movie',385805,'movie',227164,'movie','5d776c2223d5a3001f517f73','umc.cmc.5hwhzl7oiogp4x2u2cd0lggih','m/betting_on_zero','Betting on Zero',2016,'Ted Braun',99,100);
 INSERT INTO items VALUES('Q24672271','tt4420704','movie',392011,'movie',234365,'movie','5d776c3251dd69001fe38bb4','umc.cmc.2hl2on7lmwhc8aj98xavydf5r','m/kedi_2017','Kedi',2016,'Ceyda Torun',80,98);
 INSERT INTO items VALUES('Q24676839','tt5728684','movie',396232,'movie',239086,'movie','5d776c3c594b2b001e6ee8fd','umc.cmc.5vq8bcfokt3pjcrg2vbnzlv3y','m/sour_grapes_2016','Sour Grapes',2016,NULL,85,96);
-INSERT INTO items VALUES('Q24733929','tt4520988','movie',330457,'movie',211394,'movie','5d776b85594b2b001e6dc641','umc.cmc.3mslhevzrxaaa9h6ybjwqvg27','m/frozen_ii','Frozen II',2019,NULL,103,78);
+INSERT INTO items VALUES('Q24733929','tt4520988','movie',330457,'movie',211394,'movie','5d776b85594b2b001e6dc641','umc.cmc.3mslhevzrxaaa9h6ybjwqvg27','m/frozen_ii','Frozen II',2019,NULL,103,77);
 INSERT INTO items VALUES('Q24832112','tt3606756','movie',260513,'movie',159626,'movie','5d9f3c34b0262f001f6f1f6a','umc.cmc.uzvd8mpcpeyggo5ttxyeg58u','m/incredibles_2','Incredibles 2',2018,'Brad Bird',118,93);
 INSERT INTO items VALUES('Q24859151','tt5994364','tv',67915,'show',111387,NULL,NULL,NULL,NULL,'Guardian: The Lonely and Great God',NULL,NULL,60,NULL);
 INSERT INTO items VALUES('Q24901880','tt5462602','movie',416477,'movie',264821,'movie','5d776c737a53e9001e743414','umc.cmc.5z80febrs9qjg5u4ig9rjs26i','m/the_big_sick','The Big Sick',2017,'Michael Showalter',119,98);
