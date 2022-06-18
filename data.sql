@@ -3080,6 +3080,7 @@ INSERT INTO items VALUES('Q25136235','tt5052448','movie',419430,'movie',264623,'
 INSERT INTO items VALUES('Q25136465','tt3881784','movie',395993,'movie',238826,'movie','5d9f3cfbd5fd3f001ee1f6de','umc.cmc.74s6f6akay4pz09izbx53ilqz','m/stronger_2017','Stronger',2017,'David Gordon Green',119,90);
 INSERT INTO items VALUES('Q25136469','tt5541240','movie',401104,'movie',283755,'movie','5d776c49fb0d55001f5834e3','umc.cmc.460efooxy6rias7rkuo8lb6wo','m/to_the_bone','To the Bone',2017,'Marti Noxon',107,70);
 INSERT INTO items VALUES('Q25136560','tt2548396','movie',384521,'movie',233151,'movie','5d776c1e7a53e9001e73a39f','umc.cmc.19w91jeqj2min23ou6og0cobw','m/the_cloverfield_paradox','The Cloverfield Paradox',2018,'Julius Onah',102,21);
+INSERT INTO items VALUES('Q25136669','tt3829920','movie',395991,'movie',238824,NULL,NULL,'umc.cmc.3bqtr025s92kutmyy1inrfyuv','m/only_the_brave_2017','Only the Brave',2017,'Joseph Kosinski',133,87);
 INSERT INTO items VALUES('Q25136748','tt5278596','movie',376261,'movie',225365,'movie','5d776c0923d5a3001f516d66','umc.cmc.634vgxgg51bzh7ncszh87ebj','m/weiner','Weiner',2016,NULL,96,97);
 INSERT INTO items VALUES('Q25136757','tt5726616','movie',398818,'movie',241956,'movie','5d776c43fb0d55001f58253f','umc.cmc.4qs91ldaqauuwed1v8i1dz1c7','m/call_me_by_your_name','Call Me by Your Name',2017,'Luca Guadagnino',132,94);
 INSERT INTO items VALUES('Q25203995','tt5460226','tv',67697,'show',106717,'show','5d9c0808ba6eb9001fb9a1dc','umc.cmc.4ynjykt6k3md8t7m2f2r6iq2i','tv/search_party','Search Party',NULL,NULL,NULL,NULL);
@@ -3905,7 +3906,7 @@ INSERT INTO items VALUES('Q100801718','tt10731256','movie',619730,'movie',464903
 INSERT INTO items VALUES('Q100889636','tt12477480','movie',705996,'movie',548877,NULL,NULL,NULL,NULL,'Decision to Leave',2022,'Park Chan-wook',138,NULL);
 INSERT INTO items VALUES('Q100934044','tt12235718','tv',106651,'show',170211,'show','5f235d96f94d66004144cdb3',NULL,'tv/hellbound','Hellbound',NULL,'Yeon Sang-ho',NULL,NULL);
 INSERT INTO items VALUES('Q100944081','tt0434706','tv',30981,'show',30847,'show','5d9c084702391c001f58567d',NULL,NULL,'Monster',NULL,'Masayuki Kojima',24,NULL);
-INSERT INTO items VALUES('Q101089777','tt13146488','tv',110492,'show',169009,'show','5f6e1529eef82a0042dbcc9d',NULL,'tv/peacemaker_2022','Peacemaker',NULL,'James Gunn',NULL,NULL);
+INSERT INTO items VALUES('Q101089777','tt13146488','tv',110492,'show',169009,'show','5f6e1529eef82a0042dbcc9d','umc.cmc.29be4iil4rn1ov8vrdxhh4375','tv/peacemaker_2022','Peacemaker',NULL,'James Gunn',NULL,NULL);
 INSERT INTO items VALUES('Q101091774','tt11671006','movie',667739,'movie',501427,'movie','5e833bb566500c0041d29ae8',NULL,NULL,'The Man from Toronto',2022,'Patrick Hughes',NULL,NULL);
 INSERT INTO items VALUES('Q101096725','tt11280740','tv',95396,'show',154997,'show','5e1622d34f2292003e91314a',NULL,'tv/severance','Severance',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q101098258','tt6571548','movie',628534,'movie',469316,'movie','5e16334861c6140040d67fbc',NULL,'m/the_white_tiger_2020','The White Tiger',2021,'Ramin Bahrani',125,91);
@@ -4126,7 +4127,7 @@ INSERT INTO items VALUES('Q107650846','tt15115280','movie',854359,'movie',682999
 INSERT INTO items VALUES('Q107710009','tt14208870','movie',804095,'movie',638767,NULL,NULL,NULL,NULL,'The Fabelmans',2022,'Steven Spielberg',NULL,NULL);
 INSERT INTO items VALUES('Q107740038','tt13111040','tv',114068,'show',170252,NULL,NULL,NULL,'tv/the_offer','The Offer',NULL,'Dexter Fletcher',NULL,NULL);
 INSERT INTO items VALUES('Q107883998','tt14549466','movie',819876,'movie',653224,'movie','607daa4a7ce89d0035219f6d','umc.cmc.4nwre3gr37h0bhv2r09ckgekx','m/crimes_of_the_future_2022','Crimes of the Future',2022,'David Cronenberg',107,NULL);
-INSERT INTO items VALUES('Q108031233','tt14439896','movie',809140,'movie',643196,'movie','6077fd0a2be7520036eb6a86',NULL,'m/father_stu','Father Stu',2022,'Rosalind Ross',NULL,NULL);
+INSERT INTO items VALUES('Q108031233','tt14439896','movie',809140,'movie',643196,'movie','6077fd0a2be7520036eb6a86','umc.cmc.5gwshwy0cgzsavbmwsm6xy8ws','m/father_stu','Father Stu',2022,'Rosalind Ross',NULL,NULL);
 INSERT INTO items VALUES('Q108086029','tt14230388','movie',747188,'movie',587403,NULL,NULL,NULL,NULL,'Asteroid City',2022,'Wes Anderson',NULL,NULL);
 INSERT INTO items VALUES('Q108166770','tt1998372','tv',128095,'show',182832,'show','60d5ab0a10abde002c10ecab',NULL,'tv/under_the_banner_of_heaven','Under the Banner of Heaven',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q108323792','tt6611256','movie',480713,'movie',328137,'movie','5d776f2cad5437001f80be2d','umc.cmc.5ivi7eqzq4hfj43cwb3rzngk6','m/the_orange_years_the_nickelodeon_story','The Orange Years: The Nickelodeon Story',NULL,NULL,102,88);
