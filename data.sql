@@ -4156,6 +4156,7 @@ INSERT INTO items VALUES('Q109284173','tt11909878','movie',642885,'movie',480709
 INSERT INTO items VALUES('Q109284708','tt15523010','movie',879540,'movie',704047,NULL,NULL,NULL,NULL,'The Closer',NULL,'Stan Lathan',NULL,NULL);
 INSERT INTO items VALUES('Q109284828','tt11127680','movie',807196,'movie',641839,'movie','5f408dfcfea1a1003fad88f0','umc.cmc.vxi26ov03pq2ck938d7rhwz','m/boiling_point_2021','Boiling Point',2021,'Philip Barantini',92,NULL);
 INSERT INTO items VALUES('Q109285531','tt13622146','movie',819500,'movie',652579,NULL,NULL,NULL,'m/found_2021','Found',2021,'Amanda Lipitz',NULL,NULL);
+INSERT INTO items VALUES('Q109333365','tt13706018','tv',120089,'show',190742,NULL,NULL,NULL,NULL,'Spy × Family',NULL,'Kazuhiro Furuhashi',NULL,NULL);
 INSERT INTO items VALUES('Q109607643','tt13622958','tv',114466,'show',170646,'show','5fd47f3c0985b5002d368fc8',NULL,NULL,'Baymax!',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q109901438','tt9288030','tv',108978,'show',155536,'show','5d9c09190aaccd001f8f42f0',NULL,'tv/reacher','Reacher',NULL,'Thomas Vincent',NULL,NULL);
 INSERT INTO items VALUES('Q110027782','tt14376344','movie',814340,'movie',647979,'movie','6069796598a19b002e86708d',NULL,NULL,'Cha Cha Real Smooth',NULL,'Cooper Raiff',NULL,NULL);
