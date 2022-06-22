@@ -3939,7 +3939,7 @@ INSERT INTO items VALUES('Q104007933','tt7475578','movie',760336,'movie',599425,
 INSERT INTO items VALUES('Q104018236','tt11808942','tv',98892,'show',170593,'show','5e35ecf8996835003c9a5aab','umc.cmc.1tqmf2znhr4oui4vo69ircyui','tv/schmigadoon','Schmigadoon!',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104033835','tt2463208','movie',696806,'movie',540557,'movie','5eb8f26137ccbe0041724471',NULL,'m/the_adam_project','The Adam Project',2022,'Shawn Levy',106,NULL);
 INSERT INTO items VALUES('Q104082429','tt2531336','tv',96677,'show',164129,'show','5e165ad63d4bbb00375a4a3a','umc.cmc.2nfzy9iye7lkzh2mcoiekgf92','tv/lupin','Lupin',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q104094034','tt9783600','movie',615469,'movie',458866,NULL,NULL,NULL,'m/spiderhead','Spiderhead',2022,'Joseph Kosinski',NULL,NULL);
+INSERT INTO items VALUES('Q104094034','tt9783600','movie',615469,'movie',458866,NULL,NULL,NULL,'m/spiderhead','Spiderhead',2022,'Joseph Kosinski',107,NULL);
 INSERT INTO items VALUES('Q104154217','tt8466564','tv',92830,'show',169967,'show','5e16168fc2a81f001ed39012',NULL,'tv/obi_wan_kenobi','Star Wars: Obi-Wan Kenobi',NULL,'Deborah Chow',NULL,NULL);
 INSERT INTO items VALUES('Q104187039','tt12261776','movie',700391,'movie',543972,NULL,NULL,NULL,NULL,'65',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104213702','tt11389748','movie',423333,'movie',614144,NULL,NULL,'umc.cmc.31izlfcdsr7fxdtuaz9gs8bkp','m/mass_2021','Mass',2021,'Fran Kranz',NULL,95);
@@ -4002,7 +4002,7 @@ INSERT INTO items VALUES('Q105438136','tt13204490','movie',749004,'movie',589286
 INSERT INTO items VALUES('Q105438429','tt12121582','movie',691422,'movie',535745,NULL,NULL,NULL,'m/when_you_finish_saving_the_world','When You Finish Saving the World',2022,'Jesse Eisenberg',88,NULL);
 INSERT INTO items VALUES('Q105438931','tt13087796','movie',795813,'movie',631457,'movie','5f646bb3fd26e30041fb29a3','umc.cmc.5fm0s619rjzalirizf2tfr3q0','m/im_your_man_2021','I''m Your Man',2021,'Maria Schrader',108,96);
 INSERT INTO items VALUES('Q105459622','tt11639952','tv',97754,'show',157540,'show','5e269a84323f950042e36c3d','umc.cmc.17fo9dhz913tohvvymkmrxtse','tv/young_rock','Young Rock',NULL,NULL,NULL,90);
-INSERT INTO items VALUES('Q105549749','tt11214590','movie',644495,'movie',481862,'movie','5ddba97d0e3496001d14434a','umc.cmc.5zhbapthrtlgvyyq4a17eqxne','m/house_of_gucci','House of Gucci',2021,'Ridley Scott',157,62);
+INSERT INTO items VALUES('Q105549749','tt11214590','movie',644495,'movie',481862,'movie','5ddba97d0e3496001d14434a','umc.cmc.5zhbapthrtlgvyyq4a17eqxne','m/house_of_gucci','House of Gucci',2021,'Ridley Scott',157,63);
 INSERT INTO items VALUES('Q105554572','tt2906216','movie',493529,'movie',340442,NULL,NULL,NULL,'m/dungeons_and_dragons_honor_among_thieves','Dungeons & Dragons: Honor Among Thieves',2023,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105560027','tt14164234','movie',796849,'movie',632012,'movie','602b26029c5e73002da68355',NULL,'m/ride_or_die','Ride or Die',2021,'Ryūichi Hiroki',142,67);
 INSERT INTO items VALUES('Q105560268','tt0995854','movie',501841,'movie',348598,'movie','5d776da3fb0d55001f5a649c','umc.cmc.2o53tavw875q1x7105ucon2xz','m/a_journal_for_jordan','A Journal for Jordan',2021,'Denzel Washington',131,NULL);
@@ -4160,7 +4160,7 @@ INSERT INTO items VALUES('Q109285531','tt13622146','movie',819500,'movie',652579
 INSERT INTO items VALUES('Q109333365','tt13706018','tv',120089,'show',190742,NULL,NULL,NULL,NULL,'Spy × Family',NULL,'Kazuhiro Furuhashi',NULL,NULL);
 INSERT INTO items VALUES('Q109607643','tt13622958','tv',114466,'show',170646,'show','5fd47f3c0985b5002d368fc8',NULL,NULL,'Baymax!',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q109901438','tt9288030','tv',108978,'show',155536,'show','5d9c09190aaccd001f8f42f0',NULL,'tv/reacher','Reacher',NULL,'Thomas Vincent',NULL,NULL);
-INSERT INTO items VALUES('Q110027782','tt14376344','movie',814340,'movie',647979,'movie','6069796598a19b002e86708d',NULL,NULL,'Cha Cha Real Smooth',NULL,'Cooper Raiff',NULL,NULL);
+INSERT INTO items VALUES('Q110027782','tt14376344','movie',814340,'movie',647979,'movie','6069796598a19b002e86708d','umc.cmc.6loo9fah7vwj2zpp7ehactlpd','m/cha_cha_real_smooth','Cha Cha Real Smooth',2022,'Cooper Raiff',107,NULL);
 INSERT INTO items VALUES('Q110027954','tt12655436','movie',848331,'movie',677870,NULL,NULL,NULL,NULL,'Honk for Jesus, Save Your Soul',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110039575','tt15255876','movie',862965,'movie',689967,NULL,NULL,NULL,NULL,'Emily the Criminal',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q110040212','tt12311620','movie',801965,'movie',636995,NULL,NULL,NULL,NULL,'892',2022,NULL,103,NULL);
