@@ -20,6 +20,7 @@ wikidata_qid,imdb_id,tmdb_type,tmdb_id,trakt_type,trakt_id,plex_type,plex_id,app
 ,tt5645432,tv,111800,show,150805,,,,,"The Old Man",,,,
 ,tt6111552,tv,71786,show,124355,show,606f08e489b0ad002df8bb9c,,,"Content Cop",,,,
 ,tt6722400,movie,945937,movie,759776,,,,,"Fast Charlie",,,,
+,tt7766378,movie,777443,movie,614652,,,,,"The Electric State",,,,
 ,tt8174412,movie,583095,movie,431256,,,,,"Funny Pages",,,,
 ,tt8323668,movie,843847,movie,674127,movie,5f40d769cae2c600420d9ac6,,,"Jerry & Marge Go Large",,,,
 ,tt8773420,tv,95556,show,171737,,,,,Expats,,,,
@@ -3026,7 +3027,7 @@ Q23925035,tt5323662,movie,378064,movie,225063,movie,5d776c0ead5437001f7b25d6,,m/
 Q23925037,tt5566790,movie,391710,movie,234040,movie,5d776c32f617c9002017eb7d,umc.cmc.3580fwtto5qe1bfxniq23msbt,m/a_futile_and_stupid_gesture,"A Futile and Stupid Gesture",2018,"David Wain",101,67
 Q23932553,tt3967856,movie,387426,movie,229330,movie,5d776c26594b2b001e6ec3ac,umc.cmc.7086i3dk23d565gobtnkutwkr,m/okja,Okja,2017,"Bong Joon-ho",121,86
 Q23971551,tt4093826,tv,1920,show,134095,,,umc.cmc.1n2apxyl1chm6vcebyfefmqdk,tv/twin_peaks/s03,"Twin Peaks",,"David Lynch",,
-Q23994919,tt13056052,movie,736732,movie,578049,,,,,Broker,2022,"Hirokazu Koreeda",129,
+Q23994919,tt13056052,movie,736732,movie,578049,,,,m/broker,Broker,2022,"Hirokazu Koreeda",129,
 Q24034578,tt5491994,tv,68595,show,112332,show,5d9c080fcb3ffa001f1b1bd2,,tv/planet_earth_ii,"Planet Earth II",2016,,,
 Q24034591,tt5704928,tv,68290,show,108040,show,5d9c080dffd9ef001e98b984,umc.cmc.73ijoz91r1389jmg04ofu54ul,,"Extra Gear",,,,
 Q24042656,tt5278506,movie,373072,movie,233859,movie,5d776c029ab5440021511d40,umc.cmc.4mwldk5y56nhyfq7yhpsegwqd,m/tickled,Tickled,2016,,92,94
@@ -3643,7 +3644,7 @@ Q65980217,tt9140560,tv,85271,show,146518,show,5d9c0918e264b7001fc4eea6,umc.cmc.7
 Q65980671,tt10168312,tv,91363,show,146522,show,5ea63f0b020425003defeb70,,tv/what_if_,"What If...?",,,,93
 Q65980843,tt10160804,tv,88329,show,146415,show,5d9c09211cae62001f7512b5,,tv/hawkeye,Hawkeye,,,50,
 Q66023741,tt8697870,tv,80828,show,148101,show,5d9c090546115600200ae8ea,umc.cmc.79cq7q2fmr3k17x41whgnul93,tv/the_nevers,"The Nevers",,,,
-Q66313196,tt5897304,tv,67075,show,105481,show,5d9c08042df347001e3a892b,,,"Mob Psycho 100",,,,
+Q66313196,tt5897304,tv,67075,show,105481,show,5d9c08042df347001e3a892b,,,"Mob Psycho 100",,"Yuzuru Tachikawa",,
 Q66316924,tt5537002,movie,466420,movie,313884,,,,,"Killers of the Flower Moon",2022,"Martin Scorsese",,
 Q66417375,tt10482370,tv,90259,show,152104,show,5e16191303a303003f8246aa,umc.cmc.3gae2faxo3iif9zti9g761j82,tv/the_third_day,"The Third Day",,,,
 Q66688921,tt10451852,movie,607430,movie,488158,movie,5e1625597c6c730040bb1311,,m/nine_days,"Nine Days",2021,"Edson Oda",124,89
@@ -4006,6 +4007,7 @@ Q105818526,tt10011302,movie,596028,movie,441951,movie,5d7770d66afb3d0020623065,u
 Q105907125,tt4995540,movie,517088,movie,365183,movie,5d77703e594b2b001e747670,umc.cmc.4q5gtqro3nhigvscxgxd6tukr,m/being_the_ricardos,"Being the Ricardos",2021,"Aaron Sorkin",131,
 Q105962551,tt7693316,movie,653851,movie,488476,,,,,Devotion,2022,"J. D. Dillard",,
 Q105962799,tt14114802,movie,799876,movie,634914,movie,603697b6e04267002cf4e3d4,umc.cmc.63kcri5ub4i3cze314rpep3h3,m/the_outfit_2022,"The Outfit",2022,"Graham Moore",106,
+Q105962844,tt12262116,movie,698948,movie,542616,,,,,"Thirteen Lives",2022,"Ron Howard",,
 Q105970894,tt12412888,movie,675353,movie,508640,movie,5e5d3afb85f2ec003fd73c4c,umc.cmc.36we37m2yhrpib29b0o40s4z4,m/sonic_the_hedgehog_2,"Sonic the Hedgehog 2",2022,"Jeff Fowler",122,66
 Q105985338,tt14158346,movie,801913,movie,636847,movie,604203de910098002c768d0b,,m/sharp_stick,"Sharp Stick",2022,"Lena Dunham",86,
 Q105985341,tt11741044,movie,632311,movie,472014,movie,5e16335f4c78f7003e7f223c,,,"I Was a Simple Man",,,,
