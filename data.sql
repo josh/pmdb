@@ -35,6 +35,7 @@ INSERT INTO items VALUES(NULL,'tt19843600','movie',967598,'movie',777660,NULL,NU
 INSERT INTO items VALUES(NULL,'tt19864802','movie',969492,'movie',779178,NULL,NULL,NULL,NULL,'Land Of Bad',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt19895946','tv',203688,'show',196238,NULL,NULL,NULL,NULL,'The Future Of',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt20212786','movie',970947,'movie',780513,NULL,NULL,NULL,NULL,'The Shrouds',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt20851874','movie',983406,'movie',790625,NULL,NULL,NULL,NULL,'Fourth of July',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt21051790','tv',204082,'show',196265,NULL,NULL,NULL,NULL,'Squid Game: The Challenge',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt5645432','tv',111800,'show',150805,NULL,NULL,NULL,NULL,'The Old Man',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt6111552','tv',71786,'show',124355,'show','606f08e489b0ad002df8bb9c',NULL,NULL,'Content Cop',NULL,NULL,NULL,NULL);
@@ -4020,6 +4021,7 @@ INSERT INTO items VALUES('Q105657922','tt13622118','movie',776660,'movie',614246
 INSERT INTO items VALUES('Q105658212','tt3108894','movie',727293,'movie',569479,'movie','5f1d13fab6be3000418d362e','umc.cmc.69da9rm8j18sys5fx0i1f77nr','m/the_tender_bar','The Tender Bar',2021,'George Clooney',106,NULL);
 INSERT INTO items VALUES('Q105686499','tt11188154','movie',795622,'movie',630998,'movie','5f409627cae2c6004200e091','umc.cmc.3ykd912afxrzslzxfyxvtkgpl','m/wework_or_the_making_and_breaking_of_a_47_billion_unicorn','WeWork: Or the Making and Breaking of a $47 Billion Unicorn',2021,'Jed Rothstein',NULL,77);
 INSERT INTO items VALUES('Q105686521','tt14031338','movie',795530,'movie',631012,'movie','6025d0dcb99627002cea4734',NULL,'m/language_lessons','Language Lessons',NULL,'Natalie Morales',91,96);
+INSERT INTO items VALUES('Q105753211','tt11743610','tv',120911,'show',170081,NULL,NULL,NULL,NULL,'The Terminal List',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105753321','tt11041132','tv',93716,'show',153528,'show','5e16137b2b8866001e60d14a','umc.cmc.5nghmxp88xe0qxhtlhfiu5r2h','tv/the_mosquito_coast','The Mosquito Coast',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105773126','tt10971064','tv',124897,'show',170595,'show','5fd2a1b62f590e002dcde475','umc.cmc.2iams7vr2o0i6mtb6wm6r9q1n','tv/mr_corman','Mr. Corman',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105773177','tt8888462','tv',110382,'show',153532,'show','5f6b8866f340340042d80b41','umc.cmc.17vf6g68dy89kk1l1nnb6min4',NULL,'Pachinko',NULL,NULL,NULL,NULL);
