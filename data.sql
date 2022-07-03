@@ -2908,7 +2908,6 @@ INSERT INTO items VALUES('Q20022669','tt1082807','movie',341006,'movie',225990,'
 INSERT INTO items VALUES('Q20023116','tt2660888','movie',188927,'movie',118174,'movie','5d776a0ef617c90020168471','umc.cmc.5wssqlk617t7jjmhn23v7q4pk','m/star_trek_beyond','Star Trek Beyond',2016,'Justin Lin',122,86);
 INSERT INTO items VALUES('Q20026847','tt2582782','movie',338766,'movie',230569,'movie','5d776b9ead5437001f7a5049','umc.cmc.3zdd8gynmlcesek4t9ccfa4xa','m/hell_or_high_water','Hell or High Water',2016,'David Mackenzie',102,96);
 INSERT INTO items VALUES('Q20031748','tt4276820','movie',310307,'movie',220447,'movie','5d776b54ad5437001f79badb','umc.cmc.7g4d3tuc9ua4yp4zcd4kp01jf','m/the_founder','The Founder',2017,'John Lee Hancock',115,81);
-INSERT INTO items VALUES('Q20078423','tt1727373','movie',100540,'movie',72370,'movie','5d77690996b655001fdc8c44',NULL,'m/the_kill_hole','The Kill Hole',2012,NULL,NULL,25);
 INSERT INTO items VALUES('Q20120108','tt1289401','movie',43074,'movie',28880,'movie','5d77687a23d5a3001f4ecd25','umc.cmc.fuc4lymlbip0b1qejzrcqay2','m/ghostbusters_2016','Ghostbusters',2016,'Paul Feig',117,73);
 INSERT INTO items VALUES('Q20164367','tt4295140','tv',62391,'show',75731,'show','5d9c085246115600200a905b','umc.cmc.5qu2de69d927dus3gweyzcul3','tv/chef-s-table','Chef''s Table',NULL,NULL,50,NULL);
 INSERT INTO items VALUES('Q20382729','tt2543164','movie',329865,'movie',210803,'movie','5d776b83fb0d55001f56a04b','umc.cmc.20sgkdxqbvucopzt913joa0gr','m/arrival_2016','Arrival',2016,'Denis Villeneuve',116,94);
@@ -3766,7 +3765,7 @@ INSERT INTO items VALUES('Q84010999','tt10441822','movie',653572,'movie',488160,
 INSERT INTO items VALUES('Q84203429','tt9620288','movie',614917,'movie',458405,'movie','5e1632fc61c6140040d675bb','umc.cmc.11i83ne5iq37usxzghkyicmwk','m/king_richard','King Richard',2021,'Reinaldo Marcus Green',144,92);
 INSERT INTO items VALUES('Q84238429','tt3673480','tv',87523,'show',151015,'show','5d9c0925ec357c001f9b130c','umc.cmc.3e2lejw8tcfjkz2nic00vburt','tv/good_lord_bird','The Good Lord Bird',2020,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q84323848','tt8503618','movie',556574,'movie',407854,'movie','5d7770937a53e9001e7a6381','umc.cmc.54rv4esv3qomlthreamvbd34v','m/hamilton_2020','Hamilton',2020,'Thomas Kail',160,98);
-INSERT INTO items VALUES('Q84362533','tt3704428','movie',614934,'movie',458367,'movie','5d7770de31d95e001f1aba32','umc.cmc.4wy1iau6azj038mml796s4nn5','m/elvis','Elvis',2021,'Baz Luhrmann',159,NULL);
+INSERT INTO items VALUES('Q84362533','tt3704428','movie',614934,'movie',458367,'movie','5d7770de31d95e001f1aba32','umc.cmc.4wy1iau6azj038mml796s4nn5','m/elvis','Elvis',2022,'Baz Luhrmann',159,NULL);
 INSERT INTO items VALUES('Q84363557','tt7873348','movie',653569,'movie',488442,'movie','5e1625616327aa0040508302',NULL,'m/save_yourselves','Save Yourselves!',2020,NULL,NULL,89);
 INSERT INTO items VALUES('Q84366178','tt11233960','movie',645886,'movie',490456,'movie','5e1622905dd66b00406dc3c1',NULL,'m/the_unforgivable','The Unforgivable',2021,'Nora Fingscheidt',112,NULL);
 INSERT INTO items VALUES('Q84366622','tt11394180','movie',653574,'movie',489827,'movie','5e1625611ee0780040041412',NULL,'m/dick_johnson_is_dead','Dick Johnson Is Dead',2020,'Kirsten Johnson',89,100);
@@ -3848,6 +3847,7 @@ INSERT INTO items VALUES('Q96398312','tt12004706','tv',101352,'show',160028,'sho
 INSERT INTO items VALUES('Q96405993','tt11358166','movie',638741,'movie',477681,'movie','5e161c86c176f9003fa452d0','umc.cmc.477smw9he6ab027jongqddyqk','m/some_kind_of_heaven','Some Kind of Heaven',NULL,'Lance Oppenheim',NULL,93);
 INSERT INTO items VALUES('Q96407897','tt10986410','tv',97546,'show',162639,'show','5e204251072b9e003ca5c140','umc.cmc.vtoh0mn0xn7t3c643xqonfzy','tv/ted_lasso','Ted Lasso',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q96408682','tt11394184','movie',653727,'movie',489828,NULL,NULL,NULL,'m/the_fight_2020','The Fight',NULL,NULL,NULL,99);
+INSERT INTO items VALUES('Q96409409','tt1727373','movie',100540,'movie',72370,'movie','5d77690996b655001fdc8c44',NULL,'m/the_kill_hole','The Kill Hole',2012,NULL,NULL,25);
 INSERT INTO items VALUES('Q96409533','tt11296058','movie',654170,'movie',488944,'movie','5e162564447c85003ec5ce62','umc.cmc.7ah1jec1iarj7n4p7sa2kwfhb','m/the_painter_and_the_thief','The Painter and the Thief',2020,'Benjamin Ree',NULL,96);
 INSERT INTO items VALUES('Q96409644','tt10681780','tv',99282,'show',158172,NULL,NULL,NULL,'tv/the_stranger_2020','The Stranger',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q96409695','tt10222764','tv',49920,'show',165062,NULL,NULL,'umc.cmc.6ng9wu2u6xknsal912sjgmn5','tv/the_vow','The Vow',NULL,NULL,NULL,75);
