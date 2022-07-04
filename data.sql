@@ -3910,7 +3910,7 @@ INSERT INTO items VALUES('Q100889636','tt12477480','movie',705996,'movie',548877
 INSERT INTO items VALUES('Q100934044','tt12235718','tv',106651,'show',170211,'show','5f235d96f94d66004144cdb3',NULL,'tv/hellbound','Hellbound',NULL,'Yeon Sang-ho',NULL,NULL);
 INSERT INTO items VALUES('Q100944081','tt0434706','tv',30981,'show',30847,'show','5d9c084702391c001f58567d',NULL,NULL,'Monster',NULL,'Masayuki Kojima',24,NULL);
 INSERT INTO items VALUES('Q101089777','tt13146488','tv',110492,'show',169009,'show','5f6e1529eef82a0042dbcc9d','umc.cmc.29be4iil4rn1ov8vrdxhh4375','tv/peacemaker_2022','Peacemaker',NULL,'James Gunn',NULL,NULL);
-INSERT INTO items VALUES('Q101091774','tt11671006','movie',667739,'movie',501427,'movie','5e833bb566500c0041d29ae8',NULL,'m/the_man_from_toronto_2022','The Man from Toronto',2022,'Patrick Hughes',NULL,NULL);
+INSERT INTO items VALUES('Q101091774','tt11671006','movie',667739,'movie',501427,'movie','5e833bb566500c0041d29ae8',NULL,'m/the_man_from_toronto_2022','The Man from Toronto',2022,'Patrick Hughes',110,NULL);
 INSERT INTO items VALUES('Q101096725','tt11280740','tv',95396,'show',154997,'show','5e1622d34f2292003e91314a',NULL,'tv/severance','Severance',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q101098258','tt6571548','movie',628534,'movie',469316,'movie','5e16334861c6140040d67fbc',NULL,'m/the_white_tiger_2020','The White Tiger',2021,'Ramin Bahrani',125,91);
 INSERT INTO items VALUES('Q101112656','tt8999762','movie',549509,'movie',399330,NULL,NULL,NULL,NULL,'The Brutalist',2021,'Brady Corbet',NULL,NULL);
