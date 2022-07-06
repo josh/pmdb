@@ -37,6 +37,7 @@ INSERT INTO items VALUES(NULL,'tt19895946','tv',203688,'show',196238,NULL,NULL,N
 INSERT INTO items VALUES(NULL,'tt20212786','movie',970947,'movie',780513,NULL,NULL,NULL,NULL,'The Shrouds',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt20851874','movie',983406,'movie',790625,NULL,NULL,NULL,NULL,'Fourth of July',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt21051790','tv',204082,'show',196265,NULL,NULL,NULL,NULL,'Squid Game: The Challenge',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt4301160','tv',155537,'show',180817,NULL,NULL,NULL,NULL,'Black Bird',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt5645432','tv',111800,'show',150805,NULL,NULL,NULL,NULL,'The Old Man',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt6111552','tv',71786,'show',124355,'show','606f08e489b0ad002df8bb9c',NULL,NULL,'Content Cop',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt6722400','movie',945937,'movie',759776,NULL,NULL,NULL,NULL,'Fast Charlie',NULL,NULL,NULL,NULL);
@@ -2574,7 +2575,7 @@ INSERT INTO items VALUES('Q4254026','tt1872181','movie',102382,'movie',73293,'mo
 INSERT INTO items VALUES('Q4272175','tt1619037','movie',43938,'movie',29684,'movie','5d77687ceb5d26001f1ed880',NULL,'m/nice_guy_johnny_2010','Nice Guy Johnny',2010,'Edward Burns',NULL,NULL);
 INSERT INTO items VALUES('Q4317432','tt0492499','movie',30365,'movie',19244,'movie','5d9f3569e4fc29001eb669b5','umc.cmc.44r95c17tc7soa5b6tlixkku7','m/unreasonable_man','An Unreasonable Man',2006,NULL,NULL,92);
 INSERT INTO items VALUES('Q4341553','tt0032910','movie',10895,'movie',6049,'movie','5d776d10ad5437001f7cc066','umc.cmc.4ixknv3558j9uodmwlui4gfy8','m/pinocchio_1940','Pinocchio',1940,NULL,88,100);
-INSERT INTO items VALUES('Q4348539','tt0273982','movie',14293,'movie',8584,'movie','5d9f3512adeb7a0021ce0e75',NULL,'m/poolhall_junkies','Poolhall Junkies',2002,'Mars Callahan',NULL,33);
+INSERT INTO items VALUES('Q4348539','tt0273982','movie',14293,'movie',8584,'movie','5d9f3512adeb7a0021ce0e75','umc.cmc.12oes84xe73mt8hm260v3o6cw','m/poolhall_junkies','Poolhall Junkies',2002,'Mars Callahan',NULL,33);
 INSERT INTO items VALUES('Q4366287','tt1441395','movie',97370,'movie',70756,'movie','5d7768fe51dd69001fe138a2','umc.cmc.1zykdmts3zoih21i9apfdwjp7','m/under_the_skin_2013','Under the Skin',2013,'Jonathan Glazer',107,84);
 INSERT INTO items VALUES('Q4384067','tt0994314','tv',31724,'show',31586,'show','5d9c0826e9d5a1001f4d7ee3',NULL,NULL,'Code Geass',2006,'Gorō Taniguchi',NULL,NULL);
 INSERT INTO items VALUES('Q4407383','tt2177771','movie',152760,'movie',99984,'movie','5d7769c4ad5437001f767a03','umc.cmc.5eonspxawdewue1wxlft98tax','m/the_monuments_men','Monuments Men',2014,'George Clooney',118,30);
