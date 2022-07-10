@@ -3570,7 +3570,7 @@ Q63315506,tt5503686,movie,540901,movie,392042,movie,5d77707296b655001fe9664f,umc
 Q63349305,tt4523530,movie,331044,movie,211960,movie,5d776b8796b655001fe143d6,umc.cmc.1sgecus9awaesngfctf03z5xr,m/valley_of_the_gods_2020,"Valley of the Gods",2019,"Lech Majewski",,
 Q63350570,tt9335498,tv,85937,show,131598,show,5d9c090246115600200ae731,,tv/demon_slayer_kimetsu_no_yaiba,"Demon Slayer: Kimetsu no Yaiba",,"Haruo Sotozaki",,
 Q63352785,tt8368406,movie,458305,movie,305608,movie,5d776d3396b655001fe426c5,umc.cmc.1y1eg3bc65xefhpd2n0bx24he,m/vivarium,Vivarium,2019,"Lorcan Finnegan",,72
-Q63398229,tt8633464,movie,585378,movie,432804,movie,5d7770c07a53e9001e7aa527,umc.cmc.6hopktqhror7otm0e109yko55,m/after_yang,"After Yang",2021,Kogonada,,
+Q63398229,tt8633464,movie,585378,movie,432804,movie,5d7770c07a53e9001e7aa527,umc.cmc.6hopktqhror7otm0e109yko55,m/after_yang,"After Yang",2021,Kogonada,96,
 Q63434250,tt9340860,movie,596161,movie,442305,movie,5d7770d681ba41001faf914d,umc.cmc.7bjqrig5n0trf0l2mlqqayujm,m/let_him_go,"Let Him Go",2020,"Thomas Bezucha",114,84
 Q63643994,tt3581652,movie,511809,movie,359260,movie,5d777031dd931c001e389454,umc.cmc.ns49tueupamhowlca1j581xc,m/west_side_story_2021,"West Side Story",2021,"Steven Spielberg",156,95
 Q63689230,tt10050772,tv,88728,show,146733,show,5d9c0922705e7a001e6eb0a4,umc.cmc.6b1ge8ydeg24rbpcmkf8axko8,tv/i_think_you_should_leave_with_tim_robinson,"I Think You Should Leave with Tim Robinson",,,,
@@ -3589,7 +3589,7 @@ Q64069446,tt6802400,movie,484718,movie,331914,movie,5d776d74fb0d55001f5a0adb,umc
 Q64140835,tt10090796,movie,591278,movie,437974,movie,5d7770cc31d95e001f1aa086,,m/game_of_thrones_the_last_watch,"Game of Thrones: The Last Watch",2019,"Jeanie Finlay",,100
 Q64152707,tt10280296,movie,598826,movie,444834,movie,5d7770dc96b655001fea0177,umc.cmc.1nowmpkaan5bj7lwkcuaxx8fv,m/sardar_udham,"Sardar Udham",2020,"Shoojit Sircar",162,
 Q64174928,tt7390588,movie,503125,movie,350481,movie,5d776efb594b2b001e73463c,umc.cmc.57ru6s4t0b4boxy1vq89gt5fy,m/little_monsters_2019,"Little Monsters",2019,"Abe Forsythe",93,79
-Q64211112,tt9419884,movie,453395,movie,299910,movie,5d776d4796b655001fe44b28,umc.cmc.5f0mydwzevgd47pqxidz6sjf9,m/doctor_strange_in_the_multiverse_of_madness,"Doctor Strange in the Multiverse of Madness",2022,"Sam Raimi",126,
+Q64211112,tt9419884,movie,453395,movie,299910,movie,5d776d4796b655001fe44b28,umc.cmc.5f0mydwzevgd47pqxidz6sjf9,m/doctor_strange_in_the_multiverse_of_madness,"Doctor Strange in the Multiverse of Madness",2022,"Sam Raimi",126,74
 Q64338076,tt9686708,movie,579583,movie,429212,movie,5d7770b335102a0020ed8e7b,umc.cmc.4lwpfa33gozxsg2ksi2l5zqp,m/the_king_of_staten_island,"The King of Staten Island",2020,"Judd Apatow",136,75
 Q64338082,tt7737640,movie,556867,movie,407730,movie,5d7770946afb3d002061d723,umc.cmc.249ki9hgr9pzgvyg54o7ojmsf,m/breaking_news_in_yuba_county,"Breaking News in Yuba County",2021,"Tate Taylor",,12
 Q64338088,tt6992978,movie,473021,movie,320541,movie,5d776d64f617c90020188a39,umc.cmc.59xis2u5fyl8sqk3gzm6ajyri,m/the_souvenir_part_ii,"The Souvenir Part II",2021,"Joanna Hogg",107,
@@ -4152,6 +4152,7 @@ Q109284708,tt15523010,movie,879540,movie,704047,,,,,"The Closer",,"Stan Lathan",
 Q109284828,tt11127680,movie,807196,movie,641839,movie,5f408dfcfea1a1003fad88f0,umc.cmc.vxi26ov03pq2ck938d7rhwz,m/boiling_point_2021,"Boiling Point",2021,"Philip Barantini",92,
 Q109285531,tt13622146,movie,819500,movie,652579,,,,m/found_2021,Found,2021,"Amanda Lipitz",,
 Q109333365,tt13706018,tv,120089,show,190742,,,,,"Spy × Family",,"Kazuhiro Furuhashi",,
+Q109447163,tt15339456,movie,869626,movie,695707,,,,m/marcel_the_shell_with_shoes_on,"Marcel the Shell with Shoes On",2021,,,
 Q109607643,tt13622958,tv,114466,show,170646,show,5fd47f3c0985b5002d368fc8,,,Baymax!,,,,
 Q109901438,tt9288030,tv,108978,show,155536,show,5d9c09190aaccd001f8f42f0,,tv/reacher,Reacher,,"Thomas Vincent",,
 Q110027782,tt14376344,movie,814340,movie,647979,movie,6069796598a19b002e86708d,umc.cmc.6loo9fah7vwj2zpp7ehactlpd,m/cha_cha_real_smooth,"Cha Cha Real Smooth",2022,"Cooper Raiff",107,
