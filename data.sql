@@ -2070,6 +2070,7 @@ INSERT INTO items VALUES('Q1189674','tt1531663','movie',45658,'movie',31187,'mov
 INSERT INTO items VALUES('Q1191928','tt0166276','movie',23685,'movie',14250,'movie','5d9f3550d74e6700200216a6','umc.cmc.27t92aga4i8pcw3sy37wkv2tf','m/monkeybone','Monkeybone',2001,'Henry Selick',92,19);
 INSERT INTO items VALUES('Q1192363','tt0395699','movie',10022,'movie',5247,'movie','5d776834f54112001f5bd59b','umc.cmc.5cn7c9hgovkyq9j3uaqzsrk6d','m/pacifier','The Pacifier',2005,'Adam Shankman',95,21);
 INSERT INTO items VALUES('Q1192922','tt0181316','movie',11001,'movie',6139,'movie','5d7768365af944001f1fa179','umc.cmc.1l3lgkkqq1iw24dj2hebo7apo','m/blue_streak','Blue Streak',1999,'Les Mayfield',94,36);
+INSERT INTO items VALUES('Q1193098','tt0083190','movie',11524,'movie',6606,NULL,NULL,'umc.cmc.3s9ahegj2znkixsoiitdby5l5','m/1021230-thief','Thief',1981,'Michael Mann',122,94);
 INSERT INTO items VALUES('Q1195727','tt0074860','movie',10518,'movie',5697,'movie','5d7768355af944001f1f9dd1','umc.cmc.7j564xapjggy561uyvcoryivo','m/marathon_man','Marathon Man',1976,'John Schlesinger',125,81);
 INSERT INTO items VALUES('Q1196110','tt0110763','movie',15139,'movie',9188,NULL,NULL,'umc.cmc.25llixqba14jci1mvcwabh9p','m/pagemaster','The Pagemaster',1994,'Joe Johnston',76,21);
 INSERT INTO items VALUES('Q1196958','tt0821642','movie',17332,'movie',10603,'movie','5d7768407228e5001f1e03c9','umc.cmc.2o7w5lje54feg0fn2lq0fmmv2','m/soloist','The Soloist',2009,'Joe Wright',117,57);
