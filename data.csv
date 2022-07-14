@@ -5,6 +5,7 @@ wikidata_qid,imdb_id,tmdb_type,tmdb_id,trakt_type,trakt_id,plex_type,plex_id,app
 ,tt12923632,tv,,show,165790,,,,,"Dead Ringers",,,,
 ,tt1340094,movie,474592,movie,322297,,,,,"The Crow",,,,
 ,tt13675832,tv,115678,show,171669,,,,,"As If",,,,
+,tt13935992,movie,791131,movie,626742,,,,,Adrift,,,,
 ,tt14271498,tv,197449,show,194722,,,,,Loot,,,,
 ,tt14309446,movie,862551,movie,689773,,,,,"Me Time",,,,
 ,tt14417718,tv,123192,show,178915,,,,,"The Crowded Room",,,,
@@ -3823,6 +3824,7 @@ Q95483883,tt7703924,movie,703134,movie,546888,movie,5ec632ee4ae16f0040da2dfd,umc
 Q95569503,tt10580064,tv,90795,show,157613,show,5e161292e68804001e87bf9e,,tv/most_dangerous_game,"Most Dangerous Game",,,,
 Q96079649,tt11204260,tv,102619,show,154824,show,5ea533cc0f75ff00428a4ea7,umc.cmc.4k6uuey0ypktc03mi9wmxh8zi,tv/i_may_destroy_you,"I May Destroy You",,,,
 Q96314873,tt9735350,movie,653751,movie,488575,movie,5e1625625551ad0041feb6aa,umc.cmc.5ymb12y0jbgdn5k7kw9v66wzz,m/rebuilding_paradise,"Rebuilding Paradise",2020,"Ron Howard",,93
+Q96334877,tt11301886,movie,646097,movie,483193,,,,,"Rebel Ridge",,"Jeremy Saulnier",,
 Q96372504,tt11905462,movie,684700,movie,529080,movie,5e91841ee72911003f7e29e4,umc.cmc.4cr1bhdw9jr6853mq7yij8sae,m/athlete_a,"Athlete A",2020,,,100
 Q96373878,tt11095742,movie,653723,movie,489826,movie,5e162562b6f1fe003e442fab,umc.cmc.1aatz9gwjhnpfqqt8noafagq,m/boys_state,"Boys State",2020,"Jesse Moss",,94
 Q96376192,tt11032374,movie,635302,movie,474745,movie,5e1622cf5abc9c003f1ce556,umc.cmc.3w12m80vzkxhxqcgnxwt1jxqd,m/demon_slayer_kimetsu_no_yaiba_the_movie_mugen_train,"Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train",2020,"Haruo Sotozaki",117,98
@@ -4013,6 +4015,7 @@ Q105753321,tt11041132,tv,93716,show,153528,show,5e16137b2b8866001e60d14a,umc.cmc
 Q105773126,tt10971064,tv,124897,show,170595,show,5fd2a1b62f590e002dcde475,umc.cmc.2iams7vr2o0i6mtb6wm6r9q1n,tv/mr_corman,"Mr. Corman",,,,
 Q105773177,tt8888462,tv,110382,show,153532,show,5f6b8866f340340042d80b41,umc.cmc.17vf6g68dy89kk1l1nnb6min4,,Pachinko,,,,
 Q105818526,tt10011302,movie,596028,movie,441951,movie,5d7770d66afb3d0020623065,umc.cmc.3nkrdvjghxqc1ppri8ocqpm6p,m/the_emoji_story,"The Emoji Story",2020,"Ian Cheney",79,92
+Q105883400,tt13833688,movie,785084,movie,621589,,,,,"The Whale",,"Darren Aronofsky",,
 Q105907125,tt4995540,movie,517088,movie,365183,movie,5d77703e594b2b001e747670,umc.cmc.4q5gtqro3nhigvscxgxd6tukr,m/being_the_ricardos,"Being the Ricardos",2021,"Aaron Sorkin",131,
 Q105962551,tt7693316,movie,653851,movie,488476,,,,,Devotion,2022,"J. D. Dillard",,
 Q105962799,tt14114802,movie,799876,movie,634914,movie,603697b6e04267002cf4e3d4,umc.cmc.63kcri5ub4i3cze314rpep3h3,m/the_outfit_2022,"The Outfit",2022,"Graham Moore",106,
@@ -4165,6 +4168,7 @@ Q110077792,tt11540726,movie,872497,movie,698200,,,,m/resurrection_2022,Resurrect
 Q110077799,tt11818818,movie,879990,movie,704841,,,,,"God's Country",2022,"Julian Higgins",,
 Q110077813,tt15257116,movie,872516,movie,698299,,,,,"Palm Trees and Power Lines",,,,
 Q110077822,tt16378298,movie,913792,movie,731601,,,,,"Meet Me in the Bathroom",,,,
+Q110118400,tt20869502,tv,197067,show,195262,,,,,"Extraordinary Attorney Woo",,"Yoo In-sik",70,
 Q110124251,tt13991232,tv,118357,show,173337,show,601e5c786760fb002d5aaebd,,tv/1883,1883,,,,
 Q110207138,tt16116174,movie,899082,movie,721239,movie,619509bad7bb230db4bc11ee,,m/harry_potter_20th_anniversary_return_to_hogwarts,"Harry Potter 20th Anniversary: Return to Hogwarts",2022,"Eran Creevy",120,93
 Q110208165,tt10023022,movie,689700,movie,534135,movie,5e9184617c662e0040ccb90d,umc.cmc.5n10ntimh2t8iilgvtec30dp3,m/clean_2022,Clean,2021,"Paul Solet",94,
