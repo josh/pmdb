@@ -36,7 +36,6 @@ INSERT INTO items VALUES(NULL,'tt19238142','tv',202597,'show',196748,NULL,NULL,N
 INSERT INTO items VALUES(NULL,'tt19843600','movie',967598,'movie',777660,NULL,NULL,NULL,NULL,'The Trashers',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt19864802','movie',969492,'movie',779178,NULL,NULL,NULL,NULL,'Land Of Bad',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt19895946','tv',203688,'show',196238,NULL,NULL,NULL,NULL,'The Future Of',NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES(NULL,'tt20201450','movie',975088,'movie',783436,NULL,NULL,NULL,NULL,'Norm Macdonald: Nothing Special',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt20212786','movie',970947,'movie',780513,NULL,NULL,NULL,NULL,'The Shrouds',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt20851874','movie',983406,'movie',790625,NULL,NULL,NULL,NULL,'Fourth of July',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt21051790','tv',204082,'show',196265,NULL,NULL,NULL,NULL,'Squid Game: The Challenge',NULL,NULL,NULL,NULL);
@@ -2966,6 +2965,7 @@ INSERT INTO items VALUES('Q21203766','tt3731562','movie',293167,'movie',189952,'
 INSERT INTO items VALUES('Q21405644','tt4978710','movie',426254,'movie',270557,'movie','5d776c8c594b2b001e6f6823','umc.cmc.2pdukfoeijrskhyg259ozxxqd','m/marjorie_prime','Marjorie Prime',2016,'Michael Almereyda',98,90);
 INSERT INTO items VALUES('Q21433535','tt3631112','movie',346685,'movie',224010,'movie','5d776bb6fb0d55001f570870','umc.cmc.so2mah1gz8q57utg8ls2x8gi','m/the_girl_on_the_train_2016','The Girl on the Train',2016,'Tate Taylor',112,44);
 INSERT INTO items VALUES('Q21450470','tt4160708','movie',300669,'movie',224812,'movie','5d776b3a7a53e9001e71e9e0','umc.cmc.22p6ti45rhufckfb5x2uomxum','m/dont_breathe_2016','Don''t Breathe',2016,'Fede Álvarez',98,88);
+INSERT INTO items VALUES('Q21450513','tt4428398','movie',366672,'movie',246860,NULL,NULL,NULL,'m/blazing_samurai','Paws of Fury: The Legend of Hank',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q21451640','tt4425200','movie',324552,'movie',205127,'movie','5d776b7323d5a3001f510a6d','umc.cmc.dwfq3iu2xmm7lkzh4ao9cxpp','m/john_wick_chapter_2','John Wick: Chapter 2',2017,'Chad Stahelski',123,89);
 INSERT INTO items VALUES('Q21463782','tt4758646','movie',354287,'movie',224721,'movie','5d776bcb594b2b001e6e38ee','umc.cmc.59amkf6vgg38nbht8vsqqoadg','m/war_machine_2016','War Machine',2017,'David Michôd',122,48);
 INSERT INTO items VALUES('Q21468403','tt1937390','movie',258216,'movie',157799,'movie','5d9f3c2c68e4c8001fb66607','umc.cmc.r4w384jqoozlxnc7ii2a21io','m/nymphomaniac_volume_i','Nymphomaniac Part One',2013,'Lars von Trier',117,76);
@@ -4237,6 +4237,7 @@ INSERT INTO items VALUES('Q112135884','tt15005606','movie',974878,'movie',783552
 INSERT INTO items VALUES('Q112454289','tt9883832','movie',957457,'movie',769499,NULL,NULL,NULL,NULL,'Moonage Daydream',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q112761982','tt14452776','tv',136315,'show',189717,NULL,NULL,NULL,NULL,'The Bear (TV series)',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q112878296','tt12873562','movie',830788,'movie',662888,NULL,NULL,NULL,NULL,'The Invitation',NULL,'Jessica M. Thompson',NULL,NULL);
+INSERT INTO items VALUES('Q113133089','tt20201450','movie',975088,'movie',783436,NULL,NULL,NULL,'m/norm_macdonald_nothing_special','Norm Macdonald: Nothing Special',NULL,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
