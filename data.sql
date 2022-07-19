@@ -4075,7 +4075,7 @@ INSERT INTO items VALUES('Q106363032','tt14128670','movie',800510,'movie',635706
 INSERT INTO items VALUES('Q106371709','tt9812474','movie',788929,'movie',625298,'movie','5f40de8fce2564003fabc407','umc.cmc.4109n5ma9ouz5u23bjv4jwaz6','m/lamb_2021','Lamb',2021,'Valdimar Johannsson',106,86);
 INSERT INTO items VALUES('Q106405587','tt7461272','movie',579496,'movie',429112,'movie','5d7770b381ba41001faf6111',NULL,'m/call_jane','Call Jane',2022,'Phyllis Nagy',121,NULL);
 INSERT INTO items VALUES('Q106513312','tt11827628','movie',818397,'movie',651781,'movie','5f409aeec63b480040eece8b',NULL,'m/memory_2022','Memory',2022,'Martin Campbell',114,NULL);
-INSERT INTO items VALUES('Q106514711','tt13841850','movie',780609,'movie',617534,NULL,NULL,'umc.cmc.7bey2967z2h2bujtkqu556v0u','m/men_2022','Men',2022,'Alex Garland',NULL,NULL);
+INSERT INTO items VALUES('Q106514711','tt13841850','movie',780609,'movie',617534,NULL,NULL,'umc.cmc.7bey2967z2h2bujtkqu556v0u','m/men_2022','Men',2022,'Alex Garland',100,NULL);
 INSERT INTO items VALUES('Q106537891','tt13650600','movie',819309,'movie',652699,'movie','6064329e5c9112002cedbde8',NULL,'m/emergency_2022','Emergency',2022,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106547128','tt10623646','tv',106431,'show',164810,NULL,NULL,NULL,NULL,'Paper Girls',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q106554940','tt12004038','movie',807356,'movie',641879,'movie','5f409c1ecc4920003b38250b','umc.cmc.5q7114q768sjxcguwyy82sw49','m/watcher_2022','Watcher',2022,'Chloe Okuno',91,NULL);
@@ -4178,6 +4178,7 @@ INSERT INTO items VALUES('Q109285531','tt13622146','movie',819500,'movie',652579
 INSERT INTO items VALUES('Q109333365','tt13706018','tv',120089,'show',190742,NULL,NULL,NULL,NULL,'Spy × Family',NULL,'Kazuhiro Furuhashi',NULL,NULL);
 INSERT INTO items VALUES('Q109447163','tt15339456','movie',869626,'movie',695707,NULL,NULL,NULL,'m/marcel_the_shell_with_shoes_on','Marcel the Shell with Shoes On',2021,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q109607643','tt13622958','tv',114466,'show',170646,'show','5fd47f3c0985b5002d368fc8',NULL,NULL,'Baymax!',NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q109875642','tt14954666','tv',135251,'show',189973,NULL,NULL,NULL,NULL,'The Idol',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q109901438','tt9288030','tv',108978,'show',155536,'show','5d9c09190aaccd001f8f42f0',NULL,'tv/reacher','Reacher',NULL,'Thomas Vincent',NULL,NULL);
 INSERT INTO items VALUES('Q110027782','tt14376344','movie',814340,'movie',647979,'movie','6069796598a19b002e86708d','umc.cmc.6loo9fah7vwj2zpp7ehactlpd','m/cha_cha_real_smooth','Cha Cha Real Smooth',2022,'Cooper Raiff',107,NULL);
 INSERT INTO items VALUES('Q110027954','tt12655436','movie',848331,'movie',677870,NULL,NULL,NULL,NULL,'Honk for Jesus, Save Your Soul',NULL,NULL,NULL,NULL);
@@ -4237,6 +4238,7 @@ INSERT INTO items VALUES('Q112135884','tt15005606','movie',974878,'movie',783552
 INSERT INTO items VALUES('Q112454289','tt9883832','movie',957457,'movie',769499,NULL,NULL,NULL,NULL,'Moonage Daydream',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q112761982','tt14452776','tv',136315,'show',189717,NULL,NULL,NULL,NULL,'The Bear (TV series)',NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q112878296','tt12873562','movie',830788,'movie',662888,NULL,NULL,NULL,NULL,'The Invitation',NULL,'Jessica M. Thompson',NULL,NULL);
+INSERT INTO items VALUES('Q112915576','tt10802170','tv',204284,'show',182868,NULL,NULL,NULL,NULL,'The Rehearsal',NULL,'Nathan Fielder',NULL,NULL);
 INSERT INTO items VALUES('Q113133089','tt20201450','movie',975088,'movie',783436,NULL,NULL,NULL,'m/norm_macdonald_nothing_special','Norm Macdonald: Nothing Special',NULL,NULL,NULL,NULL);
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
