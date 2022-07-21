@@ -1894,7 +1894,7 @@ INSERT INTO items VALUES('Q1010099','tt0208988','movie',10461,'movie',5645,'movi
 INSERT INTO items VALUES('Q1024664','tt1106860','movie',27004,'movie',16516,NULL,NULL,NULL,'m/cah','Cash',2010,'Stephen Milburn Anderson',108,NULL);
 INSERT INTO items VALUES('Q1029212','tt1704573','movie',92591,'movie',68391,'movie','5d9f35e5e4fc29001eb68966','umc.cmc.1wzlbf2ksdx3zzmv7h1lvngyr','m/bernie_2011','Bernie',2011,'Richard Linklater',104,88);
 INSERT INTO items VALUES('Q1033191','tt0452608','movie',10483,'movie',5666,'movie','5d776d02594b2b001e6ff20e','umc.cmc.787i04ugaz2ywtpuex19itrd5','m/death_race','Death Race',2008,'Paul W. S. Anderson',105,42);
-INSERT INTO items VALUES('Q1041839','tt0088794','movie',13667,'movie',8091,'movie','5d9f3504e4fc29001eb657c5',NULL,'m/1002213-better_off_dead','Better Off Dead',1985,'Savage Steve Holland',93,76);
+INSERT INTO items VALUES('Q1041839','tt0088794','movie',13667,'movie',8091,'movie','5d9f3504e4fc29001eb657c5','umc.cmc.7h8ic0w12ssonu04cx6pi0cyk','m/1002213-better_off_dead','Better Off Dead',1985,'Savage Steve Holland',93,76);
 INSERT INTO items VALUES('Q1043614','tt0986264','movie',7508,'movie',3932,NULL,NULL,NULL,'m/like_stars_on_earth','Taare Zameen Par',2007,NULL,165,91);
 INSERT INTO items VALUES('Q1044523','tt0151804','movie',1542,'movie',1002,'movie','5d776829961905001eb91cf5','umc.cmc.6jlilk9yf1ozlv281w6rnw5pu','m/office_space','Office Space',1999,'Mike Judge',89,80);
 INSERT INTO items VALUES('Q1046295','tt0247638','movie',9880,'movie',5117,'movie','5d7768336f4521001ea9bca9','umc.cmc.4goicwaeh2lpo0gn1j7pg90wu','m/princess_diaries','The Princess Diaries',2001,'Garry Marshall',115,49);
