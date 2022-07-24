@@ -60,7 +60,7 @@ def find_missing_wikidata_qids(con):
 
 def find_missing_plex_ids(con):
     rows = con.execute(
-        "SELECT imdb_id, title FROM items WHERE plex_id IS NULL AND imdb_id is NOT NULL"
+        "SELECT imdb_id, title FROM items WHERE plex_id IS NULL AND imdb_id IS NOT NULL"
     )
 
     rows = list(rows)
@@ -72,7 +72,8 @@ def find_missing_plex_ids(con):
         if plex_guid:
             (plex_type, plex_id) = plex_guid
             items_upsert(
-                con, {"imdb_id": imdb_id, "plex_type": plex_type, "plex_id": plex_id}
+                con, {"imdb_id": imdb_id,
+                      "plex_type": plex_type, "plex_id": plex_id}
             )
 
     con.commit()
