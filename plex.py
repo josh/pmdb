@@ -30,9 +30,6 @@ def lookup_plex_guid(imdb_id, title):
     assert isinstance(title, str)
     imdb_guid = "imdb://{}".format(imdb_id)
     for video in PLEX_ACCOUNT.searchDiscover(title, limit=5):
-        video = PLEX_ACCOUNT.fetchItem(
-            "https://metadata.provider.plex.tv{}".format(video.key)
-        )
         for guid in video.guids:
             if guid.id == imdb_guid:
                 return parse_plex_guid(video.guid)
