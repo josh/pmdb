@@ -222,6 +222,7 @@ def fetch_media_items(qids):
 
         if exists_once(item, "P57"):
             director_qid = extract_qid(item["P57"][0])
+            items[qid]["director_qid"] = director_qid
             dict_add_to_set(directed, director_qid, qid)
             labels_to_fetch.add(director_qid)
 

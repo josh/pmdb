@@ -79,6 +79,7 @@ def test_fetch_media_items():
     assert item["title"] == "The Shawshank Redemption"
     assert item["year"] == 1994
     assert item["director"] == "Frank Darabont"
+    assert item["director_qid"] == "Q295445"
     assert item["duration"] == 142
     assert item["rottentomatoes_id"] == "m/shawshank_redemption"
     assert item["tomatometer"] == 91
