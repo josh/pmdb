@@ -47,6 +47,9 @@ jobs:
           PLEX_PASSWORD: ${{ secrets.PLEX_PASSWORD }}
           PLEX_TOKEN: ${{ secrets.PLEX_TOKEN }}
 
+      - name: Clean items
+        run: python3 script/clean_items.py -vv --database data.db
+
       - name: Sort table row ids
         run: python3 script/reinsert_database_table.py --database data.db --table items --order-by 'CAST(LTRIM(wikidata_qid,"Q") AS INTEGER), imdb_id'
 
