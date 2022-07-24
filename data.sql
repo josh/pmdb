@@ -2,7 +2,7 @@ PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE items (
   wikidata_qid text CHECK (wikidata_qid GLOB "Q*"),
-  imdb_id text CHECK (imdb_id GLOB "tt*"),
+  imdb_id text NOT NULL CHECK (imdb_id GLOB "tt*"),
   tmdb_type text CHECK (tmdb_type IN ("movie", "tv")),
   tmdb_id integer CHECK (tmdb_id IS NULL OR tmdb_type IS NOT NULL),
   trakt_type text CHECK (trakt_type IN ("movie", "show")),
