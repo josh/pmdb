@@ -161,8 +161,13 @@ def fetch_directed_by(qids):
         query = "SELECT ?item WHERE { "
         query += values_query(qids, binding="people")
         query += """
+            VALUES ?classes {
+                wd:Q11424
+                wd:Q5398426
+            }
             ?item wdt:P57 ?people.
             ?item wdt:P345 ?_imdb.
+            ?item wdt:P31 ?classes.
         }
         """
 

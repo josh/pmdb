@@ -71,6 +71,10 @@ def test_fetch_directed_by():
     items = fetch_directed_by({"Q314342"})
     assert "Q323472" in items
 
+    items = fetch_directed_by({"Q967182"})
+    assert "Q50402383" not in items
+    assert "Q50403575" not in items
+
 
 def test_fetch_media_items():
     items = fetch_media_items({"Q172241", "Q1079", "Q110077806"})
