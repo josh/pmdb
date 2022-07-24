@@ -2533,7 +2533,7 @@ INSERT INTO items VALUES('Q658822','tt0005542','movie',53405,NULL,NULL,NULL,NULL
 INSERT INTO items VALUES('Q658847','tt0060522','movie',3001,NULL,NULL,NULL,NULL,'umc.cmc.1tj74f1vj9ksanlmelqafo2xo','m/how_to_steal_a_million','How to Steal a Million',1966,'Q51495','William Wyler',123,100);
 INSERT INTO items VALUES('Q658944','tt0838221','movie',4538,'movie',2666,'movie','5d9f34f16fc551001ef7f446','umc.cmc.4xyiyyh0wizp61zyxcq2lw9cr','m/darjeeling_limited','The Darjeeling Limited',2007,'Q223687','Wes Anderson',91,69);
 INSERT INTO items VALUES('Q659609','tt0112471','movie',76,'movie',46,'movie','5d7768243c3c2a001fbca859','umc.cmc.65m3n3lrca1e6nljfyvhn76u0','m/before_sunrise','Before Sunrise',1995,'Q40035','Richard Linklater',97,100);
-INSERT INTO items VALUES('Q659669','tt0015136','movie',55587,NULL,NULL,NULL,NULL,NULL,'m/michael_1924','Michael',1924,'Q51127','Carl Theodor Dreyer',90,94);
+INSERT INTO items VALUES('Q659669','tt0015136','movie',55587,NULL,NULL,NULL,NULL,NULL,'m/mikael','Michael',1924,'Q51127','Carl Theodor Dreyer',90,94);
 INSERT INTO items VALUES('Q659671','tt1560139','movie',39356,NULL,NULL,NULL,NULL,'umc.cmc.459n4526t9smr74w77x5fm2js','m/boy_2012','Boy',2010,'Q2388576','Taika Waititi',88,88);
 INSERT INTO items VALUES('Q659953','tt0327698','movie',50794,NULL,NULL,NULL,NULL,'umc.cmc.5gs2sxvm7fepwdtt3bpmqfitu',NULL,'The Even Stevens Movie',2003,'Q3476760','Sean McNamara',92,NULL);
 INSERT INTO items VALUES('Q660699','tt0360201','movie',11823,NULL,NULL,NULL,NULL,'umc.cmc.22glwki31u4cjb1mh3sk1k1h9','m/wimbledon','Wimbledon',2004,'Q1372455','Richard Loncraine',98,61);
@@ -9536,6 +9536,7 @@ INSERT INTO items VALUES('Q29018400','tt6569988','movie',865228,NULL,NULL,NULL,N
 INSERT INTO items VALUES('Q29018745','tt4396630','tv',69629,NULL,NULL,NULL,NULL,NULL,'tv/the_gifted','The Gifted',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q29021224','tt1502397','movie',38700,'movie',25039,'movie','5d77686e0ab244002006db93','umc.cmc.eaxd4031d50ybmvuxzlau265','m/bad_boys_for_life','Bad Boys for Life',2020,NULL,NULL,123,76);
 INSERT INTO items VALUES('Q29032471','tt5717492','movie',411405,'movie',256991,'movie','5d9f3d10e4fc29001eb70572',NULL,'m/small_crimes','Small Crimes',2017,'Q18921688','E. L. Katz',95,59);
+INSERT INTO items VALUES('Q29033313','tt2090465','movie',76812,NULL,NULL,NULL,NULL,'umc.cmc.4ok9560n9eqwxobyxb1osy54c','m/black_butterfly_2017','Black Butterfly',2017,'Q4963861','Brian Goodman',94,40);
 INSERT INTO items VALUES('Q29043284','tt0465451','movie',79291,NULL,NULL,NULL,NULL,NULL,'m/embedded_live','Embedded',2005,'Q95048','Tim Robbins',NULL,NULL);
 INSERT INTO items VALUES('Q29051576','tt1226837','movie',451915,'movie',298570,'movie','5d776f5396b655001fe826d0','umc.cmc.3465vxu8olcehkhric2v1vzk4','m/beautiful_boy_2018','Beautiful Boy',2018,'Q2188230','Felix Van Groeningen',120,67);
 INSERT INTO items VALUES('Q29054009','tt0181852','movie',296,'movie',249,'movie','5d776825151a60001f24a5d3','umc.cmc.7i42y0j2fj3ib6wwwxxjb6lwl','m/terminator_3_rise_of_the_machines','Terminator 3: Rise of the Machines',2003,'Q707494','Jonathan Mostow',105,69);
@@ -11394,6 +11395,7 @@ INSERT INTO items VALUES('Q112123869','tt19037550','tv',200731,'show',195027,'sh
 INSERT INTO items VALUES('Q112135884','tt15005606','movie',974878,'movie',783552,NULL,NULL,NULL,NULL,'Peter Five Eight',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q112185513','tt18258584','movie',828853,NULL,NULL,NULL,NULL,NULL,'m/jackass_45','Jackass 4.5',2022,'Q2394603','Jeff Tremaine',NULL,NULL);
 INSERT INTO items VALUES('Q112322474','tt20969586','movie',986056,NULL,NULL,NULL,NULL,NULL,NULL,'Thunderbolts',2024,'Q6124973','Jake Schreier',NULL,NULL);
+INSERT INTO items VALUES('Q112343991','tt15004136','movie',961484,NULL,NULL,NULL,NULL,'umc.cmc.240k9103j52hlcbnq5ltxs9l5','m/last_seen_alive','Last Seen Alive',2022,'Q4963861','Brian Goodman',95,NULL);
 INSERT INTO items VALUES('Q112454289','tt9883832','movie',957457,'movie',769499,NULL,NULL,NULL,NULL,'Moonage Daydream',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q112631603','tt9288822','movie',823766,NULL,NULL,NULL,NULL,NULL,NULL,'The Wonder',NULL,'Q4250213','Sebastián Lelio',NULL,NULL);
 INSERT INTO items VALUES('Q112761982','tt14452776','tv',136315,'show',189717,NULL,NULL,NULL,NULL,'The Bear (TV series)',NULL,NULL,NULL,NULL,NULL);
