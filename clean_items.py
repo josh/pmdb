@@ -24,12 +24,12 @@ def main():
     con = sqlite3.connect(args.database)
     con.row_factory = sqlite3.Row
 
-    clean_missing_imdb(con)
+    # clean_missing_imdb(con)
 
 
-def clean_missing_imdb(con):
-    con.execute("DELETE FROM items WHERE imdb_id IS NULL")
-    con.commit()
+# def clean_missing_imdb(con):
+#     con.execute("DELETE FROM items WHERE imdb_id IS NULL")
+#     con.commit()
 
 
 if __name__ == "__main__":
