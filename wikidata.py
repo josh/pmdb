@@ -253,8 +253,13 @@ def fetch_media_items(qids):
             dict_add_to_set(directed, director_qid, qid)
             labels_to_fetch.add(director_qid)
 
-        if exists_once(item, "P345") and item["P345"][0].startswith("tt"):
-            items[qid]["imdb_id"] = item["P345"][0]
+        imdb_ids = []
+        for imdb_id in item.get("P345", []):
+            if imdb_id.startswith("tt"):
+                imdb_ids.append(imdb_id)
+        imdb_ids.sort()
+        if imdb_ids:
+            items[qid]["imdb_id"] = imdb_ids[0]
 
         if exists_once(item, "P1258"):
             id = item["P1258"][0]
