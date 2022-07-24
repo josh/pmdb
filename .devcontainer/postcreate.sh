@@ -5,4 +5,4 @@ set -x
 
 pip3 install --upgrade pip
 pip3 install isort pytest
-pip3 install -r /tmp/requirements.txt
+pip3 install -r requirements.txt
