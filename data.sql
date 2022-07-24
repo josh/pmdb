@@ -4251,4 +4251,5 @@ CREATE UNIQUE INDEX trakt ON "items" ("trakt_type", "trakt_id");
 CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
 CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
 CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
+CREATE INDEX director ON "items" ("director_qid");
 COMMIT;
