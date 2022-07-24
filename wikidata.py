@@ -162,6 +162,7 @@ def fetch_directed_by(qids):
         query += values_query(qids, binding="people")
         query += """
             ?item wdt:P57 ?people.
+            ?item wdt:P345 ?_imdb.
         }
         """
 
@@ -176,13 +177,15 @@ def fetch_directed_by(qids):
 
 
 def extract_qid(uri):
-    assert uri.startswith(ENTITY_URL_PREFIX + "Q"), "invalid entity url: " + uri
+    assert uri.startswith(ENTITY_URL_PREFIX +
+                          "Q"), "invalid entity url: " + uri
     return uri.replace(ENTITY_URL_PREFIX, "")
 
 
 def values_query(qids, binding="item"):
     for qid in qids:
-        assert type(qid) is str and qid.startswith("Q"), "invalid qid: {}".format(qid)
+        assert type(qid) is str and qid.startswith(
+            "Q"), "invalid qid: {}".format(qid)
     values = " ".join("wd:{}".format(qid) for qid in qids)
     return "VALUES ?" + binding + " { " + values + " }"
 
