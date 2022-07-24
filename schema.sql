@@ -11,7 +11,7 @@ CREATE TABLE items (
   rottentomatoes_id text CHECK (rottentomatoes_id GLOB "m/*" OR rottentomatoes_id GLOB "tv/*"),
   title text,
   year integer CHECK (year >= 1900 AND year < 2050),
-  director_qid text CHECK (wikidata_qid GLOB "Q*"),
+  director_qid text CHECK (director_qid GLOB "Q*"),
   director text,
   duration integer CHECK (duration >= 0),
   tomatometer integer CHECK (tomatometer >= 0 AND tomatometer <= 100),
