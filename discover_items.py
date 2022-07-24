@@ -6,6 +6,7 @@ import sqlite3
 import requests
 
 from db import items_upsert
+from wikidata import fetch_directed_by
 
 trakt_endpoints = {
     "/users/joshpeek/collection/movies",
@@ -39,15 +40,30 @@ def main():
 
     con = sqlite3.connect(args.database)
     con.row_factory = sqlite3.Row
-    discover(con)
+
+    discover_trakt_lists(con)
+    discover_director_items(con)
 
 
-def discover(con):
+def discover_trakt_lists(con):
     for endpoint in trakt_endpoints:
         for item in trakt_request(endpoint):
             row = extract_row(item)
             assert row
             items_upsert(con, row, overwrite=False)
+
+
+def discover_director_items(con):
+    sql = """
+        SELECT director_qid FROM items
+        WHERE director_qid is NOT NULL
+        ORDER BY RANDOM()
+        LIMIT 100
+    """
+    director_qids = [qid for (qid,) in con.execute(sql)]
+    for qid in fetch_directed_by(director_qids):
+        row = {"wikidata_qid": qid}
+        items_upsert(con, row, overwrite=False)
 
 
 def trakt_request(endpoint):

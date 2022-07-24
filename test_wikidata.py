@@ -1,4 +1,5 @@
 from wikidata import (
+    fetch_directed_by,
     fetch_items,
     fetch_labels,
     fetch_media_items,
@@ -64,6 +65,11 @@ def test_fetch_tomatometer():
     assert len(items) == 1
 
     assert items["Q172241"] == 91
+
+
+def test_fetch_directed_by():
+    items = fetch_directed_by({"Q314342"})
+    assert "Q323472" in items
 
 
 def test_fetch_media_items():

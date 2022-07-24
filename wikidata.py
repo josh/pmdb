@@ -154,6 +154,27 @@ def fetch_tomatometer(qids):
     return items
 
 
+def fetch_directed_by(qids):
+    items = set()
+
+    def fetch(qids):
+        query = "SELECT ?item WHERE { "
+        query += values_query(qids, binding="people")
+        query += """
+            ?item wdt:P57 ?people.
+        }
+        """
+
+        for result in sparql(query):
+            qid = extract_qid(result["item"]["value"])
+            items.add(qid)
+
+    for qid_batch in batches(qids, size=500):
+        fetch(qid_batch)
+
+    return items
+
+
 def extract_qid(uri):
     assert uri.startswith(ENTITY_URL_PREFIX + "Q"), "invalid entity url: " + uri
     return uri.replace(ENTITY_URL_PREFIX, "")
