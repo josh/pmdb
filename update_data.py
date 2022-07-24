@@ -72,8 +72,7 @@ def find_missing_plex_ids(con):
         if plex_guid:
             (plex_type, plex_id) = plex_guid
             items_upsert(
-                con, {"imdb_id": imdb_id,
-                      "plex_type": plex_type, "plex_id": plex_id}
+                con, {"imdb_id": imdb_id, "plex_type": plex_type, "plex_id": plex_id}
             )
 
     con.commit()
