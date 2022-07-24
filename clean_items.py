@@ -1,12 +1,6 @@
 import argparse
 import logging
-import os
 import sqlite3
-
-import requests
-
-from db import items_upsert
-from wikidata import fetch_directed_by
 
 
 def main():
