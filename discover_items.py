@@ -6,7 +6,7 @@ import sqlite3
 import requests
 
 from db import items_upsert
-from wikidata import fetch_directed_by
+from wikidata import fetch_directed_by, fetch_media_items
 
 trakt_endpoints = {
     "/users/joshpeek/collection/movies",
@@ -61,9 +61,11 @@ def discover_director_items(con):
         LIMIT 100
     """
     director_qids = [qid for (qid,) in con.execute(sql)]
-    for qid in fetch_directed_by(director_qids):
-        row = {"wikidata_qid": qid}
-        items_upsert(con, row, overwrite=False)
+    item_qids = fetch_directed_by(director_qids)
+    items = fetch_media_items(item_qids)
+    for qid in items:
+        items_upsert(con, items[qid], overwrite=False)
+    con.commit()
 
 
 def trakt_request(endpoint):
