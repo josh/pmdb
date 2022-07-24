@@ -11,13 +11,14 @@ CREATE TABLE items (
   rottentomatoes_id text CHECK (rottentomatoes_id GLOB "m/*" OR rottentomatoes_id GLOB "tv/*"),
   title text,
   year integer CHECK (year >= 1900 AND year < 2050),
+  director_qid text CHECK (wikidata_qid GLOB "Q*"),
   director text,
   duration integer CHECK (duration >= 0),
   tomatometer integer CHECK (tomatometer >= 0 AND tomatometer <= 100),
   CHECK (wikidata_qid IS NOT NULL OR imdb_id IS NOT NULL OR tmdb_id IS NOT NULL)
 );
-CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
-CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
-CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
-CREATE UNIQUE INDEX trakt ON "items" ("trakt_type", "trakt_id");
 CREATE UNIQUE INDEX plex ON "items" ("plex_type", "plex_id");
+CREATE UNIQUE INDEX trakt ON "items" ("trakt_type", "trakt_id");
+CREATE UNIQUE INDEX tmdb ON "items" ("tmdb_type", "tmdb_id");
+CREATE UNIQUE INDEX imdb ON "items" ("imdb_id");
+CREATE UNIQUE INDEX wikidata ON "items" ("wikidata_qid");
