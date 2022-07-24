@@ -236,7 +236,7 @@ def fetch_media_items(qids):
         years = []
         for pubdate in item.get("P577", []):
             year = pubdate[0:4]
-            if year.isdigit():
+            if year.isdigit() and int(year) >= 1900 and int(year) < 2050:
                 years.append(int(year))
         if years:
             items[qid]["year"] = min(years)
