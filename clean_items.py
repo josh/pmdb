@@ -24,12 +24,7 @@ def main():
     con = sqlite3.connect(args.database)
     con.row_factory = sqlite3.Row
 
-    clean_missing_trakt(con)
-
-
-def clean_missing_trakt(con):
-    con.execute("DELETE FROM items WHERE trakt_id IS NULL")
-    con.commit()
+    pass
 
 
 if __name__ == "__main__":
