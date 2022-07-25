@@ -42,7 +42,7 @@ def main():
     con.row_factory = sqlite3.Row
 
     discover_trakt_lists(con)
-    discover_director_items(con)
+    # discover_director_items(con)
 
 
 def discover_trakt_lists(con):
