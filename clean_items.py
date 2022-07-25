@@ -24,7 +24,7 @@ def main():
     con = sqlite3.connect(args.database)
     con.row_factory = sqlite3.Row
 
-    clean_missing_tmdb(con)
+    clean_missing_trakt(con)
 
 
 def clean_missing_trakt(con):
