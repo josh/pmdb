@@ -25,24 +25,10 @@ def main():
     con.row_factory = sqlite3.Row
 
     clean_missing_tmdb(con)
-    clean_missing_most_data(con)
 
 
-def clean_missing_tmdb(con):
-    con.execute("DELETE FROM items WHERE tmdb_id IS NULL")
-    con.commit()
-
-
-def clean_missing_most_data(con):
-    con.execute(
-        """
-        DELETE FROM items
-        WHERE plex_id IS NULL
-          AND appletv_id IS NULL
-          AND rottentomatoes_id IS NULL
-          AND tomatometer IS NULL
-        """
-    )
+def clean_missing_trakt(con):
+    con.execute("DELETE FROM items WHERE trakt_id IS NULL")
     con.commit()
 
 
