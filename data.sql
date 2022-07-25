@@ -4147,7 +4147,7 @@ INSERT INTO items VALUES('Q108086029','tt14230388','movie',747188,'movie',587403
 INSERT INTO items VALUES('Q108166770','tt1998372','tv',128095,'show',182832,'show','60d5ab0a10abde002c10ecab',NULL,'tv/under_the_banner_of_heaven','Under the Banner of Heaven',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q108170999','tt13623148','tv',114469,'show',170563,NULL,NULL,NULL,NULL,'I Am Groot',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q108323792','tt6611256','movie',480713,'movie',328137,'movie','5d776f2cad5437001f80be2d','umc.cmc.5ivi7eqzq4hfj43cwb3rzngk6','m/the_orange_years_the_nickelodeon_story','The Orange Years: The Nickelodeon Story',NULL,NULL,NULL,102,88);
-INSERT INTO items VALUES('Q108329738','tt11866324','movie',766507,'movie',604722,NULL,NULL,NULL,NULL,'Prey',NULL,'Q5214505','Dan Trachtenberg',NULL,NULL);
+INSERT INTO items VALUES('Q108329738','tt11866324','movie',766507,'movie',604722,NULL,NULL,NULL,NULL,'Prey',2022,'Q5214505','Dan Trachtenberg',99,NULL);
 INSERT INTO items VALUES('Q108370857','tt15346636','movie',869250,'movie',695565,'movie','61323093d93109bf4c005c1a','umc.cmc.4j4qdb76wzl0ipxdwh6qs109d',NULL,'Being James Bond',2021,'Q2879901','Baillie Walsh',46,NULL);
 INSERT INTO items VALUES('Q108376991','tt15097216','movie',855400,'movie',683437,'movie','60fe6dd9679fdc002d028c35',NULL,NULL,'Jai Bhim',2021,'Q109974318','T. J. Gnanavel',164,NULL);
 INSERT INTO items VALUES('Q108392632','tt11712058','tv',97951,'show',165410,'show','5e269a91752e36003dd925b5',NULL,'tv/mayor_of_kingstown','Mayor of Kingstown',NULL,NULL,NULL,NULL,NULL);
