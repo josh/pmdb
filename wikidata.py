@@ -168,6 +168,11 @@ def fetch_directed_by(qids):
             ?item wdt:P57 ?people.
             ?item wdt:P345 ?_imdb.
             ?item wdt:P31 ?classes.
+            {
+                SELECT ?item (COUNT(?value) AS ?cnt) WHERE { ?item wdt:P57 ?value. }
+                GROUP BY ?item
+            }
+            FILTER(?cnt = 1 )
         }
         """
 

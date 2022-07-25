@@ -68,12 +68,11 @@ def test_fetch_tomatometer():
 
 
 def test_fetch_directed_by():
-    items = fetch_directed_by({"Q314342"})
+    items = fetch_directed_by({"Q314342", "Q967182", "Q13595531", "Q13595311"})
     assert "Q323472" in items
-
-    items = fetch_directed_by({"Q967182"})
     assert "Q50402383" not in items
     assert "Q50403575" not in items
+    assert "Q183081" not in items
 
 
 def test_fetch_media_items():
