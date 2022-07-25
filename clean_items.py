@@ -35,7 +35,13 @@ def clean_missing_tmdb(con):
 
 def clean_missing_most_data(con):
     con.execute(
-        "DELETE FROM items WHERE plex_id IS NULL AND appletv_id IS NULL and rottentomatoes_id IS NULL AND tomatometer IS NULL"
+        """
+        DELETE FROM items
+        WHERE plex_id IS NULL
+          AND appletv_id IS NULL
+          AND rottentomatoes_id IS NULL
+          AND tomatometer IS NULL
+        """
     )
     con.commit()
 
