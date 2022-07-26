@@ -8,7 +8,7 @@ import requests
 from db import items_upsert
 from wikidata import fetch_directed_by, fetch_media_items
 
-trakt_endpoints = {
+trakt_list_endpoints = {
     "/users/joshpeek/collection/movies",
     "/users/joshpeek/collection/shows",
     "/users/joshpeek/ratings",
@@ -17,6 +17,12 @@ trakt_endpoints = {
     "/users/joshpeek/watchlist",
     "/users/justin/lists/2142753/items",
     "/users/justin/lists/2143363/items",
+}
+
+trakt_people_endpoints = {
+    "/people/brad-pitt/movies",
+    "/people/daniel-craig/movies",
+    "/people/david-fincher/movies",
 }
 
 
@@ -42,33 +48,63 @@ def main():
     con.row_factory = sqlite3.Row
 
     discover_trakt_lists(con)
-    # discover_director_items(con)
+    discover_trakt_people(con)
 
 
 def discover_trakt_lists(con):
-    for endpoint in trakt_endpoints:
-        for item in trakt_request(endpoint):
+    for endpoint in trakt_list_endpoints:
+        for item in trakt_paginated_request(endpoint):
             row = extract_row(item)
-            assert row
-            items_upsert(con, row, overwrite=False)
+            if row:
+                items_upsert(con, row, overwrite=False)
 
 
-def discover_director_items(con):
-    sql = """
-        SELECT director_qid FROM items
-        WHERE director_qid is NOT NULL
-        ORDER BY RANDOM()
-        LIMIT 100
-    """
-    director_qids = [qid for (qid,) in con.execute(sql)]
-    item_qids = fetch_directed_by(director_qids)
-    items = fetch_media_items(item_qids)
-    for qid in items:
-        items_upsert(con, items[qid], overwrite=False)
-    con.commit()
+def discover_trakt_people(con):
+    for endpoint in trakt_people_endpoints:
+        credits = trakt_request(endpoint)
+
+        for credit in credits["cast"]:
+            if is_playing_character(credit["character"]):
+                row = extract_row(credit)
+                if row:
+                    items_upsert(con, row, overwrite=False)
+
+        for credit in credits["crew"].get("directing", []):
+            row = extract_row(credit)
+            if row:
+                items_upsert(con, row, overwrite=False)
+
+
+def is_playing_character(character):
+    character = character.lower()
+    if character == "":
+        return False
+    if character.startswith("self"):
+        return False
+    if character.startswith("himself") or character.startswith("herself"):
+        return False
+    if "uncredited" in character:
+        return False
+    if character.startswith("(") and character.endswith(")"):
+        return False
+    return True
 
 
 def trakt_request(endpoint):
+    url = "https://api.trakt.tv" + endpoint
+    headers = {
+        "Content-Type": "application/json",
+        "trakt-api-key": os.environ["TRAKT_CLIENT_ID"],
+        "trakt-api-version": "2",
+    }
+
+    r = requests.get(url, headers=headers)
+    r.raise_for_status()
+
+    return r.json()
+
+
+def trakt_paginated_request(endpoint):
     url = "https://api.trakt.tv" + endpoint
     headers = {
         "Content-Type": "application/json",
@@ -121,6 +157,9 @@ def extract_row(item):
         if "tmdb" in ids:
             row["tmdb_type"] = "tv"
             row["tmdb_id"] = ids["tmdb"]
+
+    if row["imdb_id"] == None:
+        return None
 
     return row
 
