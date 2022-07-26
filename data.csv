@@ -1,25 +1,42 @@
 wikidata_qid,imdb_id,tmdb_type,tmdb_id,trakt_type,trakt_id,plex_type,plex_id,appletv_id,rottentomatoes_id,title,year,director_qid,director,duration,tomatometer
 ,tt0090509,tv,103344,show,189861,show,62602bfa71c4628779a931d8,,,"The Return of Sherlock Holmes",,,,,
+,tt0106997,movie,284129,movie,181385,,,,,"Genghis Cohn",,,,,
+,tt0137376,movie,384953,movie,317603,,,,,"Rick Springfield: The Beat of the Live Drum",,,,,
+,tt0228855,movie,435611,movie,282298,,,,,"Shockers:  The Visitor",,,,,
+,tt0331541,movie,125409,movie,86227,,,,,"Kiss and Tell",,,,,
+,tt0351507,movie,418913,movie,523741,,,,,"Occasional, Strong",,,,,
+,tt10471902,movie,823234,movie,655914,,,,,"The Oscars",,,,,
+,tt11610250,movie,822110,movie,655066,,,,,"Daniel Craig vs James Bond",,,,,
 ,tt12404266,movie,763144,movie,601781,,,,,"The Last Rifleman",,,,,
 ,tt12573454,movie,717980,movie,560894,,,,,Sharper,,,,,
 ,tt12923632,tv,,show,165790,,,,,"Dead Ringers",,,,,
+,tt1312216,movie,581794,movie,430365,,,,,"The Creed of Violence",,,,,
 ,tt1340094,movie,474592,movie,322297,,,,,"The Crow",,,,,
+,tt13577160,movie,771301,movie,609078,,,,,"Cinderella: A Comic Relief Pantomime for Christmas",,,,,
 ,tt13675832,tv,115678,show,171669,,,,,"As If",,,,,
 ,tt13935992,movie,791131,movie,626742,,,,,Adrift,,,,,
 ,tt14127944,movie,800367,movie,635459,,,,,"The Actor",,,,,
+,tt14286288,movie,940829,movie,755364,,,,,"James Bond vs Nan",,,,,
 ,tt14309446,movie,862551,movie,689773,,,,,"Me Time",,,,,
+,tt14364480,movie,812583,movie,646497,,,,,"Knives Out 3",,,,,
 ,tt14417718,tv,123192,show,178915,,,,,"The Crowded Room",,,,,
 ,tt16418808,tv,203744,show,196180,,,,,Sugar,,,,,
 ,tt1684562,movie,339851,movie,432650,,,,,"The Fall Guy",,,,,
 ,tt18115856,movie,937087,movie,751974,,,,,"Fear is the Rider",,,,,
 ,tt18303004,movie,942245,movie,756651,,,,,"Being Mortal",,,,,
+,tt1858469,movie,465739,movie,312913,,,,,"James Bond Supports International Women's Day",,,,,
 ,tt19238142,tv,202597,show,196748,,,,,"Edge of the Unknown with Jimmy Chin",,,,,
 ,tt19843600,movie,967598,movie,777660,,,,,"The Trashers",,,,,
 ,tt19864802,movie,969492,movie,779178,,,,,"Land of Bad",,,,,
 ,tt19895946,tv,203688,show,196238,,,,,"The Future Of",,,,,
+,tt20192968,movie,993792,movie,798653,,,,,"Bad Travelling",,,,,
 ,tt20212786,movie,970947,movie,780513,,,,,"The Shrouds",,,,,
+,tt2066119,movie,284747,movie,181964,,,,,"The Organ Grinder's Monkey",,,,,
 ,tt20851874,movie,983406,movie,790625,,,,,"Fourth of July",,,,,
 ,tt21051790,tv,204082,show,196265,,,,,"Squid Game: The Challenge",,,,,
+,tt2290075,movie,109404,movie,77320,,,,,8,,,,,
+,tt2304842,movie,188454,movie,117942,,,,,"Happy and Glorious",,,,,
+,tt2647732,movie,582808,movie,431161,,,,,"James Bond - 50th Anniversary: Bonus Features",,,,,
 ,tt6111552,tv,71786,show,124355,show,606f08e489b0ad002df8bb9c,,,"Content Cop",,,,,
 ,tt6722400,movie,945937,movie,759776,,,,,"Fast Charlie",,,,,
 ,tt7766378,movie,777443,movie,614652,,,,,"The Electric State",,,,,
@@ -277,6 +294,7 @@ Q128854,tt0446755,movie,14202,movie,8509,movie,5d77683be6d55c002040e1b5,umc.cmc.
 Q128855,tt0221073,movie,9519,movie,4798,movie,5d9f34f8b0262f001f6e8fa5,,m/chopper,Chopper,2000,Q504503,"Andrew Dominik",94,74
 Q128924,tt0412080,movie,9912,movie,5146,movie,5d9f34f9d5fd3f001ee14aaf,umc.cmc.aoqvez5a2r4rhm8g2fa4st7i,m/worlds_fastest_indian,"The World's Fastest Indian",2005,Q707755,"Roger Donaldson",127,82
 Q129265,tt0110216,movie,6280,movie,3564,movie,5d9f34f4b0262f001f6e8c57,umc.cmc.1or281vzcwb7ue59r7qw0zhlh,m/1058426-junior,Junior,1994,Q380272,"Ivan Reitman",106,36
+Q129813,tt0375735,movie,9391,movie,4680,,,umc.cmc.775bkn94bnytf65pzwnoy4igl,m/enduring_love,"Enduring Love",2004,Q1354716,"Roger Michell",100,59
 Q129895,tt0058329,movie,506,movie,398,movie,5d776826999c64001ec2c52b,umc.cmc.3favo4g98ik9xthdezl9a6t0t,m/marnie,Marnie,1964,Q7374,"Alfred Hitchcock",124,83
 Q130142,tt0100150,movie,379,movie,303,movie,5d7768255af944001f1f65a8,umc.cmc.52d0q37lo1ezwaa5gsiwlp9wp,m/millers_crossing,"Miller's Crossing",1990,,"Coen brothers",115,92
 Q131074,tt0167260,movie,122,movie,90,movie,5d7768248a7581001f12bc73,umc.cmc.57s6i23z9ry0zsgwwc2mxjqi6,m/the_lord_of_the_rings_the_return_of_the_king,"The Lord of the Rings: The Return of the King",2003,Q4465,"Peter Jackson",201,93
@@ -309,6 +327,7 @@ Q148326,tt0406375,movie,6795,movie,3749,movie,5d7768308718ba001e3139d6,umc.cmc.1
 Q150047,tt0479884,movie,1948,movie,1319,movie,5d77682a6f4521001ea99b40,umc.cmc.u5mzk7x1ff1g937pwk82bt77,m/crank,Crank,2006,,,88,61
 Q150804,tt0253474,movie,423,movie,335,movie,5d776826eb5d26001f1dd3fe,umc.cmc.1btossg2o9wo1q2b0d0qwt913,m/pianist,"The Pianist",2002,Q51552,"Roman Polanski",148,95
 Q150881,tt0074360,movie,51857,movie,36431,,,umc.cmc.16o8tqwsy8ql032ry89apr1g2,m/raise_ravens,"Raise Ravens",1976,Q295855,"Carlos Saura",112,100
+Q150949,tt0105159,movie,13823,movie,8218,,,umc.cmc.7fljfs1wgef003vf390sif620,m/power_of_one,"The Power of One",1992,Q260125,"John G. Avildsen",125,39
 Q151599,tt0017136,movie,19,movie,15,movie,5d776824e6d55c002040ae63,umc.cmc.77qb1mzju1ufshb6ztfi51gbu,m/1013775-metropolis,Metropolis,1927,Q19504,"Fritz Lang",153,97
 Q151705,tt0269347,movie,10632,movie,5806,movie,5d7768357e9a3c0020c6cdf9,umc.cmc.6ntfrxuy77drba5jboawr3tol,m/1120843-hunted,"The Hunted",2003,Q51582,"William Friedkin",91,29
 Q151792,tt0354899,movie,300,movie,253,movie,5d776824e6d55c002040ae6a,umc.cmc.2yurg8lrpdwzc2tkije856odm,m/the_science_of_sleep,"The Science of Sleep",2006,Q126098,"Michel Gondry",106,70
@@ -381,6 +400,7 @@ Q165713,tt0120915,movie,1893,movie,1268,movie,5d77682a961905001eb91f0f,umc.cmc.1
 Q165817,tt0120815,movie,857,movie,700,movie,5d7768286f4521001ea99311,umc.cmc.42f75umn5z16fkpofphe4re85,m/saving_private_ryan,"Saving Private Ryan",1998,Q8877,"Steven Spielberg",169,93
 Q166262,tt0372784,movie,272,movie,228,movie,5d776cc1ad5437001f7c8420,umc.cmc.3hb1d6tch6co0qrrcbmleflf2,m/batman_begins,"Batman Begins",2005,Q25191,"Christopher Nolan",140,84
 Q166696,tt0765432,movie,6968,movie,3789,movie,5d9f34f4d74e67002001fb15,umc.cmc.149p7apyrly11dl7v0k3nnf41,m/baader_meinhof_complex,"The Baader Meinhof Complex",2008,Q77593,"Uli Edel",150,85
+Q167051,tt0118930,movie,26642,movie,16233,,,,m/dark_side_of_the_sun,"The Dark Side of the Sun",1988,Q25461514,"Božidar Nikolić",97,
 Q167374,tt0947802,movie,13279,movie,7787,movie,5d776839961905001eb94ff9,umc.cmc.ny90rwqcsood3wkn4gxuxbf3,m/1196215-lakeview_terrace,"Lakeview Terrace",2008,Q965498,"Neil LaBute",106,44
 Q167411,tt0813547,movie,7862,movie,3967,movie,5d9f34f56fc551001ef7f6a6,umc.cmc.4onakuawonjwdkxvb8dqhdagq,m/the_counterfeiters_2007,"The Counterfeiters",2007,Q93833,"Stefan Ruzowitzky",95,93
 Q167437,tt0119395,movie,4824,movie,2813,movie,5d776d16fb0d55001f5972c6,umc.cmc.77gachmfs619tzwbanwqghkbk,m/jackal,"The Jackal",1997,Q945041,"Michael Caton-Jones",124,23
@@ -1034,6 +1054,7 @@ Q466781,tt0074119,movie,891,movie,734,movie,5d7768288718ba001e3120b2,umc.cmc.59m
 Q466884,tt0113957,movie,1642,movie,1087,movie,5d9f34ee06d220001feb32b5,umc.cmc.4065u9algwu4wns55pepqgfne,m/net,"The Net",1995,Q950428,"Irwin Winkler",109,42
 Q466961,tt0305206,movie,2771,movie,1852,movie,5d77682b8718ba001e31295c,umc.cmc.32t38r974mqggq6824erryiyw,m/american_splendor,"American Splendor",2003,,,96,94
 Q467076,tt0357413,movie,8699,movie,4278,movie,5d7768322ec6b5001f6bb5cc,umc.cmc.38gup8z7ry56rjuknjvb20zi1,m/anchorman,"Anchorman: The Legend of Ron Burgundy",2004,Q350405,"Adam McKay",95,66
+Q467078,tt0420609,movie,9672,movie,4944,,,umc.cmc.5hmptcpxj6x2k0u7pu3zligf6,m/infamous,Infamous,2006,Q3038028,"Douglas McGrath",110,74
 Q467181,tt0281820,movie,6016,movie,3442,movie,5d776830f59e580021898132,umc.cmc.20ylo4m968y5on1o1nb63c7vq,m/good_thief,"The Good Thief",2002,Q55428,"Neil Jordan",108,77
 Q467248,tt0223897,movie,10647,movie,5821,movie,5d776835a091de001f2e7ffd,umc.cmc.5n4qcysuw9gtm3r5s5tz5n6vy,m/pay_it_forward,"Pay It Forward",2000,Q268881,"Mimi Leder",123,39
 Q467290,tt0082010,movie,814,movie,657,movie,5d776d15594b2b001e700ce0,umc.cmc.2ixfw4odj17ayvx58m46l8tx5,m/american_werewolf_in_london,"An American Werewolf in London",1981,Q51564,"John Landis",97,88
@@ -1143,6 +1164,7 @@ Q499371,tt0101393,movie,2924,movie,1940,movie,5d77682c8a7581001f12c6cd,umc.cmc.l
 Q499535,tt0120873,movie,11808,movie,6832,movie,5d7768377228e5001f1dee1b,umc.cmc.2fu3a30ijd910seuqqrjnbr5m,m/us_marshals,"U.S. Marshals",1998,Q1715774,"Stuart Baird",120,25
 Q499633,tt0268695,movie,2135,movie,1478,movie,5d78b9aa0c18f5001f16ac2e,umc.cmc.5vchd74ucexhghb4flzz0323k,m/1112951-time_machine,"The Time Machine",2002,Q27419,"Simon Wells",92,28
 Q499639,tt0044079,movie,845,movie,688,movie,5d7768286f4521001ea99314,umc.cmc.2yygrjyeqj3m72vcqxmt67gms,m/strangers_on_a_train,"Strangers on a Train",1951,Q7374,"Alfred Hitchcock",101,98
+Q499656,tt0127536,movie,4518,movie,2652,,,umc.cmc.3boliyctn8tsxuapu6d6bm2r0,m/1084153-elizabeth,Elizabeth,1998,Q522232,"Shekhar Kapur",124,82
 Q499692,tt0115857,movie,12123,movie,7041,movie,5d7768387e9a3c0020c6d5e3,umc.cmc.95rojsnk81e1o6p4rcgfvrt2,m/1072457-chain_reaction,"Chain Reaction",1996,Q504461,"Andrew Davis",106,18
 Q499851,tt1670345,movie,75656,movie,55786,movie,5d7768b907c4a5001e67bb61,umc.cmc.4t7surc7ix0gcj4pk70ss5l1t,m/now_you_see_me,"Now You See Me",2013,Q525332,"Louis Leterrier",116,50
 Q499918,tt2229499,movie,138697,movie,93088,movie,5d7769a5594b2b001e6a658b,umc.cmc.5u8s4m2e5mphhc093a5ft4pro,m/don_jon,"Don Jon",2013,Q177311,"Joseph Gordon-Levitt",90,80
@@ -1273,6 +1295,7 @@ Q578873,tt0137494,movie,1844,movie,1224,movie,5d77682a2ec6b5001f6ba920,umc.cmc.5
 Q580716,tt0272338,movie,8051,movie,4018,movie,5d9f34f506d220001feb35f8,umc.cmc.74nznklde10c4uou8eirgtp6k,m/punchdrunk_love,"Punch-Drunk Love",2002,Q25132,"Paul Thomas Anderson",95,79
 Q581178,tt0145681,movie,9481,movie,4767,movie,5d776d179ab544002151b59b,umc.cmc.cxysfv94bfc1nbjq8nl3q78t,m/bone_collector,"The Bone Collector",1999,Q543563,"Phillip Noyce",118,29
 Q581859,tt1655420,movie,75900,movie,56002,movie,5d9f35b9b0262f001f6ec4a6,umc.cmc.4oxtur76ccg4mphu2kf13mxsd,m/my_week_with_marilyn,"My Week with Marilyn",2011,Q368493,"Simon Curtis",99,83
+Q581906,tt0105265,movie,293,movie,247,,,umc.cmc.3l3gbb2mtw7hrpx0utejzf9p1,m/river_runs_through_it,"A River Runs Through It",1992,Q59215,"Robert Redford",123,80
 Q581964,tt0405676,movie,1717,movie,1148,movie,5d9f34ecb0262f001f6e865f,umc.cmc.7f1qiolggclyvze63i8h3z6zj,m/all_the_kings_men,"All the King's Men",2006,Q291141,"Steven Zaillian",127,11
 Q583406,tt0409345,movie,10900,movie,6054,movie,5d776835103a2d001f567de7,umc.cmc.4nnb94d71vypvsiee26ytgibr,m/surveillance,Surveillance,2008,Q271162,"Jennifer Lynch",97,55
 Q583869,tt0365686,movie,10851,movie,6008,movie,5d7768354de0ee001fccb937,umc.cmc.78fpgx896592ck2yur3nbb8g2,m/revolver2005,Revolver,2005,Q192990,"Guy Ritchie",115,15
@@ -1487,6 +1510,7 @@ Q700875,tt0445946,movie,1441,movie,967,movie,5d77682954c0f0001f30220b,umc.cmc.29
 Q701892,tt0896872,movie,65760,movie,47602,movie,5d9f35a9b0262f001f6ec1c2,umc.cmc.5i17fbo7z52wxgbalfkvvr2pi,m/the_whistleblower,"The Whistleblower",2010,Q6491988,"Larysa Kondracki",113,75
 Q703931,tt0482572,movie,13150,movie,7701,movie,5d7768392e80df001ebded19,umc.cmc.140aavahe4osnnfvzwp866jnw,m/pride_and_glory,"Pride and Glory",2008,Q3099599,"Gavin O'Connor",125,35
 Q704732,tt0100240,movie,34636,movie,22105,movie,5d77686551dd69001fe0b764,umc.cmc.53dnavq3z1l1cdtgd6wmnh88w,m/the_neverending_story_ii_the_next_chapter_1990,"The NeverEnding Story II: The Next Chapter",1990,Q328660,"George T. Miller",90,14
+Q704912,tt0367082,movie,41508,movie,27474,,,umc.cmc.6pyknwywjtdqbiy0b8bx480ta,m/1153570-fateless,Fateless,2005,Q638941,"Lajos Koltai",140,94
 Q704972,tt0035446,movie,198,movie,161,movie,5d776824e6d55c002040ae6b,umc.cmc.32wvlw96e2hdglvjltx84pvqu,m/to_be_or_not_to_be,"To Be or Not to Be",1942,Q51562,"Ernst Lubitsch",93,96
 Q705343,tt0364343,movie,11099,movie,6234,movie,5d9f34fdb0262f001f6e94b0,umc.cmc.5piygbcvv75bkaduqifsuam1h,m/final_cut,"The Final Cut",2004,Q3351886,"Omar Naim",95,37
 Q705669,tt0294357,movie,9839,movie,5094,movie,5d776833961905001eb938ad,,m/beyond_borders,"Beyond Borders",2003,Q282033,"Martin Campbell",121,14
@@ -1550,6 +1574,7 @@ Q744500,tt0120184,movie,10153,movie,5369,movie,5d776834a091de001f2e7d0c,umc.cmc.
 Q746029,tt0381849,movie,5176,movie,3015,movie,5d77682e2ec6b5001f6bb048,umc.cmc.3kf3ekyubb4apqy71917ywcsk,m/310_to_yuma,"3:10 to Yuma",2007,Q433893,"James Mangold",117,89
 Q746240,tt0314979,tv,71365,show,173344,show,5d9c08cdba6eb9001fbaa78e,,,"Battlestar Galactica",,Q2397306,"Michael Rymer",,
 Q746574,tt0097937,movie,10161,movie,5377,movie,5d9f34f9e4fc29001eb64ec7,umc.cmc.503pmgtthwk980mf2jzofvedc,m/my_left_foot,"My Left Foot",1989,Q55429,"Jim Sheridan",103,98
+Q746590,tt1037218,movie,13793,movie,8193,,,umc.cmc.1lmtvrhim31iyi84vegph8gb,m/flashbacks_of_a_fool,"Flashbacks of a Fool",2008,Q2879901,"Baillie Walsh",110,38
 Q746733,tt0049833,movie,6844,movie,3750,movie,5d7768308718ba001e3139d3,umc.cmc.6xszbw4hhgh0erqej19cknxlf,m/1021015-ten_commandments,"The Ten Commandments",1956,Q72267,"Cecil B. DeMille",220,88
 Q747496,tt1564367,movie,50546,movie,35355,movie,5d77688b07c4a5001e6797b7,umc.cmc.y81br5vtn9djlczus5qkf9nc,m/just_go_with_it_2010,"Just Go with It",2011,Q518868,"Dennis Dugan",116,19
 Q747551,tt0086541,movie,837,movie,680,movie,5d776828961905001eb915fe,umc.cmc.pw30q5g3st9t0rqhg6okikg5,m/videodrome,Videodrome,1983,Q55422,"David Cronenberg",89,79
@@ -1651,6 +1676,7 @@ Q815550,tt1129442,movie,13387,movie,7869,movie,5d77683aeb5d26001f1e1cd1,umc.cmc.
 Q815608,tt1486185,movie,49730,movie,34673,movie,5d77688a431c830024c0eb5c,umc.cmc.56acqmipv9r5s4rdhi9ozupap,m/girl_with_the_red_riding_hood,"Red Riding Hood",2011,Q229598,"Catherine Hardwicke",100,10
 Q815681,tt0838232,movie,15159,movie,9203,movie,5d77683d7e9a3c0020c6e64f,umc.cmc.3lf6rjbamotug0wkzdl2teq1v,m/pink_panther_2,"The Pink Panther 2",2009,Q962552,"Harald Zwart",92,12
 Q816772,tt0368794,movie,3902,movie,2364,movie,5d77682da091de001f2e703a,umc.cmc.5nd1b4gdogmyquvlcc2fawnrf,m/im_not_there_suppositions_on_a_film_concerning_dylan,"I'm Not There",2007,Q446580,"Todd Haynes",135,77
+Q816857,tt1402488,movie,65759,movie,47601,,,,m/happy_feet_two,"Happy Feet Two",2011,Q446960,"George Miller",99,45
 Q817266,tt1282140,movie,37735,movie,24230,movie,5d77686c54c0f0001f3083c5,umc.cmc.3zn6sh20pko1oz8uz00f5poys,m/easy-a,"Easy A",2010,Q2576503,"Will Gluck",92,85
 Q819196,tt0113855,movie,9312,movie,4610,movie,5d776832103a2d001f5670d8,umc.cmc.54l1isir1o1kvtalnwqfprp2e,m/mortal_kombat,"Mortal Kombat",1995,Q380608,"Paul W. S. Anderson",101,45
 Q819972,tt0293662,movie,4108,movie,2427,movie,5d77682d103a2d001f565c58,umc.cmc.3yfk2cm5te1gn83h3089s8vjp,m/transporter,"The Transporter",2002,,,92,54
@@ -1827,6 +1853,7 @@ Q943192,tt0032455,movie,756,movie,599,movie,5d7768282e80df001ebdceb8,umc.cmc.36c
 Q943338,tt0386588,movie,8488,movie,4225,movie,5d77683161141d001fb14bf9,umc.cmc.2wbu119rq00igwfp7mypm7mv8,m/hitch,Hitch,2005,Q527862,"Andy Tennant",118,69
 Q945074,tt0078841,movie,10322,movie,5523,movie,5d7768347228e5001f1de688,umc.cmc.78icze5b4yx96fwfjs0fxjlbo,m/being_there,"Being There",1979,Q358370,"Hal Ashby",130,95
 Q945685,tt0199753,movie,8870,movie,4354,movie,5d776832e6d55c002040c62f,umc.cmc.799gyrax2ux0955kmp0uhv06,m/red_planet,"Red Planet",2000,Q19858148,"Antony Hoffman",106,14
+Q947262,tt0113538,movie,37108,movie,23685,,,umc.cmc.634ew85wfqimidnu02rhsn848,m/kid_in_king_arthurs_court,"A Kid in King Arthur's Court",1995,Q6830697,"Michael Gottlieb",89,5
 Q947737,tt0386140,movie,1656,movie,1101,movie,5d776829999c64001ec2d13e,umc.cmc.3mbhero3p507xqf1h4qh8iapy,m/legend_of_zorro,"The Legend of Zorro",2005,Q282033,"Martin Campbell",129,26
 Q947885,tt1034032,movie,18501,movie,11334,movie,5d776842961905001eb9687d,umc.cmc.hpd2dbolnsug9e3r72vctntc,m/gamer,Gamer,2009,,,95,30
 Q948023,tt0071411,movie,9764,movie,5025,movie,5d9f34f868e4c8001fb5ddde,umc.cmc.31t4nojdshusapc9lcz1e35a6,m/dersu_uzala,"Dersu Uzala",1975,Q8006,"Akira Kurosawa",141,73
@@ -1845,6 +1872,7 @@ Q958257,tt1155056,movie,16538,movie,10177,movie,5d77683f103a2d001f56a25b,umc.cmc
 Q959051,tt1175491,movie,10523,movie,5701,,,umc.cmc.4zknk6jjq8kztg96qzmzpqrdz,m/w_2008,W.,2008,Q179497,"Oliver Stone",129,58
 Q960125,tt0077975,movie,8469,movie,4221,movie,5d9f34f606d220001feb3661,umc.cmc.6xu2tdd0sg4kkc6xeiua1sjf7,m/national_lampoons_animal_house,"Animal House",1978,Q51564,"John Landis",109,90
 Q960246,tt0203082,tv,129151,show,81008,show,60f0095649101d002c98d1e9,,,"Rurouni Kenshin: Trust & Betrayal",1999,,,,
+Q962027,tt0100797,movie,10917,movie,6070,,,,m/1053512-too_young_to_die,"Too Young to Die?",1990,Q7347357,"Robert Markowitz",,
 Q962809,tt0112461,movie,10474,movie,5657,movie,5d9f34fa9dd5f4001e842d0d,umc.cmc.1ijt0ulc2r4ebusipak0hnss4,m/basketball_diaries,"The Basketball Diaries",1995,Q16019723,"Scott Kalvert",90,45
 Q963713,tt0098258,movie,2028,movie,1388,movie,5d77682a4de0ee001fcc95db,umc.cmc.2oxzd2e6creo8okxltwmyjnr1,m/say_anything,"Say Anything...",1989,Q318287,"Cameron Crowe",96,98
 Q964779,tt0252503,movie,11088,movie,6223,movie,5d776d1696b655001fe3f1db,umc.cmc.5h5s96lhmmke5ln0qzsvtozm2,m/1109137-heist,Heist,2001,Q269927,"David Mamet",109,66
@@ -1876,6 +1904,7 @@ Q1024664,tt1106860,movie,27004,movie,16516,,,,m/cah,Cash,2010,Q7609993,"Stephen 
 Q1029212,tt1704573,movie,92591,movie,68391,movie,5d9f35e5e4fc29001eb68966,umc.cmc.1wzlbf2ksdx3zzmv7h1lvngyr,m/bernie_2011,Bernie,2011,Q40035,"Richard Linklater",104,88
 Q1033191,tt0452608,movie,10483,movie,5666,movie,5d776d02594b2b001e6ff20e,umc.cmc.787i04ugaz2ywtpuex19itrd5,m/death_race,"Death Race",2008,Q380608,"Paul W. S. Anderson",105,42
 Q1041839,tt0088794,movie,13667,movie,8091,movie,5d9f3504e4fc29001eb657c5,umc.cmc.7h8ic0w12ssonu04cx6pi0cyk,m/1002213-better_off_dead,"Better Off Dead",1985,Q3474451,"Savage Steve Holland",93,76
+Q1043425,tt0165982,movie,14411,movie,8659,,,umc.cmc.45k50cwwu1g6je7cpj8su0e8c,m/sinbad_legend_of_the_seven_seas,"Sinbad: Legend of the Seven Seas",2003,Q3991363,"Tim Johnson",85,45
 Q1043614,tt0986264,movie,7508,movie,3932,,,,m/like_stars_on_earth,"Taare Zameen Par",2007,,,165,91
 Q1044523,tt0151804,movie,1542,movie,1002,movie,5d776829961905001eb91cf5,umc.cmc.6jlilk9yf1ozlv281w6rnw5pu,m/office_space,"Office Space",1999,Q434585,"Mike Judge",89,80
 Q1046295,tt0247638,movie,9880,movie,5117,movie,5d7768336f4521001ea9bca9,umc.cmc.4goicwaeh2lpo0gn1j7pg90wu,m/princess_diaries,"The Princess Diaries",2001,Q315087,"Garry Marshall",115,49
@@ -2037,6 +2066,7 @@ Q1166150,tt0279331,movie,4911,movie,2850,movie,5d77682e8718ba001e31340e,umc.cmc.
 Q1166244,tt0382628,movie,9009,movie,4467,movie,5d776cc1ad5437001f7c841f,umc.cmc.29a88rwu67lxg8m2vd89ijptb,m/dark_water,"Dark Water",2005,Q458696,"Walter Salles",105,47
 Q1166264,tt0099365,movie,9556,movie,4834,movie,5d7768335af944001f1f9534,umc.cmc.zc3uj6y21xppxg8khpnx0by7,m/darkman,Darkman,1990,Q275402,"Sam Raimi",95,83
 Q1167735,tt0398712,movie,8978,movie,4444,movie,5d776832f54112001f5bd214,umc.cmc.5s1ojkc9mtwks0viby5judubg,m/assault_on_precinct_13,"Assault on Precinct 13",2005,Q535018,"Jean-François Richet",109,60
+Q1169717,tt0325055,movie,28200,movie,17530,,,umc.cmc.5bkjbw2fgxl1coifqep0qkngt,m/1126413,Sylvia,2003,Q520038,"Christine Jeffs",110,
 Q1170071,tt0117331,movie,9826,movie,5082,movie,5d776833961905001eb938af,umc.cmc.2ptx7uub1p6f9b7g8ctbnhh0u,m/1072083-phantom,"The Phantom",1996,Q1368884,"Simon Wincer",96,43
 Q1170710,tt0237572,movie,5955,movie,3403,movie,5d9f34f34441b1001fa0d0c0,umc.cmc.23rhf8og4w1bltffumakjpp1x,m/1104203-pledge,"The Pledge",2001,Q44221,"Sean Penn",119,78
 Q1171320,tt0388980,movie,15487,movie,9415,movie,5d77683ef59e580021899a24,umc.cmc.6qifvbekmtejqqf0jlxk80l3j,m/greatest_game_ever_played,"The Greatest Game Ever Played",2005,Q110374,"Bill Paxton",120,63
@@ -2089,6 +2119,7 @@ Q1213829,tt0138510,movie,6552,movie,3678,movie,5d9f34f44441b1001fa0d141,umc.cmc.
 Q1214594,tt1020773,movie,48303,movie,33438,movie,5d9f3582d5fd3f001ee177e9,umc.cmc.1nqaociqwo0z2uc9ggs8irun5,m/certified_copy,"Certified Copy",2010,Q55210,"Abbas Kiarostami",106,89
 Q1214605,tt0968264,movie,60309,movie,43155,movie,5d9f359badeb7a0021ce2aad,umc.cmc.3ekzqq9xl7cle9kpoq39bjcad,m/the_conspirator,"The Conspirator",2010,Q59215,"Robert Redford",122,56
 Q1214896,tt0265349,movie,2637,movie,1779,movie,5d77682b151a60001f24bb25,umc.cmc.5n269cttihuzosy93e9jyyu3o,m/mothman_prophecies,"The Mothman Prophecies",2002,Q662257,"Mark Pellington",119,52
+Q1214942,tt0323298,movie,59210,movie,42421,,,,m/1132642-mother,"The Mother",2003,Q1354716,"Roger Michell",112,78
 Q1215169,tt0120769,movie,42807,movie,28668,movie,5d776879fb0d55001f5117a1,umc.cmc.16t1x21hpnvlgok1kfa5v0pi9,m/newton_boys,"The Newton Boys",1998,Q40035,"Richard Linklater",117,64
 Q1216770,tt0155267,movie,913,movie,756,movie,5d78b9a781ba41001fb65784,umc.cmc.58vf8sr6i7anowfy72pvteh28,m/thomas_crown_affair_the,"The Thomas Crown Affair",1999,Q270639,"John McTiernan",109,70
 Q1217573,tt0107969,movie,7007,movie,3807,movie,5d7768315af944001f1f8db6,umc.cmc.2lujj3771odzxucjbr926lcn3,m/rising_sun,"Rising Sun",1993,Q176126,"Philip Kaufman",124,33
@@ -2113,6 +2144,7 @@ Q1256231,tt0285531,movie,6171,movie,3517,movie,5d7768302e80df001ebddbb6,umc.cmc.
 Q1256261,tt0087175,movie,24099,movie,14469,movie,5d9f3551d74e6700200217a7,umc.cmc.5rh3r30nd919mnjzpehiyee6s,m/dreamscape,Dreamscape,1984,Q332315,"Joseph Ruben",95,78
 Q1259409,tt1502404,movie,47327,movie,32654,movie,5d77688496b655001fdba788,umc.cmc.43g1397yifojlbksbl362ptai,m/drive-angry,"Drive Angry",2011,Q772880,"Patrick Lussier",104,48
 Q1259466,tt0482606,movie,10665,movie,5838,movie,5d776d057a53e9001e74ecfe,umc.cmc.6p21a88s4fpb0x3j03v8njszy,m/the_strangers,"The Strangers",2008,Q4979979,"Bryan Bertino",85,48
+Q1263003,tt0109783,movie,50463,movie,35285,,,,m/favor,"The Favor",1994,Q521262,"Donald Petrie",90,27
 Q1265087,tt0329028,movie,10152,movie,5368,movie,5d776834a091de001f2e7cfb,umc.cmc.36g8j8nb0uivouqkinjlu4w3w,m/dumb_and_dumberer_when_harry_met_lloyd,"Dumb and Dumberer: When Harry Met Lloyd",2003,Q3541033,"Troy Miller",85,10
 Q1265691,tt1195478,movie,72207,movie,53016,movie,5d7768b323d5a3001f4f030b,umc.cmc.49964thp26mxm7v5i9qwoi1z4,m/the_five_year_engagement,"The Five-Year Engagement",2012,Q2624066,"Nicholas Stoller",124,64
 Q1269703,tt0264616,movie,12149,movie,7065,movie,5d776838103a2d001f56891d,umc.cmc.58jk9okmg6gc5lgjxshqk00m9,m/frailty,Frailty,2001,Q110374,"Bill Paxton",100,74
@@ -2226,11 +2258,13 @@ Q1437261,tt0858479,movie,12890,movie,7558,movie,5d776839999c64001ec301f2,umc.cmc
 Q1440375,tt1157705,movie,16800,movie,10287,movie,5d77683f2ec6b5001f6bd998,,m/roman_polanski_wanted_and_desired,"Roman Polanski: Wanted and Desired",2008,Q19268774,"Marina Zenovich",99,85
 Q1444046,tt0258470,movie,9683,movie,4955,movie,5d9f34f8d74e67002001fdf6,umc.cmc.6z0qwqi8f7odbdtsefvqfzj3s,m/bubble_boy,"Bubble Boy",2001,Q96739386,"Blair Hayes",84,31
 Q1446749,tt0862467,movie,37861,movie,24332,movie,5d77686c594b2b001e68ba56,umc.cmc.xt4xe37dw889mbb9gnwy0r5y,m/valhalla_rising,"Valhalla Rising",2009,Q359397,"Nicolas Winding Refn",89,74
+Q1448253,tt0167203,movie,21311,movie,13058,,,,m/i_dreamed_of_africa,"I Dreamed of Africa",2000,Q538578,"Hugh Hudson",110,10
 Q1454794,tt0097388,movie,10283,movie,5490,movie,5d7768345af944001f1f9c70,umc.cmc.6lffwl4n9vb2loygucs1vnyoz,m/friday_the_13th_part_8_jason_takes_manhattan,"Friday the 13th Part VIII: Jason Takes Manhattan",1989,Q21280751,"Rob Hedden",96,12
 Q1454798,tt0095179,movie,10281,movie,5488,movie,5d776834880197001ec9323d,umc.cmc.nya517es8k6nugt1k9t4fe6i,m/friday_the_13th_part_7_the_new_blood,"Friday the 13th Part VII: The New Blood",1988,Q3052099,"John Carl Buechler",84,32
 Q1454799,tt0091080,movie,10225,movie,5437,movie,5d9f34faadeb7a0021ce06ab,umc.cmc.1eytkxam84d4hyi0x415ifrps,m/friday_the_13th_part_6_jason_lives,"Friday the 13th Part VI: Jason Lives",1986,Q730985,"Tom McLoughlin",84,46
 Q1454815,tt0758746,movie,13207,movie,7753,movie,5d776d0dad5437001f7cbadb,umc.cmc.6wx7vc62759zdk0xczn1cn0b4,m/friday_the_13th_prequel,"Friday the 13th",2009,Q77399,"Marcus Nispel",97,26
 Q1455075,tt0491152,movie,49022,movie,34071,movie,5d776888decfcd001f2ebaf7,umc.cmc.7eclspm3cc2k34qiqaiod7zgv,m/something_borrowed_2011,"Something Borrowed",2011,Q322842,"Luke Greenfield",112,15
+Q1455551,tt0118700,movie,98544,movie,71361,,,,m/1168908,Obsession,1997,Q2078292,"Peter Sehr",114,
 Q1457030,tt0145531,movie,10307,movie,5510,movie,5d7768358a7581001f12d5ad,umc.cmc.7elotdjxibeepwk74e57fb98u,m/stigmata,Stigmata,1999,Q971738,"Rupert Wainwright",103,22
 Q1457036,tt0411646,movie,20328,movie,12476,movie,5d7768456f4521001ea9f436,,,"Michael Moore Hates America",2004,Q6849298,"Mike Wilson",125,75
 Q1459759,tt1714209,movie,79777,movie,59312,movie,5d9f35c39dd5f4001e845ace,umc.cmc.6pf48250rav7019iayyzqbmv8,m/in_the_land_of_blood_and_honey,"In the Land of Blood and Honey",2011,Q13909,"Angelina Jolie",127,57
@@ -2260,6 +2294,7 @@ Q1479291,tt0091557,movie,11120,movie,6253,movie,5d9f34fdb0262f001f6e94ac,umc.cmc
 Q1479655,tt0249478,movie,11456,movie,6544,movie,5d776837880197001ec93bf8,umc.cmc.oeaagoay3iqdiz558phcyl4u,m/domestic_disturbance,"Domestic Disturbance",2001,Q942796,"Harold Becker",89,24
 Q1480747,tt0364045,movie,11081,movie,6216,movie,5d776836103a2d001f567e79,umc.cmc.ruq15k9cnfm35mfj23ijxyak,m/taking_lives,"Taking Lives",2004,Q444583,"D.J. Caruso",99,22
 Q1481540,tt0120879,movie,1808,movie,1194,movie,5d77682a880197001ec913ee,,m/velvet_goldmine,"Velvet Goldmine",1998,Q446580,"Todd Haynes",124,59
+Q1497088,tt0096179,movie,209340,movie,129730,,,,,"A Stoning in Fulham County",1988,Q26168638,"Larry Elikann",95,
 Q1497862,tt1251757,movie,38842,movie,25159,movie,5d9f35736fc551001ef81af8,umc.cmc.2hqie9zwd3eur48w56z7674q1,m/middle_men,"Middle Men",2009,Q2075917,"George Gallo",108,40
 Q1498248,tt1183251,movie,25137,movie,15182,movie,5d77684f33f255001e8528f2,umc.cmc.540juyvxbwiaememzjnbctxr3,m/1212946-beyond_a_reasonable_doubt,"Beyond a Reasonable Doubt",2009,Q458766,"Peter Hyams",102,7
 Q1503878,tt0271668,movie,11078,movie,6215,movie,5d776837e6d55c002040d7b8,umc.cmc.12u0kskj2calqog3e8aa0x375,m/national_security,"National Security",2003,Q518868,"Dennis Dugan",88,11
@@ -2314,6 +2349,7 @@ Q1586077,tt0097647,movie,10495,movie,5678,movie,5d77683585719b001f3a3b47,umc.cmc
 Q1603194,tt0486358,movie,1776,movie,1175,movie,5d77682a880197001ec913fc,umc.cmc.6xk1bm80mne06rt8774li60en,m/jesus_camp,"Jesus Camp",2006,,,84,87
 Q1604555,tt0361309,movie,23601,movie,14214,movie,5d77684c5af944001f1fe3f8,umc.cmc.1hjmuhw1lfhvf9jz57ns5dxj4,m/we_dont_live_here_anymore,"We Don't Live Here Anymore",2004,Q1773566,"John Curran",101,65
 Q1617244,tt1205558,movie,94363,movie,69216,movie,5d7768f596b655001fdc6413,umc.cmc.5se0vk8ul7lfucqwn2nt0z7u0,m/hick_2012,Hick,2011,Q5262580,"Derick Martini",99,5
+Q1620495,tt0161010,movie,27123,movie,16602,,,umc.cmc.6tka6jsej7hq0fz20d2lhxc9t,m/trench,"The Trench",1999,Q722103,"William Boyd",98,
 Q1624927,tt0329717,movie,11375,movie,6471,movie,5d77683654c0f0001f303c25,umc.cmc.2vc02yruaj9ydu0tly2xiiogf,m/hollywood_homicide,"Hollywood Homicide",2003,Q2141036,"Ron Shelton",116,30
 Q1626186,tt0783233,movie,4347,movie,2546,movie,5d77682e8a7581001f12ca93,umc.cmc.6j7p01mocybwa6b7rdlnm99ig,m/atonement,Atonement,2007,Q118817,"Joe Wright",118,83
 Q1627076,tt0116311,movie,12559,movie,7329,movie,5d7768387228e5001f1df2ad,umc.cmc.5w1ivxihyo77c60yi2bdg96lg,m/first_kid,"First Kid",1996,Q1175381,"David M. Evans",97,20
@@ -2387,6 +2423,7 @@ Q1850866,tt0112857,movie,8512,movie,4230,movie,5d7768314de0ee001fccaadd,umc.cmc.
 Q1851378,tt0119695,movie,9416,movie,4705,movie,5d9f34f74441b1001fa0d332,umc.cmc.4g8hp3hazp8g8yd6n94cv0741,m/money_talks,"Money Talks",1997,Q319204,"Brett Ratner",91,16
 Q1856418,tt0048021,movie,934,movie,776,movie,5d77682854f42c001f8c2c46,,m/rififi,Rififi,1955,Q260969,"Jules Dassin",115,92
 Q1862218,tt1477837,movie,52067,movie,36611,movie,5d776890594b2b001e68f80d,umc.cmc.6le9w01rq4gcpyz0v4peq4m2w,m/cedar_rapids_2010,"Cedar Rapids",2011,Q3312946,"Miguel Arteta",86,86
+Q1868118,tt1563725,movie,32389,movie,20807,,,,m/logorama-2010,Logorama,2009,,,16,
 Q1888138,tt0087597,movie,11884,movie,6903,movie,5d77683754f42c001f8c4e68,umc.cmc.1mqqyfb4fymgaumkz24onfl1v,m/the_last_starfighter,"The Last Starfighter",1984,Q936000,"Nick Castle",101,76
 Q1889123,tt1529572,movie,44945,movie,30575,movie,5d77687ff59e58002189e6dd,umc.cmc.1xgcij8uyef5c8y3q8hecau6r,m/trust_2010,Trust,2010,Q188792,"David Schwimmer",106,79
 Q1892083,tt0810988,movie,12994,movie,7571,movie,5d776839999c64001ec301fd,umc.cmc.4l892lskzvi0gpic6w0kxao26,m/the_nines,"The Nines",2007,Q543697,"John August",100,65
@@ -2398,6 +2435,7 @@ Q1962835,tt0102015,movie,4539,movie,2667,movie,5d9f34f1b0262f001f6e8ac3,umc.cmc.
 Q1969617,tt0108598,movie,531,movie,414,movie,5d7768264de0ee001fcc87e4,,m/wallace_and_gromit_the_wrong_trousers,"The Wrong Trousers",1993,Q336206,"Nick Park",30,100
 Q1971748,tt0119731,movie,9415,movie,4704,movie,5d776833e6d55c002040c8cc,umc.cmc.2cq0zjx6z6yx88i4ac0ojqga3,m/murder_at_1600,"Murder at 1600",1997,Q1268483,"Dwight H. Little",102,33
 Q1973919,tt0417349,tv,13643,show,13584,show,5d9c086a6c3e37001ecd71a0,,,"North & South",2004,Q2924979,"Brian Percival",,
+Q1988803,tt0097478,movie,55059,movie,39091,,,,m/1009189-happy_together,"Happy Together",1989,Q507334,"Mel Damski",,
 Q2002073,tt0477139,movie,13198,movie,7744,movie,5d77683a880197001ec94512,umc.cmc.2yl6mfqhlrbyy5zcf7sf1txi1,m/wristcutters_a_love_story,"Wristcutters: A Love Story",2007,Q5584424,"Goran Dukić",88,67
 Q2004314,tt0093185,movie,12476,movie,7250,movie,5d9f3501ca3253001ef27a7f,umc.cmc.xpfv9tdbmpijtg30s9sofdq7,m/hidden,"The Hidden",1987,Q11338,"Jack Sholder",96,73
 Q2005019,tt0096101,movie,11966,movie,6979,movie,5d7768374de0ee001fccc047,umc.cmc.500uixbj8it8z1sza8ool81fc,m/short_circuit_2,"Short Circuit 2",1988,Q2572548,"Kenneth Johnson",106,38
@@ -2413,6 +2451,7 @@ Q2061346,tt1566648,movie,39440,movie,25635,,,umc.cmc.cxmctlw61x1a8cz18dzjo0i,m/w
 Q2061772,tt0423455,movie,111839,movie,78695,movie,5d77695cfb0d55001f523c4d,umc.cmc.hq5bjudiwy908yccfyi3h4ie,m/hemingway_and_gellhorn_2012,"Hemingway & Gellhorn",2012,Q176126,"Philip Kaufman",154,49
 Q2062140,tt0117802,movie,10218,movie,5430,movie,5d9f34fa9dd5f4001e842bba,umc.cmc.28b2y0rm17mmam6btjc9u86to,m/swingers,Swingers,1996,Q349339,"Doug Liman",96,87
 Q2063364,tt1259014,movie,13635,movie,8067,movie,5d77683a4de0ee001fccc85c,umc.cmc.27zbbwgneo6jbteeffh62lzhn,m/instinct_de_mort,Mesrine,2008,Q535018,"Jean-François Richet",113,82
+Q2063639,tt0108107,movie,69787,movie,51024,,,,,"Sharpe's Eagle",1993,Q5609809,"Tom Clegg",,
 Q2067539,tt0115683,movie,9536,movie,4814,movie,5d7768338a7581001f12d20c,umc.cmc.1a94hvwb60jed4v2pxtly9w9n,m/biodome,Bio-Dome,1996,Q6162061,"Jason Bloom",88,4
 Q2075458,tt1687247,movie,66150,movie,47931,movie,5d7768a96f6af7001ee5a1db,,m/life_in_a_day_2011,"Life in a Day",2011,Q1344373,"Kevin Macdonald",94,80
 Q2078287,tt0976246,movie,25927,movie,15721,,,umc.cmc.6a2xfznsnaqq8igosveznqjg0,m/1217459-staten_island,"Staten Island",2009,Q3161013,"James DeMonaco",92,25
@@ -2433,12 +2472,15 @@ Q2268296,tt0112688,movie,20649,movie,12686,movie,5d776845961905001eb975ea,umc.cm
 Q2293972,tt0089791,movie,5683,movie,3210,movie,5d9f34f34441b1001fa0d062,umc.cmc.fwjfv3jg4ad2i9aou3t11deh,m/peewees_big_adventure,"Pee-Wee's Big Adventure",1985,Q56008,"Tim Burton",91,87
 Q2294292,tt0243655,movie,2171,movie,1509,movie,5d77682a999c64001ec2d437,umc.cmc.5hhid196hhp6wlkr7favrp0cn,m/wet_hot_american_summer,"Wet Hot American Summer",2001,Q561133,"David Wain",97,37
 Q2296427,tt0360009,movie,11169,movie,6297,movie,5d7768368718ba001e314e1a,umc.cmc.58my5e7qsxolvb11lz8vvnazo,m/spartan,Spartan,2004,Q269927,"David Mamet",106,65
+Q2297818,tt0119577,movie,4975,movie,2907,,,umc.cmc.4jfuaksglg1u1lwfybet6bcuo,m/love_is_the_devil,"Love Is the Devil: Study for a Portrait of Francis Bacon",1998,Q3182021,"John Maybury",90,70
 Q2300940,tt0318374,movie,10744,movie,5908,movie,5d77683561141d001fb157fe,umc.cmc.r3zgbiynrd83t8bmmacti4yb,m/cooler,"The Cooler",2003,Q772798,"Wayne Kramer",98,77
 Q2309964,tt0964185,movie,11928,movie,6943,movie,5d776837961905001eb94a0f,umc.cmc.2w69hu61vqpa691ce8j270kf3,m/tetro,Tetro,2009,Q56094,"Francis Ford Coppola",127,71
 Q2340655,tt2042568,movie,86829,movie,65314,movie,5d7768e096b655001fdc3cf1,umc.cmc.mtli62q973jfwvrtt48wivt4,m/inside_llewyn_davis_2013,"Inside Llewyn Davis",2013,,,105,92
 Q2350772,tt2334879,movie,117251,movie,81739,movie,5d77696bf617c9002015f44e,umc.cmc.3ewwjovoncym4y7gunpapbz1a,m/white_house_down,"White House Down",2013,Q60100,"Roland Emmerich",131,52
 Q2355815,tt0119215,movie,14817,movie,8969,movie,5d9f3514d5fd3f001ee15840,umc.cmc.6x9zm073xmggzizlyqa402wgj,m/good_burger,"Good Burger",1997,Q913003,"Brian Robbins",103,34
+Q2359049,tt0104567,movie,45145,movie,30752,,,umc.cmc.1n5fx0qksfdzwp9n6n84g4wcj,m/johnny_suede,"Johnny Suede",1991,Q784641,"Tom DiCillo",97,33
 Q2362994,tt0118266,tv,4625,show,4601,show,5d9c086fba6eb9001fba3f16,,,"The New Batman Adventures",,Q534743,"Dan Riba",,
+Q2364033,tt0097136,movie,21799,movie,13333,,,,m/1005090-cutting_class,"Cutting Class",1989,Q3442731,"Rospo Pallenberg",91,25
 Q2369793,tt0108037,movie,11528,movie,6610,movie,5d7768363c3c2a001fbce961,umc.cmc.1q4100ra278icgyp06k07p4r9,m/sandlot,"The Sandlot",1993,Q1175381,"David M. Evans",101,64
 Q2377188,tt0310455,tv,3163,show,3142,show,5d9c08767d06d9001ffd361d,,,"Foyle's War",,,,,
 Q2399930,tt1107816,movie,29159,movie,18298,movie,5d7768588718ba001e319614,,m/giallo,Giallo,2009,Q53011,"Dario Argento",89,
@@ -2486,6 +2528,7 @@ Q2909183,tt2209418,movie,132344,movie,89883,movie,5d77699796b655001fdd3597,umc.c
 Q2915039,tt1584016,movie,42296,movie,28197,movie,5d7768780ea56a001e2a5bfd,umc.cmc.rpxs1zjkh2tc1vive8f2amnc,m/catfish,Catfish,2010,,,86,80
 Q2917907,tt1396557,movie,42918,movie,28765,movie,5d776879eb5d26001f1ecee4,umc.cmc.1j5uwp6v2c58mod6ozdn9jyk3,m/winnebago_man,"Winnebago Man",2009,Q4886512,"Ben Steinbauer",85,90
 Q2937646,tt1535109,movie,109424,movie,77333,movie,5d77692647dd6e001f6c3d1f,umc.cmc.2xxh1lz2120izocwhos2w3k19,m/captain_phillips,"Captain Phillips",2013,Q356275,"Paul Greengrass",134,93
+Q2992335,tt0101268,movie,48448,movie,33569,,,umc.cmc.50v8cm0h7bf1ti2yutep44e2,m/across_the_tracks,"Across the Tracks",1991,Q7417507,"Sandy Tung",97,
 Q2997404,tt0250310,movie,17708,movie,10846,movie,5d776841999c64001ec319ce,umc.cmc.2g4eiosnt9hoc2mi8j7wpklxv,m/corky_romano,"Corky Romano",2001,Q3434224,"Rob Pritts",86,7
 Q3010512,tt2302755,movie,117263,movie,81746,movie,5d77696a7a53e9001e6e5da0,umc.cmc.1n70jeikxr776g939dez5lg7z,m/olympus_has_fallen_2013,"Olympus Has Fallen",2013,Q465139,"Antoine Fuqua",120,50
 Q3014145,tt2292959,movie,109729,movie,77518,,,umc.cmc.31qoy0kskx43p6ks5cqrzlkxw,m/the_canyons_2013,"The Canyons",2013,Q363989,"Paul Schrader",99,21
@@ -2507,6 +2550,7 @@ Q3178485,tt1143896,movie,45022,movie,30642,movie,5d77687f431c830024c0d9b7,umc.cm
 Q3196361,tt0113537,movie,28387,movie,17692,movie,5d7768566f4521001eaa2668,umc.cmc.668b7hg5mhmwc5na62d0cqult,m/1066170-kicking_and_screaming,"Kicking and Screaming",1995,Q459349,"Noah Baumbach",96,57
 Q3198000,tt2101383,movie,86835,movie,65317,movie,5d9f35d6d5fd3f001ee18223,umc.cmc.33flpf6aw8lcjcigeq8pvo645,m/knight_of_cups,"Knight of Cups",2015,Q215478,"Terrence Malick",118,47
 Q3237434,tt1831164,tv,40417,show,40232,show,5d9c081c705e7a001e6d307c,,,"Leyla ile Mecnun",,Q6090129,"Onur Ünlü",,
+Q3241550,tt0426911,movie,892487,movie,716086,,,,m/1168888-archangel,Archangel,2005,Q3183202,"Jon Jones",112,
 Q3258993,tt1091191,movie,193756,movie,120953,movie,5d776a1996b655001fde369c,umc.cmc.35g4fwcxhe4rlnefrivooui61,m/lone_survivor,"Lone Survivor",2013,Q183141,"Peter Berg",121,75
 Q3271467,tt0362526,movie,14198,movie,8505,movie,5d77683b6f4521001ea9d366,umc.cmc.5v825xnnkw0yfugha92ko9q6j,m/10003276-criminal,Criminal,2004,Q20657044,"Gregory Jacobs",87,69
 Q3281221,tt0436078,movie,15258,movie,9257,movie,5d77683c85719b001f3a5274,umc.cmc.5ii85kqlpmd7ionlpflzlqm5j,m/aristocrats,"The Aristocrats",2005,,,89,79
@@ -2519,6 +2563,8 @@ Q3345634,tt0268093,tv,1990,show,1977,show,5d9c07f8e9d5a1001f4d6292,,,Ramayan,198
 Q3365474,tt2345112,movie,209262,movie,129675,movie,5d776a3c96b655001fde7bac,umc.cmc.2wxi33t53aatkwvcmwmn8hg9h,m/parkland,Parkland,2013,Q20894804,"Peter Landesman",94,50
 Q3404003,tt1392214,movie,146233,movie,96797,movie,5d7769b57a53e9001e6ee30a,umc.cmc.7fxny3aaxgkm020pguu5gmxaw,m/prisoners_2013,Prisoners,2013,Q548823,"Denis Villeneuve",153,81
 Q3429263,tt0120611,movie,36647,movie,23293,movie,5d77686954c0f0001f30806a,umc.cmc.34gu5bbztv742211pmsvdhqxq,m/1083484-blade,Blade,1998,Q1346611,"Stephen Norrington",120,57
+Q3462137,tt0120054,movie,124844,movie,85917,,,,m/saintex,Saint-Ex,1996,Q2719916,"Anand Tucker",,
+Q3506706,tt0273021,movie,88726,movie,66394,,,,m/770669557,"Sword of Honour",2001,Q47798597,"Bill Anderson",,
 Q3507578,tt1270277,movie,58884,movie,42159,movie,5d77689df617c90020156120,umc.cmc.48yb10yilunts88uo2tbd1qdl,m/sympathy_for_delicious,"Sympathy for Delicious",2010,Q41422,"Mark Ruffalo",96,33
 Q3512046,tt0369610,movie,135397,movie,91374,movie,5d77699e96b655001fdd42fc,umc.cmc.6x263wzi05ds2h4oen54w8881,m/jurassic_world,"Jurassic World",2015,Q5145625,"Colin Trevorrow",124,71
 Q3513517,tt1704619,movie,69480,movie,50758,movie,5d7768aead5437001f74cedc,umc.cmc.524786on5h1xht7cfx36dzezf,m/tabloid_2010,Tabloid,2010,Q977546,"Errol Morris",,92
@@ -2529,6 +2575,7 @@ Q3521099,tt2278388,movie,120467,movie,83614,movie,5d776974f617c9002015fda3,umc.c
 Q3521475,tt1270296,movie,43754,movie,29509,movie,5d77687c1999bc0020dc6677,,m/10012232-killing_jar,"The Killing Jar",2010,Q106375941,"Mark Young",,0
 Q3523132,tt1976000,movie,192149,movie,120038,movie,5d776a159ab54400214fab4b,umc.cmc.3gfdveufyu55ycqiwacq94p2y,m/the_two_faces_of_january,"The Two Faces of January",2014,Q1371315,"Hossein Amini",96,79
 Q3525931,tt2172934,movie,192102,movie,120007,movie,5d776a15ad5437001f771858,umc.cmc.64rteoedq4lb5n7bo4262pr9s,m/3_days_to_kill,"3 Days to Kill",2014,Q385058,McG,116,28
+Q3548513,tt0116345,movie,174271,movie,110647,,,,,"The Fortunes and Misfortunes of Moll Flanders",1996,Q3017425,"David Attwood",,
 Q3549199,tt1086216,movie,28520,movie,17801,movie,5d9f35679dd5f4001e84455d,umc.cmc.pbppobev2vexfq035t01u3vz,m/uncertainty,Uncertainty,2008,,,,50
 Q3572208,tt0086831,tv,12597,show,12541,show,5d9c08087b5c2e001e65289d,,,"Yes, Prime Minister",,,,,
 Q3575602,tt1837703,movie,162903,movie,105018,movie,5d7769db51dd69001fe1cabd,umc.cmc.6zc4zztns8eno1ragemzhx2ll,m/the_fifth_estate,"The Fifth Estate",2013,Q361336,"Bill Condon",124,35
@@ -2540,6 +2587,7 @@ Q3602431,tt0342275,movie,38868,movie,25177,movie,5d77686e0ea56a001e2a516a,,m/dec
 Q3604746,tt1630029,movie,76600,movie,56580,,,,m/avatar_2,"Avatar: The Way of Water",2022,Q42574,"James Cameron",,
 Q3620669,tt0078788,movie,28,movie,23,movie,5d77682454c0f0001f301a45,umc.cmc.3j20sjgobmsiwiiub94jmt3mq,m/apocalypse_now_redux_2001,"Apocalypse Now Redux",2001,Q56094,"Francis Ford Coppola",203,93
 Q3639019,tt1144539,movie,40819,movie,26888,movie,5d9f3576b0262f001f6eb521,umc.cmc.v14c96sziwlyxnufh4cnyw60,m/best_worst_movie,"Best Worst Movie",2009,Q6834610,"Michael Stephenson",93,94
+Q3797813,tt0166002,movie,213503,movie,131968,,,,,"Two-Fisted Tales",1991,,,86,
 Q3877624,tt1907731,movie,84317,movie,63198,movie,5d7768d247dd6e001f6bf243,umc.cmc.2vpuhkkyf13m5vr9fj5u1k1b7,m/nobody_walks,"Nobody Walks",2012,Q7383775,"Ry Russo-Young",83,41
 Q3922579,tt1381505,movie,35221,movie,22454,movie,5d9f356f4441b1001fa0ee0f,umc.cmc.1xrkm38m8uebhjp9iz5b0rgkf,m/father-of-invention,"Father of Invention",2010,Q61636469,"Trent Cooper",94,0
 Q3925820,tt1535970,movie,63493,movie,45719,movie,5d9f35a3dfd12800208a1e02,umc.cmc.242a64tmpy42o7mvnxv4yqr8l,m/the_ledge,"The Ledge",2011,Q2034576,"Matthew Chapman",101,14
@@ -2553,8 +2601,10 @@ Q4106870,tt1743720,movie,58492,movie,41846,movie,5d77689c7a53e9001e6d4097,umc.cm
 Q4135309,tt1333631,movie,36432,movie,23142,movie,5d9f357006d220001feb56b2,umc.cmc.7f8tobve6tbjdtpsv5s72cj1n,m/1216754-art_and_copy,"Art & Copy",2009,Q5300830,"Doug Pray",,57
 Q4142083,tt1951265,movie,131631,movie,89542,movie,5d7769957a53e9001e6ea3b3,umc.cmc.mpg70roi67930oo7b35cl39v,m/the_hunger_games_mockingjay_part_1,"The Hunger Games: Mockingjay – Part 1",2014,Q561387,"Francis Lawrence",123,69
 Q4160350,tt2382396,movie,157847,movie,102443,movie,5d7769d0ad5437001f768549,umc.cmc.vdp5oxhmiwj3gb6amoob85a5,m/joe_2013,Joe,2013,Q2296698,"David Gordon Green",117,86
+Q4186774,tt0218616,movie,83581,movie,62575,,,umc.cmc.1q5abm8atk1vk7kkxox5akr30,m/some_voices,"Some Voices",2000,Q7518443,"Simon Cellan Jones",101,40
 Q4242745,tt0106233,movie,13064,movie,7620,movie,5d7768397e9a3c0020c6d9af,,m/1046035-airborne,Airborne,1993,Q693016,"Rob Bowman",,21
 Q4254026,tt1872181,movie,102382,movie,73293,movie,5d77690d47dd6e001f6c2871,umc.cmc.66rooktnzrc8dnl6k671mxn5z,m/the_amazing_spider_man_2,"The Amazing Spider-Man 2",2014,Q357998,"Marc Webb",142,52
+Q4258809,tt0177845,movie,67252,movie,48867,,,,m/hotel_splendide,"Hotel Splendide",2000,,,,
 Q4272175,tt1619037,movie,43938,movie,29684,movie,5d77687ceb5d26001f1ed880,,m/nice_guy_johnny_2010,"Nice Guy Johnny",2010,Q314485,"Edward Burns",,
 Q4317432,tt0492499,movie,30365,movie,19244,movie,5d9f3569e4fc29001eb669b5,umc.cmc.44r95c17tc7soa5b6tlixkku7,m/unreasonable_man,"An Unreasonable Man",2006,,,,92
 Q4341553,tt0032910,movie,10895,movie,6049,movie,5d776d10ad5437001f7cc066,umc.cmc.4ixknv3558j9uodmwlui4gfy8,m/pinocchio_1940,Pinocchio,1940,,,88,100
@@ -2570,6 +2620,7 @@ Q4689532,tt2571774,tv,46664,show,46390,show,5d9c086a3c3f87001f34efae,,,Africa,,,
 Q4743904,tt1898069,tv,46639,show,46366,show,5d9c086affd9ef001e994068,umc.cmc.4o7hf0qe1ezickgfxxeppolqr,tv/american_gods,"American Gods",,,,,
 Q4752758,tt1229340,movie,109443,movie,77348,movie,5d776926594b2b001e69e4fa,umc.cmc.6oq5az1o98kn7bw385kyvg8h1,m/anchorman_2_the_legend_continues,"Anchorman 2: The Legend Continues",2013,Q350405,"Adam McKay",119,75
 Q4881030,tt1795096,tv,39176,show,39013,show,5d9c081be264b7001fc3c5e2,,,"Behzat Ç. Bir Ankara Polisiyesi",2010,,,,
+Q4899920,tt1448751,movie,574379,movie,425323,,,,,"Beyond All Boundaries",2009,,,,
 Q4910008,tt1039915,movie,17229,movie,10552,movie,5d776840f59e580021899e38,umc.cmc.3yg5epau9twx3v9192omvon6x,m/bill_maher_the_decider,"Bill Maher: The Decider",2007,,,,
 Q4929145,tt1137439,movie,18046,movie,11032,movie,5d776841103a2d001f56ab6b,umc.cmc.197h3o5urq18tg88u1h3roaer,m/blue_gold_world_water_wars,"Blue Gold: World Water Wars",2008,Q7407251,"Sam Bozzo",,
 Q4957865,tt0118273,tv,63,show,62,show,5d9c07fee9d5a1001f4d64f6,,,"Brass Eye",1997,Q44627566,"Michael Cumming",,
@@ -2581,8 +2632,10 @@ Q5064171,tt1341341,movie,55246,movie,39253,movie,5d7768967e5fa10020bf24ae,umc.cm
 Q5151401,tt2314952,tv,59717,show,59320,show,5d9c07ece98e47001eb0324a,umc.cmc.2if669ccn6x73v892zdsewci8,tv/comedians_in_cars_getting_coffee,"Comedians in Cars Getting Coffee",,,,,
 Q5151727,tt1605782,movie,91356,movie,67771,movie,5d9f35e4d5fd3f001ee182b9,umc.cmc.5e5o4k9bextwopdfuft99gtws,m/comic_con_episode_iv_a_fans_hope,"Comic-Con Episode IV: A Fan's Hope",2011,Q364421,"Morgan Spurlock",,82
 Q5158112,tt1864288,movie,65058,movie,47054,movie,5d7768a7431c830024c11f4a,umc.cmc.1jjmx87vlxb21xzat24f2iedc,m/conan_obrien_cant_stop_2011,"Conan O'Brien Can't Stop",2011,Q3939895,"Rodman Flender",,82
+Q5164779,tt0104007,movie,244743,movie,149023,,,,m/contact-1992,Contact,1992,Q22111405,"Jonathan Darby",,
 Q5167311,tt1694015,movie,47055,movie,32417,movie,5d77688433f255001e858841,umc.cmc.5l95dqh2mj58etfu77pipz96j,m/cool_it,"Cool It",2010,Q7092172,"Ondi Timoner",,52
-Q5174583,tt2395695,tv,58474,show,71041,show,5d9c083b02391c001f584619,,tv/cosmos_a_spacetime_odyssey,"Cosmos: A Spacetime Odyssey",2014,,,557,
+Q5168450,tt0340057,movie,51016,movie,35749,,,umc.cmc.71vc807x4kpmgx23p1i9jgl3c,,Copenhagen,2002,Q5919448,"Howard Davies",,
+Q5174583,tt2395695,tv,58474,show,71041,show,5d9c083b02391c001f584619,umc.cmc.53rl0p0mnts0c4ja25ez8ob9r,tv/cosmos_a_spacetime_odyssey,"Cosmos: A Spacetime Odyssey",2014,,,557,
 Q5215795,tt0867149,movie,15501,movie,9427,movie,5d77683d61141d001fb16701,umc.cmc.3xzisjmh5e4llmvaduhwivk89,m/dane-cook-vicious-circle,"Dane Cook: Vicious Circle",2006,Q3850335,"Marty Callner",,
 Q5255214,tt0954327,movie,108177,movie,76626,movie,5d7769217a53e9001e6e272e,,,"Demetri Martin. Person.",2007,,,,
 Q5439352,tt0289944,movie,37696,movie,24195,movie,5d77686b374a5b001fec51e9,umc.cmc.1bqejyahtswxulqan8ivbiq5,m/fear_x,"Fear X",2003,Q359397,"Nicolas Winding Refn",91,58
@@ -2598,6 +2651,7 @@ Q5887360,tt2015381,movie,118340,movie,82405,movie,5d77696ef617c9002015f700,umc.c
 Q5901134,tt0478970,movie,102899,movie,73582,movie,5d77690f7a53e9001e6e05a8,umc.cmc.5v0c1mtw53zkyw8a0hf8xglwm,m/antman,Ant-Man,2015,Q944763,"Peyton Reed",117,83
 Q5978442,tt1691920,movie,75345,movie,55554,movie,5d7768b87a53e9001e6d75a4,umc.cmc.3754kfqa38p9z1bzp18xljvde,m/i_melt_with_you,"I Melt with You",2011,Q662257,"Mark Pellington",,16
 Q6009632,tt0995851,movie,66113,movie,47895,movie,5d7768a97a53e9001e6d5896,umc.cmc.4ak0x2t3rrogdvw7u07sj8hmm,m/in_her_skin_2009,"In Her Skin",2009,,,107,
+Q6081897,tt0324355,movie,68996,movie,50368,,,,,"Ultimate Fights from the Movies",2002,,,,
 Q6084632,tt2592910,movie,161803,movie,104444,movie,5d9f3911ca3253001ef2beb9,,m/cm101mmxi_fundamentals_2013,"CM101MMXI Fundamentals",2013,,,139,
 Q6144664,tt2096673,movie,150540,movie,98998,movie,5d7769c0594b2b001e6a8a17,umc.cmc.e8rnwzv7klnnt9d5gq9m45nv,m/inside_out_2015,"Inside Out",2015,,,94,98
 Q6411362,tt1112115,movie,15281,movie,9275,movie,5d77683c85719b001f3a527a,umc.cmc.1sl5lqzkkc4jpsvdt6l1mmxvs,m/10008698-king_corn,"King Corn",2007,Q16247545,"Ian Cheney",,96
@@ -2616,6 +2670,7 @@ Q7730725,tt1825157,movie,146015,movie,96683,movie,5d7769b59ab54400214f5a7c,umc.c
 Q7731172,tt0831387,movie,124905,movie,85943,movie,5d77698247dd6e001f6c6609,umc.cmc.2tuh9tjom52ull3zl5tq7vjbi,m/godzilla_2014,Godzilla,2014,Q2451678,"Gareth Edwards",123,76
 Q7732373,tt2244495,tv,56590,show,66602,show,5d9c0824ffd9ef001e98dec1,,,"The Eric André Show",,,,,
 Q7740849,tt1252298,movie,60440,movie,43272,movie,5d7768a007c4a5001e67a821,,m/human_experience,"The Human Experience",2008,Q24705299,"Charles Francis Kinnane",,
+Q7741432,tt0099829,movie,75451,movie,55628,,,,,"The Image",1990,Q3376961,"Peter Werner",,
 Q7750682,tt0295432,movie,14543,movie,8760,movie,5d9f3513e4fc29001eb65a17,,m/matrix_revisited,"The Matrix Revisited",2001,,,,71
 Q7751531,tt2510616,tv,63397,show,68331,show,5d9c0804e98e47001eb057e4,umc.cmc.76kudmvjl2eikp81ni20gxg1m,tv/the-mind-of-a-chef,"The Mind of a Chef",,,,,
 Q7751921,tt0270792,tv,7404,show,7361,,,,,"The Mole",,,,,
@@ -2638,6 +2693,7 @@ Q9149954,tt0963807,movie,15320,movie,9298,movie,5d77683d8a7581001f12e633,,m/i_o_
 Q10307713,tt1951266,movie,131634,movie,89543,movie,5d7769957a53e9001e6ea3b8,umc.cmc.37ja072ck7v26jgowe1soqbdy,m/the_hunger_games_mockingjay_part_2,"The Hunger Games: Mockingjay – Part 2",2015,Q561387,"Francis Lawrence",137,70
 Q10381385,tt0400435,movie,30698,movie,19499,movie,5d77685c33f255001e853da3,,m/mitch_alboms_the_five_people_you_meet_in_heaven,"The Five People You Meet in Heaven",2004,Q3257529,"Lloyd Kramer",,
 Q10384115,tt2209764,movie,157353,movie,102164,movie,5d7769ce594b2b001e6aa798,umc.cmc.4cvk5ondghax6hl5vh9crtrbh,m/transcendence_2014,Transcendence,2014,Q460144,"Wally Pfister",119,19
+Q10859095,tt0318742,movie,79591,movie,59156,,,,,"Ten Minutes Older: The Cello",2002,,,146,
 Q10913761,tt0149314,tv,5664,show,5635,show,5d9c0875170e24001f2ab28b,,,"MTV Unplugged",,,,,
 Q10935299,tt2297757,tv,58957,show,69722,show,5d9c0849ba6eb9001fba0171,,tv/nathan_for_you,"Nathan for You",,Q16207915,"Nathan Fielder",,
 Q11060926,tt0365907,movie,169917,movie,108370,movie,5d7769e796b655001fddd3ef,umc.cmc.2nx6amofq2k53jcgxgoa6fr29,m/a_walk_among_the_tombstones,"A Walk Among the Tombstones",2014,Q557208,"Scott Frank",113,68
@@ -2649,7 +2705,9 @@ Q12101199,tt1800246,movie,225565,movie,138147,movie,5d776a5d7a53e9001e703195,umc
 Q12106680,tt2389182,movie,175291,movie,111264,movie,5d9f39206fc551001ef844cb,,m/cheap_thrills_2013,"Cheap Thrills",2013,Q18921688,"E. L. Katz",85,88
 Q12116433,tt2265398,movie,172533,movie,109681,movie,5d7769ec96b655001fdddef8,umc.cmc.1ybwsswm2tom65g1z3wyfverw,m/drinking_buddies_2013,"Drinking Buddies",2013,Q6212564,"Joe Swanberg",90,84
 Q12124774,tt1247667,movie,27584,movie,16987,movie,5d776855e6d55c0020410ef4,umc.cmc.3mhz0ixzd5mmx3dep8nhcggio,m/10012150-high_school,"High School",2010,Q6258785,"John Stalberg, Jr.",,28
+Q12124934,tt0093231,movie,32227,movie,20716,,,,m/hunk,Hunk,1987,,,,
 Q12125718,tt2382298,movie,250766,movie,152123,movie,5d9f3c20d5fd3f001ee1d6fb,umc.cmc.5e18kidml60vrmx13bdss8058,m/life_itself,"Life Itself",2014,Q2347045,"Steve James",,98
+Q12125867,tt0185442,movie,55143,movie,39163,,,,m/love_and_rage,"Love and Rage",1998,,,,
 Q12127509,tt1790834,movie,84338,movie,63219,movie,5d7768d247dd6e001f6bf242,umc.cmc.78ct9z0rgaaugpyr15pb3jf4z,m/simon_killer,"Simon Killer",2012,,,,77
 Q12128775,tt1151410,movie,71866,movie,52745,movie,5d7768b2431c830024c138c3,umc.cmc.dl6zi6i7j47998nddo8gvyhc,m/tanner-hall,"Tanner Hall",2009,,,96,16
 Q12129690,tt1117394,movie,58261,movie,41675,movie,5d77689cd11dd30020228910,umc.cmc.3y0qikgk3ah3nhlzqdtoagkf,m/transcendent_man,"Transcendent Man",2009,Q4864626,"Barry Ptolemy",,
@@ -2723,7 +2781,7 @@ Q15724865,tt3314218,tv,62335,show,77691,show,5d9c08522192ba001f30cea7,,tv/unreal
 Q15725811,tt1674771,movie,188222,movie,117811,movie,5d776a0c594b2b001e6b1a3c,umc.cmc.6mq9a521gymu6l2zs05k3h5sh,m/entourage,Entourage,2015,Q934691,"Doug Ellin",104,33
 Q15726752,tt2473602,movie,239566,movie,146186,movie,5d776a7c96b655001fdefcec,umc.cmc.6zfh2k94jh6fzsxiok9a8jh6q,m/get_on_up,"Get on Up",2014,Q2639828,"Tate Taylor",139,80
 Q15729024,tt2675914,movie,252822,movie,153443,movie,5d776a9996b655001fdf3771,umc.cmc.3uckqdw0ewhg7bu4dx5x1e1d9,m/in_order_of_disappearance,"In Order of Disappearance",2014,Q1581762,"Hans Petter Moland",117,86
-Q15732802,tt2911666,movie,245891,movie,149640,movie,5d776a8afb0d55001f5490a7,umc.cmc.7bztxfm8c2y0g5888tox6ed3u,m/john_wick,modestissimismentissivanente,2014,Q5236475,"David Leitch",101,86
+Q15732802,tt2911666,movie,245891,movie,149640,movie,5d776a8afb0d55001f5490a7,umc.cmc.7bztxfm8c2y0g5888tox6ed3u,m/john_wick,"John Wick",2014,Q5236475,"David Leitch",101,86
 Q15831601,tt2674806,tv,61746,show,75117,show,5d9c084f08fddd001f29714c,,tv/inside_no_9,"Inside No. 9",,,,,
 Q15915435,tt2937898,movie,241239,movie,147084,movie,5d776a7f96b655001fdf03ef,umc.cmc.33gbjwgilrjn4adpc10bcihf3,m/a_most_violent_year,"A Most Violent Year",2014,Q1676295,"J. C. Chandor",125,90
 Q15931555,tt2802850,tv,60622,show,60203,show,5d9c0838ffd9ef001e98fd77,umc.cmc.2zs573npbhr5fessb48q5zjfe,tv/fargo,Fargo,,,,,
@@ -2792,6 +2850,7 @@ Q17572811,tt0475784,tv,63247,show,99718,show,5d9c0803705e7a001e6cfb54,umc.cmc.30
 Q17713411,tt2637276,movie,214756,movie,132669,movie,5d776a4847dd6e001f6d0d4c,umc.cmc.3eucx5za3k31vu2it0l4xfxer,m/ted_2,"Ted 2",2015,Q188492,"Seth MacFarlane",115,44
 Q17733404,tt3398228,tv,61222,show,60730,show,5d9c084402391c001f5850d1,umc.cmc.56tqn5n418wvqeolgp83kvv21,tv/bojack_horseman,"BoJack Horseman",,,,25,
 Q17985420,tt2699110,tv,61463,show,71022,show,5d9c084a2192ba001f30c144,umc.cmc.7i7fj0cd4huwtfhz1gf52sapu,tv/the_affair,"The Affair",,,,,
+Q17986183,tt3707106,movie,314385,movie,194792,,,umc.cmc.16ns1adkzjtnt4ebs0b4zsv2i,m/771419173,"By the Sea",2015,Q13909,"Angelina Jolie",132,
 Q17986725,tt2401256,tv,66276,show,107202,show,5d9c0818ffd9ef001e98cd31,umc.cmc.76y3mj64ogzgcc03rszbx3dc,tv/the-night-of,"The Night Of",,Q291141,"Steven Zaillian",,
 Q18002795,tt1663202,movie,281957,movie,179334,movie,5d776affad5437001f78f3f2,umc.cmc.qxc9i3vdi3e4ly16rh32raak,m/the_revenant_2015,"The Revenant",2015,Q55215,"Alejandro González Iñárritu",157,78
 Q18067135,tt3682448,movie,296098,movie,193081,movie,5d776b2cad5437001f796262,umc.cmc.1mjaubb8ks22deelszdo2s6v5,m/bridge_of_spies,"Bridge of Spies",2015,Q8877,"Steven Spielberg",142,90
@@ -2967,6 +3026,7 @@ Q21816277,tt5275828,movie,360030,movie,224777,movie,5d776bdc7a53e9001e7321b8,umc
 Q21869840,tt4972582,movie,381288,movie,254263,movie,5d776c17594b2b001e6eac2b,umc.cmc.182hf4jytat0m6avsuynfvqpq,m/split_2017,Split,2016,Q51489,"M. Night Shyamalan",116,77
 Q21925075,tt1878870,movie,376660,movie,237987,movie,5d776c0a7a53e9001e737bdf,umc.cmc.7ks3my82fggd0kjzkn0wkvcpi,m/the_edge_of_seventeen,"The Edge of Seventeen",2016,Q26908000,"Kelly Fremon Craig",102,94
 Q21935651,tt5013056,movie,374720,movie,224641,movie,5d776c0623d5a3001f516b20,umc.cmc.92rtp3fxthxcj84etmv1ymj5,m/dunkirk_2017,Dunkirk,2017,Q25191,"Christopher Nolan",106,92
+Q21950723,tt2305700,movie,123024,movie,84955,,,,,"Happy and Glorious",2012,Q134867,"Danny Boyle",,
 Q21980653,tt5712554,tv,67557,show,108999,show,5d9c0807cb3ffa001f1b1708,umc.cmc.749xwyi3b1dl2b8n9ajnsf4h7,tv/the_grand_tour,"The Grand Tour",,,,,
 Q22000542,tt1677720,movie,333339,movie,214279,movie,5d776b8ead5437001f7a3218,umc.cmc.295lpojxtonf6dqc4za2i97lr,m/ready_player_one,"Ready Player One",2018,Q8877,"Steven Spielberg",140,72
 Q22001133,tt5083738,movie,375262,movie,242258,movie,5d776c07ad5437001f7b161d,umc.cmc.5tda5w0sbd5xedwtnmvuqgpji,m/the_favourite_2018,"The Favourite",2018,Q975410,"Yorgos Lanthimos",120,93
@@ -3077,6 +3137,7 @@ Q25339558,tt5109784,movie,381283,movie,225490,movie,5d776c17594b2b001e6eac2f,umc
 Q25339938,tt2396589,movie,414425,movie,280052,movie,5d9f3d1fe4fc29001eb70677,,m/mudbound,Mudbound,2017,Q5249943,"Dee Rees",120,97
 Q25339940,tt5362988,movie,395834,movie,238651,movie,5d776c3b7a53e9001e73d82d,umc.cmc.4dta3bgx0g3mym4ukzhjc95rp,m/wind_river_2017,"Wind River",2017,Q24335412,"Taylor Sheridan",107,87
 Q25340152,tt5290382,tv,67744,show,116965,show,5d9c08093c3f87001f345b19,umc.cmc.188232hyxv4ow7k4mbbxsu35p,tv/mindhunter,Mindhunter,,Q184903,"David Fincher",53,
+Q25394556,tt2167961,movie,373929,movie,236336,,,,,"Touch of Evil",2011,,,,
 Q25397306,tt0371878,movie,48643,movie,33740,movie,5d77688751dd69001fe0da65,umc.cmc.170it0banm5e1xwfh128yb1te,m/10008680-piccadilly_jim,"Piccadilly Jim",2005,Q6247958,"John McKay",97,
 Q25397814,tt4372390,movie,356500,movie,232808,movie,5d776bd1594b2b001e6e4541,umc.cmc.1jmbv7h4b8xl1d7g4ymdfzwpo,m/detour_2017,Detour,2017,Q966124,"Christopher Smith",97,63
 Q25431158,tt5463162,movie,383498,movie,226108,movie,5d776c1c51dd69001fe37d4f,umc.cmc.5xr37zz6pqqngmu07q4d0mpsm,m/deadpool_2,"Deadpool 2",2018,Q5236475,"David Leitch",119,84
@@ -3090,6 +3151,7 @@ Q26714982,tt5974030,movie,429416,movie,273361,movie,5d776c947a53e9001e746edd,umc
 Q26720603,tt5962210,movie,411741,movie,257298,movie,5d776c67fb0d55001f586f2d,umc.cmc.4sfwcz2582i736cza3bl197y,m/ingrid_goes_west,"Ingrid Goes West",2017,Q27685115,"Matt Spicer",97,86
 Q26812660,tt6021260,tv,69373,show,116443,show,5d9c08147b5c2e001e65399f,umc.cmc.6a9sqezf3bk4poj27w3bq379f,tv/bill_nye_saves_the_world,"Bill Nye Saves The World",,,,,
 Q26812664,tt5348176,tv,73107,show,122709,show,5d9c08da4eefaa001f5e44af,umc.cmc.21slh4r60chyyd4cbwimo9hxk,tv/barry,Barry,,,,,
+Q26823121,tt6024606,movie,417198,movie,261575,,,,,"Voyage of Time: The IMAX Experience",2016,Q215478,"Terrence Malick",40,
 Q26824401,tt1691152,movie,413765,movie,259018,movie,5d776c6d96b655001fe30502,umc.cmc.5xx3uyjm65kxriawugnfdayi4,m/david_lynch_the_art_life,"David Lynch: The Art Life",2016,,,90,91
 Q26863800,tt5966990,movie,414792,movie,259733,movie,5d776c6f594b2b001e6f3a71,umc.cmc.27t7d56451bnpcq277axvcf2o,m/california_typewriter_2017,"California Typewriter",2016,Q5300779,"Doug Nichol",103,100
 Q26869689,tt5929776,movie,410718,movie,256341,movie,5d9f3d0ad5fd3f001ee1fa02,umc.cmc.tdjx58y5b5rm8bpgczmkvj44,m/before_the_flood_2016,"Before the Flood",2016,Q464169,"Fisher Stevens",96,75
@@ -3152,6 +3214,7 @@ Q28443770,tt6048596,tv,39852,show,118193,show,5d9c0853ef619b002047eb36,umc.cmc.5
 Q28465801,tt6322922,movie,432602,movie,282522,movie,5d776c9c7a53e9001e747ff1,umc.cmc.5zbew9a3kd55dwx03d61lv4j1,m/an_inconvenient_sequel_truth_to_power,"An Inconvenient Sequel: Truth to Power",2017,,,,80
 Q28465803,tt6108178,movie,419743,movie,264745,movie,5d776c7c96b655001fe325d2,umc.cmc.4hye7pd02tm4a6zr209lspb8f,m/disobedience_2017,Disobedience,2018,Q4250213,"Sebastián Lelio",114,84
 Q28489891,tt1365519,movie,338970,movie,219436,movie,5d776b9e96b655001fe16fd9,umc.cmc.6ej8o082anw0xrzfaw4k5a2mv,m/tomb_raider_2018,"Tomb Raider",2018,Q1780665,"Roar Uthaug",118,52
+Q28517709,tt5843850,movie,408873,movie,254930,,,umc.cmc.2l3p7mr1723k2g5lf8lfxn7r3,m/kings_2017,Kings,2018,Q20730476,"Deniz Gamze Ergüven",,13
 Q28657013,tt6443346,movie,436270,movie,288212,,,umc.cmc.59e2494tiq7gyhupr30n1mor1,m/black_adam,"Black Adam",2022,Q357183,"Jaume Collet-Serra",,
 Q28739655,tt6333098,tv,70177,show,116004,show,5d9f410c4441b1001fa1aa59,,tv/abstract_the_art_of_design,"Abstract: The Art of Design",,,,,
 Q28753403,tt3155328,movie,397442,movie,240305,movie,5d776c3fad5437001f7b84b3,umc.cmc.5jv6qny0y9s39h3nojtc84jxj,m/win_it_all,"Win It All",2017,Q6212564,"Joe Swanberg",90,85
@@ -3334,6 +3397,7 @@ Q52193118,tt7215388,movie,474753,movie,322428,movie,5d776d78ad5437001f7d6e03,umc
 Q52503753,tt6586318,tv,72787,show,125888,show,5d9c08da4eefaa001f5e4491,umc.cmc.57wer3nh7y63y7ae1r77w3sbu,tv/patrick_melrose,"Patrick Melrose",,Q1291686,"Edward Berger",,
 Q52791458,tt5740866,movie,507256,movie,354490,movie,5d77703b47dd6e001f7086ae,umc.cmc.7k2omuc8qh4ihvl75xd4q55ck,m/whitney_2018,Whitney,2018,Q1344373,"Kevin Macdonald",122,88
 Q52951815,tt6146586,movie,458156,movie,304278,movie,5d776d31fb0d55001f599a2b,umc.cmc.4fio6tgwms256b6lkerx7qm0l,m/john_wick_chapter_3_parabellum,"John Wick: Chapter 3 – Parabellum",2019,Q22277301,"Chad Stahelski",131,89
+Q52957619,tt3419296,movie,381690,movie,235604,,,,,"Sinbad and the Cyclops Island",2003,Q20810054,"Patrick Gilmore",8,
 Q53911403,tt8332922,movie,520763,movie,369071,movie,5d77704631d95e001f19d8a0,umc.cmc.1irvde08ervoxn0p1wy0vj99u,m/a_quiet_place_part_ii,"A Quiet Place: Part II",2020,Q313039,"John Krasinski",97,91
 Q54021143,tt7979580,movie,501929,movie,349011,movie,5d776da351dd69001fe44300,,m/the_mitchells_vs_the_machines,"The Mitchells vs. The Machines",2020,,"Michael Rianda",113,98
 Q54489141,tt6439020,movie,520900,movie,368943,movie,5d77704631d95e001f19d8e5,umc.cmc.4gvfbpkqotzxb7egwwse7tek5,m/the_personal_history_of_david_copperfield,"The Personal History of David Copperfield",2019,Q646929,"Armando Iannucci",119,92
@@ -3627,6 +3691,7 @@ Q65091143,tt9076562,movie,595148,movie,441045,movie,5d7770d5ad5437001f82bf21,umc
 Q65091255,tt9243804,movie,559907,movie,410283,movie,5d777099cfbb56001fb89fc5,umc.cmc.74uvhtwyz3dkvjktg2if9fnez,m/the_green_knight,"The Green Knight",2021,Q16935094,"David Lowery",130,88
 Q65091288,tt2235695,movie,505379,movie,352917,movie,5d77707281ba41001faf09fc,,m/rebecca,Rebecca,2020,Q2895597,"Ben Wheatley",121,39
 Q65091727,tt9203694,movie,559581,movie,409976,movie,5d777099f617c9002019f1f6,,m/stowaway_2021,Stowaway,2021,Q1691554,"Joe Penna",116,77
+Q65100396,tt4973112,movie,357681,movie,222573,,,umc.cmc.4t02h90muyzvu18v9727sy0ee,,"Hitting the Apex",2015,Q6769002,"Mark Neale",,
 Q65118359,tt9608818,movie,583903,movie,432634,movie,5d7770bd7a53e9001e7aa0db,umc.cmc.hqnyr6awwyvupurmbqinllqn,m/our_friend,"Our Friend",2019,Q21882760,"Gabriela Cowperthwaite",124,85
 Q65118624,tt7440726,tv,86430,show,144121,show,5d9c0919ba6eb9001fbafdd6,umc.cmc.1dmuuj2ejlx54k7nr5uvhos4a,tv/your_honor_2020,"Your Honor",,,,,50
 Q65119650,tt9731682,movie,580532,movie,429756,movie,5d7770b66afb3d002062039f,umc.cmc.9mxe5l0fctuazk4rh4uifgzh,m/crisis_2021,Crisis,2021,Q3875977,"Nicholas Jarecki",,67
@@ -4195,6 +4260,7 @@ Q110942892,tt16378482,movie,913850,movie,731692,movie,61b5e91a7eca5f90ad6098c2,,
 Q110982493,tt10354106,movie,603204,movie,448246,,,,,"Stars at Noon",2022,Q238315,"Claire Denis",,
 Q110982644,tt7798604,movie,852096,movie,680752,,,,,"We Have a Ghost",,,,,
 Q110982649,tt17542000,movie,933738,movie,748758,movie,61fd09f75dea469c2b3eb872,,,"Ali Wong: Don Wong",,,,,
+Q111008873,tt1136617,movie,800158,movie,635402,,,,,"The Killer",,Q184903,"David Fincher",,
 Q111018582,tt17076046,movie,928344,movie,744171,,,,,"Weird: The Al Yankovic Story",2022,Q5386038,"Eric Appel",,
 Q111165373,tt14507354,tv,134375,show,188477,show,614c9cf0e59ead342702fbb5,,,"The Endgame",,,,,
 Q111211523,tt15364972,movie,870518,movie,696464,,,,,Sanctuary,,Q19878635,"Zachary Wigon",,
