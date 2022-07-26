@@ -19,7 +19,12 @@ trakt_list_endpoints = {
 }
 
 trakt_people_endpoints = {
+    "/people/alejandro-gonzalez-inarritu/movies",
+    "/people/alex-garland/movies",
+    "/people/alfonso-cuaron/movies",
     "/people/brad-pitt/movies",
+    "/people/cary-joji-fukunaga/movies",
+    "/people/christopher-mcquarrie/movies",
     "/people/daniel-craig/movies",
     "/people/david-fincher/movies",
 }
