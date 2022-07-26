@@ -6,7 +6,6 @@ import sqlite3
 import requests
 
 from db import items_upsert
-from wikidata import fetch_media_items
 
 trakt_list_endpoints = {
     "/users/joshpeek/collection/movies",
