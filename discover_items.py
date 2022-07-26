@@ -158,7 +158,7 @@ def extract_row(item):
             row["tmdb_type"] = "tv"
             row["tmdb_id"] = ids["tmdb"]
 
-    if row["imdb_id"] == None:
+    if row["imdb_id"] is None:
         return None
 
     return row
