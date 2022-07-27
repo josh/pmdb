@@ -157,7 +157,6 @@ wikidata_qid,imdb_id,tmdb_type,tmdb_id,trakt_type,trakt_id,plex_type,plex_id,app
 ,tt13149036,movie,787767,movie,624112,,,,,"Family Squares",,,,,
 ,tt13236304,movie,893931,movie,717236,,,,,"Haim - Man from the Magazine",,,,,
 ,tt1326972,movie,15384,movie,9339,,,,,"Red Cliff Part II",,,,,
-,tt1340094,movie,474592,movie,322297,,,,,"The Crow",,,,,
 ,tt13515268,movie,992386,movie,797401,,,,,"Bleu de Chanel: The Film",,,,,
 ,tt13577160,movie,771301,movie,609078,,,,,"Cinderella: A Comic Relief Pantomime for Christmas",,,,,
 ,tt13675832,tv,115678,show,171669,,,,,"As If",,,,,
@@ -199,6 +198,7 @@ wikidata_qid,imdb_id,tmdb_type,tmdb_id,trakt_type,trakt_id,plex_type,plex_id,app
 ,tt1674194,movie,806005,movie,640230,,,,,"The Rape of Chloe",,,,,
 ,tt1684562,movie,339851,movie,432650,,,,,"The Fall Guy",,,,,
 ,tt16968488,movie,923939,movie,740196,,,,,"The Wonderful Story of Henry Sugar",,,,,
+,tt17003316,tv,157021,show,196719,,,,,"The Last Movie Stars",,,,,
 ,tt1717235,movie,493415,movie,382765,,,,,"Write the Future",,,,,
 ,tt1735215,movie,72189,movie,53001,,,,,"No Time",,,,,
 ,tt1783397,movie,259682,movie,158938,,,,,"The Thief",,,,,
@@ -4842,7 +4842,7 @@ Q97473243,tt7978758,movie,664996,movie,350954,movie,5e2be469f6ceff003de94171,,m/
 Q97474347,tt12580168,tv,105689,show,163663,show,5f04d3076f99a90041000ba8,umc.cmc.3eq51p7nzd8nhahz29i1czc97,tv/indian_matchmaking,"Indian Matchmaking",2020,,,,
 Q97495263,tt12038300,movie,720748,movie,563408,movie,5efe2a602fc252004010dd32,,m/the_speed_cubers,"The Speed Cubers",2020,,,40,100
 Q97628048,tt11904786,tv,95730,show,155448,show,5e162537cd0850003b752689,umc.cmc.4njl70r2jtbic4okhsbq15w2k,tv/love_on_the_spectrum,"Love on the Spectrum",,,,,
-Q97766123,tt12792418,movie,606523,movie,450982,movie,5d7770ebad5437001f82dd23,,m/night_in_paradise,"Night in Paradise",2020,Q7137790,"Park Hoon-jung",131,72
+Q97766123,tt12792418,movie,606523,movie,450982,movie,5d7770ebad5437001f82dd23,,m/night_in_paradise,"Night in Paradise",2020,Q7137790,"Park Hoon-jung",131,70
 Q97925221,tt10584608,tv,90766,show,164715,show,5e1612912b8866001e60b788,umc.cmc.254f4foofx8jwbke5aembvzt1,tv/teenage_bounty_hunters,"Teenage Bounty Hunters",,,,,
 Q97925311,tt12801262,movie,508943,movie,356328,movie,5d777093ad5437001f825d23,umc.cmc.4iiqngoc22wuohtan4eyl0qvq,m/luca_2021,Luca,2021,Q1343730,"Enrico Casarosa",95,91
 Q97940465,tt6085632,movie,447425,movie,311202,,,,,"The Force",2022,Q433893,"James Mangold",,
@@ -4890,7 +4890,7 @@ Q101098258,tt6571548,movie,628534,movie,469316,movie,5e16334861c6140040d67fbc,,m
 Q101112656,tt8999762,movie,549509,movie,399330,,,,,"The Brutalist",2021,Q897115,"Brady Corbet",,
 Q101118878,tt4136456,movie,808023,movie,642299,,,umc.cmc.4g9jgufbbrbfdwhym0ksfzjkh,m/the_virtuoso,"The Virtuoso",,Q16885837,"Nick Stagliano",,19
 Q101244908,tt0213338,tv,30991,show,30857,show,5d9c084b4eefaa001f5d9d7e,,tv/cowboy_bebop,"Cowboy Bebop",,,,,
-Q101245030,tt11454066,movie,672035,movie,505284,movie,5e4d2545aad209003e5c5652,,m/you_cannot_kill_david_arquette,"You Cannot Kill David Arquette",2020,,,,84
+Q101245030,tt11454066,movie,672035,movie,505284,movie,5e4d2545aad209003e5c5652,umc.cmc.2bpxpw2zp5ttiw7l2xb9yp9l1,m/you_cannot_kill_david_arquette,"You Cannot Kill David Arquette",2020,,,,84
 Q101245207,tt11140488,movie,652004,movie,487247,movie,5e1624e3e1470f0041e87a3e,umc.cmc.38tjz3u4j7trbdnuy27tapup,m/the_wolf_of_snow_hollow,"The Wolf of Snow Hollow",2020,Q56529054,"Jim Cummings",83,89
 Q101245209,tt8785030,movie,653710,movie,488446,movie,5e16256253953d003edeeac0,,m/beast_beast,"Beast Beast",,,,,79
 Q101420707,tt9174558,tv,110695,show,168682,show,5f736220c5bb490040cdc2e1,umc.cmc.3nfl7j0dcbjsczlhzc7yw1wbq,tv/dopesick,Dopesick,,,,,
@@ -5233,3 +5233,4 @@ Q112878296,tt12873562,movie,830788,movie,662888,,,,,"The Invitation",,Q30325396,
 Q112915576,tt10802170,tv,204284,show,182868,show,60e0368a3c3bb7002cfca9e8,,tv/the_rehearsal_2022,"The Rehearsal",,Q16207915,"Nathan Fielder",,
 Q113043714,tt3758542,movie,365620,movie,257726,,,,,Ferrari,2023,Q270097,"Michael Mann",,
 Q113133089,tt20201450,movie,975088,movie,783436,,,,m/norm_macdonald_nothing_special,"Norm Macdonald: Nothing Special",,,,,
+Q113300899,tt1340094,movie,474592,movie,322297,,,,,"The Crow",,Q175062,"Rupert Sanders",,
