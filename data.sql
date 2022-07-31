@@ -237,6 +237,7 @@ INSERT INTO items VALUES(NULL,'tt19356262','movie',957304,'movie',769468,NULL,NU
 INSERT INTO items VALUES(NULL,'tt19843600','movie',967598,'movie',777660,NULL,NULL,NULL,NULL,'The Trashers',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt19864802','movie',969492,'movie',779178,NULL,NULL,NULL,NULL,'Land of Bad',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt19895946','tv',203688,'show',196238,NULL,NULL,NULL,NULL,'The Future Of',NULL,NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt19896784','movie',1006312,'movie',808802,NULL,NULL,NULL,NULL,'Light & Magic',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt20192968','movie',993792,'movie',798653,NULL,NULL,NULL,NULL,'Bad Travelling',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt20201994','movie',999927,'movie',803771,NULL,NULL,NULL,NULL,'Mando: Mataia',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt20212786','movie',970947,'movie',780513,NULL,NULL,NULL,NULL,'The Shrouds',NULL,NULL,NULL,NULL,NULL);
@@ -4456,7 +4457,7 @@ INSERT INTO items VALUES('Q58894738','tt8404614','movie',551332,'movie',401048,'
 INSERT INTO items VALUES('Q58928205','tt8544498','movie',529485,'movie',379254,'movie','5d77705981ba41001faee238','umc.cmc.1pkf2wyndg6fzry1eu76geq1b','m/the_way_back_2020','The Way Back',2020,'Q3099599','Gavin O''Connor',108,84);
 INSERT INTO items VALUES('Q59065530','tt7476236','movie',489985,'movie',336920,'movie','5d776d92ad5437001f7d9b90','umc.cmc.6soxq5uqhxwdvju0zv5ul1wyq','m/minding_the_gap','Minding the Gap',2018,'Q61268566','Bing Liu',93,100);
 INSERT INTO items VALUES('Q59065557','tt6910282','movie',477044,'movie',324424,'movie','5d776f36ad5437001f80cb39','umc.cmc.4r8boax21icnafblwf3pcqy1h','m/bergman_island_2021','Bergman Island',2021,'Q3307854','Mia Hansen-Løve',105,83);
-INSERT INTO items VALUES('Q59149852','tt7631058','tv',84773,'show',150900,NULL,NULL,NULL,NULL,'The Lord of the Rings: The Rings of Power',2022,NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q59149852','tt7631058','tv',84773,'show',150900,NULL,NULL,NULL,'tv/the_lord_of_the_rings_the_rings_of_power','The Lord of the Rings: The Rings of Power',2022,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q59238943','tt1838556','movie',553604,'movie',404631,'movie','5d77708ead5437001f825594','umc.cmc.61hy6olssjp5zs73hod1ewxjj','m/honest_thief','Honest Thief',2020,'Q100332989','Mark Williams',99,40);
 INSERT INTO items VALUES('Q59304886','tt3824648','movie',539617,'movie',390854,'movie','5d77707081ba41001faf05c4',NULL,'m/big_time_adolescence','Big Time Adolescence',2019,NULL,NULL,NULL,85);
 INSERT INTO items VALUES('Q59551547','tt8847712','movie',542178,'movie',393126,'movie','5d77707581ba41001faf0df4','umc.cmc.4ejon9ctg6okob53bto8mkim6','m/the_french_dispatch','The French Dispatch',2021,'Q223687','Wes Anderson',108,85);
@@ -4818,7 +4819,7 @@ INSERT INTO items VALUES('Q91226161','tt9663764','movie',572802,'movie',423775,N
 INSERT INTO items VALUES('Q91333870','tt3895150','tv',61663,'show',76764,'show','5d9c084e02391c001f586429',NULL,NULL,'Your Lie in April',NULL,'Q18225576','Kyōhei Ishiguro',NULL,NULL);
 INSERT INTO items VALUES('Q91484984','tt11615290','movie',664416,'movie',498191,'movie','5e23e652417ae2003cf57404','umc.cmc.6d0mrskjsusw2jd2d228p88c2','m/beastie_boys_story','Beastie Boys Story',2020,'Q259913','Spike Jonze',NULL,94);
 INSERT INTO items VALUES('Q92284016','tt11041046','tv',99248,'show',158147,NULL,NULL,NULL,'tv/survive','Survive (TV series)',NULL,NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q92590789','tt1751634','tv',90802,'show',149786,NULL,NULL,NULL,NULL,'The Sandman',NULL,NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q92590789','tt1751634','tv',90802,'show',149786,NULL,NULL,NULL,'tv/the_sandman','The Sandman',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q93438612','tt12117854','movie',696000,'movie',539986,'movie','5eab1fd31e878c004152934d',NULL,'m/jerry_seinfeld_23_hours_to_kill','Jerry Seinfeld: 23 Hours to Kill',2020,'Q727938','Jake Paltrow',NULL,76);
 INSERT INTO items VALUES('Q94244505','tt12221748','movie',699280,'movie',543031,'movie','5eb8f28a422c5200454a493e',NULL,'m/becoming_2020_2','Becoming',2020,NULL,NULL,NULL,93);
 INSERT INTO items VALUES('Q94415239','tt12312250','tv',103506,'show',159265,'show','5ec75ff0f942b10041e942ac',NULL,'tv/jeffrey_epstein_filthy_rich','Jeffrey Epstein: Filthy Rich',2020,NULL,NULL,55,NULL);
