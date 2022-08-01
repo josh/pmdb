@@ -256,6 +256,7 @@ INSERT INTO items VALUES(NULL,'tt21151244','movie',999933,'movie',803893,NULL,NU
 INSERT INTO items VALUES(NULL,'tt21192074','movie',999931,'movie',803762,NULL,NULL,NULL,NULL,'Sakis Rouvas: Theleis i de theleis',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt21192096','movie',999934,'movie',803813,NULL,NULL,NULL,NULL,'Sakis Rouvas: Den ehei sidera i kardia sou',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt21379694','movie',1005342,'movie',807956,NULL,NULL,NULL,NULL,'Running with the Devil: The Wild World of John McAfee',NULL,NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES(NULL,'tt21402698','movie',1006886,'movie',809238,NULL,NULL,NULL,NULL,'The Wager: A Tale of Shipwreck, Mutiny, and Murder',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt2150371','movie',264264,'movie',163021,NULL,NULL,NULL,NULL,'The Crossing',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt2156430','movie',949835,'movie',763232,NULL,NULL,NULL,NULL,'Despina Vandi: Deka Entoles',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES(NULL,'tt2177759','movie',751301,'movie',591214,NULL,NULL,NULL,NULL,'The Fighter 2',NULL,NULL,NULL,NULL,NULL);
@@ -4979,7 +4980,7 @@ INSERT INTO items VALUES('Q104878660','tt11394170','movie',653734,'movie',502395
 INSERT INTO items VALUES('Q104880088','tt8296030','movie',883083,'movie',707166,'movie','5f40d74a03883a0040d1f318','umc.cmc.34f24ebaf1b4ft46wtrbbcfsz','m/you_wont_be_alone','You Won''t Be Alone',2022,'Q26703670','Goran Stolevski',NULL,NULL);
 INSERT INTO items VALUES('Q104880809','tt5875444','tv',95480,'show',155534,'show','5e1622a54f2292003e912fcf',NULL,'tv/slow_horses','Slow Horses',NULL,'Q6135721','James Hawes',45,NULL);
 INSERT INTO items VALUES('Q104881069','tt13648228','movie',776559,'movie',614029,'movie','5fdb45a1dde875002d068c76',NULL,'m/how_it_ends_2021','How It Ends',NULL,NULL,NULL,NULL,66);
-INSERT INTO items VALUES('Q104882631','tt11508438','movie',776545,'movie',613880,'movie','5f409832c63b480040ee1dc9',NULL,'m/one_for_the_road_2021','One for the Road',NULL,'Q31352543','Nattawut Poonpiriya',NULL,66);
+INSERT INTO items VALUES('Q104882631','tt11508438','movie',776545,'movie',613880,'movie','5f409832c63b480040ee1dc9',NULL,'m/one_for_the_road_2021','One for the Road',2021,'Q31352543','Nattawut Poonpiriya',NULL,66);
 INSERT INTO items VALUES('Q104889029','tt14060094','movie',823625,'movie',656669,'movie','603288faa7549e002c2fc9bb','umc.cmc.5dsg33dgny9n6sd1cgb43rq5c','m/blacklight_2022','Blacklight',2022,'Q100332989','Mark Williams',108,NULL);
 INSERT INTO items VALUES('Q104891260','tt1649418','movie',725201,'movie',567523,'movie','5f129fcb5d761b0042da9b93',NULL,'m/the_gray_man_2022','The Gray Man',2022,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q104895986','tt0134933','movie',916402,'movie',733713,NULL,NULL,NULL,NULL,'Q104895986',NULL,NULL,NULL,NULL,NULL);
@@ -5007,7 +5008,7 @@ INSERT INTO items VALUES('Q105438931','tt13087796','movie',795813,'movie',631457
 INSERT INTO items VALUES('Q105459622','tt11639952','tv',97754,'show',157540,'show','5e269a84323f950042e36c3d','umc.cmc.17fo9dhz913tohvvymkmrxtse','tv/young_rock','Young Rock',NULL,NULL,NULL,NULL,90);
 INSERT INTO items VALUES('Q105482844','tt4593060','movie',532639,'movie',384621,NULL,NULL,NULL,'m/pinocchio_2022','Pinocchio',2022,'Q187364','Robert Zemeckis',NULL,NULL);
 INSERT INTO items VALUES('Q105549749','tt11214590','movie',644495,'movie',481862,'movie','5ddba97d0e3496001d14434a','umc.cmc.5zhbapthrtlgvyyq4a17eqxne','m/house_of_gucci','House of Gucci',2021,'Q56005','Ridley Scott',157,63);
-INSERT INTO items VALUES('Q105554572','tt2906216','movie',493529,'movie',340442,NULL,NULL,NULL,'m/dungeons_and_dragons_honor_among_thieves','Dungeons & Dragons: Honor Among Thieves',2023,NULL,NULL,NULL,NULL);
+INSERT INTO items VALUES('Q105554572','tt2906216','movie',493529,'movie',340442,NULL,NULL,'umc.cmc.j0wchqkufsaxqt259729da33','m/dungeons_and_dragons_honor_among_thieves','Dungeons & Dragons: Honor Among Thieves',2023,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q105560027','tt14164234','movie',796849,'movie',632012,'movie','602b26029c5e73002da68355',NULL,'m/ride_or_die','Ride or Die',2021,'Q901470','Ryūichi Hiroki',142,67);
 INSERT INTO items VALUES('Q105560268','tt0995854','movie',501841,'movie',348598,'movie','5d776da3fb0d55001f5a649c','umc.cmc.2o53tavw875q1x7105ucon2xz','m/a_journal_for_jordan','A Journal for Jordan',2021,'Q42101','Denzel Washington',131,NULL);
 INSERT INTO items VALUES('Q105560731','tt11947248','tv',102540,'show',161299,'show','60cb80af2a273a002df5a8c3','umc.cmc.jov1gljmqnux0i15rbqsoyfk','tv/the_shrink_next_door','The Shrink Next Door',NULL,NULL,NULL,NULL,NULL);
