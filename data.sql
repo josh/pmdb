@@ -5119,7 +5119,7 @@ INSERT INTO items VALUES('Q107119206','tt10640346','movie',615777,'movie',459051
 INSERT INTO items VALUES('Q107121453','tt14375756','movie',808703,'movie',642902,'movie','605a3ba5947a14002d5fb818','umc.cmc.1zuqyrfujuh4ratngp3ncm40s','m/lfg','LFG',NULL,NULL,NULL,105,94);
 INSERT INTO items VALUES('Q107132222','tt14164730','tv',131927,'show',187026,'show','6127af9ce1fc79002d4ce9d4','umc.cmc.1zzm4893ldk443lyy9xa5839f','tv/dexter_new_blood','Dexter: New Blood',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107132551','tt14161704','tv',136741,'show',175015,'show','606ee73989b0ad002df701da',NULL,NULL,'Roar',NULL,NULL,NULL,NULL,NULL);
-INSERT INTO items VALUES('Q107176162','tt10954984','movie',762504,'movie',601018,'movie','5e16338fbc1372003ea68ab3','umc.cmc.5wgdm57j2x5ikq82v129dvx9k','m/nope','Nope',2022,'Q3371986','Jordan Peele',135,NULL);
+INSERT INTO items VALUES('Q107176162','tt10954984','movie',762504,'movie',601018,'movie','5e16338fbc1372003ea68ab3','umc.cmc.5wgdm57j2x5ikq82v129dvx9k','m/nope','Nope',2022,'Q3371986','Jordan Peele',130,NULL);
 INSERT INTO items VALUES('Q107176616','tt11324406','tv',122196,'show',176969,NULL,NULL,NULL,'tv/the_staircase_2022','The Staircase',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q107202403','tt14731254','movie',834027,'movie',665921,NULL,NULL,'umc.cmc.pozh1f8s66qulcv10roswf1x','m/val','Val',2021,NULL,NULL,108,93);
 INSERT INTO items VALUES('Q107203482','tt9257258','tv',99652,'show',153556,'show','5d9c0913ffd9ef001e99f405','umc.cmc.1zcw5qvtqaplltm533oeemyd7','tv/kevin_can_f_k_himself','Kevin Can F**k Himself',NULL,NULL,NULL,NULL,NULL);
