@@ -536,7 +536,7 @@ INSERT INTO items VALUES('Q80959','tt1535108','movie',68724,'movie',50137,'movie
 INSERT INTO items VALUES('Q81205','tt1001526','movie',38055,'movie',24505,'movie','5d77686c8718ba001e31baf6','umc.cmc.4u183n7tgl8y9n0o2wk910chx','m/megamind','Megamind',2010,'Q74227','Tom McGrath',96,72);
 INSERT INTO items VALUES('Q81224','tt0454848','movie',388,'movie',308,'movie','5d7768266f4521001ea98bd7','umc.cmc.5vuo0k1iyj1lic6tc9jnfdzm2','m/inside_man','Inside Man',2006,'Q51566','Spike Lee',129,86);
 INSERT INTO items VALUES('Q82352','tt0316465','movie',13920,'movie',8292,'movie','5d77683b54c0f0001f3040b0','umc.cmc.4xiid43wjv1xa49pzb9l1kc3p','m/radio','Radio',2003,'Q1274453','Michael Tollin',109,35);
-INSERT INTO items VALUES('Q82617','tt1710308','tv',31132,'show',30997,'show','5d9c084de264b7001fc4088c',NULL,NULL,'Regular Show',NULL,NULL,NULL,11,NULL);
+INSERT INTO items VALUES('Q82617','tt1710308','tv',31132,'show',30997,'show','5d9c084de264b7001fc4088c',NULL,'tv/regular-show','Regular Show',NULL,NULL,NULL,11,NULL);
 INSERT INTO items VALUES('Q83071','tt1606375','tv',33907,'show',33760,'show','5d9c08634eefaa001f5dbe18',NULL,'tv/downton_abbey-pbs','Downton Abbey',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO items VALUES('Q83495','tt0133093','movie',603,'movie',481,'movie','5d776827880197001ec90904','umc.cmc.af8k9kcq9r1s1qmmdxpq4itn','m/matrix','The Matrix',1999,'Q195719','The Wachowskis',136,88);
 INSERT INTO items VALUES('Q83656','tt0362269','movie',11184,'movie',6310,'movie','5d9f34fdca3253001ef27809','umc.cmc.68a41jp07cnjbldv933689lgu','m/kinsey','Kinsey',2004,'Q361336','Bill Condon',118,90);
